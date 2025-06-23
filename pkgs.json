@@ -1051,7 +1051,7 @@
   },
   {
     "Package": "btrfs-progs",
-    "Version": "6.14",
+    "Version": "6.15",
     "Description": "Utilities for Btrfs filesystem",
     "Homepage": "https://btrfs.readthedocs.io/en/latest/"
   },
@@ -4933,7 +4933,7 @@
   },
   {
     "Package": "kotlin",
-    "Version": "2.1.21",
+    "Version": "2.2.0",
     "Description": "The Kotlin Programming Language",
     "Homepage": "https://kotlinlang.org/"
   },
@@ -7645,7 +7645,7 @@
   },
   {
     "Package": "libp11",
-    "Version": "0.4.15",
+    "Version": "0.4.16",
     "Description": "PKCS#11 wrapper library",
     "Homepage": "https://github.com/OpenSC/libp11"
   },
@@ -15427,7 +15427,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.7.13",
+    "Version": "0.7.14",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15649,9 +15649,9 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.06.15",
+    "Version": "2025.06.18",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
-    "Homepage": "https://vtm.netxs.online/"
+    "Homepage": "https://github.com/directvt/vtm"
   },
   {
     "Package": "vttest",

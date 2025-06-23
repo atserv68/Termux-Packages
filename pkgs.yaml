@@ -699,7 +699,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: btrfs-progs
-  Version: "6.14"
+  Version: "6.15"
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
@@ -3287,7 +3287,7 @@
   Description: Open-source implementation of the APL-like K programming language
   Homepage: https://github.com/kevinlawler/kona
 - Package: kotlin
-  Version: 2.1.21
+  Version: 2.2.0
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5
@@ -5095,7 +5095,7 @@
   Description: GPL reimplementation of libdjb
   Homepage: http://www.fefe.de/libowfat/
 - Package: libp11
-  Version: 0.4.15
+  Version: 0.4.16
   Description: PKCS#11 wrapper library
   Homepage: https://github.com/OpenSC/libp11
 - Package: libp8-platform
@@ -10283,7 +10283,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.7.13
+  Version: 0.7.14
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10431,9 +10431,9 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.06.15
+  Version: 2025.06.18
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
-  Homepage: https://vtm.netxs.online/
+  Homepage: https://github.com/directvt/vtm
 - Package: vttest
   Version: "20241208"
   Description: Program for testing the VT100 compatibility of terminal emulators
