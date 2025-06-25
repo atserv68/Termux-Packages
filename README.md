@@ -518,7 +518,7 @@
 | **frobtads** | 2.0-3 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frogcomposband** | 7.1.salmiak-1 | Open world Angband variant with many additions | https://github.com/sulkasormi/frogcomposband/ |
 | **frotz** | 2.55 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
-| **frp** | 0.62.1 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
+| **frp** | 0.63.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
 | **fselect** | 0.8.12 | Find files with SQL-like queries | https://fselect.rocks/ |
 | **fsmon** | 1.8.8 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
@@ -786,7 +786,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2052 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.22.2054 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **janet** | 1.38.0 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
 | **jbig2dec** | 0.20 | Decoder implementation of the JBIG2 image compression format | https://jbig2dec.com/ |
 | **jbig2dec-static** | 0.20 | Static libraries for jbig2dec | https://jbig2dec.com/ |

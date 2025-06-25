@@ -2031,7 +2031,7 @@
   Description: Interpreter for Infocom and other Z-machine interactive fiction (IF) games
   Homepage: https://gitlab.com/DavidGriffith/frotz
 - Package: frp
-  Version: 0.62.1
+  Version: 0.63.0
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
@@ -3103,7 +3103,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2052
+  Version: 0.22.2054
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: janet
