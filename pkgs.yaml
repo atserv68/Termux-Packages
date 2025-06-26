@@ -7706,6 +7706,14 @@
   Version: 20231122-16.fc40-0
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
+- Package: oxc-language-server
+  Version: 1.2.0
+  Description: Oxc JavaScript linter language server
+  Homepage: https://oxc.rs/
+- Package: oxlint
+  Version: 1.2.0
+  Description: Oxc JavaScript linter
+  Homepage: https://oxc.rs/
 - Package: p11-kit
   Version: 0.25.5
   Description: Provides a way to load and enumerate PKCS#11 modules
@@ -8323,7 +8331,7 @@
   Description: A straightforward binding of libsass for Python
   Homepage: https://github.com/sass/libsass-python
 - Package: python-lxml
-  Version: 5.4.0
+  Version: 6.0.0
   Description: Python binding for the libxml2 and libxslt libraries
   Homepage: https://github.com/lxml/lxml
 - Package: python-msgpack
