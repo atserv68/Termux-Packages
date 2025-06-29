@@ -1911,7 +1911,7 @@
 | **openjpeg-tools** | 2.5.3 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.6.10 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.6.10 | Static libraries for openldap | https://openldap.org |
-| **openlist** | 4.0.4 | A file list program that supports multiple storage | https://oplist.org/ |
+| **openlist** | 4.0.5 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5 | Static libraries for openmpi | https://www.open-mpi.org |
 | **opensc** | 0.26.1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
@@ -2586,7 +2586,7 @@
 | **util-linux-static** | 2.40.2-3 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-3 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.7.16 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.7.17 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.33.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |

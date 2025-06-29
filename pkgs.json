@@ -11407,7 +11407,7 @@
   },
   {
     "Package": "openlist",
-    "Version": "4.0.4",
+    "Version": "4.0.5",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://oplist.org/"
   },
@@ -15457,7 +15457,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.7.16",
+    "Version": "0.7.17",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
