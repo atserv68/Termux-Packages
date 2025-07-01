@@ -6167,7 +6167,7 @@
   Description: Static libraries for libxls
   Homepage: https://github.com/libxls/libxls
 - Package: libxlsxwriter
-  Version: 1.2.2
+  Version: 1.2.3
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
@@ -9003,7 +9003,7 @@
   Description: libsass command line driver
   Homepage: https://github.com/sass/sassc
 - Package: sc-im
-  Version: 0.8.5
+  Version: 0.8.5-1
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
@@ -10495,7 +10495,7 @@
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
-  Version: 1.4.315
+  Version: 1.4.319
   Description: Vulkan Validation Layers
   Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
 - Package: vulkan-volk
