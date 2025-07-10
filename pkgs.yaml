@@ -9319,7 +9319,7 @@
   Description: Swift SDK for Android x86_64
   Homepage: https://swift.org/
 - Package: swiftshader
-  Version: 2025.06.25
+  Version: 2025.06.25-1
   Description: A high-performance CPU-based implementation of the Vulkan graphics API
   Homepage: https://swiftshader.googlesource.com/SwiftShader
 - Package: swig
