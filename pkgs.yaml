@@ -1319,11 +1319,11 @@
   Description: Distributed C/C++ compiler
   Homepage: http://distcc.org/
 - Package: djvulibre
-  Version: 3.5.28-6
+  Version: 3.5.29
   Description: Suite to create, manipulate and view DjVu (déjà vu) documents
   Homepage: https://djvu.sourceforge.net/
 - Package: djvulibre-static
-  Version: 3.5.28-6
+  Version: 3.5.29
   Description: Static libraries for djvulibre
   Homepage: https://djvu.sourceforge.net/
 - Package: dmagnetic
@@ -8715,7 +8715,7 @@
   Description: A custom system info fetching tool
   Homepage: https://github.com/Mangeshrex/rxfetch
 - Package: sabnzbd
-  Version: 4.5.1
+  Version: 4.5.2
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: salty-chat
