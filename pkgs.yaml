@@ -987,7 +987,7 @@
   Description: Command producing a Matrix-style animation
   Homepage: https://github.com/abishekvashok/cmatrix
 - Package: cmocka
-  Version: 1.1.7
+  Version: 1.1.8
   Description: cmocka is an unit testing framework for C
   Homepage: https://cmocka.org/
 - Package: cmus
@@ -2603,7 +2603,7 @@
   Description: GStreamer Ugly Plug-ins
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gst-python
-  Version: 1.26.3
+  Version: 1.26.4
   Description: Python bindings for GStreamer
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gstreamer
@@ -8467,7 +8467,7 @@
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: remind
-  Version: 1:05.04.01
+  Version: 1:05.04.02
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils

@@ -257,7 +257,7 @@
 | **cmark** | 0.31.1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
-| **cmocka** | 1.1.7 | cmocka is an unit testing framework for C | https://cmocka.org/ |
+| **cmocka** | 1.1.8 | cmocka is an unit testing framework for C | https://cmocka.org/ |
 | **cmus** | 2.12.0-4 | Small, fast and powerful console music player | https://cmus.github.io/ |
 | **cmusfm** | 0.5.0 | Last.fm standalone scrobbler for the cmus music player | https://github.com/Arkq/cmusfm |
 | **codecrypt** | 1.8-9 | The post-quantum cryptography tool | http://e-x-a.org/codecrypt/ |
@@ -661,7 +661,7 @@
 | **gst-plugins-base** | 1.26.3 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-good** | 1.26.4 | GStreamer Good Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-ugly** | 1.26.4 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
-| **gst-python** | 1.26.3 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
+| **gst-python** | 1.26.4 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.26.4 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
 | **gtypist** | 2.10.1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.9-2 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
@@ -2127,7 +2127,7 @@
 | **recutils-static** | 1.9 | Static libraries for recutils | https://www.gnu.org/software/recutils/ |
 | **redir** | 3.3-2 | TCP port redirector for UNIX | https://github.com/troglobit/redir |
 | **redis** | 1:7.2.5 | In-memory data structure store used as a database, cache and message broker | https://redis.io/ |
-| **remind** | 1:05.04.01 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
+| **remind** | 1:05.04.02 | Sophisticated calendar and alarm program | https://dianne.skoll.ca/projects/remind/ |
 | **renameutils** | 0.12.0-2 | A set of programs designed to make renaming of files faster and less cumbersome | https://www.nongnu.org/renameutils/ |
 | **reptyr** | 0.10.0 | Tool for reparenting a running program to a new terminal | https://github.com/nelhage/reptyr |
 | **resolv-conf** | 1.3 | Resolver configuration file | https://man7.org/linux/man-pages/man5/resolv.conf.5.html |
