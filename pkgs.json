@@ -1447,7 +1447,7 @@
   },
   {
     "Package": "clvk",
-    "Version": "0.0.20250703.065636",
+    "Version": "0.0.20250714.081613",
     "Description": "Experimental implementation of OpenCL on Vulkan",
     "Homepage": "https://github.com/kpet/clvk"
   },
@@ -2623,7 +2623,7 @@
   },
   {
     "Package": "eza",
-    "Version": "0.22.1",
+    "Version": "0.23.0",
     "Description": "A modern replacement for ls",
     "Homepage": "https://github.com/eza-community/eza"
   },
@@ -2917,7 +2917,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "11.0.3",
+    "Version": "12.0.0",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -4039,13 +4039,13 @@
   },
   {
     "Package": "helix",
-    "Version": "25.07",
+    "Version": "25.07.1",
     "Description": "A post-modern modal text editor written in rust",
     "Homepage": "https://helix-editor.com/"
   },
   {
     "Package": "helix-grammars",
-    "Version": "25.07",
+    "Version": "25.07.1",
     "Description": "Helix grammars",
     "Homepage": "https://helix-editor.com/"
   },
@@ -7309,7 +7309,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.113.1",
+    "Version": "3.114",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -10813,7 +10813,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.113.1",
+    "Version": "3.114",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -13243,7 +13243,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "2.8.5",
+    "Version": "2.9.0",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
