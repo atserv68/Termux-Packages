@@ -836,7 +836,7 @@
 | **leptonica** | 1.85.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.85.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 679-1 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
-| **lesspipe** | 2.18 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
+| **lesspipe** | 2.19 | An input filter for the pager less | http://www-zeuthen.desy.de/~friebel/unix/lesspipe.html |
 | **leveldb** | 1.23-3 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 2.4.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-4 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
@@ -1479,7 +1479,7 @@
 | **libwebp** | 1.6.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebrtc-audio-processing** | 1.3-2 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
 | **libwebsockets** | 4.4.1 | Lightweight C websockets library | https://libwebsockets.org |
-| **libwolfssl** | 5.8.0 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
+| **libwolfssl** | 5.8.2 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
 | **libwren** | 0.4.0-2 | Small, fast, class-based concurrent scripting language libraries | https://wren.io/ |
 | **libwslay** | 1.1.1 | WebSocket library | https://github.com/tatsuhiro-t/wslay |
 | **libwv** | 1.2.9-4 | A library which allows access to Microsoft Word files | https://wvware.sourceforge.net/ |
@@ -2537,8 +2537,8 @@
 | **vapoursynth-static** | 72 | Static libraries for vapoursynth | https://www.vapoursynth.com/ |
 | **vbindiff** | 3.0-beta5-0 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
 | **vcsh** | 2.0.10 | Config manager based on Git | https://github.com/RichiH/vcsh |
-| **vde2** | 2.3.3-3 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
-| **vde2-static** | 2.3.3-3 | Static libraries for vde2 | https://github.com/virtualsquare/vde-2 |
+| **vde2** | 2.3.3-4 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
+| **vde2-static** | 2.3.3-4 | Static libraries for vde2 | https://github.com/virtualsquare/vde-2 |
 | **vegeta** | 12.12.0 | HTTP load testing tool | https://github.com/tsenart/vegeta |
 | **vera** | 1.3.0-7 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
 | **vgmstream** | 2023 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
