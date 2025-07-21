@@ -2204,7 +2204,7 @@
  sdcv  0.5.5-1  StarDict Console Version  http://dushistov.github.io/sdcv/ 
  seafile-client  9.0.14-1  Seafile is a file syncing and sharing software with file encryption and group sharing  https://seafile.com 
  seafile-client-static  9.0.14-1  Static libraries for seafile-client  https://seafile.com 
- seanime  2.9.1  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
+ seanime  2.9.2  Self-hosted anime and manga server for sea rovers.  https://github.com/5rahim/seanime 
  seccure  0.5-7  SECCURE Elliptic Curve Crypto Utility for Reliable Encryption  http://point-at-infinity.org/seccure/ 
  secure-delete  3.1-5  Secure file, disk, swap, memory erasure utilities  http://www.thc.org/ 
  sed  4.9-1  GNU stream editor for filtering/transforming text  https://www.gnu.org/software/sed/ 
@@ -2556,7 +2556,7 @@
  vulkan-loader-generic  1.4.323  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.322  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
  vulkan-utility-libraries  1.4.323  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
- vulkan-validation-layers  1.4.322  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
+ vulkan-validation-layers  1.4.323  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
  vulkan-volk  1.4.304  Meta loader for Vulkan API  https://github.com/zeux/volk 
  w3m  0.5.3.20230121-3  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.3.20230121-3  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
