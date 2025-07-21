@@ -192,8 +192,8 @@
 | **c-script** | 0.14 | Compile and execute C "scripts" in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.20-p20250105-0 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.20-p20250105-0 | Static libraries for c-toxcore | https://tox.chat |
-| **ca-certificates** | 1:2025.05.20 | Common CA certificates | https://curl.se/docs/caextract.html |
-| **ca-certificates-java** | 1:2025.05.20 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
+| **ca-certificates** | 1:2025.07.15 | Common CA certificates | https://curl.se/docs/caextract.html |
+| **ca-certificates-java** | 1:2025.07.15 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabextract** | 1.11 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cadaver** | 0.27 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.10.0 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
@@ -419,7 +419,7 @@
 | **electric-fence** | 2.2.7 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
 | **electric-fence-static** | 2.2.7 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
 | **electrum** | 4.5.8-2 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
-| **elfutils** | 0.192 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
+| **elfutils** | 0.193 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.18.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.18.4 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.19-2 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
@@ -675,9 +675,9 @@
 | **gumbo-parser-static** | 0.10.1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **haproxy** | 3.2.3 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
-| **harfbuzz** | 11.3.1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-icu** | 11.3.1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-utils** | 11.3.1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz** | 11.3.2 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-icu** | 11.3.2 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-utils** | 11.3.2 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **has** | 1.5.0-1 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
@@ -882,8 +882,8 @@
 | **libarchive-static** | 3.8.1 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 21.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.24.0-2 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
-| **libasm** | 0.192 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
-| **libasm-static** | 0.192 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
+| **libasm** | 0.193 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
+| **libasm-static** | 0.193 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libass** | 0.17.4 | A portable library for SSA/ASS subtitles rendering | https://github.com/libass/libass |
 | **libass-static** | 0.17.4 | Static libraries for libass | https://github.com/libass/libass |
 | **libassuan** | 3.0.2 | Library implementing the Assuan IPC protocol used between most newer GnuPG components | https://www.gnupg.org/related_software/libassuan/ |
@@ -964,7 +964,7 @@
 | **libdb-static** | 18.1.40-4 | Static libraries for libdb | https://www.oracle.com/database/berkeley-db |
 | **libde265** | 1.0.16 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
 | **libde265-static** | 1.0.16 | Static libraries for libde265 | https://github.com/strukturag/libde265 |
-| **libdebuginfod** | 0.192 | Library for debuginfod | https://sourceware.org/elfutils/ |
+| **libdebuginfod** | 0.193 | Library for debuginfod | https://sourceware.org/elfutils/ |
 | **libdeflate** | 1.24 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
 | **libdeflate-static** | 1.24 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
 | **libdevil** | 1.8.0-6 | A cross-platform image library utilizing a simple syntax | https://openil.sourceforge.net/ |
@@ -984,14 +984,14 @@
 | **libdvdnav-static** | 6.1.1 | Static libraries for libdvdnav | https://www.videolan.org/developers/libdvdnav.html |
 | **libdvdread** | 6.1.3 | A library that allows easy use of sophisticated DVD navigation features | https://code.videolan.org/videolan/libdvdread |
 | **libdvdread-static** | 6.1.3 | Static libraries for libdvdread | https://code.videolan.org/videolan/libdvdread |
-| **libdw** | 0.192 | Library to read DWARF information | https://sourceware.org/elfutils/ |
-| **libdw-static** | 0.192 | Static library to read DWARF information | https://sourceware.org/elfutils/ |
+| **libdw** | 0.193 | Library to read DWARF information | https://sourceware.org/elfutils/ |
+| **libdw-static** | 0.193 | Static library to read DWARF information | https://sourceware.org/elfutils/ |
 | **libebml** | 1.4.5-1 | Extensible Binary Meta Language library | https://github.com/Matroska-Org/libebml |
 | **libebur128** | 1.2.6-2 | Implements the EBU R 128 standard for loudness normalisation | https://github.com/jiixyj/libebur128 |
 | **libedit** | 20240517-3.1-0 | Library providing line editing, history, and tokenization functions | https://thrysoee.dk/editline/ |
 | **libedit-static** | 20240517-3.1-0 | Static libraries for libedit | https://thrysoee.dk/editline/ |
-| **libelf** | 0.192 | ELF object file access library | https://sourceware.org/elfutils/ |
-| **libelf-static** | 0.192 | Static libraries for libelf | https://sourceware.org/elfutils/ |
+| **libelf** | 0.193 | ELF object file access library | https://sourceware.org/elfutils/ |
+| **libelf-static** | 0.193 | Static libraries for libelf | https://sourceware.org/elfutils/ |
 | **libenet** | 1.3.18 | ENet reliable UDP networking library | http://enet.bespin.org |
 | **libenet-static** | 1.3.18 | Static libraries for libenet | http://enet.bespin.org |
 | **libepoxy** | 1.5.10-2 | Library handling OpenGL function pointer management | https://github.com/anholt/libepoxy |
