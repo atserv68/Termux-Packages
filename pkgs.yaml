@@ -5183,7 +5183,7 @@
   Description: Static libraries for libraw
   Homepage: https://www.libraw.org/
 - Package: libre2
-  Version: 2025-07-17-0
+  Version: 2025-07-22-0
   Description: A regular expression library
   Homepage: https://github.com/google/re2
 - Package: libregexp-assemble-perl
@@ -6355,7 +6355,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.10.0
+  Version: 0.10.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
@@ -10039,7 +10039,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.8.0
+  Version: 0.8.1
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
