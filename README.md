@@ -231,7 +231,7 @@
 | **chafa-static** | 1.16.2 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-2 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-2 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.63.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.63.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0-1 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-1 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.6 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -364,7 +364,7 @@
 | **dotconf-static** | 1.4.1 | Static libraries for dotconf | https://github.com/williamh/dotconf |
 | **dotnet-apphost-pack-8.0** | 8.0.18 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-apphost-pack-9.0** | 9.0.7 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host** | 9.0-1 | A metapackage for .NET Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host** | 9.0-2 | A metapackage for .NET Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host-8.0** | 8.0.18 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host-9.0** | 9.0.7 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-hostfxr-8.0** | 8.0.18 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
@@ -430,8 +430,8 @@
 | **emscripten-llvm** | 4.0.10 | Emscripten-compatible LLVM | https://emscripten.org |
 | **emscripten-tests-third-party** | 4.0.10 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-6 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
-| **enchant** | 2.8.10 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
-| **enchant-static** | 2.8.10 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
+| **enchant** | 2.8.11 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
+| **enchant-static** | 2.8.11 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-12 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.7 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 28.0.2 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
@@ -1783,7 +1783,7 @@
 | **nethack** | 3.6.7 | Dungeon crawl game | http://www.nethack.org/ |
 | **netpbm** | 1:10.73.43-4 | Toolkit for manipulation of graphic images of different formats | https://netpbm.sourceforge.net/ |
 | **netsed** | 1.3-5 | Alter the contents of packets forwarded through network in real time | http://silicone.homelinux.org/projects/netsed/ |
-| **netstandard-targeting-pack-2.1** | 9.0-1 | A metapackage for NETStandard.Library 2.1 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **netstandard-targeting-pack-2.1** | 9.0-2 | A metapackage for NETStandard.Library 2.1 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **netstandard-targeting-pack-2.1-8.0** | 8.0.18 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
 | **netstandard-targeting-pack-2.1-9.0** | 9.0.7 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
@@ -1840,8 +1840,8 @@
 | **openal-soft** | 1.24.3 | Software implementation of the OpenAL API | https://openal-soft.org/ |
 | **openbabel** | 3.1.1-11 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.1.9 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
-| **opencl-clhpp** | 2024.10.24 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
-| **opencl-headers** | 2024.10.24 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
+| **opencl-clhpp** | 2025.07.22 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
+| **opencl-headers** | 2025.07.22 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3 | OpenCL driver from system vendor | https://termux.dev |
 | **opencolorio** | 2.4.2 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **openethereum** | 3.3.5-4 | Lightweight Ethereum Client | https://openethereum.github.io |
@@ -2520,7 +2520,7 @@
 | **util-linux-static** | 2.40.2-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-1 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.40.2-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.8.1 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.8.2 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.30 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.37.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.18 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
