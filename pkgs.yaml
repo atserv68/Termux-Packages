@@ -2091,11 +2091,11 @@
   Description: The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdbm
-  Version: "1.25"
+  Version: "1.26"
   Description: Library of database functions that use extensible hashing
   Homepage: https://www.gnu.org.ua/software/gdbm/
 - Package: gdbm-static
-  Version: "1.25"
+  Version: "1.26"
   Description: Static libraries for gdbm
   Homepage: https://www.gnu.org.ua/software/gdbm/
 - Package: gdbserver
@@ -6367,7 +6367,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.11.1
+  Version: 0.11.2
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2

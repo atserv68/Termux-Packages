@@ -533,8 +533,8 @@
 | **gcal** | 4.1-3 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
 | **gdal** | 3.11.3 | A translator library for raster and vector geospatial data formats | https://gdal.org |
 | **gdb** | 15.2 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
-| **gdbm** | 1.25 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
-| **gdbm-static** | 1.25 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
+| **gdbm** | 1.26 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
+| **gdbm-static** | 1.26 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 15.2 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.42.12-3 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
@@ -1602,7 +1602,7 @@
 | **luvi** | 1:2.15.0 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-1 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.11.1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.11.2 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-5 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.19.1 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2 | The text web browser | http://lynx.browser.org/ |

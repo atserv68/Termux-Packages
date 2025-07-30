@@ -3139,13 +3139,13 @@
   },
   {
     "Package": "gdbm",
-    "Version": "1.25",
+    "Version": "1.26",
     "Description": "Library of database functions that use extensible hashing",
     "Homepage": "https://www.gnu.org.ua/software/gdbm/"
   },
   {
     "Package": "gdbm-static",
-    "Version": "1.25",
+    "Version": "1.26",
     "Description": "Static libraries for gdbm",
     "Homepage": "https://www.gnu.org.ua/software/gdbm/"
   },
@@ -9553,7 +9553,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.11.1",
+    "Version": "0.11.2",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
