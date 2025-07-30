@@ -1686,7 +1686,7 @@
  mlir  20.1.8  A Multi-Level Intermediate Representation for compilers from LLVM  https://clang.llvm.org/ 
  mlocate  0.26-5  Tool to find files anywhere in the filesystem based on their name  https://pagure.io/mlocate 
  moar  1.33.0  A pager designed to just do the right thing without any configuration  https://github.com/walles/moar 
- mold  2.40.2  mold: A Modern Linker  https://github.com/rui314/mold 
+ mold  2.40.3  mold: A Modern Linker  https://github.com/rui314/mold 
  monero  0.18.4.1  A private, secure, untraceable, decentralised digital currency  https://getmonero.org/ 
  mono  6.14.1  Framework Mono  https://gitlab.winehq.org/mono/mono 
  mono-libs  6.14.1  Platform-independent libraries for mono  https://gitlab.winehq.org/mono/mono 
@@ -2514,7 +2514,7 @@
  util-linux-static  2.40.2-4  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-1  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.40.2-4  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.8.3  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.8.4  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.30  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.37.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.18  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
