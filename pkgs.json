@@ -1111,7 +1111,7 @@
   },
   {
     "Package": "caddy",
-    "Version": "2.10.1",
+    "Version": "2.10.2",
     "Description": "Fast, cross-platform HTTP/2 web server",
     "Homepage": "https://caddyserver.com/"
   },
@@ -4561,7 +4561,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.22.2321",
+    "Version": "0.22.2325",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -9577,7 +9577,7 @@
   },
   {
     "Package": "lychee",
-    "Version": "0.19.1",
+    "Version": "0.20.0",
     "Description": "A fast, async, resource-friendly link checker written in Rust",
     "Homepage": "https://github.com/lycheeverse/lychee"
   },
@@ -13315,7 +13315,7 @@
   },
   {
     "Package": "sensible-utils",
-    "Version": "0.0.25",
+    "Version": "0.0.26",
     "Description": "Small utilities used by programs to sensibly select and spawn an appropriate browser, editor, or pager",
     "Homepage": "https://packages.debian.org/sid/sensible-utils"
   },
@@ -14005,7 +14005,7 @@
   },
   {
     "Package": "svt-av1",
-    "Version": "3.1.0",
+    "Version": "3.1.1",
     "Description": "Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)",
     "Homepage": "https://gitlab.com/AOMediaCodec/SVT-AV1"
   },
