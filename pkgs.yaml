@@ -7943,7 +7943,7 @@
   Description: A Satellite Tracking/Orbital Prediction Program
   Homepage: https://www.qsl.net/kd2bd/predict.html
 - Package: privoxy
-  Version: 3.0.34-1
+  Version: 4.0.0
   Description: Non-caching web proxy with advanced filtering capabilities
   Homepage: https://www.privoxy.org
 - Package: procps
