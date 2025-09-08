@@ -721,7 +721,7 @@
   },
   {
     "Package": "bat",
-    "Version": "0.25.0-2",
+    "Version": "0.25.0-3",
     "Description": "A cat(1) clone with wings",
     "Homepage": "https://github.com/sharkdp/bat"
   },
@@ -733,7 +733,7 @@
   },
   {
     "Package": "bc-gh",
-    "Version": "7.0.3",
+    "Version": "7.0.3-1",
     "Description": "Unix dc and POSIX bc with GNU and BSD extensions",
     "Homepage": "https://git.gavinhoward.com/gavin/bc"
   },
@@ -757,7 +757,7 @@
   },
   {
     "Package": "bftpd",
-    "Version": "6.3",
+    "Version": "6.3-1",
     "Description": "Small, easy-to-configure FTP server",
     "Homepage": "https://bftpd.sourceforge.net/"
   },
@@ -841,7 +841,7 @@
   },
   {
     "Package": "bk",
-    "Version": "0.6.0",
+    "Version": "0.6.0-1",
     "Description": "A terminal EPUB reader",
     "Homepage": "https://github.com/aeosynth/bk"
   },
@@ -865,7 +865,7 @@
   },
   {
     "Package": "blink",
-    "Version": "1:1.1.0",
+    "Version": "1:1.1.0-1",
     "Description": "Tiny x86-64 Linux emulator",
     "Homepage": "https://justine.lol/blinkenlights/"
   },
@@ -877,7 +877,7 @@
   },
   {
     "Package": "blogc",
-    "Version": "0.20.1",
+    "Version": "0.20.1-1",
     "Description": "A blog compiler",
     "Homepage": "https://blogc.rgm.io/"
   },
@@ -4033,7 +4033,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.51.0",
+    "Version": "1.52.0",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
@@ -14089,7 +14089,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "2.0.7",
+    "Version": "2.0.8",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
