@@ -522,83 +522,83 @@
  gdbserver  15.2  The gdbserver program  https://www.gnu.org/software/gdb/ 
  gdk-pixbuf  2.44.0  Library for image loading and manipulation  https://wiki.gnome.org/Projects/GdkPixbuf 
  gdrive-downloader  1:1.1  Download a gdrive folder or file easily, shell ftw  https://github.com/Akianonymus/gdrive-downloader 
- gdu  5.31.0  Fast disk usage analyzer with console interface written in Go  https://github.com/dundee/gdu 
- geckodriver  0.36.0  Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers  https://github.com/mozilla/geckodriver 
- gecode  6.2.0  Generic Constraint Development Environment  https://github.com/Gecode/gecode 
- gecode-static  6.2.0  Static libraries for gecode  https://github.com/Gecode/gecode 
- gegl  0.4.62  Data flow based image processing framework  https://gegl.org/ 
- gengetopt  2.23-3  gengetopt is a tool to write command line option parsing code for C programs  https://www.gnu.org/software/gengetopt/ 
+ gdu  5.31.0-1  Fast disk usage analyzer with console interface written in Go  https://github.com/dundee/gdu 
+ geckodriver  0.36.0-1  Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers  https://github.com/mozilla/geckodriver 
+ gecode  6.2.0-1  Generic Constraint Development Environment  https://github.com/Gecode/gecode 
+ gecode-static  6.2.0-1  Static libraries for gecode  https://github.com/Gecode/gecode 
+ gegl  0.4.62-1  Data flow based image processing framework  https://gegl.org/ 
+ gengetopt  2.23-4  gengetopt is a tool to write command line option parsing code for C programs  https://www.gnu.org/software/gengetopt/ 
  geographiclib  2.5.2  Utilities and C++ library to solve some geodesic problems  https://geographiclib.sourceforge.io 
  geoip2-database  20191221-2  GeoLite2 IP geolocation databases compiled by MaxMind  https://dev.maxmind.com/geoip/geoip2/geolite2/ 
  germanium  1.2.3-3  Generate image from source code  https://github.com/matsuyoshi30/germanium 
- getconf  0.6  Utility to print configuration values  https://github.com/termux/getconf 
+ getconf  0.6-1  Utility to print configuration values  https://github.com/termux/getconf 
  geth  1.16.3  Go implementation of the Ethereum protocol  https://geth.ethereum.org/ 
  geth-utils  1.16.3  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
- gettext  0.26  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
- gettext-static  0.26  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
- gexiv2  0.14.6  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
+ gettext  0.26-1  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
+ gettext-static  0.26-1  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
+ gexiv2  0.14.6-1  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
  gflags  2.2.2-9  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.2.2-9  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-1  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
  gh  2.79.0  GitHub’s official command line tool  https://cli.github.com/ 
  ghc  9.12.2  The Glasgow Haskell Compiler  https://www.haskell.org/ghc/ 
  ghostscript  10.05.1  Interpreter for the PostScript language and for PDF  https://www.ghostscript.com/ 
- giflib  5.2.2  A library for reading and writing gif images  https://giflib.sourceforge.net/ 
- giflib-static  5.2.2  Static libraries for giflib  https://giflib.sourceforge.net/ 
- giflib-utils  5.2.2  A set of utilities that comes with giflib package  https://giflib.sourceforge.net/ 
- gifsicle  1.96  Tool for creating, editing, and getting information about GIF images and animations  https://www.lcdf.org/gifsicle/ 
- gifski  1.34.0  GIF encoder based on libimagequant  https://gif.ski/ 
+ giflib  5.2.2-1  A library for reading and writing gif images  https://giflib.sourceforge.net/ 
+ giflib-static  5.2.2-1  Static libraries for giflib  https://giflib.sourceforge.net/ 
+ giflib-utils  5.2.2-1  A set of utilities that comes with giflib package  https://giflib.sourceforge.net/ 
+ gifsicle  1.96-1  Tool for creating, editing, and getting information about GIF images and animations  https://www.lcdf.org/gifsicle/ 
+ gifski  1.34.0-1  GIF encoder based on libimagequant  https://gif.ski/ 
  git  2.51.0  Fast, scalable, distributed revision control system  https://git-scm.com/ 
- git-credential-manager  2.6.1  Cross-platform Git credential storage for multiple hosting providers  https://aka.ms/gcm 
- git-crypt  0.7.0-2  Enables transparent encryption and decryption of files for a git repository  https://www.agwa.name/projects/git-crypt/ 
- git-delta  0.18.2-2  A syntax-highlighter for git and diff output  https://dandavison.github.io/delta/ 
+ git-credential-manager  2.6.1-1  Cross-platform Git credential storage for multiple hosting providers  https://aka.ms/gcm 
+ git-crypt  0.7.0-3  Enables transparent encryption and decryption of files for a git repository  https://www.agwa.name/projects/git-crypt/ 
+ git-delta  0.18.2-3  A syntax-highlighter for git and diff output  https://dandavison.github.io/delta/ 
  git-extras  7.4.0-1  Little git extras.  https://github.com/tj/git-extras 
  git-gitk  2.51.0  Git repository browser  https://git-scm.com/ 
  git-gui  2.51.0  A graphical interface to Git  https://git-scm.com/ 
- git-lfs  3.7.0  Git extension for versioning large files  https://git-lfs.github.com/ 
- git-sizer  1.5.0-4  Compute various size metrics for a Git repository  https://github.com/github/git-sizer 
+ git-lfs  3.7.0-1  Git extension for versioning large files  https://git-lfs.github.com/ 
+ git-sizer  1.5.0-5  Compute various size metrics for a Git repository  https://github.com/github/git-sizer 
  git-svn  2.51.0  Convert between Git and Subversion repositories  https://git-scm.com/ 
  gitea  1.24.5  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
  gitflow-avh  1.12.3-9  Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.  https://github.com/petervanderdoes/gitflow/ 
- gitoxide  0.45.0  Rust implementation of Git  https://github.com/Byron/gitoxide 
+ gitoxide  0.45.0-1  Rust implementation of Git  https://github.com/Byron/gitoxide 
  gitui  0.27.0-2  Blazing fast terminal-ui for git written in rust  https://github.com/extrawurst/gitui 
- gkermit  2.01  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
+ gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.68.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
  gleam  1.12.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.84.4  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.84.4  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
- glib-networking  2.80.1  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
+ glib-networking  2.80.1-1  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
  glibc-repo  1.0  A package repository containing glibc-based programs and libraries  https://github.com/termux/glibc-packages 
  glm  1.0.1  C++ mathematics library for graphics software based on the GLSL specifications  https://glm.g-truc.net/ 
- global  6.6.14  Source code search and browse tools  https://www.gnu.org/software/global/ 
- glow  2.1.1  Render markdown on the CLI, with pizzazz!  https://github.com/charmbracelet/glow 
- glpk  5.0-1  GNU Linear Programming Kit: solve LP, MIP and other problems  https://www.gnu.org/software/glpk/ 
- glpk-static  5.0-1  Static libraries for glpk  https://www.gnu.org/software/glpk/ 
+ global  6.6.14-1  Source code search and browse tools  https://www.gnu.org/software/global/ 
+ glow  2.1.1-1  Render markdown on the CLI, with pizzazz!  https://github.com/charmbracelet/glow 
+ glpk  5.0-2  GNU Linear Programming Kit: solve LP, MIP and other problems  https://www.gnu.org/software/glpk/ 
+ glpk-static  5.0-2  Static libraries for glpk  https://www.gnu.org/software/glpk/ 
  glslang  15.4.0  OpenGL and OpenGL ES shader front end and validator  https://github.com/KhronosGroup/glslang 
- gluelang  0.2.0-1  A programming language that has a strong nature to be a glue of commands  https://ryuichiueda.github.io/GlueLang/ 
- glulxe  0.6.1  Interpreter for the Glulx portable VM for interactive fiction (IF) games  https://www.eblong.com/zarf/glulx/ 
- gmic  3.5.3  Full-featured framework for image processing  https://gmic.eu 
- gmic-gm  3.5.3  Full-featured framework for image processing (GraphicsMagick variant)  https://gmic.eu 
- gn  20250605  Meta-build system that generates build files for Ninja  https://gn.googlesource.com/gn 
- gnucap  20210107-3  The Gnu Circuit Analysis Package  https://www.gnu.org/software/gnucap/gnucap.html 
+ gluelang  0.2.0-2  A programming language that has a strong nature to be a glue of commands  https://ryuichiueda.github.io/GlueLang/ 
+ glulxe  0.6.1-1  Interpreter for the Glulx portable VM for interactive fiction (IF) games  https://www.eblong.com/zarf/glulx/ 
+ gmic  3.5.3-1  Full-featured framework for image processing  https://gmic.eu 
+ gmic-gm  3.5.3-1  Full-featured framework for image processing (GraphicsMagick variant)  https://gmic.eu 
+ gn  20250605-1  Meta-build system that generates build files for Ninja  https://gn.googlesource.com/gn 
+ gnucap  20210107-4  The Gnu Circuit Analysis Package  https://www.gnu.org/software/gnucap/gnucap.html 
  gnuchess  6.3.0  Chess-playing program  https://www.gnu.org/software/chess/ 
- gnucobol  3.2-1  A free/libre COBOL compiler  https://gnucobol.sourceforge.io/ 
- gnucobol-static  3.2-1  Static libraries for gnucobol  https://gnucobol.sourceforge.io/ 
- gnugo  3.8-5  Program that plays the game of Go  https://www.gnu.org/software/gnugo/ 
- gnuit  4.9.5  gnuit - GNU Interactive Tools  https://www.gnu.org/software/gnuit/ 
- gnunet  0.24.3  A framework for secure peer-to-peer networking  https://gnunet.org 
+ gnucobol  3.2-2  A free/libre COBOL compiler  https://gnucobol.sourceforge.io/ 
+ gnucobol-static  3.2-2  Static libraries for gnucobol  https://gnucobol.sourceforge.io/ 
+ gnugo  3.8-6  Program that plays the game of Go  https://www.gnu.org/software/gnugo/ 
+ gnuit  4.9.5-1  gnuit - GNU Interactive Tools  https://www.gnu.org/software/gnuit/ 
+ gnunet  0.24.3-1  A framework for secure peer-to-peer networking  https://gnunet.org 
  gnupg  2.5.11  Implementation of the OpenPGP standard for encrypting and signing data and communication  https://www.gnupg.org/ 
- gnuplot  6.0.3  Command-line driven graphing utility  http://gnuplot.info/ 
- gnurl  7.72.0  Fork of libcurl, which is mostly for GNUnet  https://gnunet.org/en/gnurl.html 
- gnurl-static  7.72.0  Static libraries for gnurl  https://gnunet.org/en/gnurl.html 
- gnushogi  1.4.2-p20141119-0  Program that plays the game of Shogi, also known as Japanese Chess  https://www.gnu.org/software/gnushogi/ 
- gnuski  0.3-6  Open source clone of Skifree, the old Windows game  https://sourceforge.net/projects/gnuski 
+ gnuplot  6.0.3-1  Command-line driven graphing utility  http://gnuplot.info/ 
+ gnurl  7.72.0-1  Fork of libcurl, which is mostly for GNUnet  https://gnunet.org/en/gnurl.html 
+ gnurl-static  7.72.0-1  Static libraries for gnurl  https://gnunet.org/en/gnurl.html 
+ gnushogi  1.4.2-p20141119-1  Program that plays the game of Shogi, also known as Japanese Chess  https://www.gnu.org/software/gnushogi/ 
+ gnuski  0.3-7  Open source clone of Skifree, the old Windows game  https://sourceforge.net/projects/gnuski/ 
  gnustep-make  2.9.3  The GNUstep makefile package  https://www.gnustep.org 
  gnutls  3.8.10  Commandline utilities for interfacing with the gnutls library  https://www.gnutls.org/ 
- go-findimagedupes  2023.01.29-3  Find visually similar or duplicate images  https://gitlab.com/opennota/findimagedupes 
+ go-findimagedupes  2023.01.29-4  Find visually similar or duplicate images  https://gitlab.com/opennota/findimagedupes 
  go-musicfox  4.7.1  A netease music player in terminal.  https://github.com/go-musicfox/go-musicfox 
- goaccess  1.9.4  An open source real-time web log analyzer and interactive viewer  https://goaccess.io 
- gobang  0.1.0-alpha.5-3  A cross-platform TUI database management tool written in Rust  https://github.com/TaKO8Ki/gobang 
+ goaccess  1.9.4-1  An open source real-time web log analyzer and interactive viewer  https://goaccess.io 
+ gobang  0.1.0-alpha.5-4  A cross-platform TUI database management tool written in Rust  https://github.com/TaKO8Ki/gobang 
  gobject-introspection  1.84.0  Uniform machine readable API  https://gi.readthedocs.io/ 
  gogs  0.13.3  A painless self-hosted Git service  https://gogs.io 
  gojq  0.12.17  Pure Go implementation of jq  https://github.com/itchyny/gojq 

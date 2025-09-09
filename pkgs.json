@@ -3145,37 +3145,37 @@
   },
   {
     "Package": "gdu",
-    "Version": "5.31.0",
+    "Version": "5.31.0-1",
     "Description": "Fast disk usage analyzer with console interface written in Go",
     "Homepage": "https://github.com/dundee/gdu"
   },
   {
     "Package": "geckodriver",
-    "Version": "0.36.0",
+    "Version": "0.36.0-1",
     "Description": "Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers",
     "Homepage": "https://github.com/mozilla/geckodriver"
   },
   {
     "Package": "gecode",
-    "Version": "6.2.0",
+    "Version": "6.2.0-1",
     "Description": "Generic Constraint Development Environment",
     "Homepage": "https://github.com/Gecode/gecode"
   },
   {
     "Package": "gecode-static",
-    "Version": "6.2.0",
+    "Version": "6.2.0-1",
     "Description": "Static libraries for gecode",
     "Homepage": "https://github.com/Gecode/gecode"
   },
   {
     "Package": "gegl",
-    "Version": "0.4.62",
+    "Version": "0.4.62-1",
     "Description": "Data flow based image processing framework",
     "Homepage": "https://gegl.org/"
   },
   {
     "Package": "gengetopt",
-    "Version": "2.23-3",
+    "Version": "2.23-4",
     "Description": "gengetopt is a tool to write command line option parsing code for C programs",
     "Homepage": "https://www.gnu.org/software/gengetopt/"
   },
@@ -3199,7 +3199,7 @@
   },
   {
     "Package": "getconf",
-    "Version": "0.6",
+    "Version": "0.6-1",
     "Description": "Utility to print configuration values",
     "Homepage": "https://github.com/termux/getconf"
   },
@@ -3217,19 +3217,19 @@
   },
   {
     "Package": "gettext",
-    "Version": "0.26",
+    "Version": "0.26-1",
     "Description": "GNU Internationalization utilities",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
   {
     "Package": "gettext-static",
-    "Version": "0.26",
+    "Version": "0.26-1",
     "Description": "Static libraries for gettext",
     "Homepage": "https://www.gnu.org/software/gettext/"
   },
   {
     "Package": "gexiv2",
-    "Version": "0.14.6",
+    "Version": "0.14.6-1",
     "Description": "A GObject-based Exiv2 wrapper",
     "Homepage": "https://wiki.gnome.org/Projects/gexiv2"
   },
@@ -3271,31 +3271,31 @@
   },
   {
     "Package": "giflib",
-    "Version": "5.2.2",
+    "Version": "5.2.2-1",
     "Description": "A library for reading and writing gif images",
     "Homepage": "https://giflib.sourceforge.net/"
   },
   {
     "Package": "giflib-static",
-    "Version": "5.2.2",
+    "Version": "5.2.2-1",
     "Description": "Static libraries for giflib",
     "Homepage": "https://giflib.sourceforge.net/"
   },
   {
     "Package": "giflib-utils",
-    "Version": "5.2.2",
+    "Version": "5.2.2-1",
     "Description": "A set of utilities that comes with giflib package",
     "Homepage": "https://giflib.sourceforge.net/"
   },
   {
     "Package": "gifsicle",
-    "Version": "1.96",
+    "Version": "1.96-1",
     "Description": "Tool for creating, editing, and getting information about GIF images and animations",
     "Homepage": "https://www.lcdf.org/gifsicle/"
   },
   {
     "Package": "gifski",
-    "Version": "1.34.0",
+    "Version": "1.34.0-1",
     "Description": "GIF encoder based on libimagequant",
     "Homepage": "https://gif.ski/"
   },
@@ -3307,19 +3307,19 @@
   },
   {
     "Package": "git-credential-manager",
-    "Version": "2.6.1",
+    "Version": "2.6.1-1",
     "Description": "Cross-platform Git credential storage for multiple hosting providers",
     "Homepage": "https://aka.ms/gcm"
   },
   {
     "Package": "git-crypt",
-    "Version": "0.7.0-2",
+    "Version": "0.7.0-3",
     "Description": "Enables transparent encryption and decryption of files for a git repository",
     "Homepage": "https://www.agwa.name/projects/git-crypt/"
   },
   {
     "Package": "git-delta",
-    "Version": "0.18.2-2",
+    "Version": "0.18.2-3",
     "Description": "A syntax-highlighter for git and diff output",
     "Homepage": "https://dandavison.github.io/delta/"
   },
@@ -3343,13 +3343,13 @@
   },
   {
     "Package": "git-lfs",
-    "Version": "3.7.0",
+    "Version": "3.7.0-1",
     "Description": "Git extension for versioning large files",
     "Homepage": "https://git-lfs.github.com/"
   },
   {
     "Package": "git-sizer",
-    "Version": "1.5.0-4",
+    "Version": "1.5.0-5",
     "Description": "Compute various size metrics for a Git repository",
     "Homepage": "https://github.com/github/git-sizer"
   },
@@ -3373,7 +3373,7 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.45.0",
+    "Version": "0.45.0-1",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/Byron/gitoxide"
   },
@@ -3385,7 +3385,7 @@
   },
   {
     "Package": "gkermit",
-    "Version": "2.01",
+    "Version": "2.01-1",
     "Description": "Simple, Portable, Free File Transfer Software for UNIX",
     "Homepage": "http://www.columbia.edu/kermit/gkermit.html"
   },
@@ -3415,7 +3415,7 @@
   },
   {
     "Package": "glib-networking",
-    "Version": "2.80.1",
+    "Version": "2.80.1-1",
     "Description": "Network-related giomodules for glib",
     "Homepage": "https://gitlab.gnome.org/GNOME/glib-networking"
   },
@@ -3433,25 +3433,25 @@
   },
   {
     "Package": "global",
-    "Version": "6.6.14",
+    "Version": "6.6.14-1",
     "Description": "Source code search and browse tools",
     "Homepage": "https://www.gnu.org/software/global/"
   },
   {
     "Package": "glow",
-    "Version": "2.1.1",
+    "Version": "2.1.1-1",
     "Description": "Render markdown on the CLI, with pizzazz!",
     "Homepage": "https://github.com/charmbracelet/glow"
   },
   {
     "Package": "glpk",
-    "Version": "5.0-1",
+    "Version": "5.0-2",
     "Description": "GNU Linear Programming Kit: solve LP, MIP and other problems",
     "Homepage": "https://www.gnu.org/software/glpk/"
   },
   {
     "Package": "glpk-static",
-    "Version": "5.0-1",
+    "Version": "5.0-2",
     "Description": "Static libraries for glpk",
     "Homepage": "https://www.gnu.org/software/glpk/"
   },
@@ -3463,37 +3463,37 @@
   },
   {
     "Package": "gluelang",
-    "Version": "0.2.0-1",
+    "Version": "0.2.0-2",
     "Description": "A programming language that has a strong nature to be a glue of commands",
     "Homepage": "https://ryuichiueda.github.io/GlueLang/"
   },
   {
     "Package": "glulxe",
-    "Version": "0.6.1",
+    "Version": "0.6.1-1",
     "Description": "Interpreter for the Glulx portable VM for interactive fiction (IF) games",
     "Homepage": "https://www.eblong.com/zarf/glulx/"
   },
   {
     "Package": "gmic",
-    "Version": "3.5.3",
+    "Version": "3.5.3-1",
     "Description": "Full-featured framework for image processing",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gmic-gm",
-    "Version": "3.5.3",
+    "Version": "3.5.3-1",
     "Description": "Full-featured framework for image processing (GraphicsMagick variant)",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gn",
-    "Version": "20250605",
+    "Version": "20250605-1",
     "Description": "Meta-build system that generates build files for Ninja",
     "Homepage": "https://gn.googlesource.com/gn"
   },
   {
     "Package": "gnucap",
-    "Version": "20210107-3",
+    "Version": "20210107-4",
     "Description": "The Gnu Circuit Analysis Package",
     "Homepage": "https://www.gnu.org/software/gnucap/gnucap.html"
   },
@@ -3505,31 +3505,31 @@
   },
   {
     "Package": "gnucobol",
-    "Version": "3.2-1",
+    "Version": "3.2-2",
     "Description": "A free/libre COBOL compiler",
     "Homepage": "https://gnucobol.sourceforge.io/"
   },
   {
     "Package": "gnucobol-static",
-    "Version": "3.2-1",
+    "Version": "3.2-2",
     "Description": "Static libraries for gnucobol",
     "Homepage": "https://gnucobol.sourceforge.io/"
   },
   {
     "Package": "gnugo",
-    "Version": "3.8-5",
+    "Version": "3.8-6",
     "Description": "Program that plays the game of Go",
     "Homepage": "https://www.gnu.org/software/gnugo/"
   },
   {
     "Package": "gnuit",
-    "Version": "4.9.5",
+    "Version": "4.9.5-1",
     "Description": "gnuit - GNU Interactive Tools",
     "Homepage": "https://www.gnu.org/software/gnuit/"
   },
   {
     "Package": "gnunet",
-    "Version": "0.24.3",
+    "Version": "0.24.3-1",
     "Description": "A framework for secure peer-to-peer networking",
     "Homepage": "https://gnunet.org"
   },
@@ -3541,33 +3541,33 @@
   },
   {
     "Package": "gnuplot",
-    "Version": "6.0.3",
+    "Version": "6.0.3-1",
     "Description": "Command-line driven graphing utility",
     "Homepage": "http://gnuplot.info/"
   },
   {
     "Package": "gnurl",
-    "Version": "7.72.0",
+    "Version": "7.72.0-1",
     "Description": "Fork of libcurl, which is mostly for GNUnet",
     "Homepage": "https://gnunet.org/en/gnurl.html"
   },
   {
     "Package": "gnurl-static",
-    "Version": "7.72.0",
+    "Version": "7.72.0-1",
     "Description": "Static libraries for gnurl",
     "Homepage": "https://gnunet.org/en/gnurl.html"
   },
   {
     "Package": "gnushogi",
-    "Version": "1.4.2-p20141119-0",
+    "Version": "1.4.2-p20141119-1",
     "Description": "Program that plays the game of Shogi, also known as Japanese Chess",
     "Homepage": "https://www.gnu.org/software/gnushogi/"
   },
   {
     "Package": "gnuski",
-    "Version": "0.3-6",
+    "Version": "0.3-7",
     "Description": "Open source clone of Skifree, the old Windows game",
-    "Homepage": "https://sourceforge.net/projects/gnuski"
+    "Homepage": "https://sourceforge.net/projects/gnuski/"
   },
   {
     "Package": "gnustep-make",
@@ -3583,7 +3583,7 @@
   },
   {
     "Package": "go-findimagedupes",
-    "Version": "2023.01.29-3",
+    "Version": "2023.01.29-4",
     "Description": "Find visually similar or duplicate images",
     "Homepage": "https://gitlab.com/opennota/findimagedupes"
   },
@@ -3595,13 +3595,13 @@
   },
   {
     "Package": "goaccess",
-    "Version": "1.9.4",
+    "Version": "1.9.4-1",
     "Description": "An open source real-time web log analyzer and interactive viewer",
     "Homepage": "https://goaccess.io"
   },
   {
     "Package": "gobang",
-    "Version": "0.1.0-alpha.5-3",
+    "Version": "0.1.0-alpha.5-4",
     "Description": "A cross-platform TUI database management tool written in Rust",
     "Homepage": "https://github.com/TaKO8Ki/gobang"
   },
