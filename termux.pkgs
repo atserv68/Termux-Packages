@@ -218,7 +218,7 @@
 | **chafa-static** | 1.16.2-1 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.65.0 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.65.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 5.4.0-2 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 5.4.0-2 | Static libraries for chicken | https://www.call-cc.org |
 | **choose** | 1.3.7 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
@@ -431,7 +431,7 @@
 | **exercism** | 3.5.7-1 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.2.9-1 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.1.2-1 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.35 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.36 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.7 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.2 | A modern replacement for ls | https://github.com/eza-community/eza |
@@ -502,7 +502,7 @@
 | **fx** | 39.1.0 | Interactive JSON viewer on your terminal | https://github.com/antonmedv/fx |
 | **fzf** | 0.65.2 | Command-line fuzzy finder | https://junegunn.github.io/fzf/ |
 | **fzy** | 1.1-1 | A simple, fast fuzzy finder for the terminal | https://github.com/jhawthorn/fzy |
-| **g-ir-scanner** | 1.84.0 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
+| **g-ir-scanner** | 1.84.0-1 | A tool which generates GIR XML files | https://gi.readthedocs.io/ |
 | **game-music-emu** | 0.6.4-1 | A collection of video game music file emulators | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
 | **game-music-emu-static** | 0.6.4-1 | Static libraries for game-music-emu | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
 | **gap** | 4.14.0-1 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
@@ -574,7 +574,6 @@
 | **glow** | 2.1.1-1 | Render markdown on the CLI, with pizzazz! | https://github.com/charmbracelet/glow |
 | **glpk** | 5.0-2 | GNU Linear Programming Kit: solve LP, MIP and other problems | https://www.gnu.org/software/glpk/ |
 | **glpk-static** | 5.0-2 | Static libraries for glpk | https://www.gnu.org/software/glpk/ |
-| **glslang** | 15.4.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **gluelang** | 0.2.0-2 | A programming language that has a strong nature to be a glue of commands | https://ryuichiueda.github.io/GlueLang/ |
 | **glulxe** | 0.6.1-1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
 | **gmic** | 3.5.3-1 | Full-featured framework for image processing | https://gmic.eu |
@@ -599,51 +598,51 @@
 | **go-musicfox** | 4.7.1 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **goaccess** | 1.9.4-1 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-4 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
-| **gobject-introspection** | 1.84.0 | Uniform machine readable API | https://gi.readthedocs.io/ |
-| **gogs** | 0.13.3 | A painless self-hosted Git service | https://gogs.io |
+| **gobject-introspection** | 1.84.0-1 | Uniform machine readable API | https://gi.readthedocs.io/ |
+| **gogs** | 0.13.3-1 | A painless self-hosted Git service | https://gogs.io |
 | **gojq** | 0.12.17 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
 | **golang** | 3:1.25.0 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.25.0 | Go programming language - documentation | https://go.dev/ |
-| **gomp** | 2023.02.02-2 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
-| **gomuks** | 0.3.1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
+| **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
+| **gomuks** | 0.3.1-1 | A terminal Matrix client written in Go | https://maunium.net/go/gomuks/ |
 | **google-drive-upload** | 4.5 | Bash scripts to upload files to google drive | https://github.com/labbots/google-drive-upload |
-| **google-glog** | 0.7.1 | Logging library for C++ | https://github.com/google/glog |
+| **google-glog** | 0.7.1-1 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.17.0-1 | Google C++ testing framework | https://github.com/google/googletest |
 | **goose** | 3.25.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.15.16 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
-| **gopher** | 3.0.17.3-1 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
+| **gopher** | 3.0.17.3-2 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
 | **gopls** | 0.20.0 | The official Go language server | https://github.com/golang/tools |
 | **gost** | 2.12.0 | GO Simple Tunnel - a simple tunnel written in golang | https://github.com/ginuerzh/gost |
-| **gotop** | 4.2.0-3 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
-| **gotty** | 1.6.0 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
-| **gpac** | 2.4.0-3 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
-| **gpac-static** | 2.4.0-3 | Static libraries for gpac | https://gpac.wp.imt.fr/ |
-| **gperf** | 3.3 | A perfect hash function generator | https://www.gnu.org/software/gperf |
-| **gpgme** | 1.24.3 | Library designed to make access to GnuPG easier | https://www.gnupg.org/related_software/gpgme/ |
-| **gpgme-static** | 1.24.3 | Static libraries for gpgme | https://www.gnupg.org/related_software/gpgme/ |
-| **gpgmepp** | 1.24.3 | Programmatic C++ library interface to GnuPG | https://www.gnupg.org/related_software/gpgme/ |
-| **gpgmepp-static** | 1.24.3 | Static libraries for gpgmepp | https://www.gnupg.org/related_software/gpgme/ |
+| **gotop** | 4.2.0-4 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
+| **gotty** | 1.6.0-1 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
+| **gpac** | 2.4.0-4 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
+| **gpac-static** | 2.4.0-4 | Static libraries for gpac | https://gpac.wp.imt.fr/ |
+| **gperf** | 3.3-1 | A perfect hash function generator | https://www.gnu.org/software/gperf |
+| **gpgme** | 1.24.3-1 | Library designed to make access to GnuPG easier | https://www.gnupg.org/related_software/gpgme/ |
+| **gpgme-static** | 1.24.3-1 | Static libraries for gpgme | https://www.gnupg.org/related_software/gpgme/ |
+| **gpgmepp** | 1.24.3-1 | Programmatic C++ library interface to GnuPG | https://www.gnupg.org/related_software/gpgme/ |
+| **gpgmepp-static** | 1.24.3-1 | Static libraries for gpgmepp | https://www.gnupg.org/related_software/gpgme/ |
 | **gpgv** | 2.5.11 | GNU privacy guard - signature verification tool | https://www.gnupg.org/ |
 | **gping** | 1.20.1-1 | Ping, but with a graph | https://github.com/orf/gping |
-| **gpsbabel** | 1.4.4-2 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
+| **gpsbabel** | 1.4.4-3 | GPS file conversion plus transfer to/from GPS units | https://www.gpsbabel.org/ |
 | **gradle** | 1:9.0.0-1 | Powerful build system for the JVM | https://gradle.org/ |
-| **grafana** | 1:11.6.0 | The open-source platform for monitoring and observability | https://grafana.com/ |
-| **graphene** | 1.10.8-1 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
-| **graphicsmagick** | 1.3.45-3 | Collection of image processing tools | http://www.graphicsmagick.org/ |
-| **graphicsmagick-static** | 1.3.45-3 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
+| **grafana** | 1:11.6.0-1 | The open-source platform for monitoring and observability | https://grafana.com/ |
+| **graphene** | 1.10.8-2 | A thin layer of graphic data types | https://ebassi.github.io/graphene/ |
+| **graphicsmagick** | 1.3.45-4 | Collection of image processing tools | http://www.graphicsmagick.org/ |
+| **graphicsmagick-static** | 1.3.45-4 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
 | **graphviz** | 13.1.2 | Rich set of graph drawing tools | https://www.graphviz.org/ |
 | **graphviz-static** | 13.1.2 | Static libraries for graphviz | https://www.graphviz.org/ |
-| **greed** | 4.3 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
+| **greed** | 4.3-1 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-2 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
-| **grex** | 1.4.5 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
-| **groff** | 1.23.0-1 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
-| **gron** | 0.7.1-3 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
+| **grex** | 1.4.5-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
+| **groff** | 1.23.0-2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
+| **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
 | **groonga** | 15.1.5 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.2 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.53-1 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
-| **gsl** | 2.8 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
-| **gsl-static** | 2.8 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
+| **gsl** | 2.8-1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
+| **gsl-static** | 2.8-1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
 | **gst-libav** | 1.26.5 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
 | **gst-plugins-bad** | 1.26.5 | GStreamer Bad Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-plugins-base** | 1.26.5 | GStreamer base plug-ins | https://gstreamer.freedesktop.org/ |
@@ -651,14 +650,14 @@
 | **gst-plugins-ugly** | 1.26.5 | GStreamer Ugly Plug-ins | https://gstreamer.freedesktop.org/ |
 | **gst-python** | 1.26.5 | Python bindings for GStreamer | https://gstreamer.freedesktop.org/ |
 | **gstreamer** | 1.26.5 | Open source multimedia framework | https://gstreamer.freedesktop.org/ |
-| **gtypist** | 2.10.1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
-| **guile** | 3.0.9-2 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
-| **guile-static** | 3.0.9-2 | Static libraries for guile | http://www.gnu.org/software/guile/ |
+| **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
+| **guile** | 3.0.9-3 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
+| **guile-static** | 3.0.9-3 | Static libraries for guile | http://www.gnu.org/software/guile/ |
 | **guile18** | 1.8.8-16 | Portable, embeddable Scheme implementation written in C. (legacy branch) | http://www.gnu.org/software/guile/ |
 | **guile18-static** | 1.8.8-16 | Static libraries for guile18 | http://www.gnu.org/software/guile/ |
 | **gum** | 0.17.0 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
-| **gumbo-parser** | 0.10.1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
-| **gumbo-parser-static** | 0.10.1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
+| **gumbo-parser** | 0.10.1-1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
+| **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **haproxy** | 3.2.4 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 11.4.5 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -666,96 +665,96 @@
 | **harfbuzz-utils** | 11.4.5 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **has** | 1.5.2 | has checks presence of various command line tools and their versions on the path | https://github.com/kdabir/has |
 | **hash-slinger** | 3.4 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
-| **hashdeep** | 4.4-8 | Programs to compute hashsums of arbitrary number of files recursively | http://md5deep.sourceforge.net/ |
-| **hcl** | 2.24.0 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
+| **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
+| **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
 | **hcloud** | 1.52.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
-| **helix** | 25.07.1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
-| **helix-grammars** | 25.07.1 | Helix grammars | https://helix-editor.com/ |
+| **helix** | 25.07.1-1 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
+| **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.18.6 | Helm helps you manage Kubernetes applications | https://helm.sh |
-| **helm-ls** | 0.5.0 | Language server for Helm | https://github.com/mrjosh/helm-ls |
+| **helm-ls** | 0.5.0-1 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
-| **hexcurse** | 1.60.0-6 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
-| **hexedit** | 1.6 | view and edit files in hexadecimal or in ASCII | http://rigaux.org/hexedit.html |
+| **hexcurse** | 1.60.0-7 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
+| **hexedit** | 1.6-1 | view and edit files in hexadecimal or in ASCII | http://rigaux.org/hexedit.html |
 | **hexer** | 1.0.7 | A multi-buffer editor for binary files for Unix-like systems that displays its buffer(s) as a hex dump | https://devel.ringlet.net/editors/hexer/ |
-| **hexyl** | 0.16.0-1 | A command-line hex viewer | https://github.com/sharkdp/hexyl |
-| **heyu** | 1:2.10.3-1 | Program for remotely controlling lights and appliances | https://www.heyu.org/ |
-| **hfsutils** | 3.2.6-1 | Tool for manipulating HFS images. | https://www.mars.org/home/rob/proj/hfs/ |
-| **hidapi** | 0.14.0 | Simple cross-platform library for communicating with HID devices | https://libusb.info/hidapi |
-| **hilbish** | 1:2.3.4 | The Moon-powered shell! A comfy and extensible shell for Lua fans! | https://rosettea.github.io/Hilbish/ |
+| **hexyl** | 0.16.0-2 | A command-line hex viewer | https://github.com/sharkdp/hexyl |
+| **heyu** | 1:2.10.3-2 | Program for remotely controlling lights and appliances | https://www.heyu.org/ |
+| **hfsutils** | 3.2.6-2 | Tool for manipulating HFS images | https://www.mars.org/home/rob/proj/hfs/ |
+| **hidapi** | 0.14.0-1 | Simple cross-platform library for communicating with HID devices | https://libusb.info/hidapi |
+| **hilbish** | 1:2.3.4-1 | The Moon-powered shell! A comfy and extensible shell for Lua fans! | https://rosettea.github.io/Hilbish/ |
 | **hnterm** | 1.0.5-1 | A simple tool to browse Hacker News in the terminal | https://github.com/ggerganov/imtui |
-| **hoedown** | 3.0.7-3 | Hoedown is a revived fork of Sundown, the Markdown parser based on the original code of the Upskirt library | https://github.com/hoedown/hoedown |
-| **hoedown-static** | 3.0.7-3 | Static libraries for hoedown | https://github.com/hoedown/hoedown |
+| **hoedown** | 3.0.7-4 | Hoedown is a revived fork of Sundown, the Markdown parser based on the original code of the Upskirt library | https://github.com/hoedown/hoedown |
+| **hoedown-static** | 3.0.7-4 | Static libraries for hoedown | https://github.com/hoedown/hoedown |
 | **hollywood** | 1.22-1 | Fill your console with Hollywood melodrama technobabble | https://launchpad.net/hollywood |
-| **hors** | 0.8.2-2 | Instant coding answers via the command line (howdoi in rust) | https://github.com/WindSoilder/hors |
+| **hors** | 0.8.2-3 | Instant coding answers via the command line (howdoi in rust) | https://github.com/WindSoilder/hors |
 | **hr** | 1.5 | A horizontal ruler for your terminal | https://github.com/LuRsT/hr |
-| **hstr** | 3.1 | Shell history suggest box for bash and zsh | https://github.com/dvorka/hstr |
+| **hstr** | 3.1-1 | Shell history suggest box for bash and zsh | https://github.com/dvorka/hstr |
 | **html-xml-utils** | 8.7 | A number of simple utilities for manipulating HTML and XML files | https://www.w3.org/Tools/HTML-XML-utils/ |
 | **html2text** | 1:2.4.0 | Utility that converts HTML documents into plain text | http://www.mbayer.de/html2text/ |
-| **htop** | 3.4.1 | Interactive process viewer for Linux | https://htop.dev/ |
-| **htslib** | 1.22.1 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
-| **htslib-static** | 1.22.1 | Static libraries for htslib | https://github.com/samtools/htslib |
-| **httping** | 4.4.0 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
-| **httrack** | 3.49.6 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
-| **httrack-data** | 3.49.6 | Platform-independent data for httrack | http://www.httrack.com |
-| **httrack-static** | 3.49.6 | Static libraries for httrack | http://www.httrack.com |
-| **hub** | 2.14.2-5 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
+| **htop** | 3.4.1-1 | Interactive process viewer for Linux | https://htop.dev/ |
+| **htslib** | 1.22.1-1 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
+| **htslib-static** | 1.22.1-1 | Static libraries for htslib | https://github.com/samtools/htslib |
+| **httping** | 4.4.0-1 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
+| **httrack** | 3.49.6-1 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
+| **httrack-data** | 3.49.6-1 | Platform-independent data for httrack | http://www.httrack.com |
+| **httrack-static** | 3.49.6-1 | Static libraries for httrack | http://www.httrack.com |
+| **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
 | **hugo** | 0.150.0 | A fast and flexible static site generator | https://gohugo.io/ |
-| **hummin** | 2021.05.18-3 | Command line client for the imperial library of trantor | https://trantor.is/ |
-| **hunspell** | 1.7.2 | Spell checker | https://hunspell.github.io |
+| **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
+| **hunspell** | 1.7.2-1 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-fr** | 20221031 | French dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-hu** | 2024.03.28 | Hungarian dictionary for hunspell | https://magyarispell.sourceforge.net/ |
 | **hunspell-nl** | 2013.07.22 | Dutch dictionary for hunspell | https://www.opentaal.org/ |
 | **hunspell-ru** | 20210731 | Russian dictionary for hunspell | https://hunspell.github.io |
-| **hunspell-static** | 1.7.2 | Static libraries for hunspell | https://hunspell.github.io |
-| **hut** | 0.7.0 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
+| **hunspell-static** | 1.7.2-1 | Static libraries for hunspell | https://hunspell.github.io |
+| **hut** | 0.7.0-1 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
 | **hwdata** | 0.399 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
-| **hydroxide** | 0.2.30 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
-| **hyperfine** | 1.19.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
-| **hz** | 0.10.1 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
+| **hydroxide** | 0.2.30-1 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
+| **hyperfine** | 1.19.0-1 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
+| **hz** | 0.10.1-1 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
 | **i2pd** | 2.58.0 | A full-featured C++ implementation of the I2P router | https://i2pd.website/ |
 | **i2pd-static** | 2.58.0 | Static libraries for i2pd | https://i2pd.website/ |
-| **icecast** | 2.4.4-7 | Icecast is a streaming media (audio/video) server | https://icecast.org |
-| **ices** | 2.0.3 | IceS is a source client for the Icecast streaming server. | https://icecast.org/ices/ |
+| **icecast** | 2.4.4-8 | Icecast is a streaming media (audio/video) server | https://icecast.org |
+| **ices** | 2.0.3-1 | IceS is a source client for the Icecast streaming server. | https://icecast.org/ices/ |
 | **iconv** | 1.18-1 | Utility converting between different character encodings | https://www.gnu.org/software/libiconv/ |
-| **icoutils** | 0.32.3 | Extracts and converts images in MS Windows(R) icon and cursor files. | https://www.nongnu.org/icoutils/ |
+| **icoutils** | 0.32.3-1 | Extracts and converts images in MS Windows(R) icon and cursor files | https://www.nongnu.org/icoutils/ |
 | **icu-devtools** | 77.1-1 | Development utilities for International Components for Unicode | http://site.icu-project.org/home |
-| **id3lib** | 3.8.3-3 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | http://id3lib.sourceforge.net/ |
-| **id3lib-static** | 3.8.3-3 | Static libraries for id3lib | http://id3lib.sourceforge.net/ |
-| **id3v2** | 0.1.12-1 | A command line id3v2 tag editor | http://id3v2.sourceforge.net/ |
+| **id3lib** | 3.8.3-4 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | https://id3lib.sourceforge.net/ |
+| **id3lib-static** | 3.8.3-4 | Static libraries for id3lib | https://id3lib.sourceforge.net/ |
+| **id3v2** | 0.1.12-2 | A command line id3v2 tag editor | https://id3v2.sourceforge.net/ |
 | **imagemagick** | 7.1.2.3 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
 | **imagemagick-static** | 7.1.2.3 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.1.12-1 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
-| **imgflo** | 0.4.2-8 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
-| **imlib2** | 1.12.5 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
-| **imlib2-static** | 1.12.5 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
-| **indent** | 2.2.13 | C language source code formatting program | https://www.gnu.org/software/indent/ |
+| **imgflo** | 0.4.2-9 | HTTP image processing server & Flowhub.io compatible runtime | https://github.com/imgflo/imgflo |
+| **imlib2** | 1.12.5-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
+| **imlib2-static** | 1.12.5-1 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
+| **indent** | 2.2.13-1 | C language source code formatting program | https://www.gnu.org/software/indent/ |
 | **inetutils** | 2.6-1 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
-| **influxdb** | 1.8.10-3 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
+| **influxdb** | 1.8.10-4 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
 | **innoextract** | 1.9-9 | A tool to unpack installers created by Inno Setup | https://constexpr.org/innoextract/ |
-| **inotify-tools** | 4.23.9.0 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
-| **inotify-tools-static** | 4.23.9.0 | Static libraries for inotify-tools | https://github.com/rvoicilas/inotify-tools/wiki |
+| **inotify-tools** | 4.23.9.0-1 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
+| **inotify-tools-static** | 4.23.9.0-1 | Static libraries for inotify-tools | https://github.com/rvoicilas/inotify-tools/wiki |
 | **intltool** | 0.51.0-3 | The internationalization tool collection | https://launchpad.net/intltool |
 | **inxi** | 3.3.39-1-0 | Full featured CLI system information tool | https://smxi.org/site/about.htm#inxi |
 | **ipcalc** | 0.51 | Calculates IP broadcast, network, Cisco wildcard mask, and host ranges | http://jodies.de/ipcalc |
-| **iperf3** | 3.19.1 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
-| **iperf3-static** | 3.19.1 | Static libraries for iperf3 | https://github.com/esnet/iperf |
-| **ipmitool** | 1.8.19 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
-| **iproute2** | 6.16.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
+| **iperf3** | 3.19.1-1 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
+| **iperf3-static** | 3.19.1-1 | Static libraries for iperf3 | https://github.com/esnet/iperf |
+| **ipmitool** | 1.8.19-1 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
+| **iproute2** | 6.16.0-1 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.3.3 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
-| **ipv6toolkit** | 2022.09.30-2 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
-| **ircd-irc2** | 2.11.2p3-1 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
-| **ired** | 0.6-2 | Minimalist hexadecimal editor | https://github.com/radare/ired |
+| **ipv6toolkit** | 2022.09.30-3 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
+| **ircd-irc2** | 2.11.2p3-2 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
+| **ired** | 0.6-3 | Minimalist hexadecimal editor | https://github.com/radare/ired |
 | **irssi** | 1.4.5-3 | Terminal based IRC client | https://irssi.org/ |
-| **isync** | 1.5.1 | IMAP and MailDir mailbox synchronizer | http://isync.sourceforge.net |
-| **iverilog** | 12.0 | Icarus Verilog compiler and simulation tool | http://iverilog.icarus.com/ |
-| **iverilog-static** | 12.0 | Static libraries for iverilog | http://iverilog.icarus.com/ |
-| **iwyu** | 0.24 | A tool to analyze #includes in C and C++ source files | https://include-what-you-use.org/ |
+| **isync** | 1.5.1-1 | IMAP and MailDir mailbox synchronizer | http://isync.sourceforge.net |
+| **iverilog** | 12.0-1 | Icarus Verilog compiler and simulation tool | http://iverilog.icarus.com/ |
+| **iverilog-static** | 12.0-1 | Static libraries for iverilog | http://iverilog.icarus.com/ |
+| **iwyu** | 0.24-1 | A tool to analyze #includes in C and C++ source files | https://include-what-you-use.org/ |
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
-| **jack-example-tools** | 4 | Official JACK example clients and tools | https://jackaudio.org/ |
-| **jack2** | 1.9.22-1 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.22.2444 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
+| **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
+| **jackett** | 0.22.2444-1 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -763,30 +762,29 @@
 | **jbig2dec-static** | 0.20-1 | Static libraries for jbig2dec | https://jbig2dec.com/ |
 | **jbig2enc** | 2023.01.08-3 | An encoder for JBIG2 | https://github.com/agl/jbig2enc |
 | **jbig2enc-static** | 2023.01.08-3 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
-| **jcal** | 0.5.1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
-| **jcal-static** | 0.5.1 | Static libraries for jcal | http://nongnu.org/jcal |
+| **jcal** | 0.5.1-1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
+| **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jfrog-cli** | 2.78.9 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
-| **jhead** | 3.08 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
-| **jigdo** | 0.8.2 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
-| **jira-go** | 1.0.28-2 | Simple jira command line client written in Go | https://github.com/go-jira/jira |
-| **jless** | 0.9.0 | A command-line JSON viewer designed for reading, exploring, and searching through JSON data. | https://jless.io |
-| **jo** | 1.9 | JSON output from a shell | https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/ |
-| **joe** | 4.6-3 | Wordstar like text editor | http://joe-editor.sourceforge.net |
-| **jove** | 4.17.5.3 | Jove is a compact, powerful, Emacs-style text-editor. | https://directory.fsf.org/wiki/Jove |
-| **jp2a** | 1.3.2 | A simple JPEG to ASCII converter | https://github.com/Talinx/jp2a/ |
-| **jpegoptim** | 1.5.5-1 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
+| **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
+| **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
+| **jira-go** | 1.0.28-3 | Simple jira command line client written in Go | https://github.com/go-jira/jira |
+| **jless** | 0.9.0-1 | A command-line JSON viewer designed for reading, exploring, and searching through JSON data. | https://jless.io |
+| **jo** | 1.9-1 | JSON output from a shell | https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/ |
+| **joe** | 4.6-4 | Wordstar like text editor | http://joe-editor.sourceforge.net |
+| **jove** | 4.17.5.3-1 | Jove is a compact, powerful, Emacs-style text-editor. | https://directory.fsf.org/wiki/Jove |
+| **jp2a** | 1.3.2-1 | A simple JPEG to ASCII converter | https://github.com/Talinx/jp2a/ |
+| **jpegoptim** | 1.5.5-2 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
 | **jq** | 1.8.1-1 | Command-line JSON processor | https://stedolan.github.io/jq/ |
 | **jq-lsp** | 0.1.13 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.8.1-1 | Static libraries for jq | https://stedolan.github.io/jq/ |
 | **jql** | 8.0.8 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
-| **json-c** | 0.18-1 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
-| **json-c-static** | 0.18-1 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
-| **json-glib** | 1.10.6 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
+| **json-c** | 0.18-2 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
+| **json-c-static** | 0.18-2 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
+| **json-glib** | 1.10.6-1 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
 | **jsoncpp** | 1.9.6-2 | C++ library for interacting with JSON | https://github.com/open-source-parsers/jsoncpp |
 | **jsoncpp-static** | 1.9.6-2 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
-| **jupp** | 3.1jupp41-1 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **just** | 1.42.4 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.4-1 | Python for the Java Platform | https://www.jython.org/ |
 | **k2pdfopt** | 2.55-3 | A tool that optimizes PDF files for viewing on mobile readers | https://www.willus.com/k2pdfopt/ |
@@ -1365,7 +1363,7 @@
 | **libsqlite-static** | 3.50.4-1 | Static libraries for libsqlite | https://www.sqlite.org |
 | **libsqlite-tcl** | 3.50.4-1 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.4 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
-| **libssh** | 0.11.2-1 | Tiny C SSH library | https://www.libssh.org/ |
+| **libssh** | 0.11.3 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-1 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1-1 | Static libraries for libssh2 | https://www.libssh2.org |
 | **libstemmer** | 2.2.0-1 | Snowball compiler and stemming algorithms | https://snowballstem.org/ |
@@ -1812,7 +1810,7 @@
 | **octomap** | 1.10.0 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-4 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 26.20.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 26.21.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **okc-agents** | 0.1.2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.6-2 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
 | **oleo** | 1.99.16-9 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
@@ -2639,7 +2637,7 @@
 | **yasm** | 1.3.0-6 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-6 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yazi** | 25.5.31-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
-| **yosys** | 0.56-1 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
+| **yosys** | 0.57 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.4 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.47.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |

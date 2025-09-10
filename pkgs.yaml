@@ -879,7 +879,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.65.0
+  Version: 2.65.1
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -1731,7 +1731,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.35"
+  Version: "13.36"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -2015,7 +2015,7 @@
   Description: A simple, fast fuzzy finder for the terminal
   Homepage: https://github.com/jhawthorn/fzy
 - Package: g-ir-scanner
-  Version: 1.84.0
+  Version: 1.84.0-1
   Description: A tool which generates GIR XML files
   Homepage: https://gi.readthedocs.io/
 - Package: game-music-emu
@@ -2302,10 +2302,6 @@
   Version: 5.0-2
   Description: Static libraries for glpk
   Homepage: https://www.gnu.org/software/glpk/
-- Package: glslang
-  Version: 15.4.0
-  Description: OpenGL and OpenGL ES shader front end and validator
-  Homepage: https://github.com/KhronosGroup/glslang
 - Package: gluelang
   Version: 0.2.0-2
   Description: A programming language that has a strong nature to be a glue of commands
@@ -2403,11 +2399,11 @@
   Description: A cross-platform TUI database management tool written in Rust
   Homepage: https://github.com/TaKO8Ki/gobang
 - Package: gobject-introspection
-  Version: 1.84.0
+  Version: 1.84.0-1
   Description: Uniform machine readable API
   Homepage: https://gi.readthedocs.io/
 - Package: gogs
-  Version: 0.13.3
+  Version: 0.13.3-1
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
 - Package: gojq
@@ -2423,11 +2419,11 @@
   Description: Go programming language - documentation
   Homepage: https://go.dev/
 - Package: gomp
-  Version: 2023.02.02-2
+  Version: 2023.02.02-3
   Description: MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration
   Homepage: https://aditya-k2.github.io/gomp/
 - Package: gomuks
-  Version: 0.3.1
+  Version: 0.3.1-1
   Description: A terminal Matrix client written in Go
   Homepage: https://maunium.net/go/gomuks/
 - Package: google-drive-upload
@@ -2435,7 +2431,7 @@
   Description: Bash scripts to upload files to google drive
   Homepage: https://github.com/labbots/google-drive-upload
 - Package: google-glog
-  Version: 0.7.1
+  Version: 0.7.1-1
   Description: Logging library for C++
   Homepage: https://github.com/google/glog
 - Package: googletest
@@ -2451,7 +2447,7 @@
   Description: The slightly more awesome standard unix password manager for teams
   Homepage: https://github.com/gopasspw/gopass
 - Package: gopher
-  Version: 3.0.17.3-1
+  Version: 3.0.17.3-2
   Description: University of Minnesota gopher
   Homepage: gopher://gopher.quux.org/1/devel/gopher
 - Package: gopls
@@ -2463,39 +2459,39 @@
   Description: GO Simple Tunnel - a simple tunnel written in golang
   Homepage: https://github.com/ginuerzh/gost
 - Package: gotop
-  Version: 4.2.0-3
+  Version: 4.2.0-4
   Description: A terminal based graphical activity monitor inspired by gtop and vtop
   Homepage: https://github.com/xxxserxxx/gotop
 - Package: gotty
-  Version: 1.6.0
+  Version: 1.6.0-1
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
 - Package: gpac
-  Version: 2.4.0-3
+  Version: 2.4.0-4
   Description: An open-source multimedia framework focused on modularity and standards compliance
   Homepage: https://gpac.wp.imt.fr/
 - Package: gpac-static
-  Version: 2.4.0-3
+  Version: 2.4.0-4
   Description: Static libraries for gpac
   Homepage: https://gpac.wp.imt.fr/
 - Package: gperf
-  Version: "3.3"
+  Version: 3.3-1
   Description: A perfect hash function generator
   Homepage: https://www.gnu.org/software/gperf
 - Package: gpgme
-  Version: 1.24.3
+  Version: 1.24.3-1
   Description: Library designed to make access to GnuPG easier
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgme-static
-  Version: 1.24.3
+  Version: 1.24.3-1
   Description: Static libraries for gpgme
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgmepp
-  Version: 1.24.3
+  Version: 1.24.3-1
   Description: Programmatic C++ library interface to GnuPG
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgmepp-static
-  Version: 1.24.3
+  Version: 1.24.3-1
   Description: Static libraries for gpgmepp
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgv
@@ -2507,7 +2503,7 @@
   Description: Ping, but with a graph
   Homepage: https://github.com/orf/gping
 - Package: gpsbabel
-  Version: 1.4.4-2
+  Version: 1.4.4-3
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
@@ -2515,19 +2511,19 @@
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
-  Version: 1:11.6.0
+  Version: 1:11.6.0-1
   Description: The open-source platform for monitoring and observability
   Homepage: https://grafana.com/
 - Package: graphene
-  Version: 1.10.8-1
+  Version: 1.10.8-2
   Description: A thin layer of graphic data types
   Homepage: https://ebassi.github.io/graphene/
 - Package: graphicsmagick
-  Version: 1.3.45-3
+  Version: 1.3.45-4
   Description: Collection of image processing tools
   Homepage: http://www.graphicsmagick.org/
 - Package: graphicsmagick-static
-  Version: 1.3.45-3
+  Version: 1.3.45-4
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
@@ -2539,7 +2535,7 @@
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
-  Version: "4.3"
+  Version: 4.3-1
   Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
   Homepage: http://www.catb.org/~esr/greed/
 - Package: grep
@@ -2547,15 +2543,15 @@
   Description: Command which searches one or more input files for lines containing a match to a specified pattern
   Homepage: https://www.gnu.org/software/grep/
 - Package: grex
-  Version: 1.4.5
+  Version: 1.4.5-1
   Description: Simplifies the task of creating regular expressions
   Homepage: https://github.com/pemistahl/grex
 - Package: groff
-  Version: 1.23.0-1
+  Version: 1.23.0-2
   Description: typesetting system that reads plain text mixed with formatting commands and produces formatted output
   Homepage: https://www.gnu.org/software/groff/
 - Package: gron
-  Version: 0.7.1-3
+  Version: 0.7.1-4
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
@@ -2575,11 +2571,11 @@
   Description: Command-line tools for libgsf
   Homepage: https://gitlab.gnome.org/GNOME/libgsf
 - Package: gsl
-  Version: "2.8"
+  Version: 2.8-1
   Description: GNU Scientific Library (GSL) providing a wide range of mathematical routines
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gsl-static
-  Version: "2.8"
+  Version: 2.8-1
   Description: Static libraries for gsl
   Homepage: https://www.gnu.org/software/gsl/
 - Package: gst-libav
@@ -2611,15 +2607,15 @@
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
 - Package: gtypist
-  Version: 2.10.1
+  Version: 2.10.1-1
   Description: Universal typing tutor
   Homepage: https://www.gnu.org/software/gtypist/
 - Package: guile
-  Version: 3.0.9-2
+  Version: 3.0.9-3
   Description: Portable, embeddable Scheme implementation written in C
   Homepage: http://www.gnu.org/software/guile/
 - Package: guile-static
-  Version: 3.0.9-2
+  Version: 3.0.9-3
   Description: Static libraries for guile
   Homepage: http://www.gnu.org/software/guile/
 - Package: guile18
@@ -2635,11 +2631,11 @@
   Description: A tool for creating minimal interactive TUIs for shell scripts
   Homepage: https://github.com/charmbracelet/gum
 - Package: gumbo-parser
-  Version: 0.10.1
+  Version: 0.10.1-1
   Description: An HTML5 parsing library
   Homepage: https://github.com/google/gumbo-parser
 - Package: gumbo-parser-static
-  Version: 0.10.1
+  Version: 0.10.1-1
   Description: Static libraries for gumbo-parser
   Homepage: https://github.com/google/gumbo-parser
 - Package: gzip
@@ -2671,11 +2667,11 @@
   Description: Various tools to generate special DNS records
   Homepage: https://github.com/letoams/hash-slinger
 - Package: hashdeep
-  Version: 4.4-8
+  Version: 4.4-9
   Description: Programs to compute hashsums of arbitrary number of files recursively
-  Homepage: http://md5deep.sourceforge.net/
+  Homepage: https://md5deep.sourceforge.net/
 - Package: hcl
-  Version: 2.24.0
+  Version: 2.24.0-1
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
@@ -2683,11 +2679,11 @@
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
-  Version: 25.07.1
+  Version: 25.07.1-1
   Description: A post-modern modal text editor written in rust
   Homepage: https://helix-editor.com/
 - Package: helix-grammars
-  Version: 25.07.1
+  Version: 25.07.1-1
   Description: Helix grammars
   Homepage: https://helix-editor.com/
 - Package: hello
@@ -2699,7 +2695,7 @@
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
-  Version: 0.5.0
+  Version: 0.5.0-1
   Description: Language server for Helm
   Homepage: https://github.com/mrjosh/helm-ls
 - Package: help2man
@@ -2707,11 +2703,11 @@
   Description: Conversion tool to create man files
   Homepage: https://www.gnu.org/software/help2man/
 - Package: hexcurse
-  Version: 1.60.0-6
+  Version: 1.60.0-7
   Description: Console hexeditor
   Homepage: https://github.com/LonnyGomes/hexcurse
 - Package: hexedit
-  Version: "1.6"
+  Version: 1.6-1
   Description: view and edit files in hexadecimal or in ASCII
   Homepage: http://rigaux.org/hexedit.html
 - Package: hexer
@@ -2719,23 +2715,23 @@
   Description: A multi-buffer editor for binary files for Unix-like systems that displays its buffer(s) as a hex dump
   Homepage: https://devel.ringlet.net/editors/hexer/
 - Package: hexyl
-  Version: 0.16.0-1
+  Version: 0.16.0-2
   Description: A command-line hex viewer
   Homepage: https://github.com/sharkdp/hexyl
 - Package: heyu
-  Version: 1:2.10.3-1
+  Version: 1:2.10.3-2
   Description: Program for remotely controlling lights and appliances
   Homepage: https://www.heyu.org/
 - Package: hfsutils
-  Version: 3.2.6-1
-  Description: Tool for manipulating HFS images.
+  Version: 3.2.6-2
+  Description: Tool for manipulating HFS images
   Homepage: https://www.mars.org/home/rob/proj/hfs/
 - Package: hidapi
-  Version: 0.14.0
+  Version: 0.14.0-1
   Description: Simple cross-platform library for communicating with HID devices
   Homepage: https://libusb.info/hidapi
 - Package: hilbish
-  Version: 1:2.3.4
+  Version: 1:2.3.4-1
   Description: The Moon-powered shell! A comfy and extensible shell for Lua fans!
   Homepage: https://rosettea.github.io/Hilbish/
 - Package: hnterm
@@ -2743,11 +2739,11 @@
   Description: A simple tool to browse Hacker News in the terminal
   Homepage: https://github.com/ggerganov/imtui
 - Package: hoedown
-  Version: 3.0.7-3
+  Version: 3.0.7-4
   Description: Hoedown is a revived fork of Sundown, the Markdown parser based on the original code of the Upskirt library
   Homepage: https://github.com/hoedown/hoedown
 - Package: hoedown-static
-  Version: 3.0.7-3
+  Version: 3.0.7-4
   Description: Static libraries for hoedown
   Homepage: https://github.com/hoedown/hoedown
 - Package: hollywood
@@ -2755,7 +2751,7 @@
   Description: Fill your console with Hollywood melodrama technobabble
   Homepage: https://launchpad.net/hollywood
 - Package: hors
-  Version: 0.8.2-2
+  Version: 0.8.2-3
   Description: Instant coding answers via the command line (howdoi in rust)
   Homepage: https://github.com/WindSoilder/hors
 - Package: hr
@@ -2763,7 +2759,7 @@
   Description: A horizontal ruler for your terminal
   Homepage: https://github.com/LuRsT/hr
 - Package: hstr
-  Version: "3.1"
+  Version: 3.1-1
   Description: Shell history suggest box for bash and zsh
   Homepage: https://github.com/dvorka/hstr
 - Package: html-xml-utils
@@ -2775,35 +2771,35 @@
   Description: Utility that converts HTML documents into plain text
   Homepage: http://www.mbayer.de/html2text/
 - Package: htop
-  Version: 3.4.1
+  Version: 3.4.1-1
   Description: Interactive process viewer for Linux
   Homepage: https://htop.dev/
 - Package: htslib
-  Version: 1.22.1
+  Version: 1.22.1-1
   Description: C library for high-throughput sequencing data formats
   Homepage: https://github.com/samtools/htslib
 - Package: htslib-static
-  Version: 1.22.1
+  Version: 1.22.1-1
   Description: Static libraries for htslib
   Homepage: https://github.com/samtools/htslib
 - Package: httping
-  Version: 4.4.0
+  Version: 4.4.0-1
   Description: ping-like program for http-requests
   Homepage: https://github.com/folkertvanheusden/HTTPing
 - Package: httrack
-  Version: 3.49.6
+  Version: 3.49.6-1
   Description: It allows you to download a World Wide Web site from the Internet
   Homepage: http://www.httrack.com
 - Package: httrack-data
-  Version: 3.49.6
+  Version: 3.49.6-1
   Description: Platform-independent data for httrack
   Homepage: http://www.httrack.com
 - Package: httrack-static
-  Version: 3.49.6
+  Version: 3.49.6-1
   Description: Static libraries for httrack
   Homepage: http://www.httrack.com
 - Package: hub
-  Version: 2.14.2-5
+  Version: 2.14.2-6
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
@@ -2811,11 +2807,11 @@
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
-  Version: 2021.05.18-3
+  Version: 2021.05.18-4
   Description: Command line client for the imperial library of trantor
   Homepage: https://trantor.is/
 - Package: hunspell
-  Version: 1.7.2
+  Version: 1.7.2-1
   Description: Spell checker
   Homepage: https://hunspell.github.io
 - Package: hunspell-en-us
@@ -2839,11 +2835,11 @@
   Description: Russian dictionary for hunspell
   Homepage: https://hunspell.github.io
 - Package: hunspell-static
-  Version: 1.7.2
+  Version: 1.7.2-1
   Description: Static libraries for hunspell
   Homepage: https://hunspell.github.io
 - Package: hut
-  Version: 0.7.0
+  Version: 0.7.0-1
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hwdata
@@ -2851,15 +2847,15 @@
   Description: Database of hardware identification and configuration data
   Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
-  Version: 0.2.30
+  Version: 0.2.30-1
   Description: A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
   Homepage: https://github.com/emersion/hydroxide
 - Package: hyperfine
-  Version: 1.19.0
+  Version: 1.19.0-1
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
-  Version: 0.10.1
+  Version: 0.10.1-1
   Description: A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices
   Homepage: https://www.cloudwego.io
 - Package: i2pd
@@ -2871,11 +2867,11 @@
   Description: Static libraries for i2pd
   Homepage: https://i2pd.website/
 - Package: icecast
-  Version: 2.4.4-7
+  Version: 2.4.4-8
   Description: Icecast is a streaming media (audio/video) server
   Homepage: https://icecast.org
 - Package: ices
-  Version: 2.0.3
+  Version: 2.0.3-1
   Description: IceS is a source client for the Icecast streaming server.
   Homepage: https://icecast.org/ices/
 - Package: iconv
@@ -2883,25 +2879,25 @@
   Description: Utility converting between different character encodings
   Homepage: https://www.gnu.org/software/libiconv/
 - Package: icoutils
-  Version: 0.32.3
-  Description: Extracts and converts images in MS Windows(R) icon and cursor files.
+  Version: 0.32.3-1
+  Description: Extracts and converts images in MS Windows(R) icon and cursor files
   Homepage: https://www.nongnu.org/icoutils/
 - Package: icu-devtools
   Version: 77.1-1
   Description: Development utilities for International Components for Unicode
   Homepage: http://site.icu-project.org/home
 - Package: id3lib
-  Version: 3.8.3-3
+  Version: 3.8.3-4
   Description: A software library for manipulating ID3v1/v1.1 and ID3v2 tags
-  Homepage: http://id3lib.sourceforge.net/
+  Homepage: https://id3lib.sourceforge.net/
 - Package: id3lib-static
-  Version: 3.8.3-3
+  Version: 3.8.3-4
   Description: Static libraries for id3lib
-  Homepage: http://id3lib.sourceforge.net/
+  Homepage: https://id3lib.sourceforge.net/
 - Package: id3v2
-  Version: 0.1.12-1
+  Version: 0.1.12-2
   Description: A command line id3v2 tag editor
-  Homepage: http://id3v2.sourceforge.net/
+  Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
   Version: 7.1.2.3
   Description: Suite to create, edit, compose, or convert images in a variety of formats
@@ -2915,19 +2911,19 @@
   Description: Library for vector/matrix and math operations, plus the half type
   Homepage: https://imath.readthedocs.io/
 - Package: imgflo
-  Version: 0.4.2-8
+  Version: 0.4.2-9
   Description: HTTP image processing server & Flowhub.io compatible runtime
   Homepage: https://github.com/imgflo/imgflo
 - Package: imlib2
-  Version: 1.12.5
+  Version: 1.12.5-1
   Description: Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support
   Homepage: https://sourceforge.net/projects/enlightenment/
 - Package: imlib2-static
-  Version: 1.12.5
+  Version: 1.12.5-1
   Description: Static libraries for imlib2
   Homepage: https://sourceforge.net/projects/enlightenment/
 - Package: indent
-  Version: 2.2.13
+  Version: 2.2.13-1
   Description: C language source code formatting program
   Homepage: https://www.gnu.org/software/indent/
 - Package: inetutils
@@ -2935,7 +2931,7 @@
   Description: Collection of common network programs
   Homepage: https://www.gnu.org/software/inetutils/
 - Package: influxdb
-  Version: 1.8.10-3
+  Version: 1.8.10-4
   Description: An open source time series database with no external dependencies
   Homepage: https://www.influxdata.com/
 - Package: innoextract
@@ -2943,11 +2939,11 @@
   Description: A tool to unpack installers created by Inno Setup
   Homepage: https://constexpr.org/innoextract/
 - Package: inotify-tools
-  Version: 4.23.9.0
+  Version: 4.23.9.0-1
   Description: Programs providing a simple interface to inotify
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
 - Package: inotify-tools-static
-  Version: 4.23.9.0
+  Version: 4.23.9.0-1
   Description: Static libraries for inotify-tools
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
 - Package: intltool
@@ -2963,19 +2959,19 @@
   Description: Calculates IP broadcast, network, Cisco wildcard mask, and host ranges
   Homepage: http://jodies.de/ipcalc
 - Package: iperf3
-  Version: 3.19.1
+  Version: 3.19.1-1
   Description: TCP, UDP, and SCTP network bandwidth measurement tool
   Homepage: https://github.com/esnet/iperf
 - Package: iperf3-static
-  Version: 3.19.1
+  Version: 3.19.1-1
   Description: Static libraries for iperf3
   Homepage: https://github.com/esnet/iperf
 - Package: ipmitool
-  Version: 1.8.19
+  Version: 1.8.19-1
   Description: Command-line interface to IPMI-enabled devices
   Homepage: https://github.com/ipmitool/ipmitool
 - Package: iproute2
-  Version: 6.16.0
+  Version: 6.16.0-1
   Description: Utilities for controlling networking
   Homepage: https://wiki.linuxfoundation.org/networking/iproute2
 - Package: ipv6calc
@@ -2983,15 +2979,15 @@
   Description: Does some format changes and calculations of IPv6 addresses
   Homepage: https://www.deepspace6.net/projects/ipv6calc.html
 - Package: ipv6toolkit
-  Version: 2022.09.30-2
+  Version: 2022.09.30-3
   Description: SI6 Networks IPv6 Toolkit
   Homepage: https://www.si6networks.com/research/tools/ipv6toolkit/
 - Package: ircd-irc2
-  Version: 2.11.2p3-1
+  Version: 2.11.2p3-2
   Description: An Internet Relay Chat (IRC) daemon
   Homepage: http://www.irc.org/
 - Package: ired
-  Version: 0.6-2
+  Version: 0.6-3
   Description: Minimalist hexadecimal editor
   Homepage: https://github.com/radare/ired
 - Package: irssi
@@ -2999,19 +2995,19 @@
   Description: Terminal based IRC client
   Homepage: https://irssi.org/
 - Package: isync
-  Version: 1.5.1
+  Version: 1.5.1-1
   Description: IMAP and MailDir mailbox synchronizer
   Homepage: http://isync.sourceforge.net
 - Package: iverilog
-  Version: "12.0"
+  Version: 12.0-1
   Description: Icarus Verilog compiler and simulation tool
   Homepage: http://iverilog.icarus.com/
 - Package: iverilog-static
-  Version: "12.0"
+  Version: 12.0-1
   Description: Static libraries for iverilog
   Homepage: http://iverilog.icarus.com/
 - Package: iwyu
-  Version: "0.24"
+  Version: 0.24-1
   Description: 'A tool to analyze #includes in C and C++ source files'
   Homepage: https://include-what-you-use.org/
 - Package: jack
@@ -3019,15 +3015,15 @@
   Description: A metapackage that provides JACK Audio Connection Kit
   Homepage: https://github.com/termux/termux-packages
 - Package: jack-example-tools
-  Version: "4"
+  Version: 4-1
   Description: Official JACK example clients and tools
   Homepage: https://jackaudio.org/
 - Package: jack2
-  Version: 1.9.22-1
+  Version: 1.9.22-2
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.22.2444
+  Version: 0.22.2444-1
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -3059,11 +3055,11 @@
   Description: Static libraries for jbig2enc
   Homepage: https://github.com/agl/jbig2enc
 - Package: jcal
-  Version: 0.5.1
+  Version: 0.5.1-1
   Description: UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar
   Homepage: http://nongnu.org/jcal
 - Package: jcal-static
-  Version: 0.5.1
+  Version: 0.5.1-1
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jfrog-cli
@@ -3075,39 +3071,39 @@
   Description: jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.
   Homepage: https://github.com/Aanok/jftui
 - Package: jhead
-  Version: "3.08"
+  Version: 3.08-1
   Description: Exif Jpeg header manipulation tool
   Homepage: http://www.sentex.net/~mwandel/jhead/
 - Package: jigdo
-  Version: 0.8.2
+  Version: 0.8.2-1
   Description: Distribute large images by sending and receiving the files that make them up
   Homepage: http://atterer.org/jigdo/
 - Package: jira-go
-  Version: 1.0.28-2
+  Version: 1.0.28-3
   Description: Simple jira command line client written in Go
   Homepage: https://github.com/go-jira/jira
 - Package: jless
-  Version: 0.9.0
+  Version: 0.9.0-1
   Description: A command-line JSON viewer designed for reading, exploring, and searching through JSON data.
   Homepage: https://jless.io
 - Package: jo
-  Version: "1.9"
+  Version: 1.9-1
   Description: JSON output from a shell
   Homepage: https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/
 - Package: joe
-  Version: 4.6-3
+  Version: 4.6-4
   Description: Wordstar like text editor
   Homepage: http://joe-editor.sourceforge.net
 - Package: jove
-  Version: 4.17.5.3
+  Version: 4.17.5.3-1
   Description: Jove is a compact, powerful, Emacs-style text-editor.
   Homepage: https://directory.fsf.org/wiki/Jove
 - Package: jp2a
-  Version: 1.3.2
+  Version: 1.3.2-1
   Description: A simple JPEG to ASCII converter
   Homepage: https://github.com/Talinx/jp2a/
 - Package: jpegoptim
-  Version: 1.5.5-1
+  Version: 1.5.5-2
   Description: JPEG optimizer that recompresses image files to a smaller size, without losing any information
   Homepage: https://www.kokkonen.net/tjko/projects.html
 - Package: jq
@@ -3127,15 +3123,15 @@
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
-  Version: 0.18-1
+  Version: 0.18-2
   Description: A JSON implementation in C
   Homepage: https://github.com/json-c/json-c/wiki
 - Package: json-c-static
-  Version: 0.18-1
+  Version: 0.18-2
   Description: Static libraries for json-c
   Homepage: https://github.com/json-c/json-c/wiki
 - Package: json-glib
-  Version: 1.10.6
+  Version: 1.10.6-1
   Description: GLib JSON manipulation library
   Homepage: https://wiki.gnome.org/Projects/JsonGlib
 - Package: jsoncpp
@@ -3150,10 +3146,6 @@
   Version: 0.51.0-3
   Description: Jump helps you navigate in shell faster by learning your habits
   Homepage: https://github.com/gsamokovarov/jump
-- Package: jupp
-  Version: 3.1jupp41-1
-  Description: User friendly full screen text editor
-  Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
   Version: 1.42.4
   Description: A handy way to save and run project-specific commands
@@ -5467,7 +5459,7 @@
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
 - Package: libssh
-  Version: 0.11.2-1
+  Version: 0.11.3
   Description: Tiny C SSH library
   Homepage: https://www.libssh.org/
 - Package: libssh2
@@ -7255,7 +7247,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 26.20.1
+  Version: 26.21.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -10563,7 +10555,7 @@
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
-  Version: 0.56-1
+  Version: "0.57"
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
