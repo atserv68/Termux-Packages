@@ -603,7 +603,7 @@
 | **gnucobol-static** | 3.2-2 | Static libraries for gnucobol | https://gnucobol.sourceforge.io/ |
 | **gnugo** | 3.8-6 | Program that plays the game of Go | https://www.gnu.org/software/gnugo/ |
 | **gnuit** | 4.9.5-1 | gnuit - GNU Interactive Tools | https://www.gnu.org/software/gnuit/ |
-| **gnunet** | 0.24.3-1 | A framework for secure peer-to-peer networking | https://gnunet.org |
+| **gnunet** | 0.25.0 | A framework for secure peer-to-peer networking | https://gnunet.org |
 | **gnupg** | 2.5.11 | Implementation of the OpenPGP standard for encrypting and signing data and communication | https://www.gnupg.org/ |
 | **gnuplot** | 6.0.3-1 | Command-line driven graphing utility | http://gnuplot.info/ |
 | **gnurl** | 7.72.0-1 | Fork of libcurl, which is mostly for GNUnet | https://gnunet.org/en/gnurl.html |
@@ -773,7 +773,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.23.38-1 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.23.43 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.3 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.3 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.39.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -844,7 +844,7 @@
 | **leveldb** | 1.23-4 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 2.5.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-5 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
-| **lf** | 37 | Terminal file manager | https://github.com/gokcehan/lf |
+| **lf** | 38 | Terminal file manager | https://github.com/gokcehan/lf |
 | **lftp** | 4.9.2-7 | FTP/HTTP client and file transfer program | https://lftp.tech/ |
 | **lftp-static** | 4.9.2-7 | Static libraries for lftp | https://lftp.tech/ |
 | **lgogdownloader** | 3.17-2 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
@@ -1896,7 +1896,7 @@
 | **oxc-language-server** | 1.14.0-1 | Oxc JavaScript linter language server | https://oxc.rs/ |
 | **oxfmt** | 1.14.0-1 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxlint** | 1.14.0-1 | Oxc JavaScript linter | https://oxc.rs/ |
-| **p11-kit** | 0.25.8 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
+| **p11-kit** | 0.25.9 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.0.0-4 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-5 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
@@ -2416,7 +2416,7 @@
 | **termux-tools** | 1.46.0+really1.45.0-1 | Basic system tools for Termux | https://termux.dev/ |
 | **teseq** | 1.1.1-2 | Tool for analyzing control characters and terminal control sequences | https://www.gnu.org/software/teseq/ |
 | **tesseract** | 5.5.1-1 | Tesseract is probably the most accurate open source OCR engine available | https://github.com/tesseract-ocr/tesseract |
-| **testssl.sh** | 3.2.1 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
+| **testssl.sh** | 3.2.2 | Testing TLS/SSL encryption anywhere on any port. | https://testssl.sh/ |
 | **tex-gyre** | 2.501-1 | The TeX Gyre (TG) Collection of Fonts | https://www.gust.org.pl/projects/e-foundry/tex-gyre/ |
 | **texinfo** | 7.2-3 | Documentation system for on-line information and printed output | https://www.gnu.org/software/texinfo/ |
 | **texlab** | 5.23.1-1 | A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system | https://texlab.netlify.app/ |
