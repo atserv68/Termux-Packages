@@ -456,9 +456,9 @@
 | **fastfetch** | 2.53.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640-1 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
-| **faust** | 2.81.2-1 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
-| **faust-static** | 2.81.2-1 | Static libraries for faust | https://github.com/grame-cncm/faust |
-| **faustlibraries** | 2.81.2-1 | Faust DSP libraries | https://github.com/grame-cncm/faust |
+| **faust** | 2.81.8 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
+| **faust-static** | 2.81.8 | Static libraries for faust | https://github.com/grame-cncm/faust |
+| **faustlibraries** | 2.81.8 | Faust DSP libraries | https://github.com/grame-cncm/faust |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.1-3 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
 | **fd** | 10.3.0-1 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
