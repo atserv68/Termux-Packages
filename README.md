@@ -456,9 +456,9 @@
 | **fastfetch** | 2.53.0-1 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.6.5.640-1 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
-| **faust** | 2.81.8 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
-| **faust-static** | 2.81.8 | Static libraries for faust | https://github.com/grame-cncm/faust |
-| **faustlibraries** | 2.81.8 | Faust DSP libraries | https://github.com/grame-cncm/faust |
+| **faust** | 2.81.10 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
+| **faust-static** | 2.81.10 | Static libraries for faust | https://github.com/grame-cncm/faust |
+| **faustlibraries** | 2.81.10 | Faust DSP libraries | https://github.com/grame-cncm/faust |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.1-3 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
 | **fd** | 10.3.0-1 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
@@ -692,7 +692,7 @@
 | **helix-grammars** | 25.07.1-1 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.2 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
 | **helm** | 3.19.0 | Helm helps you manage Kubernetes applications | https://helm.sh |
-| **helm-ls** | 0.5.0-1 | Language server for Helm | https://github.com/mrjosh/helm-ls |
+| **helm-ls** | 0.5.1 | Language server for Helm | https://github.com/mrjosh/helm-ls |
 | **help2man** | 1.49.3 | Conversion tool to create man files | https://www.gnu.org/software/help2man/ |
 | **hexcurse** | 1.60.0-7 | Console hexeditor | https://github.com/LonnyGomes/hexcurse |
 | **hexedit** | 1.6-1 | view and edit files in hexadecimal or in ASCII | http://rigaux.org/hexedit.html |
@@ -1974,7 +1974,7 @@
 | **pkg-config** | 0.29.2-3 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 25 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
-| **plantuml** | 1.2025.7 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
+| **plantuml** | 1.2025.8 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-2 | Simple command line audio player for Android | https://github.com/termux/play-audio |
 | **plutolang** | 0.11.3 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
 | **plzip** | 1.12-1 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |

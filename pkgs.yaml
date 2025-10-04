@@ -1783,15 +1783,15 @@
   Description: A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions
   Homepage: https://fatsort.sourceforge.io/
 - Package: faust
-  Version: 2.81.8
+  Version: 2.81.10
   Description: A functional programming language for signal processing and sound synthesis
   Homepage: https://github.com/grame-cncm/faust
 - Package: faust-static
-  Version: 2.81.8
+  Version: 2.81.10
   Description: Static libraries for faust
   Homepage: https://github.com/grame-cncm/faust
 - Package: faustlibraries
-  Version: 2.81.8
+  Version: 2.81.10
   Description: Faust DSP libraries
   Homepage: https://github.com/grame-cncm/faust
 - Package: fclones
@@ -2727,7 +2727,7 @@
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
-  Version: 0.5.0-1
+  Version: 0.5.1
   Description: Language server for Helm
   Homepage: https://github.com/mrjosh/helm-ls
 - Package: help2man
@@ -7855,7 +7855,7 @@
   Description: Interactive package manager and resource monitor
   Homepage: https://github.com/orhun/pkgtop
 - Package: plantuml
-  Version: 1.2025.7
+  Version: 1.2025.8
   Description: Draws UML diagrams, using a simple and human readable text description
   Homepage: https://plantuml.com/
 - Package: play-audio
