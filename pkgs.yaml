@@ -659,7 +659,7 @@
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
-  Version: 1.49.1
+  Version: 1.51.0
   Description: A better way to navigate directories
   Homepage: https://github.com/Canop/broot
 - Package: brotli
@@ -9003,7 +9003,7 @@
   Description: A simple heat transfer simulator in pure Rust
   Homepage: https://github.com/file-acomplaint/simuwaerm
 - Package: sing-box
-  Version: 1.12.8
+  Version: 1.12.9
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate

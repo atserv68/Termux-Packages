@@ -991,7 +991,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.49.1",
+    "Version": "1.51.0",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -13507,7 +13507,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.12.8",
+    "Version": "1.12.9",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
