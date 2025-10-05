@@ -6739,13 +6739,13 @@
   },
   {
     "Package": "liblo",
-    "Version": "0.32-1",
+    "Version": "0.33",
     "Description": "A lightweight library that provides an easy to use implementation of the OSC protocol",
     "Homepage": "https://liblo.sourceforge.net/"
   },
   {
     "Package": "liblo-static",
-    "Version": "0.32-1",
+    "Version": "0.33",
     "Description": "Static libraries for liblo",
     "Homepage": "https://liblo.sourceforge.net/"
   },
@@ -15889,7 +15889,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "25.5.31-2",
+    "Version": "25.5.31-3",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
