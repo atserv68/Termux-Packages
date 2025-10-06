@@ -719,7 +719,7 @@
   Description: Library for asynchronous DNS requests (including name resolves)
   Homepage: https://c-ares.org/
 - Package: c-script
-  Version: "0.14"
+  Version: 0.15.0
   Description: Compile and execute C scripts in one go!
   Homepage: https://github.com/ryanmjacobs/c
 - Package: c-toxcore
@@ -9299,7 +9299,7 @@
   Description: Tool for managing the installation of multiple software packages into a single directory
   Homepage: https://www.gnu.org/software/stow/
 - Package: strace
-  Version: "6.16"
+  Version: "6.17"
   Description: Debugging utility to monitor system calls and signals received
   Homepage: https://strace.io/
 - Package: streamripper
@@ -10695,7 +10695,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 1.1.7
+  Version: 1.1.8
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zsh

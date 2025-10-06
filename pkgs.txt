@@ -178,7 +178,7 @@
  byobu  6.13  Byobu is a GPLv3 open source text-based window manager and terminal multiplexer  https://www.byobu.org/ 
  bzip2  1.0.8-8  Tools for working with bzip2 compression  http://www.bzip.org/ 
  c-ares  1.34.5-1  Library for asynchronous DNS requests (including name resolves)  https://c-ares.org/ 
- c-script  0.14  Compile and execute C "scripts" in one go!  https://github.com/ryanmjacobs/c 
+ c-script  0.15.0  Compile and execute C 'scripts' in one go!  https://github.com/ryanmjacobs/c 
  c-toxcore  0.2.20-p20250105-1  Backend library for the Tox protocol  https://tox.chat 
  c-toxcore-static  0.2.20-p20250105-1  Static libraries for c-toxcore  https://tox.chat 
  ca-certificates  1:2025.09.09  Common CA certificates  https://curl.se/docs/caextract.html 
@@ -2323,7 +2323,7 @@
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
  storj-uplink  1.136.4  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
- strace  6.16  Debugging utility to monitor system calls and signals received  https://strace.io/ 
+ strace  6.17  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
  stunnel  5.75-1  Socket wrapper which can provide TLS support to ordinary applications  https://www.stunnel.org/ 
  stunnel-static  5.75-1  Static libraries for stunnel  https://www.stunnel.org/ 
@@ -2672,7 +2672,7 @@
  zopfli  1.0.3-5  New zlib compatible compressor tools  https://github.com/google/zopfli 
  zoxide  0.9.8-2  A faster way to navigate your filesystem  https://github.com/ajeetdsouza/zoxide 
  zpaq  7.15-1  Programmable file compressor, library and utilities. Based on the PAQ compression algorithm  http://mattmahoney.net/dc/zpaq.html 
- zrok  1.1.7  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
+ zrok  1.1.8  An open source sharing solution built on OpenZiti.  https://zrok.io/ 
  zsh  5.9-9  Shell with lots of features  https://www.zsh.org 
  zsh-completions  0.35.0  Additional completion definitions for Zsh  https://github.com/zsh-users/zsh-completions 
  zssh  1.5c-1  A program for interactively transferring files to a remote machine while using the secure shell (ssh)  http://zssh.sourceforge.net/ 

@@ -1081,7 +1081,7 @@
   },
   {
     "Package": "c-script",
-    "Version": "0.14",
+    "Version": "0.15.0",
     "Description": "Compile and execute C scripts in one go!",
     "Homepage": "https://github.com/ryanmjacobs/c"
   },
@@ -13951,7 +13951,7 @@
   },
   {
     "Package": "strace",
-    "Version": "6.16",
+    "Version": "6.17",
     "Description": "Debugging utility to monitor system calls and signals received",
     "Homepage": "https://strace.io/"
   },
@@ -16045,7 +16045,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "1.1.7",
+    "Version": "1.1.8",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
