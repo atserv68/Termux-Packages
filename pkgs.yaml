@@ -1339,7 +1339,7 @@
   Description: Camera RAW to DNG file format converter
   Homepage: https://github.com/dnglab/dnglab
 - Package: dnote
-  Version: 1:0.15.1-1
+  Version: 1:0.15.2
   Description: A simple command line notebook for programmers
   Homepage: https://www.getdnote.com/
 - Package: dnote-server
@@ -1919,7 +1919,7 @@
   Description: Static libraries for flex
   Homepage: https://github.com/westes/flex
 - Package: fluidsynth
-  Version: 2.4.8
+  Version: 2.5.0
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: fm
@@ -2559,11 +2559,11 @@
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
-  Version: 14.0.0
+  Version: 14.0.1
   Description: Rich set of graph drawing tools
   Homepage: https://www.graphviz.org/
 - Package: graphviz-static
-  Version: 14.0.0
+  Version: 14.0.1
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed

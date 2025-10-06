@@ -2011,7 +2011,7 @@
   },
   {
     "Package": "dnote",
-    "Version": "1:0.15.1-1",
+    "Version": "1:0.15.2",
     "Description": "A simple command line notebook for programmers",
     "Homepage": "https://www.getdnote.com/"
   },
@@ -2881,7 +2881,7 @@
   },
   {
     "Package": "fluidsynth",
-    "Version": "2.4.8",
+    "Version": "2.5.0",
     "Description": "Software synthesizer based on the SoundFont 2 specifications",
     "Homepage": "https://github.com/FluidSynth/fluidsynth"
   },
@@ -3841,13 +3841,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "14.0.0",
+    "Version": "14.0.1",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "14.0.0",
+    "Version": "14.0.1",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
