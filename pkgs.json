@@ -1081,7 +1081,7 @@
   },
   {
     "Package": "c-script",
-    "Version": "0.15.0",
+    "Version": "0.15.1",
     "Description": "Compile and execute C scripts in one go!",
     "Homepage": "https://github.com/ryanmjacobs/c"
   },

@@ -190,7 +190,7 @@
 | **byobu** | 6.13 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.34.5-1 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
-| **c-script** | 0.15.0 | Compile and execute C 'scripts' in one go! | https://github.com/ryanmjacobs/c |
+| **c-script** | 0.15.1 | Compile and execute C 'scripts' in one go! | https://github.com/ryanmjacobs/c |
 | **c-toxcore** | 0.2.20-p20250105-1 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.20-p20250105-1 | Static libraries for c-toxcore | https://tox.chat |
 | **ca-certificates** | 1:2025.09.09 | Common CA certificates | https://curl.se/docs/caextract.html |
