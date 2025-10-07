@@ -1165,7 +1165,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.5.1",
+    "Version": "1.5.2",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -1591,7 +1591,7 @@
   },
   {
     "Package": "coreutils",
-    "Version": "9.7-3",
+    "Version": "9.8",
     "Description": "Basic file, shell and text manipulation utilities from the GNU project",
     "Homepage": "https://www.gnu.org/software/coreutils/"
   },
