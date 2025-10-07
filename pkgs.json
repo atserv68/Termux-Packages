@@ -3427,7 +3427,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.72.0",
+    "Version": "1.73.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -10213,7 +10213,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.4.1",
+    "Version": "2.5.0",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -13729,7 +13729,7 @@
   },
   {
     "Package": "spirv-headers",
-    "Version": "1.4.321.0",
+    "Version": "1.4.328.0",
     "Description": "SPIR-V Headers",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Headers"
   },
@@ -13741,7 +13741,7 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.321.0-2",
+    "Version": "1.4.328.0",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
@@ -14641,7 +14641,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.8.18",
+    "Version": "0.4.8.19",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
