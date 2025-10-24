@@ -2521,25 +2521,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "4.0.17",
+    "Version": "4.0.18",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "4.0.17",
+    "Version": "4.0.18",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "4.0.17",
+    "Version": "4.0.18",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "4.0.17",
+    "Version": "4.0.18",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -15493,7 +15493,7 @@
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.329",
+    "Version": "1.4.330",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },
