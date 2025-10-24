@@ -1755,7 +1755,7 @@
   Description: Open source xHE-AAC encoder
   Homepage: https://gitlab.com/ecodis/exhale
 - Package: exiftool
-  Version: "13.39"
+  Version: "13.40"
   Description: Utility for reading, writing and editing meta information in a wide variety of files.
   Homepage: https://exiftool.org/
 - Package: exiv2
@@ -2851,7 +2851,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.152.1
+  Version: 0.152.2
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -10099,11 +10099,11 @@
   Description: 'UTF8-CPP: UTF-8 with C++ in a Portable Way'
   Homepage: https://github.com/nemtrif/utfcpp
 - Package: utf8proc
-  Version: 2.10.0-1
+  Version: 2.11.0
   Description: Library for processing UTF-8 Unicode data
   Homepage: https://github.com/JuliaLang/utf8proc
 - Package: utf8proc-static
-  Version: 2.10.0-1
+  Version: 2.11.0
   Description: Static libraries for utf8proc
   Homepage: https://github.com/JuliaLang/utf8proc
 - Package: utfdecode
@@ -10283,7 +10283,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2025.10.21
+  Version: 2025.10.24
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -10315,15 +10315,15 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.329
+  Version: 1.4.330
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.329
+  Version: 1.4.330
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.329
+  Version: 1.4.330
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers

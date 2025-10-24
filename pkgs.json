@@ -2635,7 +2635,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.39",
+    "Version": "13.40",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -4279,7 +4279,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.152.1",
+    "Version": "0.152.2",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -15151,13 +15151,13 @@
   },
   {
     "Package": "utf8proc",
-    "Version": "2.10.0-1",
+    "Version": "2.11.0",
     "Description": "Library for processing UTF-8 Unicode data",
     "Homepage": "https://github.com/JuliaLang/utf8proc"
   },
   {
     "Package": "utf8proc-static",
-    "Version": "2.10.0-1",
+    "Version": "2.11.0",
     "Description": "Static libraries for utf8proc",
     "Homepage": "https://github.com/JuliaLang/utf8proc"
   },
@@ -15427,7 +15427,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2025.10.21",
+    "Version": "2025.10.24",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -15475,19 +15475,19 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.329",
+    "Version": "1.4.330",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.329",
+    "Version": "1.4.330",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.329",
+    "Version": "1.4.330",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
