@@ -3247,7 +3247,7 @@
   Description: keychain ssh-agent front-end
   Homepage: https://www.funtoo.org/Keychain
 - Package: kibi
-  Version: 0.2.2-3
+  Version: 0.3.0
   Description: A tiny terminal text editor, written in Rust
   Homepage: https://github.com/ilai-deutel/kibi
 - Package: kiwix-tools
