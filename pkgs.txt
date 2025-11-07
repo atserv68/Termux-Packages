@@ -388,7 +388,7 @@
  dtc-static  1.7.2-2  Static libraries for dtc  https://git.kernel.org/pub/scm/utils/dtc/dtc 
  dte  1.11.1-2  A small, configurable console text editor  https://craigbarnes.gitlab.io/dte/ 
  dua  2.32.2  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
- duc  1.4.5-1  High-performance disk usage analyzer  http://duc.zevv.nl/ 
+ duc  1.4.6  High-performance disk usage analyzer  http://duc.zevv.nl/ 
  duckdb  1.4.1  DuckDB Command Line Interface (CLI) shell  https://duckdb.org/ 
  duf  0.9.1  Disk usage/free utility  https://github.com/muesli/duf 
  dufs  0.45.0  A file server that supports static serving, uploading, searching, accessing control, webdav...  https://github.com/sigoden/dufs 

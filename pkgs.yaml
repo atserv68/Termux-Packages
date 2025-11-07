@@ -1559,7 +1559,7 @@
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
-  Version: 1.4.5-1
+  Version: 1.4.6
   Description: High-performance disk usage analyzer
   Homepage: http://duc.zevv.nl/
 - Package: duckdb
