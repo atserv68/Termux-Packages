@@ -2203,7 +2203,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.83.1
+  Version: 2.83.1-1
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc

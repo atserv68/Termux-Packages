@@ -561,7 +561,7 @@
 | **gflags** | 2.2.2-11 | A C++ library that implements commandline flags processing | https://github.com/gflags/gflags |
 | **gflags-static** | 2.2.2-11 | Static libraries for gflags | https://github.com/gflags/gflags |
 | **gforth** | 0.7.3-3 | The Forth implementation of the GNU project | https://www.gnu.org/software/gforth/ |
-| **gh** | 2.83.1 | GitHub’s official command line tool | https://cli.github.com/ |
+| **gh** | 2.83.1-1 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2-2 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.05.1-2 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
 | **giflib** | 5.2.2-1 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
