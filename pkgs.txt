@@ -193,7 +193,7 @@
  capnproto  1.2.0-1  Data interchange format and capability-based RPC system  https://capnproto.org/ 
  capstone  5.0.6-1  Lightweight multi-platform, multi-architecture disassembly framework  https://www.capstone-engine.org/ 
  capstone-static  5.0.6-1  Static libraries for capstone  https://www.capstone-engine.org/ 
- carapace  1.5.4  Multi-shell multi-command argument completer  https://carapace.sh/ 
+ carapace  1.5.5  Multi-shell multi-command argument completer  https://carapace.sh/ 
  cargo-c  0.10.18  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-leptos  0.2.47  Build tool for the Rust framework Leptos  https://github.com/leptos-rs/cargo-leptos 
  catdoc  0.95-2  Program which reads MS-Word file and prints readable ASCII text to stdout  http://www.wagner.pp.ru/~vitus/software/catdoc/ 
@@ -2079,8 +2079,8 @@
  pyunbound  1.24.1-1  Python bindings for Unbound  https://unbound.net/ 
  pzstd  1.5.7-1  A Pigz-like tool for Zstandard  https://github.com/facebook/zstd 
  q-dns-client  0.19.11  A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH  https://github.com/natesales/q 
- qalc  5.8.1  Powerful and easy to use command line calculator  https://qalculate.github.io/ 
- qalc-static  5.8.1  Static libraries for qalc  https://qalculate.github.io/ 
+ qalc  5.8.2  Powerful and easy to use command line calculator  https://qalculate.github.io/ 
+ qalc-static  5.8.2  Static libraries for qalc  https://qalculate.github.io/ 
  qemu-common  1:8.2.10  A set common files used by the QEMU emulators  https://www.qemu.org 
  qemu-system-aarch64-headless  1:8.2.10  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
  qemu-system-arm-headless  1:8.2.10  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
@@ -2331,7 +2331,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.141.4  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.142.3  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  6.17  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 

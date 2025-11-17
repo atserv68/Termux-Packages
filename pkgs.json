@@ -1171,7 +1171,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.5.4",
+    "Version": "1.5.5",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -12487,13 +12487,13 @@
   },
   {
     "Package": "qalc",
-    "Version": "5.8.1",
+    "Version": "5.8.2",
     "Description": "Powerful and easy to use command line calculator",
     "Homepage": "https://qalculate.github.io/"
   },
   {
     "Package": "qalc-static",
-    "Version": "5.8.1",
+    "Version": "5.8.2",
     "Description": "Static libraries for qalc",
     "Homepage": "https://qalculate.github.io/"
   },
@@ -13999,7 +13999,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.141.4",
+    "Version": "1.142.3",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
