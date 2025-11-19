@@ -257,8 +257,8 @@
 | **cloudflared** | 2025.11.1 | A tunneling daemon that proxies traffic from the Cloudflare network to your origins | https://github.com/cloudflare/cloudflared |
 | **clpeak** | 1.1.5 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clvk** | 0.0.20251107.020807 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 4.1.2 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 4.1.2 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 4.1.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 4.1.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.1-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmark-static** | 0.31.1-1 | Static libraries for cmark | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
@@ -588,8 +588,8 @@
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.77.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.13.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
-| **glib** | 2.86.1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
-| **glib-cross** | 2.86.1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
+| **glib** | 2.86.2 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
+| **glib-cross** | 2.86.2 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.80.1-1 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 1.0.1 | C++ mathematics library for graphics software based on the GLSL specifications | https://glm.g-truc.net/ |
@@ -1244,7 +1244,7 @@
 | **libnpth-static** | 1.6-3 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.38.2 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.38.2 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
-| **libnss** | 3.117 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **libnss** | 3.118.1 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.5.1-1 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.5.1-1 | Static libraries for libntl | https://libntl.org |
 | **libobjc2** | 2.3-1 | The GNUstep Objective-C runtime | https://www.gnustep.org/ |
@@ -1829,7 +1829,7 @@
 | **nsis** | 3.11-1 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.11-1 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-7 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
-| **nss-utils** | 3.117 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **nss-utils** | 3.118.1 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 6.0.0 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **nushell** | 0.108.0 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
