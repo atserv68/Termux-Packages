@@ -6499,11 +6499,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:12.0.2
+  Version: 2:12.1.2
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:12.0.2
+  Version: 2:12.1.2
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
@@ -6603,7 +6603,7 @@
   Description: A preprocessor for mdbook to add a open-on-github link on every page
   Homepage: https://github.com/badboy/mdbook-open-on-gh
 - Package: mdbook-pikchr
-  Version: 0.1.9-1
+  Version: 0.2.0
   Description: A mdbook preprocessor to render pikchr code blocks as images in your book
   Homepage: https://github.com/podsvirov/mdbook-pikchr
 - Package: mdbook-plantuml

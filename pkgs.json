@@ -9751,13 +9751,13 @@
   },
   {
     "Package": "mariadb",
-    "Version": "2:12.0.2",
+    "Version": "2:12.1.2",
     "Description": "A drop-in replacement for mysql server",
     "Homepage": "https://mariadb.org"
   },
   {
     "Package": "mariadb-static",
-    "Version": "2:12.0.2",
+    "Version": "2:12.1.2",
     "Description": "Static libraries for mariadb",
     "Homepage": "https://mariadb.org"
   },
@@ -9907,7 +9907,7 @@
   },
   {
     "Package": "mdbook-pikchr",
-    "Version": "0.1.9-1",
+    "Version": "0.2.0",
     "Description": "A mdbook preprocessor to render pikchr code blocks as images in your book",
     "Homepage": "https://github.com/podsvirov/mdbook-pikchr"
   },

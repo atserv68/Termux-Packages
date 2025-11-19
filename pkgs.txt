@@ -1623,8 +1623,8 @@
  mangal  4.0.6-3  Cli manga downloader  https://github.com/metafates/mangal 
  manpages  6.16-1  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
  mapserver  8.2.2-3  MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web  https://mapserver.org/ 
- mariadb  2:12.0.2  A drop-in replacement for mysql server  https://mariadb.org 
- mariadb-static  2:12.0.2  Static libraries for mariadb  https://mariadb.org 
+ mariadb  2:12.1.2  A drop-in replacement for mysql server  https://mariadb.org 
+ mariadb-static  2:12.1.2  Static libraries for mariadb  https://mariadb.org 
  marisa  0.3.1-1  Matching Algorithm with Recursively Implemented StorAge  https://github.com/s-yata/marisa-trie 
  markdown-flashcards  2.0.1  Small CLI app to learn with flashcards and spaced repetition  https://github.com/bttger/markdown-flashcards 
  marksman  2024.12.18  LSP language server for editing Markdown files  https://github.com/artempyanykh/marksman 
@@ -1649,7 +1649,7 @@
  mdbook-linkcheck  0.7.7-2  A backend for mdbook which will check your links for you  https://michael-f-bryan.github.io/mdbook-linkcheck/ 
  mdbook-mermaid  0.17.0  A preprocessor for mdbook to add mermaid support  https://github.com/badboy/mdbook-mermaid 
  mdbook-open-on-gh  3.0.0  A preprocessor for mdbook to add a open-on-github link on every page  https://github.com/badboy/mdbook-open-on-gh 
- mdbook-pikchr  0.1.9-1  A mdbook preprocessor to render pikchr code blocks as images in your book  https://github.com/podsvirov/mdbook-pikchr 
+ mdbook-pikchr  0.2.0  A mdbook preprocessor to render pikchr code blocks as images in your book  https://github.com/podsvirov/mdbook-pikchr 
  mdbook-plantuml  0.8.0-3  mdBook preprocessor to render PlantUML code blocks as images in your book  https://github.com/sytsereitsma/mdbook-plantuml 
  mdbook-presentation-preprocessor  0.3.1-2  A preprocessor for utilizing an MDBook as slides for a presentation  https://github.com/FreeMasen/mdbook-presentation-preprocessor 
  mdbook-svgbob  0.2.2-1  SvgBob mdbook preprocessor which swaps code-blocks with neat SVG  https://github.com/boozook/mdbook-svgbob 
