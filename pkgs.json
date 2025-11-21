@@ -2953,7 +2953,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "13.0.2",
+    "Version": "13.0.3",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -8533,7 +8533,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.2",
+    "Version": "0.16.3",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -8545,7 +8545,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.2",
+    "Version": "0.16.3",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -12259,7 +12259,7 @@
   },
   {
     "Package": "python-cmake",
-    "Version": "4.1.0-1",
+    "Version": "4.2.0",
     "Description": "Python wrapper for CMake",
     "Homepage": "https://cmake-python-distributions.readthedocs.io/"
   },
@@ -15505,7 +15505,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.333",
+    "Version": "1.4.334",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
