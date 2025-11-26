@@ -9743,11 +9743,11 @@
   Description: Flexible, screen-oriented MUD client, for use with any type of MUD
   Homepage: https://tinyfugue.sourceforge.net/
 - Package: tinygo
-  Version: 0.39.0
+  Version: 0.39.0-1
   Description: Go compiler for microcontrollers, WASM, CLI tools
   Homepage: https://tinygo.org
 - Package: tinygo-common
-  Version: 0.39.0
+  Version: 0.39.0-1
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinyproxy
