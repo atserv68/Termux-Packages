@@ -211,7 +211,7 @@
 | **cargo-leptos** | 0.3.0 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a-1 | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
-| **catimg** | 2.7.0-1 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
+| **catimg** | 2.8.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
 | **cava** | 0.10.6 | Console-based Audio Visualizer. Works with MPD and Pulseaudio | https://github.com/karlstav/cava |
 | **cavez-of-phear** | 0.6.2 | A Boulder Dash like game for consoles/terminals | https://github.com/AMDmi3/cavezofphear |
 | **cavif-rs** | 1.5.6 | AVIF image creator in pure Rust | https://lib.rs/cavif |

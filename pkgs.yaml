@@ -803,7 +803,7 @@
   Description: A TLS-only terminal IRC client
   Homepage: https://git.causal.agency/catgirl
 - Package: catimg
-  Version: 2.7.0-1
+  Version: 2.8.0
   Description: Renders images in the terminal
   Homepage: https://posva.net/shell/retro/bash/2013/05/27/catimg
 - Package: cava
