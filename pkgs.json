@@ -12229,7 +12229,7 @@
   },
   {
     "Package": "python-apsw",
-    "Version": "3.51.0.0",
+    "Version": "3.51.1.0",
     "Description": "Another Python SQLite Wrapper",
     "Homepage": "https://rogerbinns.github.io/apsw/"
   },

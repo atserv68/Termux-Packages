@@ -2036,7 +2036,7 @@
  pypy3-tkinter  7.3.19-1  Tkinter support for PyPy 3  https://pypy.org 
  pystring  1.1.4-1  C++ functions matching the interface and behavior of python string methods with std::string  https://github.com/imageworks/pystring 
  python  3.12.12  Python 3 programming language intended to enable clear programs  https://python.org/ 
- python-apsw  3.51.0.0  Another Python SQLite Wrapper  https://rogerbinns.github.io/apsw/ 
+ python-apsw  3.51.1.0  Another Python SQLite Wrapper  https://rogerbinns.github.io/apsw/ 
  python-apt  3.0.0-1  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  5.0.0  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-brotli  1.2.0  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
