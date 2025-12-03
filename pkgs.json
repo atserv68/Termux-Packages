@@ -9403,25 +9403,25 @@
   },
   {
     "Package": "llvm-mingw-w64",
-    "Version": "20251007",
+    "Version": "20251007-1",
     "Description": "MinGW-w64 toolchain based on LLVM",
     "Homepage": "https://github.com/mstorsjo/llvm-mingw"
   },
   {
     "Package": "llvm-mingw-w64-libcompiler-rt",
-    "Version": "20251007",
+    "Version": "20251007-1",
     "Description": "Compiler runtime libraries for LLVM-MinGW",
     "Homepage": "https://github.com/mstorsjo/llvm-mingw"
   },
   {
     "Package": "llvm-mingw-w64-tools",
-    "Version": "12.0.0-1",
+    "Version": "12.0.0-2",
     "Description": "MinGW-w64 tools for LLVM-MinGW",
     "Homepage": "https://github.com/mstorsjo/llvm-mingw"
   },
   {
     "Package": "llvm-mingw-w64-ucrt",
-    "Version": "20251007",
+    "Version": "20251007-1",
     "Description": "MinGW-w64 runtime for LLVM-MinGW",
     "Homepage": "https://github.com/mstorsjo/llvm-mingw"
   },
@@ -10921,7 +10921,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.109.0",
+    "Version": "0.109.1",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -11875,7 +11875,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.34.0",
+    "Version": "0.34.1",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
