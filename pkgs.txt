@@ -1216,8 +1216,8 @@
  libnfc  1.8.0-2  Free/Libre Near Field Communication (NFC) library  https://github.com/nfc-tools/libnfc 
  libnfc-static  1.8.0-2  Static libraries for libnfc  https://github.com/nfc-tools/libnfc 
  libnfs  6.0.2-2  NFS client library  https://github.com/sahlberg/libnfs 
- libnftnl  1.3.0  Netfilter library providing interface to the nf_tables subsystem  https://www.netfilter.org/projects/libnftnl/ 
- libnftnl-static  1.3.0  Static libraries for libnftnl  https://www.netfilter.org/projects/libnftnl/ 
+ libnftnl  1.3.1  Netfilter library providing interface to the nf_tables subsystem  https://www.netfilter.org/projects/libnftnl/ 
+ libnftnl-static  1.3.1  Static libraries for libnftnl  https://www.netfilter.org/projects/libnftnl/ 
  libnghttp2  1.68.0  nghttp HTTP 2.0 library  https://nghttp2.org/ 
  libnghttp2-static  1.68.0  Static libraries for libnghttp2  https://nghttp2.org/ 
  libnghttp3  1.13.1  HTTP/3 library written in C  https://nghttp2.org/nghttp3/ 
@@ -1879,7 +1879,7 @@
  openssl-static  1:3.6.0  Static libraries for openssl  https://www.openssl.org/ 
  openssl-tool  1:3.6.0  The openssl command line cryptographic tool  https://www.openssl.org/ 
  opentimelineio  0.18.1  Open Source API and interchange format for editorial timeline information.  http://opentimeline.io/ 
- openxr  1.1.53-1  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
+ openxr  1.1.54  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
  optipng  7.9.1-1  PNG optimizer that recompresses image files to a smaller size, without losing any information  https://optipng.sourceforge.net/ 
  opus-tools  0.2-4  Utilities to encode and decode .opus files  https://www.opus-codec.org/ 
  opusfile  0.12-4  A high-level API for decoding and seeking within .opus files  https://www.opus-codec.org/ 
@@ -2331,7 +2331,7 @@
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
  stone  2.4-3  A TCP/IP repeater in the application layer  https://www.gcd.org/sengoku/stone/ 
- storj-uplink  1.142.4  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
+ storj-uplink  1.143.2  Storj DCS Uplink CLI  https://www.storj.io/integrations/uplink-cli 
  stow  2.4.1  Tool for managing the installation of multiple software packages into a single directory  https://www.gnu.org/software/stow/ 
  strace  6.17  Debugging utility to monitor system calls and signals received  https://strace.io/ 
  streamripper  1.64.6-3  Records and splits streaming mp3 into tracks  https://streamripper.sourceforge.net/ 
@@ -2495,7 +2495,7 @@
  tvheadend-data  4.2.8-12  Platform-independent data for tvheadend  https://tvheadend.org/ 
  tweego  2.1.1-4  A free command line compiler for Twine/Twee story formats  https://bitbucket.org/tmedwards/tweego 
  twolame  0.4.0-1  The frontend for libtwolame  https://www.twolame.org/ 
- typst  0.14.0  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
+ typst  0.14.1  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
  typstfmt  0.2.10-1  basic formatter for the Typst language  https://github.com/astrale-sharp/typstfmt 
  uchardet  0.0.8-2  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 
  udftools  2.3-1  Linux tools for UDF filesystems and DVD/CD-R(W) drives  https://github.com/pali/udftools 
@@ -2571,7 +2571,7 @@
  vlc-static  3.0.21-12  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-4  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3-1  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2025.11.29  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2025.12.03  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20241208-1  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vtutils  0.5-5  Utilities for testing and working with virtual terminals  https://github.com/fornwall/vtutils 
  vulkan-extension-layer  1.4.333  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
@@ -2587,7 +2587,7 @@
  w3m  0.5.5  Text based Web browser and pager  https://w3m.sourceforge.net/ 
  w3m-img  0.5.5  Inline image extension support utilities for w3m  https://w3m.sourceforge.net/ 
  wabt  1.0.39  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  1.131.0  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  1.132.0  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wasi-libc  27  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
  wasm-component-ld  0.5.19  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
