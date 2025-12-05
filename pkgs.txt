@@ -1222,10 +1222,10 @@
  libnghttp2-static  1.68.0  Static libraries for libnghttp2  https://nghttp2.org/ 
  libnghttp3  1.13.1  HTTP/3 library written in C  https://nghttp2.org/nghttp3/ 
  libnghttp3-static  1.13.1  Static libraries for libnghttp3  https://nghttp2.org/nghttp3/ 
- libnl  3.11.0-1  Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces  https://github.com/thom311/libnl 
- libnl-cli  3.11.0-1  Command-line interface utilities for libnl  https://github.com/thom311/libnl 
- libnl-cli-static  3.11.0-1  Static libraries for libnl-cli  https://github.com/thom311/libnl 
- libnl-static  3.11.0-1  Static libraries for libnl  https://github.com/thom311/libnl 
+ libnl  3.12.0  Collection of libraries providing APIs to netlink protocol based Linux kernel interfaces  https://github.com/thom311/libnl 
+ libnl-cli  3.12.0  Command-line interface utilities for libnl  https://github.com/thom311/libnl 
+ libnl-cli-static  3.12.0  Static libraries for libnl-cli  https://github.com/thom311/libnl 
+ libnl-static  3.12.0  Static libraries for libnl  https://github.com/thom311/libnl 
  libnova  0.16-1  A general purpose, double precision, Celestial Mechanics, Astrometry and Astrodynamics library  https://libnova.sourceforge.net 
  libnova-static  0.16-1  Static libraries for libnova  https://libnova.sourceforge.net 
  libnpth  1.6-3  New GNU Portable Threads Library  https://www.gnupg.org/related_software/npth/ 
@@ -2386,7 +2386,7 @@
  tectonic  0.15.0-5  A modernized, complete, self-contained TeX/LaTeX engine  https://tectonic-typesetting.github.io/ 
  telegram-bot-api  20241031-2  Telegram Bot API server  https://github.com/tdlib/telegram-bot-api 
  telegram-cli  1:1.4.1-8  Telegram messenger CLI  https://github.com/vysheng/tg 
- teleport-tsh  18.4.2  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
+ teleport-tsh  18.5.0  Secure Access for Developers that doesn't get in the way  https://github.com/gravitational/teleport 
  tenki-php  2022.05.26  A simple PHP application for logging current weather conditions, notes, and waypoints  https://github.com/dmpop/tenki 
  tere  1.6.0-1  Terminal file explorer written in rust  https://github.com/mgunyho/tere 
  tergent  1.0.0-5  A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend  https://github.com/aeolwyr/tergent 
