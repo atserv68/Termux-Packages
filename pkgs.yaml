@@ -1511,7 +1511,7 @@
   Description: Binary-decimal and decimal-binary routines for IEEE doubles
   Homepage: https://github.com/google/double-conversion
 - Package: doxygen
-  Version: 1.15.0
+  Version: 1.16.0
   Description: A documentation system for C++, C, Java, IDL and PHP
   Homepage: http://www.doxygen.org
 - Package: dpkg
@@ -9231,7 +9231,7 @@
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
-  Version: 4.12.0-1
+  Version: 4.12.0-2
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
