@@ -2575,13 +2575,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "28.3-2",
+    "Version": "28.3.1",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "28.3-2",
+    "Version": "28.3.1",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -13339,7 +13339,7 @@
   },
   {
     "Package": "sccache",
-    "Version": "0.12.0",
+    "Version": "0.13.0",
     "Description": "sccache is ccache with cloud storage",
     "Homepage": "https://github.com/mozilla/sccache"
   },
@@ -15271,7 +15271,7 @@
   },
   {
     "Package": "v2ray",
-    "Version": "5.42.0",
+    "Version": "5.43.0",
     "Description": "A platform for building proxies to bypass network restrictions",
     "Homepage": "https://www.v2fly.org/"
   },
