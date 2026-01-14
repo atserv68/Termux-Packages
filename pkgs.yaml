@@ -4087,11 +4087,11 @@
   Description: A simple C++ library for terminal based user interface
   Homepage: https://github.com/ArthurSonzogni/FTXUI
 - Package: libfyaml
-  Version: 0.9.2
+  Version: 0.9.3
   Description: Fully feature complete YAML parser and emitter
   Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libfyaml-static
-  Version: 0.9.2
+  Version: 0.9.3
   Description: Static libraries for libfyaml
   Homepage: https://pantoniou.github.io/libfyaml/
 - Package: libgc
