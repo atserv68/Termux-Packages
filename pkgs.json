@@ -9715,7 +9715,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.23.0-1",
+    "Version": "0.24.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://nvim-neorocks.github.io/"
   },
@@ -10489,7 +10489,7 @@
   },
   {
     "Package": "mu",
-    "Version": "1.12.14",
+    "Version": "1.12.15",
     "Description": "Maildir indexer/searcher and Emacs client (mu4e)",
     "Homepage": "https://www.djcbsoftware.nl/code/mu/"
   },
