@@ -15565,13 +15565,13 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.339-1",
+    "Version": "1.4.340",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.339",
+    "Version": "1.4.340",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
