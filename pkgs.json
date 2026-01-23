@@ -3523,7 +3523,7 @@
   },
   {
     "Package": "glslang",
-    "Version": "16.1.0",
+    "Version": "16.2.0",
     "Description": "OpenGL and OpenGL ES shader front end and validator",
     "Homepage": "https://github.com/KhronosGroup/glslang"
   },
@@ -15559,7 +15559,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.339",
+    "Version": "1.4.340",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
