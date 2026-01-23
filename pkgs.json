@@ -15535,7 +15535,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.339",
+    "Version": "1.4.340",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
