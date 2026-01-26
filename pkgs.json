@@ -13195,7 +13195,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260119",
+    "Version": "20260126",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
