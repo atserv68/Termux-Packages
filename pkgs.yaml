@@ -1375,7 +1375,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.32.0
+  Version: 4.33.0
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -2255,7 +2255,7 @@
   Description: GIF encoder based on libimagequant
   Homepage: https://gif.ski/
 - Package: git
-  Version: 2.52.0
+  Version: 2.53.0
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
 - Package: git-credential-manager
@@ -2275,11 +2275,11 @@
   Description: Little git extras.
   Homepage: https://github.com/tj/git-extras
 - Package: git-gitk
-  Version: 2.52.0
+  Version: 2.53.0
   Description: Git repository browser
   Homepage: https://git-scm.com/
 - Package: git-gui
-  Version: 2.52.0
+  Version: 2.53.0
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
@@ -2291,7 +2291,7 @@
   Description: Compute various size metrics for a Git repository
   Homepage: https://github.com/github/git-sizer
 - Package: git-svn
-  Version: 2.52.0
+  Version: 2.53.0
   Description: Convert between Git and Subversion repositories
   Homepage: https://git-scm.com/
 - Package: git-town
@@ -7611,7 +7611,7 @@
   Description: A multipurpose command line tool based on the Osmium Library
   Homepage: https://osmcode.org/osmium-tool/
 - Package: osslsigncode
-  Version: "2.11"
+  Version: "2.12"
   Description: OpenSSL based Authenticode signing for PE/MSI/Java CAB files
   Homepage: https://github.com/mtrojnar/osslsigncode
 - Package: ossp-uuid
@@ -8963,7 +8963,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.4.2
+  Version: 3.4.3
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -9243,7 +9243,7 @@
   Description: a utility for creating symmetrically encrypted and authenticated pipes between socket addresses
   Homepage: https://www.tarsnap.com/spiped.html
 - Package: spirv-headers
-  Version: 1.4.335.0
+  Version: 1.4.341.0
   Description: SPIR-V Headers
   Homepage: https://github.com/KhronosGroup/SPIRV-Headers
 - Package: spirv-llvm-translator
@@ -9251,7 +9251,7 @@
   Description: SPIR-V LLVM Translator
   Homepage: https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 - Package: spirv-tools
-  Version: 1.4.335.0
+  Version: 1.4.341.0
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
@@ -9383,7 +9383,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.146.7
+  Version: 1.146.8
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10431,7 +10431,7 @@
   Description: Generate colors from an image
   Homepage: https://explosion-mental.codeberg.page/wallust
 - Package: wasi-libc
-  Version: "29"
+  Version: "30"
   Description: Libc for WebAssembly programs built on top of WASI system calls
   Homepage: https://wasi.dev/
 - Package: wasm-component-ld
