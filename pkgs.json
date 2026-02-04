@@ -7039,13 +7039,13 @@
   },
   {
     "Package": "libmediainfo",
-    "Version": "25.10",
+    "Version": "26.01",
     "Description": "Library for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
   {
     "Package": "libmediainfo-static",
-    "Version": "25.10",
+    "Version": "26.01",
     "Description": "Static libraries for libmediainfo",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -10147,7 +10147,7 @@
   },
   {
     "Package": "mediainfo",
-    "Version": "25.10",
+    "Version": "26.01",
     "Description": "Command-line utility for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -10681,7 +10681,7 @@
   },
   {
     "Package": "nano",
-    "Version": "8.7",
+    "Version": "8.7.1",
     "Description": "Small, free and friendly text editor",
     "Homepage": "https://www.nano-editor.org/"
   },
