@@ -3037,7 +3037,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.1.98",
+    "Version": "0.1.99",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -16261,7 +16261,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.61-1",
+    "Version": "0.62",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },

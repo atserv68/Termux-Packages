@@ -516,7 +516,7 @@
 | **freetype** | 2.14.1 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.1 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 2.5.1-1 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.1.98 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.1.99 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -2720,7 +2720,7 @@
 | **yasm** | 1.3.0-7 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-7 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yazi** | 26.1.22-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
-| **yosys** | 0.61-1 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
+| **yosys** | 0.62 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.5 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.52.2 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.4.0 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |

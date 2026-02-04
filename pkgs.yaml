@@ -2023,7 +2023,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.1.98
+  Version: 0.1.99
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -10839,7 +10839,7 @@
   Description: Blazing fast terminal file manager written in Rust, based on async I/O
   Homepage: https://yazi-rs.github.io/
 - Package: yosys
-  Version: 0.61-1
+  Version: "0.62"
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
