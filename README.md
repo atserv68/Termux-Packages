@@ -668,7 +668,7 @@
 | **grex** | 1.4.6-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0-2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 15.2.5 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 16.0.0 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **gsasl** | 2.2.2-1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
 | **gsf-tools** | 1.14.55 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
@@ -1643,7 +1643,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.25.1 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
+| **lux-cli** | 0.25.2 | A package manager for Lua, similar to luarocks | https://nvim-neorocks.github.io/ |
 | **lv2** | 1.18.10-6 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.22.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |

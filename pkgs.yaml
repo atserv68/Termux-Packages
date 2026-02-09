@@ -2631,7 +2631,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 15.2.5
+  Version: 16.0.0
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -6531,7 +6531,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.25.1
+  Version: 0.25.2
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://nvim-neorocks.github.io/
 - Package: lv2
