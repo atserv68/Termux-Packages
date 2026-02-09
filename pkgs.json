@@ -9799,9 +9799,9 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.25.2",
+    "Version": "0.25.2-1",
     "Description": "A package manager for Lua, similar to luarocks",
-    "Homepage": "https://nvim-neorocks.github.io/"
+    "Homepage": "https://lux.lumen-labs.org"
   },
   {
     "Package": "lv2",
