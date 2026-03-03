@@ -11161,7 +11161,7 @@
   },
   {
     "Package": "onnxruntime",
-    "Version": "1.24.2",
+    "Version": "1.24.2-1",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12343,7 +12343,7 @@
   },
   {
     "Package": "python-brotli",
-    "Version": "1.2.0",
+    "Version": "1.2.0-1",
     "Description": "lossless compression algorithm and format (Python bindings)",
     "Homepage": "https://github.com/google/brotli"
   },
@@ -12373,7 +12373,7 @@
   },
   {
     "Package": "python-greenlet",
-    "Version": "3.3.2",
+    "Version": "3.3.2-1",
     "Description": "Lightweight coroutines for in-process concurrent programming",
     "Homepage": "https://github.com/python-greenlet/greenlet"
   },
@@ -12409,7 +12409,7 @@
   },
   {
     "Package": "python-msgpack",
-    "Version": "1.1.2-1",
+    "Version": "1.1.2-2",
     "Description": "MessagePack serializer implementation for Python",
     "Homepage": "https://github.com/msgpack/msgpack-python"
   },
@@ -12427,7 +12427,7 @@
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.24.2",
+    "Version": "1.24.2-1",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator (Python bindings)",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12451,13 +12451,13 @@
   },
   {
     "Package": "python-pycryptodomex",
-    "Version": "3.23.0-2",
+    "Version": "3.23.0-3",
     "Description": "A self-contained Python package of low-level cryptographic primitives",
     "Homepage": "https://www.pycryptodome.org/"
   },
   {
     "Package": "python-pynvim",
-    "Version": "0.6.0-1",
+    "Version": "0.6.0-2",
     "Description": "Python client for Neovim",
     "Homepage": "https://github.com/neovim/pynvim"
   },
@@ -12487,7 +12487,7 @@
   },
   {
     "Package": "python-tflite-runtime",
-    "Version": "2.20.0-1",
+    "Version": "2.20.0-2",
     "Description": "TensorFlow Lite Python bindings",
     "Homepage": "https://www.tensorflow.org/lite"
   },
@@ -12547,7 +12547,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2026.02.21",
+    "Version": "2026.02.21-1",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
