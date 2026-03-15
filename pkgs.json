@@ -11173,7 +11173,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.8.0",
+    "Version": "29.9.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12031,7 +12031,7 @@
   },
   {
     "Package": "plzip",
-    "Version": "1.12-1",
+    "Version": "1.13",
     "Description": "A massively parallel lossless data compressor based on the lzlib compression library",
     "Homepage": "https://www.nongnu.org/lzip/plzip.html"
   },
@@ -13729,7 +13729,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.13.2",
+    "Version": "1.13.3",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },

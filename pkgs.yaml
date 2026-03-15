@@ -7447,7 +7447,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 29.8.0
+  Version: 29.9.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: okc-agents
@@ -8019,7 +8019,7 @@
   Description: A superset of Lua 5.4 with a focus on general-purpose programming.
   Homepage: https://plutolang.github.io/
 - Package: plzip
-  Version: 1.12-1
+  Version: "1.13"
   Description: A massively parallel lossless data compressor based on the lzlib compression library
   Homepage: https://www.nongnu.org/lzip/plzip.html
 - Package: pngcrush
@@ -9151,7 +9151,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.13.2
+  Version: 1.13.3
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
