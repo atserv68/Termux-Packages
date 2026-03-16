@@ -1939,7 +1939,7 @@
   },
   {
     "Package": "diff-so-fancy",
-    "Version": "1.4.4",
+    "Version": "1.4.6",
     "Description": "Good-lookin diffs. Actually... nah... The best-lookin diffs",
     "Homepage": "https://github.com/so-fancy/diff-so-fancy"
   },
@@ -3535,7 +3535,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.14.0",
+    "Version": "1.15.0",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -4345,7 +4345,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.157.0",
+    "Version": "0.158.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -9780,12 +9780,6 @@
     "Homepage": "https://github.com/iawia002/lux"
   },
   {
-    "Package": "lux-cli",
-    "Version": "0.25.3",
-    "Description": "A package manager for Lua, similar to luarocks",
-    "Homepage": "https://lux.lumen-labs.org"
-  },
-  {
     "Package": "lv2",
     "Version": "1.18.10-7",
     "Description": "A plugin standard for audio systems",
@@ -9961,7 +9955,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "0.2602.0",
+    "Version": "0.2603.0",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -12049,7 +12043,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.36.6",
+    "Version": "0.36.7",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },

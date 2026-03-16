@@ -333,7 +333,7 @@
 | **dialog** | 1.3-20260107-1 | Application used in shell scripts which displays text user interface widgets | https://invisible-island.net/dialog/ |
 | **dialog-static** | 1.3-20260107-1 | Static libraries for dialog | https://invisible-island.net/dialog/ |
 | **dictd** | 1.13.3-1 | Online dictionary client and server | https://sourceforge.net/projects/dict/ |
-| **diff-so-fancy** | 1.4.4 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/so-fancy/diff-so-fancy |
+| **diff-so-fancy** | 1.4.6 | Good-lookin' diffs. Actually... nah... The best-lookin' diffs | https://github.com/so-fancy/diff-so-fancy |
 | **diffstat** | 1.68-1 | Displays a histogram of changes to a file | https://invisible-island.net/diffstat/diffstat.html |
 | **difftastic** | 0.67.0 | difft: A structural diff that understands syntax | https://github.com/Wilfred/difftastic |
 | **diffutils** | 3.12-2 | Programs (cmp, diff, diff3 and sdiff) related to finding differences between files | https://www.gnu.org/software/diffutils/ |
@@ -599,7 +599,7 @@
 | **gitui** | 0.28.0 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.89.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
-| **gleam** | 1.14.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
+| **gleam** | 1.15.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.86.4-1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.86.4-1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.80.1-1 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
@@ -734,7 +734,7 @@
 | **httrack-data** | 3.49.6-1 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.49.6-1 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.157.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.158.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.2-1 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1640,7 +1640,6 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.25.3 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.23.0 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1670,7 +1669,7 @@
 | **matterbridge** | 1.26.0-4 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.28.0-1 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **matugen** | 4.0.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
-| **mautrix-whatsapp** | 0.2602.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
+| **mautrix-whatsapp** | 0.2603.0 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
 | **maven** | 3.9.14 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13-1 | Mazes in your terminal | https://github.com/Canop/mazter |
@@ -2018,7 +2017,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pocketbase** | 0.36.6 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.36.7 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 4.3-1 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 4.3-1 | Static libraries for poke | http://www.jemarch.net/poke.html |
 | **polipo** | 1.1.1-1 | A small and fast caching web proxy | http://www.pps.jussieu.fr/~jch/software/polipo/ |
