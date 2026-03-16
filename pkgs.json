@@ -6217,13 +6217,13 @@
   },
   {
     "Package": "libfyaml",
-    "Version": "0.9.5",
+    "Version": "0.9.6-1",
     "Description": "Fully feature complete YAML parser and emitter",
     "Homepage": "https://pantoniou.github.io/libfyaml/"
   },
   {
     "Package": "libfyaml-static",
-    "Version": "0.9.5",
+    "Version": "0.9.6-1",
     "Description": "Static libraries for libfyaml",
     "Homepage": "https://pantoniou.github.io/libfyaml/"
   },
