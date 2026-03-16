@@ -4975,7 +4975,7 @@
   },
   {
     "Package": "kotlin",
-    "Version": "2.3.10",
+    "Version": "2.3.20",
     "Description": "The Kotlin Programming Language",
     "Homepage": "https://kotlinlang.org/"
   },
@@ -9757,7 +9757,7 @@
   },
   {
     "Package": "luv",
-    "Version": "1.51.0-2-0",
+    "Version": "1.52.1-0-0",
     "Description": "Bare libuv bindings for lua",
     "Homepage": "https://github.com/luvit/luv"
   },
@@ -11545,13 +11545,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.55.0",
+    "Version": "1.56.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.55.0",
+    "Version": "1.56.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
