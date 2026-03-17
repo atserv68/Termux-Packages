@@ -3535,7 +3535,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.15.0",
+    "Version": "1.15.1",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -8977,7 +8977,7 @@
   },
   {
     "Package": "libwebsockets",
-    "Version": "4.5.5",
+    "Version": "4.5.7",
     "Description": "Lightweight C websockets library",
     "Homepage": "https://libwebsockets.org"
   },
@@ -9073,13 +9073,13 @@
   },
   {
     "Package": "libxapian",
-    "Version": "1.5.0",
+    "Version": "2.0.0",
     "Description": "Xapian search engine library",
     "Homepage": "https://xapian.org"
   },
   {
     "Package": "libxapian-static",
-    "Version": "1.5.0",
+    "Version": "2.0.0",
     "Description": "Static libraries for libxapian",
     "Homepage": "https://xapian.org"
   },
@@ -13213,7 +13213,7 @@
   },
   {
     "Package": "rsgain",
-    "Version": "3.6-3",
+    "Version": "3.7",
     "Description": "A simple audio normalizazion utility",
     "Homepage": "https://github.com/complexlogic/rsgain"
   },
@@ -13705,7 +13705,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.4.0",
+    "Version": "4.4.1",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -13963,7 +13963,7 @@
   },
   {
     "Package": "sqlcipher",
-    "Version": "4.13.0",
+    "Version": "4.14.0",
     "Description": "SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files",
     "Homepage": "https://github.com/sqlcipher/sqlcipher"
   },
@@ -14155,7 +14155,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.149.2",
+    "Version": "1.149.3",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -16039,7 +16039,7 @@
   },
   {
     "Package": "xapian-tools",
-    "Version": "1.5.0",
+    "Version": "2.0.0",
     "Description": "Basic tools for the Xapian search engine",
     "Homepage": "https://xapian.org"
   },

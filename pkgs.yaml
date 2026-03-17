@@ -2355,7 +2355,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.15.0
+  Version: 1.15.1
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -5983,7 +5983,7 @@
   Description: A library containing the AudioProcessing module from the WebRTC project
   Homepage: https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/
 - Package: libwebsockets
-  Version: 4.5.5
+  Version: 4.5.7
   Description: Lightweight C websockets library
   Homepage: https://libwebsockets.org
 - Package: libwolfssl
@@ -6047,11 +6047,11 @@
   Description: Static libraries for libx265
   Homepage: http://x265.org/
 - Package: libxapian
-  Version: 1.5.0
+  Version: 2.0.0
   Description: Xapian search engine library
   Homepage: https://xapian.org
 - Package: libxapian-static
-  Version: 1.5.0
+  Version: 2.0.0
   Description: Static libraries for libxapian
   Homepage: https://xapian.org
 - Package: libxau
@@ -8807,7 +8807,7 @@
   Description: A tool for doing record analysis and transformation
   Homepage: https://github.com/dflemstr/rq
 - Package: rsgain
-  Version: 3.6-3
+  Version: "3.7"
   Description: A simple audio normalizazion utility
   Homepage: https://github.com/complexlogic/rsgain
 - Package: rsnapshot
@@ -9135,7 +9135,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.4.0
+  Version: 4.4.1
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -9307,7 +9307,7 @@
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlcipher
-  Version: 4.13.0
+  Version: 4.14.0
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
@@ -9435,7 +9435,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.149.2
+  Version: 1.149.3
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10691,7 +10691,7 @@
   Description: H.265/HEVC video stream encoder tool
   Homepage: http://x265.org/
 - Package: xapian-tools
-  Version: 1.5.0
+  Version: 2.0.0
   Description: Basic tools for the Xapian search engine
   Homepage: https://xapian.org
 - Package: xcb-proto

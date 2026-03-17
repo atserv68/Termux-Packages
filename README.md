@@ -599,7 +599,7 @@
 | **gitui** | 0.28.0 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.89.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
-| **gleam** | 1.15.0 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
+| **gleam** | 1.15.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.86.4-1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.86.4-1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.80.1-2 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
@@ -1506,7 +1506,7 @@
 | **libwayland-protocols** | 1.45 | Wayland protocols library | https://wayland.freedesktop.org/ |
 | **libwebp** | 1.6.0-rc1-0 | Library to encode and decode images in WebP format | https://github.com/webmproject/libwebp |
 | **libwebrtc-audio-processing** | 1.3-4 | A library containing the AudioProcessing module from the WebRTC project | https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ |
-| **libwebsockets** | 4.5.5 | Lightweight C websockets library | https://libwebsockets.org |
+| **libwebsockets** | 4.5.7 | Lightweight C websockets library | https://libwebsockets.org |
 | **libwolfssl** | 5.8.4 | A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud | https://www.wolfssl.com/ |
 | **libwpd** | 0.10.3-3 | Library for importing WordPerfect (tm) documents | https://libwpd.sourceforge.net/ |
 | **libwpg** | 0.3.4-3 | Library for importing and converting Corel WordPerfect(tm) Graphics images. | https://libwpg.sourceforge.net/ |
@@ -1522,8 +1522,8 @@
 | **libx264-static** | 1:0.164.3191-1 | Static libraries for libx264 | https://www.videolan.org/developers/x264.html |
 | **libx265** | 4.1-3 | H.265/HEVC video stream encoder library | http://x265.org/ |
 | **libx265-static** | 4.1-3 | Static libraries for libx265 | http://x265.org/ |
-| **libxapian** | 1.5.0 | Xapian search engine library | https://xapian.org |
-| **libxapian-static** | 1.5.0 | Static libraries for libxapian | https://xapian.org |
+| **libxapian** | 2.0.0 | Xapian search engine library | https://xapian.org |
+| **libxapian-static** | 2.0.0 | Static libraries for libxapian | https://xapian.org |
 | **libxau** | 1.0.12-2 | X11 authorisation library | https://xorg.freedesktop.org/ |
 | **libxcb** | 1.17.0-1 | X11 client-side library | https://xcb.freedesktop.org/ |
 | **libxcb-static** | 1.17.0-1 | Static libraries for libxcb | https://xcb.freedesktop.org/ |
@@ -2212,7 +2212,7 @@
 | **rp-pppoe** | 4.0-1 | A PPP-over-Ethernet redirector for pppd | https://dianne.skoll.ca/projects/rp-pppoe/ |
 | **rpm** | 4.18.1-2 | RPM Package Manager | https://rpm.org/ |
 | **rq** | 1.0.4-2 | A tool for doing record analysis and transformation | https://github.com/dflemstr/rq |
-| **rsgain** | 3.6-3 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
+| **rsgain** | 3.7 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.5.1 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
 | **rsync** | 3.4.1-1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
@@ -2294,7 +2294,7 @@
 | **silicon** | 0.5.3-1 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-6 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
-| **simdjson** | 4.4.0 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
+| **simdjson** | 4.4.1 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **sing-box** | 1.13.3 | The universal proxy platform | https://sing-box.sagernet.org |
@@ -2337,7 +2337,7 @@
 | **spirv-headers** | 1.4.341.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
 | **spirv-llvm-translator** | 21.1.5 | SPIR-V LLVM Translator | https://github.com/KhronosGroup/SPIRV-LLVM-Translator |
 | **spirv-tools** | 1.4.341.0 | SPIR-V Tools | https://github.com/KhronosGroup/SPIRV-Tools |
-| **sqlcipher** | 4.13.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
+| **sqlcipher** | 4.14.0 | SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files | https://github.com/sqlcipher/sqlcipher |
 | **sqlite** | 3.52.0-1 | Command line shell for SQLite | https://www.sqlite.org |
 | **squashfs-tools-ng** | 1.3.2-1 | New set of tools for working with SquashFS images | https://github.com/AgentD/squashfs-tools-ng |
 | **squashfs-tools-ng-static** | 1.3.2-1 | Static libraries for squashfs-tools-ng | https://github.com/AgentD/squashfs-tools-ng |
@@ -2369,7 +2369,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.149.2 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.149.3 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 6.19 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2683,7 +2683,7 @@
 | **x11-repo** | 8.4-1 | Package repository containing X11 programs and libraries | https://github.com/termux/x11-packages |
 | **x264** | 1:0.164.3191-1 | Commandline video encoder for the H.264/MPEG-4 AVC format | https://www.videolan.org/developers/x264.html |
 | **x265** | 4.1-3 | H.265/HEVC video stream encoder tool | http://x265.org/ |
-| **xapian-tools** | 1.5.0 | Basic tools for the Xapian search engine | https://xapian.org |
+| **xapian-tools** | 2.0.0 | Basic tools for the Xapian search engine | https://xapian.org |
 | **xcb-proto** | 1.17.0-2 | XML-XCB protocol descriptions | https://xcb.freedesktop.org/ |
 | **xdelta3** | 3.1.0-3 | xdelta3 - VCDIFF (RFC 3284) binary diff tool | https://github.com/jmacd/xdelta |
 | **xh** | 0.25.3 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
