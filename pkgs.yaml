@@ -1299,7 +1299,7 @@
   Description: Displays a histogram of changes to a file
   Homepage: https://invisible-island.net/diffstat/diffstat.html
 - Package: difftastic
-  Version: 0.67.0
+  Version: 0.68.0
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
@@ -2367,7 +2367,7 @@
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
-  Version: 2.80.1-1
+  Version: 2.80.1-2
   Description: Network-related giomodules for glib
   Homepage: https://gitlab.gnome.org/GNOME/glib-networking
 - Package: glibc-repo
@@ -3255,7 +3255,7 @@
   Description: User friendly full screen text editor
   Homepage: http://www.mirbsd.org/jupp.htm
 - Package: just
-  Version: 1.47.0
+  Version: 1.47.1
   Description: A handy way to save and run project-specific commands
   Homepage: https://just.systems
 - Package: jython
@@ -8551,7 +8551,7 @@
   Description: Allows you to easily manage large numbers of patches
   Homepage: https://savannah.nongnu.org/projects/quilt
 - Package: rabbitmq-server
-  Version: 4.2.4
+  Version: 4.2.5
   Description: Feature rich, multi-protocol messaging and streaming broker
   Homepage: https://github.com/rabbitmq/rabbitmq-server
 - Package: racket
@@ -9931,7 +9931,7 @@
   Description: Easy, lean and powerful BitTorrent client
   Homepage: https://transmissionbt.com/
 - Package: tree
-  Version: 2.3.1
+  Version: 2.3.2
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
@@ -10307,7 +10307,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.10.10
+  Version: 0.10.11
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -10519,7 +10519,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 1.139.2
+  Version: 1.139.4
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk

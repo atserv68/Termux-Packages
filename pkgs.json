@@ -1951,7 +1951,7 @@
   },
   {
     "Package": "difftastic",
-    "Version": "0.67.0",
+    "Version": "0.68.0",
     "Description": "difft: A structural diff that understands syntax",
     "Homepage": "https://github.com/Wilfred/difftastic"
   },
@@ -3553,7 +3553,7 @@
   },
   {
     "Package": "glib-networking",
-    "Version": "2.80.1-1",
+    "Version": "2.80.1-2",
     "Description": "Network-related giomodules for glib",
     "Homepage": "https://gitlab.gnome.org/GNOME/glib-networking"
   },
@@ -4885,7 +4885,7 @@
   },
   {
     "Package": "just",
-    "Version": "1.47.0",
+    "Version": "1.47.1",
     "Description": "A handy way to save and run project-specific commands",
     "Homepage": "https://just.systems"
   },
@@ -12829,7 +12829,7 @@
   },
   {
     "Package": "rabbitmq-server",
-    "Version": "4.2.4",
+    "Version": "4.2.5",
     "Description": "Feature rich, multi-protocol messaging and streaming broker",
     "Homepage": "https://github.com/rabbitmq/rabbitmq-server"
   },
@@ -14899,7 +14899,7 @@
   },
   {
     "Package": "tree",
-    "Version": "2.3.1",
+    "Version": "2.3.2",
     "Description": "Recursive directory lister producing a depth indented listing of files",
     "Homepage": "http://mama.indstate.edu/users/ice/tree/"
   },
@@ -15463,7 +15463,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.10.10",
+    "Version": "0.10.11",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15781,7 +15781,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "1.139.2",
+    "Version": "1.139.4",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
