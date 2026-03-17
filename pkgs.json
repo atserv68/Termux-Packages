@@ -409,7 +409,7 @@
   },
   {
     "Package": "aria2",
-    "Version": "1.37.0-2",
+    "Version": "1.37.0-3",
     "Description": "Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink",
     "Homepage": "https://aria2.github.io"
   },
@@ -907,7 +907,7 @@
   },
   {
     "Package": "boinc",
-    "Version": "8.2.8",
+    "Version": "8.2.9",
     "Description": "Open-source software for volunteer computing",
     "Homepage": "https://boinc.berkeley.edu/"
   },
@@ -4009,7 +4009,7 @@
   },
   {
     "Package": "gsf-tools",
-    "Version": "1.14.55",
+    "Version": "1.14.56",
     "Description": "Command-line tools for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -6433,13 +6433,13 @@
   },
   {
     "Package": "libgsf",
-    "Version": "1.14.55",
+    "Version": "1.14.56",
     "Description": "The G Structured File Library",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
   {
     "Package": "libgsf-static",
-    "Version": "1.14.55",
+    "Version": "1.14.56",
     "Description": "Static libraries for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -15913,13 +15913,13 @@
   },
   {
     "Package": "wget2",
-    "Version": "2.2.1",
+    "Version": "2.2.1-1",
     "Description": "The successor of GNU Wget, a file and recursive website downloader",
     "Homepage": "https://gitlab.com/gnuwget/wget2"
   },
   {
     "Package": "wget2-static",
-    "Version": "2.2.1",
+    "Version": "2.2.1-1",
     "Description": "Static libraries for wget2",
     "Homepage": "https://gitlab.com/gnuwget/wget2"
   },

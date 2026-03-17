@@ -78,7 +78,7 @@
 | **argon2-static** | 20190702-2 | Static libraries for argon2 | https://github.com/P-H-C/phc-winner-argon2 |
 | **argp** | 1.5.0-1 | Standalone version of arguments parsing functions from GLIBC | https://github.com/argp-standalone/argp-standalone |
 | **argp-static** | 1.5.0-1 | Static libraries for argp | https://github.com/argp-standalone/argp-standalone |
-| **aria2** | 1.37.0-2 | Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink | https://aria2.github.io |
+| **aria2** | 1.37.0-3 | Download utility supporting HTTP/HTTPS, FTP, BitTorrent and Metalink | https://aria2.github.io |
 | **arj** | 3.10.22-6 | Open-source version of arj archiver | https://arj.sourceforge.net/ |
 | **artalk** | 2.9.1-1 | A self-hosted comment system | https://artalk.js.org/ |
 | **arturo** | 0.9.83-1 | Simple, expressive & portable programming language for efficient scripting | https://arturo-lang.io |
@@ -161,7 +161,7 @@
 | **blogc** | 0.20.1-1 | A blog compiler | https://blogc.rgm.io/ |
 | **blueprint-compiler** | 0.20.0-2 | Markup language for GTK user interfaces | https://gnome.pages.gitlab.gnome.org/blueprint-compiler/ |
 | **bmon** | 4.0-4 | Bandwidth monitor and rate estimator | https://github.com/tgraf/bmon |
-| **boinc** | 8.2.8 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
+| **boinc** | 8.2.9 | Open-source software for volunteer computing | https://boinc.berkeley.edu/ |
 | **boinctui** | 2.7.2 | curses based manager for Boinc client | https://sourceforge.net/projects/boinctui/ |
 | **bombadillo** | 2.4.0-3 | A non-web client for the terminal, supporting Gopher, Gemini and much more | https://bombadillo.colorfield.space/ |
 | **boost** | 1:1.90.0-1 | Free peer-reviewed portable C++ source libraries | https://boost.org |
@@ -678,7 +678,7 @@
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **grpcurl** | 1.9.3 | Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers | https://github.com/fullstorydev/grpcurl |
 | **gsasl** | 2.2.2-1 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
-| **gsf-tools** | 1.14.55 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
+| **gsf-tools** | 1.14.56 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8-1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8-1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
 | **gst-libav** | 1.28.1 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
@@ -1082,8 +1082,8 @@
 | **libgrpc** | 1.78.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.2-1 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.2-1 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
-| **libgsf** | 1.14.55 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
-| **libgsf-static** | 1.14.55 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
+| **libgsf** | 1.14.56 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
+| **libgsf-static** | 1.14.56 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgtop** | 2.41.3-2 | Library for collecting system monitoring data | https://gitlab.gnome.org/GNOME/libgtop |
 | **libgtop-static** | 2.41.3-2 | Static libraries for libgtop | https://gitlab.gnome.org/GNOME/libgtop |
 | **libgts** | 0.7.6-3 | Provides useful functions to deal with 3D surfaces meshed with interconnected triangles | https://gts.sourceforge.net/ |
@@ -2662,8 +2662,8 @@
 | **weggli** | 0.2.4-3 | A fast and robust semantic search tool for C and C++ codebases | https://github.com/googleprojectzero/weggli |
 | **wego** | 2.3-1 | weather app for the terminal | https://github.com/schachmat/wego |
 | **wget** | 1.25.0-1 | Commandline tool for retrieving files using HTTP, HTTPS and FTP | https://www.gnu.org/software/wget/ |
-| **wget2** | 2.2.1 | The successor of GNU Wget, a file and recursive website downloader | https://gitlab.com/gnuwget/wget2 |
-| **wget2-static** | 2.2.1 | Static libraries for wget2 | https://gitlab.com/gnuwget/wget2 |
+| **wget2** | 2.2.1-1 | The successor of GNU Wget, a file and recursive website downloader | https://gitlab.com/gnuwget/wget2 |
+| **wget2-static** | 2.2.1-1 | Static libraries for wget2 | https://gitlab.com/gnuwget/wget2 |
 | **wgetpaste** | 2.34 | wgetpaste is a shell script that allows its users to upload log. | https://github.com/zlin/wgetpaste |
 | **which** | 2.23-1 | Shows the full path of (shell) commands | https://savannah.gnu.org/projects/which/ |
 | **whiptail** | 0.52.25-1 | Display dialog boxes from shell scripts | https://pagure.io/newt |
