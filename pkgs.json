@@ -10843,7 +10843,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2586+g16f7440cc7-0",
+    "Version": "0.12.0~dev-2603+g9ab6c607cc-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
