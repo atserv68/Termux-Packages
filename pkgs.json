@@ -1465,13 +1465,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.2.3-1",
+    "Version": "4.3.0",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.2.3-1",
+    "Version": "4.3.0",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -6109,13 +6109,13 @@
   },
   {
     "Package": "libexpat",
-    "Version": "2.7.4",
+    "Version": "2.7.5",
     "Description": "XML parsing C library",
     "Homepage": "https://libexpat.github.io/"
   },
   {
     "Package": "libexpat-static",
-    "Version": "2.7.4",
+    "Version": "2.7.5",
     "Description": "Static libraries for libexpat",
     "Homepage": "https://libexpat.github.io/"
   },
@@ -10141,7 +10141,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.16.3",
+    "Version": "1.17.0",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },
@@ -11227,7 +11227,7 @@
   },
   {
     "Package": "onnxruntime",
-    "Version": "1.24.3-2",
+    "Version": "1.24.4",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12493,7 +12493,7 @@
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.24.3-2",
+    "Version": "1.24.4",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator (Python bindings)",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -12619,7 +12619,7 @@
   },
   {
     "Package": "python-yt-dlp",
-    "Version": "2026.03.13",
+    "Version": "2026.03.17",
     "Description": "A youtube-dl fork with additional features and fixes",
     "Homepage": "https://github.com/yt-dlp/yt-dlp"
   },
@@ -16237,7 +16237,7 @@
   },
   {
     "Package": "yt-dlp-ejs",
-    "Version": "0.7.0",
+    "Version": "0.8.0",
     "Description": "External JavaScript for yt-dlp supporting many runtimes",
     "Homepage": "https://github.com/yt-dlp/ejs"
   },
