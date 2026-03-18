@@ -4899,11 +4899,11 @@
   Description: Static libraries for libnftnl
   Homepage: https://www.netfilter.org/projects/libnftnl/
 - Package: libnghttp2
-  Version: 1.68.0-1
+  Version: 1.68.1
   Description: nghttp HTTP 2.0 library
   Homepage: https://nghttp2.org/
 - Package: libnghttp2-static
-  Version: 1.68.0-1
+  Version: 1.68.1
   Description: Static libraries for libnghttp2
   Homepage: https://nghttp2.org/
 - Package: libnghttp3
@@ -5895,7 +5895,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.18.0-2
+  Version: 8.18.1
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvisio

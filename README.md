@@ -1235,8 +1235,8 @@
 | **libnfs** | 6.0.2-2 | NFS client library | https://github.com/sahlberg/libnfs |
 | **libnftnl** | 1.3.1 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
 | **libnftnl-static** | 1.3.1 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
-| **libnghttp2** | 1.68.0-1 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
-| **libnghttp2-static** | 1.68.0-1 | Static libraries for libnghttp2 | https://nghttp2.org/ |
+| **libnghttp2** | 1.68.1 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
+| **libnghttp2-static** | 1.68.1 | Static libraries for libnghttp2 | https://nghttp2.org/ |
 | **libnghttp3** | 1.15.0 | HTTP/3 library written in C | https://nghttp2.org/nghttp3/ |
 | **libnghttp3-static** | 1.15.0 | Static libraries for libnghttp3 | https://nghttp2.org/nghttp3/ |
 | **libngtcp2** | 1.21.0 | Implementation of IETF QUIC protocol | https://github.com/ngtcp2/ngtcp2 |
@@ -1484,7 +1484,7 @@
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-3 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.12.3 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.18.0-2 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.18.1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvisio** | 0.1.10 | Library providing ability to interpret and import visio diagrams | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvisio-static** | 0.1.10 | Static libraries for libvisio | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvmaf** | 3.0.0-2 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
