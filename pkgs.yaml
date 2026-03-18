@@ -2783,7 +2783,7 @@
   Description: Helix grammars
   Homepage: https://helix-editor.com/
 - Package: hello
-  Version: 2.12.2
+  Version: 2.12.3
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
@@ -2867,11 +2867,11 @@
   Description: Interactive process viewer for Linux
   Homepage: https://htop.dev/
 - Package: htslib
-  Version: "1.23"
+  Version: 1.23.1
   Description: C library for high-throughput sequencing data formats
   Homepage: https://github.com/samtools/htslib
 - Package: htslib-static
-  Version: "1.23"
+  Version: 1.23.1
   Description: Static libraries for htslib
   Homepage: https://github.com/samtools/htslib
 - Package: httping
@@ -3223,7 +3223,7 @@
   Description: Static libraries for jq
   Homepage: https://stedolan.github.io/jq/
 - Package: jql
-  Version: 8.0.10
+  Version: 8.1.2
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
@@ -8579,7 +8579,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.32.0
+  Version: 4.33.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10123,7 +10123,7 @@
   Description: A single and trusted place for all unofficial/less popular termux packages
   Homepage: https://github.com/termux-user-repository/tur
 - Package: turbo
-  Version: 2.8.17
+  Version: 2.8.18
   Description: High-performance build system for JS/TS
   Homepage: https://turbo.build/
 - Package: tut
