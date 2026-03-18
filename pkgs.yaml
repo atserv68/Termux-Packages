@@ -2983,7 +2983,7 @@
   Description: Extracts and converts images in MS Windows(R) icon and cursor files
   Homepage: https://www.nongnu.org/icoutils/
 - Package: icu-devtools
-  Version: "78.2"
+  Version: "78.3"
   Description: Development utilities for International Components for Unicode
   Homepage: http://site.icu-project.org/home
 - Package: id3lib
@@ -4379,11 +4379,11 @@
   Description: Static libraries for libiconv
   Homepage: https://www.gnu.org/software/libiconv/
 - Package: libicu
-  Version: "78.2"
+  Version: "78.3"
   Description: International Components for Unicode library
   Homepage: http://site.icu-project.org/home
 - Package: libicu-static
-  Version: "78.2"
+  Version: "78.3"
   Description: Static libraries for libicu
   Homepage: http://site.icu-project.org/home
 - Package: libid3tag
@@ -5331,7 +5331,7 @@
   Description: Static libraries for librocksdb
   Homepage: https://rocksdb.org/
 - Package: librsvg
-  Version: 2.62.0
+  Version: 2.62.1
   Description: Library to render SVG files using cairo
   Homepage: https://wiki.gnome.org/action/show/Projects/LibRsvg
 - Package: librsync
@@ -6539,7 +6539,7 @@
   Description: Fast LZ compression algorithm tool
   Homepage: https://lz4.github.io/lz4/
 - Package: lzip
-  Version: 1.25-1
+  Version: "1.26"
   Description: Lossless data compressor similar to gzip and bzip2
   Homepage: https://www.nongnu.org/lzip/
 - Package: lzlib
@@ -7227,7 +7227,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2603+g9ab6c607cc-0
+  Version: 0.12.0~dev-2610+gc3308fa5fe-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8579,7 +8579,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 4.31.0
+  Version: 4.32.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9235,7 +9235,7 @@
   Description: An Ethereum smart contract-oriented language
   Homepage: https://www.soliditylang.org/
 - Package: sops
-  Version: 3.12.1
+  Version: 3.12.2
   Description: Simple and flexible tool for managing secrets
   Homepage: https://github.com/getsops/sops
 - Package: sord

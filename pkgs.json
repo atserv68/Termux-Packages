@@ -4477,7 +4477,7 @@
   },
   {
     "Package": "icu-devtools",
-    "Version": "78.2",
+    "Version": "78.3",
     "Description": "Development utilities for International Components for Unicode",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -6571,13 +6571,13 @@
   },
   {
     "Package": "libicu",
-    "Version": "78.2",
+    "Version": "78.3",
     "Description": "International Components for Unicode library",
     "Homepage": "http://site.icu-project.org/home"
   },
   {
     "Package": "libicu-static",
-    "Version": "78.2",
+    "Version": "78.3",
     "Description": "Static libraries for libicu",
     "Homepage": "http://site.icu-project.org/home"
   },
@@ -7999,7 +7999,7 @@
   },
   {
     "Package": "librsvg",
-    "Version": "2.62.0",
+    "Version": "2.62.1",
     "Description": "Library to render SVG files using cairo",
     "Homepage": "https://wiki.gnome.org/action/show/Projects/LibRsvg"
   },
@@ -9811,7 +9811,7 @@
   },
   {
     "Package": "lzip",
-    "Version": "1.25-1",
+    "Version": "1.26",
     "Description": "Lossless data compressor similar to gzip and bzip2",
     "Homepage": "https://www.nongnu.org/lzip/"
   },
@@ -10843,7 +10843,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2603+g9ab6c607cc-0",
+    "Version": "0.12.0~dev-2610+gc3308fa5fe-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12871,7 +12871,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "4.31.0",
+    "Version": "4.32.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -13855,7 +13855,7 @@
   },
   {
     "Package": "sops",
-    "Version": "3.12.1",
+    "Version": "3.12.2",
     "Description": "Simple and flexible tool for managing secrets",
     "Homepage": "https://github.com/getsops/sops"
   },

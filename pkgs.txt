@@ -744,7 +744,7 @@
  icon-naming-utils  0.8.90  Maps the new names of icons for Tango to the legacy names used by the GNOME and KDE desktops  http://tango.freedesktop.org/ 
  iconv  1.18-1  Utility converting between different character encodings  https://www.gnu.org/software/libiconv/ 
  icoutils  0.32.3-1  Extracts and converts images in MS Windows(R) icon and cursor files  https://www.nongnu.org/icoutils/ 
- icu-devtools  78.2  Development utilities for International Components for Unicode  http://site.icu-project.org/home 
+ icu-devtools  78.3  Development utilities for International Components for Unicode  http://site.icu-project.org/home 
  id3lib  3.8.3-4  A software library for manipulating ID3v1/v1.1 and ID3v2 tags  https://id3lib.sourceforge.net/ 
  id3lib-static  3.8.3-4  Static libraries for id3lib  https://id3lib.sourceforge.net/ 
  id3v2  0.1.12-2  A command line id3v2 tag editor  https://id3v2.sourceforge.net/ 
@@ -1093,8 +1093,8 @@
  libice  1.1.2-1  X11 Inter-Client Exchange library  https://xorg.freedesktop.org/ 
  libiconv  1.18-1  An implementation of iconv()  https://www.gnu.org/software/libiconv/ 
  libiconv-static  1.18-1  Static libraries for libiconv  https://www.gnu.org/software/libiconv/ 
- libicu  78.2  International Components for Unicode library  http://site.icu-project.org/home 
- libicu-static  78.2  Static libraries for libicu  http://site.icu-project.org/home 
+ libicu  78.3  International Components for Unicode library  http://site.icu-project.org/home 
+ libicu-static  78.3  Static libraries for libicu  http://site.icu-project.org/home 
  libid3tag  0.16.4  MAD ID3 tag manipulation library  http://www.underbit.com/products/mad/ 
  libidn  1.43-1  GNU Libidn library, implementation of IETF IDN specifications  https://www.gnu.org/software/libidn/ 
  libidn-static  1.43-1  Static libraries for libidn  https://www.gnu.org/software/libidn/ 
@@ -1331,7 +1331,7 @@
  librnnoise-static  0.2-1  Static libraries for librnnoise  https://jmvalin.ca/demo/rnnoise/ 
  librocksdb  8.11.3-3  A persistent key-value store for flash and RAM storage  https://rocksdb.org/ 
  librocksdb-static  8.11.3-3  Static libraries for librocksdb  https://rocksdb.org/ 
- librsvg  2.62.0  Library to render SVG files using cairo  https://wiki.gnome.org/action/show/Projects/LibRsvg 
+ librsvg  2.62.1  Library to render SVG files using cairo  https://wiki.gnome.org/action/show/Projects/LibRsvg 
  librsync  2.3.4-1  Remote delta-compression library  https://github.com/librsync/librsync 
  librtmidi  5.0.0-3  A set of C++ classes that provides a common API for realtime MIDI input/output  https://www.music.mcgill.ca/~gary/rtmidi/ 
  librttopo  1.1.0-5  The RT Topology Library exposes an API to create and manage standard topologies  https://git.osgeo.org/gitea/rttopo/librttopo 
@@ -1633,7 +1633,7 @@
  lynx  2.9.2-1  The text web browser  http://lynx.browser.org/ 
  lyrebird  0.8.1  A pluggable transport plugin for Tor  https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports 
  lz4  1.10.0-1  Fast LZ compression algorithm tool  https://lz4.github.io/lz4/ 
- lzip  1.25-1  Lossless data compressor similar to gzip and bzip2  https://www.nongnu.org/lzip/ 
+ lzip  1.26  Lossless data compressor similar to gzip and bzip2  https://www.nongnu.org/lzip/ 
  lzlib  1.16  A library providing in-memory LZMA compression and decompression functions  http://www.nongnu.org/lzip/lzlib.html 
  lzlib-static  1.16  Static libraries for lzlib  http://www.nongnu.org/lzip/lzlib.html 
  lzop  1.04-2  File compressor using lzo lib.  https://www.lzop.org 
@@ -1805,7 +1805,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260105  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.11.6-3  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.12.0~dev-2603+g9ab6c607cc-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.12.0~dev-2610+gc3308fa5fe-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2143,7 +2143,7 @@
  rage  0.11.1-1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  4.31.0  This is the command line interface for Railway  https://railway.app 
+ railway-cli  4.32.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-1  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2307,7 +2307,7 @@
  softether-vpn-static  5.2.5188-1  Static libraries for softether-vpn  https://www.softether.org/ 
  soju  0.10.1  A user-friendly IRC bouncer  https://codeberg.org/emersion/soju 
  solidity  0.8.34  An Ethereum smart contract-oriented language  https://www.soliditylang.org/ 
- sops  3.12.1  Simple and flexible tool for managing secrets  https://github.com/getsops/sops 
+ sops  3.12.2  Simple and flexible tool for managing secrets  https://github.com/getsops/sops 
  sord  0.16.22  A lightweight C library for storing RDF data in memory  https://drobilla.net/software/sord.html 
  sound-theme-freedesktop  0.8  Freedesktop sound theme  https://freedesktop.org/wiki/Specifications/sound-theme-spec 
  sox  14.4.2-28  Command line utility for converting between and applying effects to various audio files formats  https://sox.sourceforge.net/ 
