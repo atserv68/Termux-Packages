@@ -631,7 +631,7 @@
   Description: Bore is a simple CLI tool for making tunnels to localhost
   Homepage: https://github.com/ekzhang/bore
 - Package: borgbackup
-  Version: 1.4.3-2
+  Version: 1.4.4
   Description: Deduplicating and compressing backup program
   Homepage: https://www.borgbackup.org/
 - Package: botan3
@@ -2603,7 +2603,7 @@
   Description: GPS file conversion plus transfer to/from GPS units
   Homepage: https://www.gpsbabel.org/
 - Package: gradle
-  Version: 1:9.4.0
+  Version: 1:9.4.1
   Description: Powerful build system for the JVM
   Homepage: https://gradle.org/
 - Package: grafana
@@ -3327,7 +3327,7 @@
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
-  Version: 1.35.2
+  Version: 1.35.3
   Description: Kubernetes.io client binary
   Homepage: https://kubernetes.io/
 - Package: kubelogin
@@ -5815,7 +5815,7 @@
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
-  Version: 2.1.2-1
+  Version: 2.1.2-2
   Description: Terminfo parsing library
   Homepage: https://github.com/neovim/unibilium
 - Package: libunistring
@@ -7463,7 +7463,7 @@
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
-  Version: 2.26.1
+  Version: 2.27.1
   Description: A command-line Git information tool written in Rust
   Homepage: https://onefetch.dev/
 - Package: onigmo
@@ -8359,7 +8359,7 @@
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 9.3.2-1
+  Version: 9.4.0
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-skia-pathops
@@ -9775,15 +9775,15 @@
   Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
   Homepage: https://texlab.netlify.app/
 - Package: texlive-bin
-  Version: 1:2025.0-3
+  Version: 1:2026.0
   Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-bin-static
-  Version: 1:2025.0-3
+  Version: 1:2026.0
   Description: Static libraries for texlive-bin
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-installer
-  Version: "20250308"
+  Version: "20260301"
   Description: Wrapper around texlives install-tl script
   Homepage: https://www.tug.org/texlive/
 - Package: tgpt
