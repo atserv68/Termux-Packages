@@ -4681,7 +4681,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.1350",
+    "Version": "0.24.1412",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -8983,7 +8983,7 @@
   },
   {
     "Package": "libwolfssl",
-    "Version": "5.8.4",
+    "Version": "5.9.0",
     "Description": "A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud",
     "Homepage": "https://www.wolfssl.com/"
   },
@@ -9571,13 +9571,13 @@
   },
   {
     "Package": "lowdown",
-    "Version": "3.0.0",
+    "Version": "3.0.1",
     "Description": "Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
   {
     "Package": "lowdown-static",
-    "Version": "3.0.0",
+    "Version": "3.0.1",
     "Description": "Static libraries for lowdown",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
@@ -10843,7 +10843,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2610+gc3308fa5fe-0",
+    "Version": "0.12.0~dev-2623+g08c64bb036-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -14113,7 +14113,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.30.0",
+    "Version": "0.30.1",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -16216,6 +16216,12 @@
     "Version": "26.1.22-1",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
+  },
+  {
+    "Package": "yoga",
+    "Version": "3.2.1",
+    "Description": "Embeddable layout engine targeting web standards",
+    "Homepage": "https://www.yogalayout.dev/"
   },
   {
     "Package": "yosys",
