@@ -1033,7 +1033,7 @@
   },
   {
     "Package": "btrfs-progs",
-    "Version": "6.19",
+    "Version": "6.19.1",
     "Description": "Utilities for Btrfs filesystem",
     "Homepage": "https://btrfs.readthedocs.io/en/latest/"
   },
@@ -1825,7 +1825,7 @@
   },
   {
     "Package": "dasel",
-    "Version": "3.3.1",
+    "Version": "3.3.2",
     "Description": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility",
     "Homepage": "https://github.com/TomWright/dasel"
   },
@@ -3079,7 +3079,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.2.14",
+    "Version": "0.2.17",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -4105,7 +4105,7 @@
   },
   {
     "Package": "gweather-locations",
-    "Version": "2026.1",
+    "Version": "2026.2",
     "Description": "The GWeather locations database",
     "Homepage": "https://gitlab.gnome.org/GNOME/gweather-locations"
   },
@@ -4123,19 +4123,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "13.1.1",
+    "Version": "13.2.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "13.1.1",
+    "Version": "13.2.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "13.1.1",
+    "Version": "13.2.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -10177,25 +10177,25 @@
   },
   {
     "Package": "mesa",
-    "Version": "26.0.2",
+    "Version": "26.0.3",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "26.0.2",
+    "Version": "26.0.3",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "26.0.2",
+    "Version": "26.0.3",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "26.0.2",
+    "Version": "26.0.3",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -11059,7 +11059,7 @@
   },
   {
     "Package": "npm",
-    "Version": "11.11.1",
+    "Version": "11.12.0",
     "Description": "The package manager for JavaScript",
     "Homepage": "https://docs.npmjs.com/cli/"
   },
@@ -14113,7 +14113,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.29.0-1",
+    "Version": "0.30.0",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -15187,7 +15187,7 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.8.18",
+    "Version": "2.8.19",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turbo.build/"
   },
