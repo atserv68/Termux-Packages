@@ -12535,7 +12535,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.15.6",
+    "Version": "0.15.7",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -13297,7 +13297,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.15.6",
+    "Version": "0.15.7",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15187,7 +15187,7 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.8.19",
+    "Version": "2.8.20",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turbo.build/"
   },
