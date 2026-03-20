@@ -516,7 +516,7 @@
  fribidi-static  1.0.16-1  Static libraries for fribidi  https://github.com/fribidi/fribidi/ 
  frobtads  2.0-5  TADS is a free authoring system for writing your own Interactive Fiction  http://www.tads.org/frobtads.htm 
  frotz  2.55-2  Interpreter for Infocom and other Z-machine interactive fiction (IF) games  https://gitlab.com/DavidGriffith/frotz 
- frp  0.67.0  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
+ frp  0.68.0  A fast reverse proxy to expose a local server behind a NAT or firewall to the internet  https://github.com/fatedier/frp 
  fselect  0.9.3  Find files with SQL-like queries  https://fselect.rocks/ 
  fsmon  1.8.8-1  Filesystem monitor with fanotify and inotify backends  https://github.com/nowsecure/fsmon 
  fwknop  2.6.11-2  fwknop: Single Packet Authorization > Port Knocking  https://www.cipherdyne.org/fwknop/ 
