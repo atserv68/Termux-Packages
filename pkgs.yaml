@@ -403,7 +403,7 @@
   Description: Static libraries for attr
   Homepage: http://savannah.nongnu.org/projects/attr/
 - Package: atuin
-  Version: 18.12.1-1
+  Version: 18.13.3
   Description: Magical shell history
   Homepage: https://atuin.sh/
 - Package: aubio
@@ -6147,15 +6147,15 @@
   Description: A C library for creating Excel XLSX files
   Homepage: https://libxlsxwriter.github.io/
 - Package: libxml2
-  Version: 2.15.2-1
+  Version: 2.15.2-2
   Description: Library for parsing XML documents
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-python
-  Version: 2.15.2-1
+  Version: 2.15.2-2
   Description: Python bindings for libxml2
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxml2-utils
-  Version: 2.15.2-1
+  Version: 2.15.2-2
   Description: XML utilities
   Homepage: https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home
 - Package: libxmlb
