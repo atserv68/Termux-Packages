@@ -1851,15 +1851,15 @@
   Description: A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions
   Homepage: https://fatsort.sourceforge.io/
 - Package: faust
-  Version: 2.83.1
+  Version: 2.85.5
   Description: A functional programming language for signal processing and sound synthesis
   Homepage: https://github.com/grame-cncm/faust
 - Package: faust-static
-  Version: 2.83.1
+  Version: 2.85.5
   Description: Static libraries for faust
   Homepage: https://github.com/grame-cncm/faust
 - Package: faustlibraries
-  Version: 2.83.1
+  Version: 2.85.5
   Description: Faust DSP libraries
   Homepage: https://github.com/grame-cncm/faust
 - Package: fclones
@@ -2155,7 +2155,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.12.2-1
+  Version: 3.12.3
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
@@ -2771,7 +2771,7 @@
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
-  Version: 1.61.0
+  Version: 1.62.0
   Description: Hetzner Cloud command line client
   Homepage: https://github.com/hetznercloud/cli
 - Package: helix
@@ -7075,7 +7075,7 @@
   Description: Organizer of audio files into directories based on metadata tags
   Homepage: https://git.zx2c4.com/music-file-organizer/about/
 - Package: mutt
-  Version: 2.3.0
+  Version: 2.3.1
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: myman
@@ -9135,7 +9135,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.4.1
+  Version: 4.4.2
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -10147,7 +10147,7 @@
   Description: The frontend for libtwolame
   Homepage: https://www.twolame.org/
 - Package: txikijs
-  Version: 1:26.3.0
+  Version: 1:26.3.1
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: typst
@@ -10459,7 +10459,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.03.19
+  Version: 2026.03.20
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -10495,7 +10495,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.346
+  Version: 1.4.347
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
