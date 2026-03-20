@@ -895,7 +895,7 @@
   },
   {
     "Package": "blueprint-compiler",
-    "Version": "0.20.0-2",
+    "Version": "0.20.4",
     "Description": "Markup language for GTK user interfaces",
     "Homepage": "https://gnome.pages.gitlab.gnome.org/blueprint-compiler/"
   },
@@ -997,7 +997,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.56.0",
+    "Version": "1.56.1",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -15733,7 +15733,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.346",
+    "Version": "1.4.347",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
