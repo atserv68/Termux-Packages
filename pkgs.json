@@ -997,7 +997,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.55.0",
+    "Version": "1.56.0",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "Package": "gdu",
-    "Version": "5.34.0",
+    "Version": "5.34.1",
     "Description": "Fast disk usage analyzer with console interface written in Go",
     "Homepage": "https://github.com/dundee/gdu"
   },
