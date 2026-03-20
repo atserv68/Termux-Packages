@@ -277,7 +277,7 @@
   },
   {
     "Package": "aom-tools",
-    "Version": "3.13.1-1",
+    "Version": "3.13.2",
     "Description": "Command-line tools using AOMedia library",
     "Homepage": "https://aomedia.org/"
   },
@@ -1807,13 +1807,13 @@
   },
   {
     "Package": "dar",
-    "Version": "2.8.3",
+    "Version": "2.8.4",
     "Description": "A full featured command-line backup tool, short for Disk ARchive",
     "Homepage": "http://dar.linux.free.fr/"
   },
   {
     "Package": "dar-static",
-    "Version": "2.8.3",
+    "Version": "2.8.4",
     "Description": "Static libraries for dar",
     "Homepage": "http://dar.linux.free.fr/"
   },
@@ -2713,7 +2713,7 @@
   },
   {
     "Package": "exiftool",
-    "Version": "13.52",
+    "Version": "13.53",
     "Description": "Utility for reading, writing and editing meta information in a wide variety of files.",
     "Homepage": "https://exiftool.org/"
   },
@@ -3451,7 +3451,7 @@
   },
   {
     "Package": "git-delta",
-    "Version": "0.18.2-3",
+    "Version": "0.19.0",
     "Description": "A syntax-highlighter for git and diff output",
     "Homepage": "https://dandavison.github.io/delta/"
   },
@@ -5329,13 +5329,13 @@
   },
   {
     "Package": "libaom",
-    "Version": "3.13.1-1",
+    "Version": "3.13.2",
     "Description": "AV1 Video Codec Library",
     "Homepage": "https://aomedia.org/"
   },
   {
     "Package": "libaom-static",
-    "Version": "3.13.1-1",
+    "Version": "3.13.2",
     "Description": "Static libraries for libaom",
     "Homepage": "https://aomedia.org/"
   },
@@ -10843,7 +10843,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.12.0~dev-2623+g08c64bb036-0",
+    "Version": "0.12.0~dev-2636+g238d4fa71a-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13525,13 +13525,13 @@
   },
   {
     "Package": "seafile-client",
-    "Version": "9.0.16-2",
+    "Version": "9.0.17",
     "Description": "Seafile is a file syncing and sharing software with file encryption and group sharing",
     "Homepage": "https://seafile.com"
   },
   {
     "Package": "seafile-client-static",
-    "Version": "9.0.16-2",
+    "Version": "9.0.17",
     "Description": "Static libraries for seafile-client",
     "Homepage": "https://seafile.com"
   },
@@ -15709,7 +15709,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.346",
+    "Version": "1.4.347",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
