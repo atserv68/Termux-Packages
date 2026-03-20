@@ -11191,7 +11191,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.24.4",
+    "Version": "1.25.0",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
