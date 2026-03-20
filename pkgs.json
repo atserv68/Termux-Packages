@@ -1825,7 +1825,7 @@
   },
   {
     "Package": "dasel",
-    "Version": "3.3.2",
+    "Version": "3.4.0",
     "Description": "Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility",
     "Homepage": "https://github.com/TomWright/dasel"
   },
@@ -4117,7 +4117,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.3.5",
+    "Version": "3.3.6",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -15463,7 +15463,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.10.11",
+    "Version": "0.10.12",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -15619,7 +15619,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.0192",
+    "Version": "9.2.0200",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -15691,7 +15691,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.03.07",
+    "Version": "2026.03.19",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -16141,7 +16141,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.0192",
+    "Version": "9.2.0200",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
