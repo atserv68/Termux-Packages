@@ -15013,7 +15013,7 @@
   },
   {
     "Package": "tree-sitter-rust",
-    "Version": "0.24.0",
+    "Version": "0.24.1",
     "Description": "Rust grammar for tree-sitter",
     "Homepage": "https://github.com/tree-sitter/tree-sitter-rust"
   },

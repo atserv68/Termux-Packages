@@ -2512,7 +2512,7 @@
 | **tree-sitter-python** | 0.25.0 | Python grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-python |
 | **tree-sitter-query** | 0.8.0-1 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
 | **tree-sitter-regex** | 0.25.0 | RegEx grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-regex |
-| **tree-sitter-rust** | 0.24.0 | Rust grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-rust |
+| **tree-sitter-rust** | 0.24.1 | Rust grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-rust |
 | **tree-sitter-sql** | 0.3.11 | SQL grammar for tree-sitter | https://github.com/derekstride/tree-sitter-sql |
 | **tree-sitter-static** | 0.25.10-2 | Static libraries for tree-sitter | https://tree-sitter.github.io/ |
 | **tree-sitter-toml** | 0.7.0 | TOML grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-toml |
