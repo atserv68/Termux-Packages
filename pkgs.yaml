@@ -107,7 +107,7 @@
   Description: Automatic Language-Agnostic Subtitle Synchronization
   Homepage: https://github.com/kaegi/alass
 - Package: alembic
-  Version: 1.8.10
+  Version: 1.8.11
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
@@ -423,7 +423,7 @@
   Description: Static libraries for audiofile
   Homepage: https://audiofile.68k.org/
 - Package: autoconf
-  Version: "2.72"
+  Version: "2.73"
   Description: Creator of shell scripts to configure source code packages
   Homepage: https://www.gnu.org/software/autoconf/autoconf.html
 - Package: autoconf-archive
@@ -778,10 +778,18 @@
   Version: 1.6.3
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
+- Package: cargo-binstall
+  Version: 1.17.7
+  Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
+  Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
   Version: 0.10.21
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
+- Package: cargo-cache
+  Version: 0.8.3
+  Description: Tool to manage cargo cache
+  Homepage: https://github.com/matthiaskrgr/cargo-cache
 - Package: cargo-leptos
   Version: 0.3.5
   Description: Build tool for the Rust framework Leptos
@@ -2183,7 +2191,7 @@
   Description: Download a gdrive folder or file easily, shell ftw
   Homepage: https://github.com/Akianonymus/gdrive-downloader
 - Package: gdu
-  Version: 5.34.1
+  Version: 5.34.2
   Description: Fast disk usage analyzer with console interface written in Go
   Homepage: https://github.com/dundee/gdu
 - Package: geckodriver
@@ -3611,7 +3619,7 @@
   Description: Static libraries for libatomic-ops
   Homepage: https://github.com/bdwgc/libatomic_ops
 - Package: libavif
-  Version: 1.4.0
+  Version: 1.4.1
   Description: Library for encoding and decoding .avif files
   Homepage: https://github.com/AOMediaCodec/libavif
 - Package: libbcprov-java
@@ -10335,7 +10343,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.14.0
+  Version: 3.14.1
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valgrind

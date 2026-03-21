@@ -163,7 +163,7 @@
   },
   {
     "Package": "alembic",
-    "Version": "1.8.10",
+    "Version": "1.8.11",
     "Description": "A framework for sharing scene data that includes a C++ lib, a file format and client plugin",
     "Homepage": "https://alembic.io"
   },
@@ -637,7 +637,7 @@
   },
   {
     "Package": "autoconf",
-    "Version": "2.72",
+    "Version": "2.73",
     "Description": "Creator of shell scripts to configure source code packages",
     "Homepage": "https://www.gnu.org/software/autoconf/autoconf.html"
   },
@@ -1170,10 +1170,22 @@
     "Homepage": "https://carapace.sh/"
   },
   {
+    "Package": "cargo-binstall",
+    "Version": "1.17.7",
+    "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
+    "Homepage": "https://github.com/cargo-bins/cargo-binstall"
+  },
+  {
     "Package": "cargo-c",
     "Version": "0.10.21",
     "Description": "Cargo C-ABI helpers",
     "Homepage": "https://github.com/lu-zero/cargo-c"
+  },
+  {
+    "Package": "cargo-cache",
+    "Version": "0.8.3",
+    "Description": "Tool to manage cargo cache",
+    "Homepage": "https://github.com/matthiaskrgr/cargo-cache"
   },
   {
     "Package": "cargo-leptos",
@@ -3277,7 +3289,7 @@
   },
   {
     "Package": "gdu",
-    "Version": "5.34.1",
+    "Version": "5.34.2",
     "Description": "Fast disk usage analyzer with console interface written in Go",
     "Homepage": "https://github.com/dundee/gdu"
   },
@@ -5419,7 +5431,7 @@
   },
   {
     "Package": "libavif",
-    "Version": "1.4.0",
+    "Version": "1.4.1",
     "Description": "Library for encoding and decoding .avif files",
     "Homepage": "https://github.com/AOMediaCodec/libavif"
   },
@@ -15505,7 +15517,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.14.0",
+    "Version": "3.14.1",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
