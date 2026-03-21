@@ -779,7 +779,7 @@
   Description: Multi-shell multi-command argument completer
   Homepage: https://carapace.sh/
 - Package: cargo-binstall
-  Version: 1.17.7
+  Version: 1.17.8
   Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
   Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
@@ -8551,7 +8551,7 @@
   Description: Finds bugs in JavaScript programs
   Homepage: https://quick-lint-js.com/
 - Package: quickjs-ng
-  Version: 0.12.1-1
+  Version: 0.13.0
   Description: Embeddable JavaScript engine in C (NG fork)
   Homepage: https://quickjs-ng.github.io/quickjs/
 - Package: quilt
@@ -10827,7 +10827,7 @@
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
-  Version: 2.10.5
+  Version: 2.10.6
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq

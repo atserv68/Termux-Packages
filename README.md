@@ -205,7 +205,7 @@
 | **capstone** | 5.0.7 | Lightweight multi-platform, multi-architecture disassembly framework | https://www.capstone-engine.org/ |
 | **capstone-static** | 5.0.7 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.6.3 | Multi-shell multi-command argument completer | https://carapace.sh/ |
-| **cargo-binstall** | 1.17.7 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
+| **cargo-binstall** | 1.17.8 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.21 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-leptos** | 0.3.5 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
@@ -2148,7 +2148,7 @@
 | **qpdf** | 12.3.2 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-7 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
-| **quickjs-ng** | 0.12.1-1 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
+| **quickjs-ng** | 0.13.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
 | **rabbitmq-server** | 4.2.5 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.1 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
@@ -2717,7 +2717,7 @@
 | **yazi** | 26.1.22-1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yoga** | 3.2.1 | Embeddable layout engine targeting web standards | https://www.yogalayout.dev/ |
 | **yosys** | 0.63-1 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
-| **youtubedr** | 2.10.5 | Download youtube video in Golang | https://github.com/kkdai/youtube |
+| **youtubedr** | 2.10.6 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.52.4 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.8.0 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
