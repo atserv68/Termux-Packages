@@ -2635,11 +2635,11 @@
   Description: Static libraries for graphicsmagick
   Homepage: http://www.graphicsmagick.org/
 - Package: graphviz
-  Version: 14.1.3
+  Version: 14.1.4
   Description: Rich set of graph drawing tools
   Homepage: https://www.graphviz.org/
 - Package: graphviz-static
-  Version: 14.1.3
+  Version: 14.1.4
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
@@ -6251,7 +6251,7 @@
   Description: Static libraries for libzen
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libzim
-  Version: 9.5.0-1
+  Version: 9.5.1
   Description: The ZIM library is the reference implementation for the ZIM file format.
   Homepage: https://openzim.org
 - Package: libzimg
@@ -7235,7 +7235,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.12.0~dev-2636+g238d4fa71a-0
+  Version: 0.12.0~dev-2654+g0655a359ae-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
