@@ -952,7 +952,7 @@
 | **libcdk** | 5.0-20250116-1 | Curses Development Kit | https://dickey.his.com/cdk/cdk.html |
 | **libcec** | 7.1.1-1 | Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware | https://libcec.pulse-eight.com/ |
 | **libcec-static** | 7.1.1-1 | Static libraries for libcec | https://libcec.pulse-eight.com/ |
-| **libceres-solver** | 2.2.0-3 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
+| **libceres-solver** | 2.2.0-4 | C++ library for modeling and solving large, complicated optimization problems | http://ceres-solver.org |
 | **libchipmunk** | 7.0.3-2 | A fast and lightweight 2D game physics library | http://chipmunk2d.net |
 | **libchromaprint** | 1.6.0-1 | C library for generating audio fingerprints used by AcoustID | https://acoustid.org/chromaprint |
 | **libclc** | 21.1.3-1 | Open source implementation of the library requirements of the OpenCL C programming language | https://libclc.llvm.org/ |

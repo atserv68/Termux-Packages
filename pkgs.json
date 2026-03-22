@@ -5653,7 +5653,7 @@
   },
   {
     "Package": "libceres-solver",
-    "Version": "2.2.0-3",
+    "Version": "2.2.0-4",
     "Description": "C++ library for modeling and solving large, complicated optimization problems",
     "Homepage": "http://ceres-solver.org"
   },
