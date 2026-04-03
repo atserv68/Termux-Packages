@@ -1739,19 +1739,19 @@
   Description: Emmy Lua Language Server coded in Rust
   Homepage: https://github.com/EmmyLuaLs/emmylua-analyzer-rust
 - Package: emscripten
-  Version: 5.0.4
+  Version: 5.0.5
   Description: 'Emscripten: An LLVM-to-WebAssembly Compiler'
   Homepage: https://emscripten.org
 - Package: emscripten-binaryen
-  Version: 5.0.4
+  Version: 5.0.5
   Description: Emscripten-compatible Binaryen
   Homepage: https://emscripten.org
 - Package: emscripten-llvm
-  Version: 5.0.4
+  Version: 5.0.5
   Description: Emscripten-compatible LLVM
   Homepage: https://emscripten.org
 - Package: emscripten-tests-third-party
-  Version: 5.0.4
+  Version: 5.0.5
   Description: Emscripten third party test suite files
   Homepage: https://emscripten.org
 - Package: enblend
@@ -10523,7 +10523,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.347
+  Version: 1.4.348
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -10531,7 +10531,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.347
+  Version: 1.4.348
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
