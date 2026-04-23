@@ -567,7 +567,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.4.12
+  Version: 2.4.13
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -2435,7 +2435,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.92.1
+  Version: 1.93.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3207,7 +3207,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.1608
+  Version: 0.24.1731
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
