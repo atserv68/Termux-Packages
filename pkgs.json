@@ -15607,7 +15607,7 @@
   },
   {
     "Package": "turbo",
-    "Version": "2.9.6",
+    "Version": "2.9.7",
     "Description": "High-performance build system for JS/TS",
     "Homepage": "https://turbo.build/"
   },
