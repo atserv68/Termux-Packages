@@ -1015,7 +1015,7 @@
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clvk
-  Version: 0.0.20260417.111654
+  Version: 0.0.20260429.095507
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
@@ -7651,11 +7651,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.22.0
+  Version: 0.22.1
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.22.0
+  Version: 0.22.1
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
@@ -7851,7 +7851,7 @@
   Description: Open Source API and interchange format for editorial timeline information.
   Homepage: http://opentimeline.io/
 - Package: openxr
-  Version: 1.1.58-1
+  Version: 1.1.59
   Description: Open standard that provides a common set of APIs for developing XR applications
   Homepage: https://www.khronos.org/openxr/
 - Package: optipng
@@ -9647,7 +9647,7 @@
   Description: Streaming bar graphs. For stats and stuff.
   Homepage: https://github.com/seenaburns/stag
 - Package: starship
-  Version: 1.25.0
+  Version: 1.25.1
   Description: A minimal, blazing fast, and extremely customizable prompt for any shell
   Homepage: https://starship.rs
 - Package: stdman
@@ -9931,7 +9931,7 @@
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: teleport-tsh
-  Version: 18.7.2
+  Version: 18.7.6
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: tere
@@ -10867,7 +10867,7 @@
   Description: Turn any program that uses STDIN/STDOUT into a WebSocket server
   Homepage: http://websocketd.com/
 - Package: webtunnel
-  Version: 0.0.3
+  Version: 0.0.4
   Description: Pluggable Transport based on HTTP Upgrade(HTTPT)
   Homepage: https://torproject.org/
 - Package: weechat
