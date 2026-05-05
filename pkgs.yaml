@@ -10446,6 +10446,10 @@
   Version: 1:26.4.0
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
+- Package: ty
+  Version: 0.0.34
+  Description: An extremely fast Python type checker and language server, written in Rust
+  Homepage: https://github.com/astral-sh/ty
 - Package: typst
   Version: 0.14.2
   Description: A new markup-based typesetting system that is powerful and easy to learn
