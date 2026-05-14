@@ -1930,7 +1930,7 @@
 | **opencl-clhpp** | 2025.07.22 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2025.07.22 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3-1 | OpenCL driver from system vendor | https://termux.dev |
-| **opencolorio** | 2.5.1 | A color management framework for visual effects and animation | https://opencolorio.org |
+| **opencolorio** | 2.5.2 | A color management framework for visual effects and animation | https://opencolorio.org |
 | **openexr** | 3.4.4 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2412-5 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
