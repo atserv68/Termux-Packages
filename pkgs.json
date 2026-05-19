@@ -15661,7 +15661,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.37",
+    "Version": "0.0.37-1",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
