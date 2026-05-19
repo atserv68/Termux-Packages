@@ -3121,7 +3121,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.52",
+    "Version": "0.4.53",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4657,13 +4657,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.22",
+    "Version": "7.1.2.23",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.22",
+    "Version": "7.1.2.23",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -9853,7 +9853,7 @@
   },
   {
     "Package": "ltrace",
-    "Version": "1:0.8.1",
+    "Version": "1:0.8.1-1",
     "Description": "Tracks runtime library calls in dynamically linked programs",
     "Homepage": "http://www.ltrace.org/"
   },
@@ -12811,7 +12811,7 @@
   },
   {
     "Package": "python-lxml",
-    "Version": "6.1.0",
+    "Version": "6.1.1",
     "Description": "Python binding for the libxml2 and libxslt libraries",
     "Homepage": "https://github.com/lxml/lxml"
   },

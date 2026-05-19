@@ -530,7 +530,7 @@
 | **flex-static** | 2.6.4-4 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.5.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.5.4 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.52 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.53 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.17.1-1 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -786,8 +786,8 @@
 | **id3lib** | 3.8.3-4 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | https://id3lib.sourceforge.net/ |
 | **id3lib-static** | 3.8.3-4 | Static libraries for id3lib | https://id3lib.sourceforge.net/ |
 | **id3v2** | 0.1.12-2 | A command line id3v2 tag editor | https://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.2.22 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.2.22 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.2.23 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.2.23 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.2.2 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imlib2** | 1.12.6 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
 | **imlib2-static** | 1.12.6 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
@@ -1652,7 +1652,7 @@
 | **lsix** | 1.9.1-1 | Shows thumbnails in terminal using sixel graphics | https://github.com/hackerb9/lsix |
 | **lsof** | 4.99.6 | Lists open files for running Unix processes | https://github.com/lsof-org/lsof |
 | **lsof-static** | 4.99.6 | Static libraries for lsof | https://github.com/lsof-org/lsof |
-| **ltrace** | 1:0.8.1 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
+| **ltrace** | 1:0.8.1-1 | Tracks runtime library calls in dynamically linked programs | http://www.ltrace.org/ |
 | **lua-language-server** | 3.18.2 | Sumneko Lua Language Server coded in Lua | https://github.com/sumneko/lua-language-server |
 | **lua-lgi** | 0.9.2+p20251219-2 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **lua-lpeg** | 1.1.0-5 | Pattern-matching library for Lua 5.4 | https://www.inf.puc-rio.br/~roberto/lpeg |
@@ -2145,7 +2145,7 @@
 | **python-lameenc** | 1.8.2 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0-2 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-llvmlite** | 0.47.0-2 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
-| **python-lxml** | 6.1.0 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
+| **python-lxml** | 6.1.1 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-msgpack** | 1.1.2-2 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-numpy** | 2.4.4 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.4.4 | Static libraries for python-numpy | https://numpy.org/ |
