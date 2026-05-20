@@ -468,8 +468,8 @@
 | **enchant-static** | 2.8.16 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-13 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.8 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 28.5 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **erlang-doc** | 28.5 | Erlang HTML documentation | https://www.erlang.org/ |
+| **erlang** | 29.0 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang-doc** | 29.0 | Erlang HTML documentation | https://www.erlang.org/ |
 | **esbuild** | 0.28.0 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -695,7 +695,7 @@
 | **graphicsmagick-static** | 1.3.47 | Static libraries for graphicsmagick | http://www.graphicsmagick.org/ |
 | **graphviz** | 14.1.5 | Rich set of graph drawing tools | https://www.graphviz.org/ |
 | **graphviz-static** | 14.1.5 | Static libraries for graphviz | https://www.graphviz.org/ |
-| **greed** | 4.5 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
+| **greed** | 5.0 | Game where you try to eat as much as possible of the board before munching yourself into a corner | http://www.catb.org/~esr/greed/ |
 | **grep** | 3.12-3 | Command which searches one or more input files for lines containing a match to a specified pattern | https://www.gnu.org/software/grep/ |
 | **grex** | 1.4.6-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.23.0-2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
