@@ -291,7 +291,7 @@
   Description: Simple, expressive & portable programming language for efficient scripting
   Homepage: https://arturo-lang.io
 - Package: ascii
-  Version: "3.31"
+  Version: "3.32"
   Description: List ASCII idiomatic names and octal/decimal code-point forms
   Homepage: http://www.catb.org/~esr/ascii/
 - Package: asciidoc
@@ -1019,11 +1019,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 4.3.2-1
+  Version: 4.3.3
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 4.3.2-1
+  Version: 4.3.3
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -2091,15 +2091,15 @@
   Description: Open-source formatting library for C++
   Homepage: https://fmt.dev/latest/index.html
 - Package: fontconfig
-  Version: 2.17.1-1
+  Version: 2.18.0
   Description: Library for configuring and customizing font access
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: fontconfig-static
-  Version: 2.17.1-1
+  Version: 2.18.0
   Description: Static libraries for fontconfig
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: fontconfig-utils
-  Version: 2.17.1-1
+  Version: 2.18.0
   Description: Fontconfig binaries
   Homepage: https://www.freedesktop.org/wiki/Software/fontconfig/
 - Package: forestdb-dump
@@ -2759,7 +2759,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 16.0.4
+  Version: 16.0.5
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -3271,7 +3271,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.103.0
+  Version: 2.104.1
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -7399,7 +7399,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-565+ga952575c3b-0
+  Version: 0.13.0~dev-576+g71c72c3409-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7651,7 +7651,7 @@
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
-  Version: 1.26.2
+  Version: 1.26.3
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
@@ -8255,7 +8255,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.38.1
+  Version: 0.38.2
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
