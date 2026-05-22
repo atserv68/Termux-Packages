@@ -4323,7 +4323,7 @@
   Description: Static libraries for libgfshare
   Homepage: https://www.digital-scurf.org/software/libgfshare
 - Package: libgit2
-  Version: 1.9.3
+  Version: 1.9.4
   Description: C library implementing Git core methods
   Homepage: https://libgit2.github.com/
 - Package: libglibmm-2.4
@@ -10927,7 +10927,7 @@
   Description: wgetpaste is a shell script that allows its users to upload log.
   Homepage: https://github.com/zlin/wgetpaste
 - Package: which
-  Version: 2.23-1
+  Version: "2.25"
   Description: Shows the full path of (shell) commands
   Homepage: https://savannah.gnu.org/projects/which/
 - Package: whiptail
