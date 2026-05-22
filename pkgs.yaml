@@ -2279,7 +2279,7 @@
   Description: Library for image loading and manipulation
   Homepage: https://wiki.gnome.org/Projects/GdkPixbuf
 - Package: gdrive-downloader
-  Version: "1:1.1"
+  Version: "1:2.0"
   Description: Download a gdrive folder or file easily, shell ftw
   Homepage: https://github.com/Akianonymus/gdrive-downloader
 - Package: gdu

@@ -580,7 +580,7 @@
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 16.3-3 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.44.6 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
-| **gdrive-downloader** | 1:1.1 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
+| **gdrive-downloader** | 1:2.0 | Download a gdrive folder or file easily, shell ftw | https://github.com/Akianonymus/gdrive-downloader |
 | **gdu** | 5.36.1 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.36.0-1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.2.0-1 | Generic Constraint Development Environment | https://github.com/Gecode/gecode |
