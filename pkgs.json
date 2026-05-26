@@ -907,7 +907,7 @@
   },
   {
     "Package": "blk-utils",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Utilities for handling block device attributes",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -2935,7 +2935,7 @@
   },
   {
     "Package": "fdisk",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Utilities to manipulate disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -5605,7 +5605,7 @@
   },
   {
     "Package": "libblkid",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Block device identification library",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -6301,7 +6301,7 @@
   },
   {
     "Package": "libfdisk",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Library for manipulating disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -7339,7 +7339,7 @@
   },
   {
     "Package": "libmount",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Library for (un)mounting filesystems",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -8383,7 +8383,7 @@
   },
   {
     "Package": "libsmartcols",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Library for smart adaptive formatting of tabular data",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -8983,7 +8983,7 @@
   },
   {
     "Package": "libuuid",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Library for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -10699,7 +10699,7 @@
   },
   {
     "Package": "mount-utils",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Utilities for (un)mounting filesystems",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -11101,7 +11101,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-587+g61eddb3fe7-0",
+    "Version": "0.13.0~dev-601+gd214c24129-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11851,13 +11851,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.66.0",
+    "Version": "1.67.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.66.0",
+    "Version": "1.67.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -13009,13 +13009,13 @@
   },
   {
     "Package": "qalc",
-    "Version": "5.10.0",
+    "Version": "5.11.0",
     "Description": "Powerful and easy to use command line calculator",
     "Homepage": "https://qalculate.github.io/"
   },
   {
     "Package": "qalc-static",
-    "Version": "5.10.0",
+    "Version": "5.11.0",
     "Description": "Static libraries for qalc",
     "Homepage": "https://qalculate.github.io/"
   },
@@ -15877,13 +15877,13 @@
   },
   {
     "Package": "util-linux",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Miscellaneous system utilities",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
   {
     "Package": "util-linux-static",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Static libraries for util-linux",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -15895,7 +15895,7 @@
   },
   {
     "Package": "uuid-utils",
-    "Version": "2.41.3",
+    "Version": "2.42.1",
     "Description": "Utilities for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
