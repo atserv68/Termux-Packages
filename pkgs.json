@@ -1897,7 +1897,7 @@
   },
   {
     "Package": "dart",
-    "Version": "3.12.0",
+    "Version": "3.12.1",
     "Description": "Dart is a general-purpose programming language",
     "Homepage": "https://dart.dev/"
   },
@@ -3223,7 +3223,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.3.8",
+    "Version": "0.3.9",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -3661,7 +3661,7 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.53.0",
+    "Version": "0.54.0",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/GitoxideLabs/gitoxide"
   },
@@ -6031,7 +6031,7 @@
   },
   {
     "Package": "libde265",
-    "Version": "1.0.19",
+    "Version": "1.1.0",
     "Description": "H.265/HEVC video stream decoder library",
     "Homepage": "https://github.com/strukturag/libde265"
   },

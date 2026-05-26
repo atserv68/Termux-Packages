@@ -1263,7 +1263,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dart
-  Version: 3.12.0
+  Version: 3.12.1
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
@@ -2147,7 +2147,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.3.8
+  Version: 0.3.9
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2439,7 +2439,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.53.0
+  Version: 0.54.0
   Description: Rust implementation of Git
   Homepage: https://github.com/GitoxideLabs/gitoxide
 - Package: gitui
@@ -4019,7 +4019,7 @@
   Description: Static libraries for libdb
   Homepage: https://www.oracle.com/database/berkeley-db
 - Package: libde265
-  Version: 1.0.19
+  Version: 1.1.0
   Description: H.265/HEVC video stream decoder library
   Homepage: https://github.com/strukturag/libde265
 - Package: libdebuginfod
