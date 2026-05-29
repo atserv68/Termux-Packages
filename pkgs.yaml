@@ -1483,9 +1483,9 @@
   Description: Drug-dealing game set in streets of New York City
   Homepage: https://dopewars.sourceforge.io
 - Package: dos2unix
-  Version: 7.5.5
+  Version: 7.5.6
   Description: Converts between DOS and Unix text files
-  Homepage: https://waterlan.home.xs4all.nl/dos2unix.html
+  Homepage: https://waterlander.net/dos2unix/
 - Package: dosfstools
   Version: 4.2-1
   Description: DOS file system utilities
@@ -6771,11 +6771,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:12.2.2
+  Version: 2:12.3.1
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:12.2.2
+  Version: 2:12.3.1
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
@@ -7411,7 +7411,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-606+g3600d1c13c-0
+  Version: 0.13.0~dev-613+g1a7ab1ab47-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8971,7 +8971,7 @@
   Description: Restics REST backend API server
   Homepage: https://restic.net/
 - Package: restish
-  Version: 2.0.0
+  Version: 2.1.0
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/rest-sh/restish
 - Package: rgbds
