@@ -283,14 +283,14 @@
   },
   {
     "Package": "aosp-libs",
-    "Version": "9.0.0-r76-2",
+    "Version": "9.0.0-r76-3",
     "Description": "bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker",
     "Homepage": "https://source.android.com/"
   },
   {
     "Package": "aosp-utils",
-    "Version": "9.0.0-r76-2",
-    "Description": "AOSP-based mksh, toybox and iputils for termux-docker",
+    "Version": "9.0.0-r76-3",
+    "Description": "AOSP-based mksh, toybox, grep and iputils for termux-docker",
     "Homepage": "https://source.android.com/"
   },
   {
@@ -3901,7 +3901,7 @@
   },
   {
     "Package": "gogs",
-    "Version": "0.14.2",
+    "Version": "0.14.3",
     "Description": "A painless self-hosted Git service",
     "Homepage": "https://gogs.io"
   },
@@ -13249,7 +13249,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.4.2",
+    "Version": "5.5.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
