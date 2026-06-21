@@ -12925,7 +12925,7 @@
   },
   {
     "Package": "python-scipy",
-    "Version": "1.17.1-2",
+    "Version": "1.18.0",
     "Description": "Fundamental algorithms for scientific computing in Python",
     "Homepage": "https://scipy.org/"
   },
