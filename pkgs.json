@@ -6433,7 +6433,7 @@
   },
   {
     "Package": "libgedit-gfls",
-    "Version": "0.4.1",
+    "Version": "0.4.2",
     "Description": "A module dedicated to file loading and saving",
     "Homepage": "https://gitlab.gnome.org/World/gedit/libgedit-gfls"
   },
@@ -7573,13 +7573,13 @@
   },
   {
     "Package": "libnghttp3",
-    "Version": "1.16.0",
+    "Version": "1.17.0",
     "Description": "HTTP/3 library written in C",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
   {
     "Package": "libnghttp3-static",
-    "Version": "1.16.0",
+    "Version": "1.17.0",
     "Description": "Static libraries for libnghttp3",
     "Homepage": "https://nghttp2.org/nghttp3/"
   },
@@ -10771,7 +10771,7 @@
   },
   {
     "Package": "mpdscribble",
-    "Version": "0.25-4",
+    "Version": "0.26",
     "Description": "A Music Player Daemon (MPD) client which submits information about tracks being played to a scrobbler",
     "Homepage": "https://www.musicpd.org/clients/mpdscribble/"
   },
