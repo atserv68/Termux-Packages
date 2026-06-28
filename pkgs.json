@@ -4657,13 +4657,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.25",
+    "Version": "7.1.2.26",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.25",
+    "Version": "7.1.2.26",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -13855,7 +13855,7 @@
   },
   {
     "Package": "sbcl",
-    "Version": "2.6.5",
+    "Version": "2.6.6",
     "Description": "A high performance Common Lisp compiler",
     "Homepage": "http://www.sbcl.org/"
   },
