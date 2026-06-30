@@ -5707,11 +5707,11 @@
   Description: Tiny C SSH library
   Homepage: https://www.libssh.org/
 - Package: libssh2
-  Version: 1.11.1-1
+  Version: 1.11.1-2
   Description: Client-side library implementing the SSH2 protocol
   Homepage: https://www.libssh2.org
 - Package: libssh2-static
-  Version: 1.11.1-1
+  Version: 1.11.1-2
   Description: Static libraries for libssh2
   Homepage: https://www.libssh2.org
 - Package: libstemmer
