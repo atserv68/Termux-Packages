@@ -2164,7 +2164,7 @@
 | **python-torchaudio** | 2.11.0-2 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
 | **python-torchcodec** | 0.11.0-2 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
 | **python-torchvision** | 0.27.0-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
-| **python-trash-cli** | 0.24.5.26 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
+| **python-trash-cli** | 0.24.5.26-1 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
 | **python-xcbgen** | 1.17.0-3 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-4 | The Python X Library | https://github.com/python-xlib/python-xlib |
 | **python-yt-dlp** | 2026.06.09-1 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
