@@ -799,7 +799,7 @@
   },
   {
     "Package": "bear",
-    "Version": "4.1.4",
+    "Version": "4.1.5",
     "Description": "Bear is a tool that generates a compilation database for clang tooling.",
     "Homepage": "https://github.com/rizsotto/Bear"
   },
