@@ -499,7 +499,7 @@
   Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
   Homepage: https://www.gnu.org/software/bash/
 - Package: bash-completion
-  Version: 2.17.0-2
+  Version: 2.18.0
   Description: Programmable completion for the bash shell
   Homepage: https://github.com/scop/bash-completion
 - Package: bastet
@@ -7843,11 +7843,11 @@
   Description: The programmers solid 3D CAD modeller (headless build)
   Homepage: https://openscad.org/
 - Package: openssh
-  Version: 10.3p1-1
+  Version: 10.4p1
   Description: Secure shell for logging into a remote machine
   Homepage: https://www.openssh.com/
 - Package: openssh-sftp-server
-  Version: 10.3p1-1
+  Version: 10.4p1
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl

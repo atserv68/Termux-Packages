@@ -135,7 +135,7 @@
 | **barcode** | 0.99-5 | Tool to convert text strings to printed bars | https://www.gnu.org/software/barcode/ |
 | **base16384** | 2.3.2-1 | Encode binary to printable utf16be | https://github.com/fumiama/base16384 |
 | **bash** | 5.3.9-1 | A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh) | https://www.gnu.org/software/bash/ |
-| **bash-completion** | 2.17.0-2 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
+| **bash-completion** | 2.18.0 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
 | **bastet** | 0.43.2-13 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
 | **bat** | 0.26.1-1 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
 | **bc** | 1.08.2-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
@@ -1971,8 +1971,8 @@
 | **opensc** | 0.27.1 | Open source smart card tools and middleware | https://github.com/OpenSC/OpenSC |
 | **opensc-static** | 0.27.1 | Static libraries for opensc | https://github.com/OpenSC/OpenSC |
 | **openscad** | 2021.01-6 | The programmers solid 3D CAD modeller (headless build) | https://openscad.org/ |
-| **openssh** | 10.3p1-1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
-| **openssh-sftp-server** | 10.3p1-1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
+| **openssh** | 10.4p1 | Secure shell for logging into a remote machine | https://www.openssh.com/ |
+| **openssh-sftp-server** | 10.4p1 | OpenSSH SFTP server subsystem | https://www.openssh.com/ |
 | **openssl** | 1:3.6.3 | Library implementing the SSL and TLS protocols as well as general purpose cryptography functions | https://www.openssl.org/ |
 | **openssl-static** | 1:3.6.3 | Static libraries for openssl | https://www.openssl.org/ |
 | **openssl-tool** | 1:3.6.3 | The openssl command line cryptographic tool | https://www.openssl.org/ |
