@@ -14593,7 +14593,7 @@
   },
   {
     "Package": "stduuid",
-    "Version": "1.2.3",
+    "Version": "1.2.3-1",
     "Description": "C++17 cross-platform single-header library implementation for universally unique identifiers",
     "Homepage": "https://github.com/mariusbancila/stduuid"
   },

@@ -9727,7 +9727,7 @@
   Description: Patch the isatty() calls for colored output in pipeline
   Homepage: https://github.com/lilydjwg/stdoutisatty
 - Package: stduuid
-  Version: 1.2.3
+  Version: 1.2.3-1
   Description: C++17 cross-platform single-header library implementation for universally unique identifiers
   Homepage: https://github.com/mariusbancila/stduuid
 - Package: steghide
