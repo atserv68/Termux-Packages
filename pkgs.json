@@ -12907,7 +12907,7 @@
   },
   {
     "Package": "python-msgpack",
-    "Version": "1.2.1-1",
+    "Version": "1.2.1-2",
     "Description": "MessagePack serializer implementation for Python",
     "Homepage": "https://github.com/msgpack/msgpack-python"
   },
