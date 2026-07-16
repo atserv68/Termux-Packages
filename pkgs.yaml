@@ -555,7 +555,7 @@
   Description: An XMPP gateway that connects to IRC servers and translates between the two protocols
   Homepage: https://biboumi.louiz.org/
 - Package: binaryen
-  Version: "130"
+  Version: "131"
   Description: Binaryen is a compiler and toolchain infrastructure library for WebAssembly
   Homepage: https://github.com/WebAssembly/binaryen
 - Package: binutils
@@ -3407,7 +3407,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kew
-  Version: 4.2.2
+  Version: 4.2.4
   Description: Music for the Shell
   Homepage: https://kewplayer.com
 - Package: keybase
@@ -7091,7 +7091,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.7.6
+  Version: 2026.7.7
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -10267,7 +10267,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 17.7.0
+  Version: 17.8.0
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor

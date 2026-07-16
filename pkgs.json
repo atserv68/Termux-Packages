@@ -835,7 +835,7 @@
   },
   {
     "Package": "binaryen",
-    "Version": "130",
+    "Version": "131",
     "Description": "Binaryen is a compiler and toolchain infrastructure library for WebAssembly",
     "Homepage": "https://github.com/WebAssembly/binaryen"
   },
@@ -5113,7 +5113,7 @@
   },
   {
     "Package": "kew",
-    "Version": "4.2.2",
+    "Version": "4.2.4",
     "Description": "Music for the Shell",
     "Homepage": "https://kewplayer.com"
   },
@@ -10639,7 +10639,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.7.6",
+    "Version": "2026.7.7",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -15403,7 +15403,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.7.0",
+    "Version": "17.8.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
