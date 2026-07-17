@@ -5113,7 +5113,7 @@
   },
   {
     "Package": "kew",
-    "Version": "4.2.5",
+    "Version": "4.2.6",
     "Description": "Music for the Shell",
     "Homepage": "https://kewplayer.com"
   },
@@ -11521,7 +11521,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "29.31.1",
+    "Version": "29.32.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13795,7 +13795,7 @@
   },
   {
     "Package": "rust",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -13813,79 +13813,79 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Component files for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Component files for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Component files for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Component files for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Component files for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Component files for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip3",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Component files for target wasm32-wasip3",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32v1-none",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Component files for target wasm32v1-none",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Component files for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.97.0",
+    "Version": "1.97.1",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -14023,7 +14023,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "3.10.0",
+    "Version": "3.10.1",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -14683,7 +14683,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.160.2",
+    "Version": "1.160.3",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -15799,7 +15799,7 @@
   },
   {
     "Package": "typst",
-    "Version": "0.15.0",
+    "Version": "0.15.1",
     "Description": "A new markup-based typesetting system that is powerful and easy to learn",
     "Homepage": "https://typst.app/"
   },
