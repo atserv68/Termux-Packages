@@ -1777,7 +1777,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:10.4.14",
+    "Version": "1:10.5.0",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3157,7 +3157,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.72",
+    "Version": "0.4.73",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -5113,7 +5113,7 @@
   },
   {
     "Package": "kakoune-lsp",
-    "Version": "21.0.1",
+    "Version": "21.0.2",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kakoune-lsp/kakoune-lsp"
   },
@@ -5269,7 +5269,7 @@
   },
   {
     "Package": "lego",
-    "Version": "5.3.0",
+    "Version": "5.3.1",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -8047,7 +8047,7 @@
   },
   {
     "Package": "libp11",
-    "Version": "0.4.18",
+    "Version": "0.4.19",
     "Description": "PKCS#11 wrapper library",
     "Homepage": "https://github.com/OpenSC/libp11"
   },
@@ -11929,19 +11929,19 @@
   },
   {
     "Package": "openjdk-21",
-    "Version": "21.0.11",
+    "Version": "21.0.12",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-source",
-    "Version": "21.0.11",
+    "Version": "21.0.12",
     "Description": "Source files for openjdk-21",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-21-x",
-    "Version": "21.0.11",
+    "Version": "21.0.12",
     "Description": "Portion of openjdk-21 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
@@ -17251,7 +17251,7 @@
   },
   {
     "Package": "zsh",
-    "Version": "5.9.1-2",
+    "Version": "5.9.2",
     "Description": "Shell with lots of features",
     "Homepage": "https://www.zsh.org"
   },
