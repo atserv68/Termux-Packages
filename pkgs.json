@@ -697,7 +697,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.4",
+    "Version": "2.36.5",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -10291,7 +10291,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.39.0",
+    "Version": "0.39.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11911,19 +11911,19 @@
   },
   {
     "Package": "openjdk-17",
-    "Version": "17.0.19",
+    "Version": "17.0.20",
     "Description": "Java development kit and runtime",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-source",
-    "Version": "17.0.19",
+    "Version": "17.0.20",
     "Description": "Source files for openjdk-17",
     "Homepage": "https://openjdk.java.net"
   },
   {
     "Package": "openjdk-17-x",
-    "Version": "17.0.19",
+    "Version": "17.0.20",
     "Description": "Portion of openjdk-17 requiring X11 functionality",
     "Homepage": "https://openjdk.java.net"
   },
@@ -12163,13 +12163,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.74.0",
+    "Version": "1.75.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.74.0",
+    "Version": "1.75.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -16315,13 +16315,13 @@
   },
   {
     "Package": "valkey",
-    "Version": "9.1.0",
+    "Version": "9.1.1",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://valkey.io/"
   },
   {
     "Package": "valkey-static",
-    "Version": "9.1.0",
+    "Version": "9.1.1",
     "Description": "Static libraries for valkey",
     "Homepage": "https://valkey.io/"
   },
