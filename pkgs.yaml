@@ -7147,7 +7147,7 @@
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
-  Version: 1.19.2
+  Version: 1.19.3
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
@@ -8827,7 +8827,7 @@
   Description: PPM compression/decompression library
   Homepage: https://github.com/miurahr/pyppmd
 - Package: python-ruff
-  Version: 0.15.22
+  Version: 0.16.0
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -9355,7 +9355,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.15.22
+  Version: 0.16.0
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
