@@ -114,7 +114,7 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.7.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.36.6  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.36.7  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  b3sum  1.8.5  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.126  Dynamic pixel format translation library  https://gegl.org/babl/ 
@@ -255,7 +255,7 @@
  clinfo  3.0.25.02.14-1  Print all known information about all available OpenCL platforms and devices in the system  https://github.com/Oblomov/clinfo 
  clipp  1.2.3-1  Command line interfaces for modern C++  https://github.com/muellan/clipp 
  cloneit  20250722  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
- cloudflared  2026.7.2  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
+ cloudflared  2026.7.3  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  1.1.7  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
  clucene  2.3.3.4-8  C++ port of the high-performance text search engine Lucene  http://clucene.sourceforge.net/ 
  clvk  0.0.20260707.165306  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
@@ -2714,7 +2714,7 @@
  util-linux-static  2.42.1-4  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.42.1-4  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.11.31  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.11.32  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31-2  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.51.2  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.19  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
