@@ -3175,7 +3175,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.75",
+    "Version": "0.4.76",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4327,7 +4327,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.4.2",
+    "Version": "3.4.3",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },

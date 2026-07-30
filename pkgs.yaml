@@ -2115,7 +2115,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.75
+  Version: 0.4.76
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2883,7 +2883,7 @@
   Description: Standard GNU file compression utilities
   Homepage: https://www.gnu.org/software/gzip/
 - Package: haproxy
-  Version: 3.4.2
+  Version: 3.4.3
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz

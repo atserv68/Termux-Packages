@@ -527,7 +527,7 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.5.7  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.75  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.76  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.2  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -719,7 +719,7 @@
  gumbo-parser-static  0.10.1-1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
  gweather-locations  2026.2  The GWeather locations database  https://gitlab.gnome.org/GNOME/gweather-locations 
  gzip  1.14-1  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
- haproxy  3.4.2  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
+ haproxy  3.4.3  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
  harfbuzz  14.2.1  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-icu  14.2.1  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harfbuzz-utils  14.2.1  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
