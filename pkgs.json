@@ -343,13 +343,13 @@
   },
   {
     "Package": "apr-util",
-    "Version": "1.6.3-3",
+    "Version": "1.6.5",
     "Description": "Apache Portable Runtime Utility Library",
     "Homepage": "https://apr.apache.org/"
   },
   {
     "Package": "apr-util-static",
-    "Version": "1.6.3-3",
+    "Version": "1.6.5",
     "Description": "Static libraries for apr-util",
     "Homepage": "https://apr.apache.org/"
   },
