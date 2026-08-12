@@ -11911,7 +11911,7 @@
   },
   {
     "Package": "onnxruntime",
-    "Version": "1.28.0",
+    "Version": "1.29.0",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator",
     "Homepage": "https://onnxruntime.ai/"
   },
@@ -13261,7 +13261,7 @@
   },
   {
     "Package": "python-onnxruntime",
-    "Version": "1.28.0",
+    "Version": "1.29.0",
     "Description": "Cross-platform, high performance ML inferencing and training accelerator (Python bindings)",
     "Homepage": "https://onnxruntime.ai/"
   },
