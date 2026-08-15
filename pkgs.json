@@ -12331,7 +12331,7 @@
   },
   {
     "Package": "par2",
-    "Version": "1.2.0",
+    "Version": "1.3.0",
     "Description": "par2cmdline is a PAR 2.0 compatible file verification and repair tool",
     "Homepage": "https://github.com/Parchive/par2cmdline"
   },
@@ -14038,6 +14038,12 @@
     "Version": "1.0.4-2",
     "Description": "A tool for doing record analysis and transformation",
     "Homepage": "https://github.com/dflemstr/rq"
+  },
+  {
+    "Package": "rqbit",
+    "Version": "9.0.0",
+    "Description": "A bittorrent command line client and server",
+    "Homepage": "https://github.com/ikatson/rqbit"
   },
   {
     "Package": "rsgain",
