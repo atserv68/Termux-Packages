@@ -1789,7 +1789,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.1.3",
+    "Version": "1:11.2.1",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3739,7 +3739,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.113.0",
+    "Version": "1.114.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -11893,7 +11893,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.27.3",
+    "Version": "1.27.6",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
@@ -13006,6 +13006,12 @@
     "Version": "3.25.0",
     "Description": "ProtonMail Bridge application",
     "Homepage": "https://github.com/ProtonMail/proton-bridge"
+  },
+  {
+    "Package": "proton-pass-cli",
+    "Version": "2.3.2",
+    "Description": "Proton Pass Command Line Interface (CLI)",
+    "Homepage": "https://protonpass.github.io/pass-cli/"
   },
   {
     "Package": "prover9",
