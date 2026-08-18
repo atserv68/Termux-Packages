@@ -1198,8 +1198,8 @@
  libkiwix  14.2.1  A library that contains a lot of things used by other kiwix programs  https://github.com/kiwix/libkiwix 
  libknot  3.2.4-2  Knot DNS libraries  https://www.knot-dns.cz/ 
  libknot-static  3.2.4-2  Static libraries for libknot  https://www.knot-dns.cz/ 
- libkokkos  5.2.0  Implements a programming model in C++ for writing performance portable applications  https://github.com/kokkos 
- libkokkos-static  5.2.0  Static libraries for libkokkos  https://github.com/kokkos 
+ libkokkos  5.2.1  Implements a programming model in C++ for writing performance portable applications  https://github.com/kokkos 
+ libkokkos-static  5.2.1  Static libraries for libkokkos  https://github.com/kokkos 
  libksba  1.8.0  Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible  https://gnupg.org/related_software/libksba/ 
  libksba-static  1.8.0  Static libraries for libksba  https://gnupg.org/related_software/libksba/ 
  liblangtag  0.6.7-2  interface library to access/deal with tags for identifying languages  https://bitbucket.org/tagoh/liblangtag/wiki/Home 

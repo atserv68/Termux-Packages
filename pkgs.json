@@ -7201,13 +7201,13 @@
   },
   {
     "Package": "libkokkos",
-    "Version": "5.2.0",
+    "Version": "5.2.1",
     "Description": "Implements a programming model in C++ for writing performance portable applications",
     "Homepage": "https://github.com/kokkos"
   },
   {
     "Package": "libkokkos-static",
-    "Version": "5.2.0",
+    "Version": "5.2.1",
     "Description": "Static libraries for libkokkos",
     "Homepage": "https://github.com/kokkos"
   },
