@@ -463,7 +463,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.25
+  Version: 2.36.26
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -8671,7 +8671,7 @@
   Description: ProtonMail Bridge application
   Homepage: https://github.com/ProtonMail/proton-bridge
 - Package: proton-pass-cli
-  Version: 2.3.2
+  Version: 2.3.2-1
   Description: Proton Pass Command Line Interface (CLI)
   Homepage: https://protonpass.github.io/pass-cli/
 - Package: prover9
