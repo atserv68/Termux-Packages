@@ -102,6 +102,10 @@
   Version: 16.0.0.4-1
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://github.com/termux/android-build-tools
+- Package: air
+  Version: 1.67.4
+  Description: Live reload for Go apps - rebuilds and restarts your binary on file change
+  Homepage: https://github.com/air-verse/air
 - Package: alass
   Version: 2.0.0-4
   Description: Automatic Language-Agnostic Subtitle Synchronization
@@ -2694,6 +2698,10 @@
   Version: 0.23.0
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
+- Package: goreleaser
+  Version: 2.17.1
+  Description: Deliver Go binaries as fast and easily as possible
+  Homepage: https://goreleaser.com
 - Package: goresym
   Version: "3.4"
   Description: Go symbol recovery tool
@@ -2722,6 +2730,10 @@
   Version: 1.8.0
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
+- Package: govulncheck
+  Version: 1.1.4
+  Description: Reports known vulnerabilities affecting Go code
+  Homepage: https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck
 - Package: gpac
   Version: 2.4.0-5
   Description: An open-source multimedia framework focused on modularity and standards compliance
