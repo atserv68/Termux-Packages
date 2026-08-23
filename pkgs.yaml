@@ -871,7 +871,7 @@
   Description: A free compiler for 6502 based system
   Homepage: https://cc65.github.io/
 - Package: ccache
-  Version: 4.13.6
+  Version: "4.14"
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
@@ -2642,18 +2642,26 @@
   Version: 0.14.3
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
+- Package: goimports
+  Version: 0.49.0
+  Description: Updates Go import lines, adding missing ones and removing unreferenced ones
+  Homepage: https://pkg.go.dev/golang.org/x/tools/cmd/goimports
 - Package: gojq
   Version: 0.12.19
   Description: Pure Go implementation of jq
   Homepage: https://github.com/itchyny/gojq
 - Package: golang
-  Version: 3:1.26.5-1
+  Version: 3:1.27.0
   Description: Go programming language compiler
   Homepage: https://go.dev/
 - Package: golang-doc
-  Version: 3:1.26.5-1
+  Version: 3:1.27.0
   Description: Go programming language - documentation
   Homepage: https://go.dev/
+- Package: golangci-lint
+  Version: 2.13.1
+  Description: Fast linters runner for Go, aggregating many Go linters into one tool
+  Homepage: https://golangci-lint.run/
 - Package: gomp
   Version: 2023.02.02-3
   Description: MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration
@@ -3279,7 +3287,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2413
+  Version: 0.24.2451
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7675,7 +7683,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1387+g9b0bc7edef-0
+  Version: 0.13.0~dev-1389+gd3b4f562a6-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7847,7 +7855,7 @@
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
 - Package: nushell
-  Version: 0.115.0
+  Version: 0.115.1
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat
@@ -8539,7 +8547,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pocketbase
-  Version: 0.39.11
+  Version: 0.40.0
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: poke
@@ -9603,7 +9611,7 @@
   Description: Static libraries for seafile-client
   Homepage: https://seafile.com
 - Package: seanime
-  Version: 3.10.2
+  Version: 3.10.2-1
   Description: Self-hosted anime and manga server for sea rovers.
   Homepage: https://github.com/5rahim/seanime
 - Package: seccure
@@ -10571,7 +10579,7 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.26.12
+  Version: 0.26.13
   Description: An incremental parsing system for programming tools
   Homepage: https://tree-sitter.github.io/
 - Package: tree-sitter-bash
