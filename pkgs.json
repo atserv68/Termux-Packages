@@ -10981,7 +10981,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.8.10",
+    "Version": "2026.8.11",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11527,7 +11527,7 @@
   },
   {
     "Package": "neovim",
-    "Version": "0.12.4",
+    "Version": "0.12.5",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim)",
     "Homepage": "https://neovim.io/"
   },
@@ -14611,7 +14611,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.6.7",
+    "Version": "4.6.8",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -16393,7 +16393,7 @@
   },
   {
     "Package": "utf8cpp",
-    "Version": "1:4.1.1",
+    "Version": "1:4.2.0",
     "Description": "UTF8-CPP: UTF-8 with C++ in a Portable Way",
     "Homepage": "https://github.com/nemtrif/utfcpp"
   },
