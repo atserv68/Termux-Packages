@@ -562,8 +562,8 @@
  g-ir-scanner  1.86.0-2  A tool which generates GIR XML files  https://gi.readthedocs.io/ 
  game-music-emu  0.6.5  A collection of video game music file emulators  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
  game-music-emu-static  0.6.5  Static libraries for game-music-emu  https://bitbucket.org/mpyne/game-music-emu/wiki/Home 
- gap  4.16.0  GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory  https://www.gap-system.org/ 
- gap-packages  4.16.0  Packages for gap  https://www.gap-system.org/ 
+ gap  4.16.1  GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory  https://www.gap-system.org/ 
+ gap-packages  4.16.1  Packages for gap  https://www.gap-system.org/ 
  garage  2.3.0-1  S3-compatible object store for small self-hosted geo-distributed deployments  https://garagehq.deuxfleurs.fr/ 
  gatling  0.16-2  A high performance http, ftp and smb server  https://www.fefe.de/gatling/ 
  gauche  0.9.15-3  An R7RS Scheme implementation developed to be a handy script interpreter  https://practical-scheme.net/gauche/ 
@@ -789,8 +789,8 @@
  id3lib  3.8.3-4  A software library for manipulating ID3v1/v1.1 and ID3v2 tags  https://id3lib.sourceforge.net/ 
  id3lib-static  3.8.3-4  Static libraries for id3lib  https://id3lib.sourceforge.net/ 
  id3v2  0.1.12-2  A command line id3v2 tag editor  https://id3v2.sourceforge.net/ 
- imagemagick  7.1.2.29  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
- imagemagick-static  7.1.2.29  Static libraries for imagemagick  https://www.imagemagick.org/ 
+ imagemagick  7.1.2.30  Suite to create, edit, compose, or convert images in a variety of formats  https://www.imagemagick.org/ 
+ imagemagick-static  7.1.2.30  Static libraries for imagemagick  https://www.imagemagick.org/ 
  imath  3.2.2  Library for vector/matrix and math operations, plus the half type  https://imath.readthedocs.io/ 
  imlib2  1.12.6-1  Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support  https://sourceforge.net/projects/enlightenment/ 
  imlib2-static  1.12.6-1  Static libraries for imlib2  https://sourceforge.net/projects/enlightenment/ 

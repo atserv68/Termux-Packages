@@ -3385,13 +3385,13 @@
   },
   {
     "Package": "gap",
-    "Version": "4.16.0",
+    "Version": "4.16.1",
     "Description": "GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory",
     "Homepage": "https://www.gap-system.org/"
   },
   {
     "Package": "gap-packages",
-    "Version": "4.16.0",
+    "Version": "4.16.1",
     "Description": "Packages for gap",
     "Homepage": "https://www.gap-system.org/"
   },
@@ -4747,13 +4747,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.29",
+    "Version": "7.1.2.30",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.29",
+    "Version": "7.1.2.30",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
