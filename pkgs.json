@@ -4099,7 +4099,7 @@
   },
   {
     "Package": "govulncheck",
-    "Version": "1.1.4",
+    "Version": "1.7.0",
     "Description": "Reports known vulnerabilities affecting Go code",
     "Homepage": "https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck"
   },
@@ -11005,7 +11005,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.8.11",
+    "Version": "2026.8.12",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -14935,7 +14935,7 @@
   },
   {
     "Package": "squid",
-    "Version": "7.6",
+    "Version": "7.7",
     "Description": "Full-featured Web proxy cache server",
     "Homepage": "http://www.squid-cache.org"
   },
@@ -15109,7 +15109,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.162.3",
+    "Version": "1.162.4",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -16819,7 +16819,7 @@
   },
   {
     "Package": "watchexec",
-    "Version": "2.6.1",
+    "Version": "2.7.0",
     "Description": "Executes commands in response to file modifications",
     "Homepage": "https://github.com/watchexec/watchexec"
   },
