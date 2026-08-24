@@ -1795,7 +1795,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.2.5",
+    "Version": "1:11.3.0",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -12319,13 +12319,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.79.0",
+    "Version": "1.80.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.79.0",
+    "Version": "1.80.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12853,7 +12853,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.40.0",
+    "Version": "0.40.1",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -14056,6 +14056,12 @@
     "Version": "0.11.0",
     "Description": "A configurable TUI MPD client with album art support",
     "Homepage": "https://mierak.github.io/rmpc/"
+  },
+  {
+    "Package": "rmw",
+    "Version": "0.10.0",
+    "Description": "A command-line recycle bin utility (ReMove to Waste)",
+    "Homepage": "https://theimpossibleastronaut.com/rmw-website/"
   },
   {
     "Package": "rnr",
