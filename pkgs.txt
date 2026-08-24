@@ -536,7 +536,7 @@
  fontconfig-static  2.18.3  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-utils  2.18.3  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  forestdb-dump  1.2-2  ForestDB dump tool  https://github.com/couchbase/forestdb 
- forgejo  16.0.2  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
+ forgejo  16.0.3  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
  fortune  1.2-2  Revealer of fortunes  https://www.fefe.de/fortune/ 
  fossil  2.28  DSCM with built-in wiki, http interface and server, tickets database  https://www.fossil-scm.org 
  foundry  1.7.1-1  A blazing fast, portable and modular toolkit for Ethereum application development  https://github.com/foundry-rs/foundry 
@@ -673,7 +673,7 @@
  gopass  1.16.1  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
  gopher  3.0.17.3-2  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
  gopls  0.23.0  The official Go language server  https://github.com/golang/tools 
- goreleaser  2.17.1  Deliver Go binaries as fast and easily as possible  https://goreleaser.com 
+ goreleaser  2.18.0  Deliver Go binaries as fast and easily as possible  https://goreleaser.com 
  goresym  3.4  Go symbol recovery tool  https://github.com/mandiant/GoReSym 
  gost  2.12.0  GO Simple Tunnel - a simple tunnel written in golang  https://github.com/ginuerzh/gost 
  gotests  1.9.0  Generates Go tests from your source code  https://github.com/cweill/gotests 
@@ -1924,7 +1924,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.5  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1389+gd3b4f562a6-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1403+g70958dae75-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2369,7 +2369,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.9.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.98.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20260817  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20260824  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.72.1  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.98.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.98.0  Rust source code files  https://www.rust-lang.org/ 
@@ -2394,7 +2394,7 @@
  sbcl  2.6.7  A high performance Common Lisp compiler  http://www.sbcl.org/ 
  sc-im  0.8.5-4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
  scala  3.8.4  Scala 3 compiler and standard library.  https://www.scala-lang.org 
- scc  3.7.0-1  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
+ scc  4.0.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.17.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.17  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
  scdoc  1.11.5  Small man page generator  https://git.sr.ht/~sircmpwn/scdoc 
@@ -2472,7 +2472,7 @@
  spatialite-tools  5.0.1-5  Collection of tools supporting SpatiaLite  https://www.gaia-gis.it/fossil/spatialite-tools 
  speechd  0.12.1-2  Common interface to speech synthesis  https://github.com/brailcom/speechd 
  speechd-data  0.12.1-2  Platform-independent data for speechd  https://github.com/brailcom/speechd 
- speedtest-go  1.7.11  Command line interface to test internet speed using speedtest.net  https://github.com/showwin/speedtest-go/ 
+ speedtest-go  1.8.1  Command line interface to test internet speed using speedtest.net  https://github.com/showwin/speedtest-go/ 
  speex-utils  1.2.1-1  Speex command line tools  https://www.speex.org/ 
  speexdsp  1.2.1-1  Speex audio processing library  https://speex.org/ 
  speexdsp-static  1.2.1-1  Static libraries for speexdsp  https://speex.org/ 

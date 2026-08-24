@@ -3229,7 +3229,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "16.0.2",
+    "Version": "16.0.3",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -4051,7 +4051,7 @@
   },
   {
     "Package": "goreleaser",
-    "Version": "2.17.1",
+    "Version": "2.18.0",
     "Description": "Deliver Go binaries as fast and easily as possible",
     "Homepage": "https://goreleaser.com"
   },
@@ -11557,7 +11557,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1389+gd3b4f562a6-0",
+    "Version": "0.13.0~dev-1403+g70958dae75-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -14227,7 +14227,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260817",
+    "Version": "20260824",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -14377,7 +14377,7 @@
   },
   {
     "Package": "scc",
-    "Version": "3.7.0-1",
+    "Version": "4.0.0",
     "Description": "Counts physical the lines of code, blank lines, comment lines, and physical lines of source code",
     "Homepage": "https://github.com/boyter/scc"
   },
@@ -14845,7 +14845,7 @@
   },
   {
     "Package": "speedtest-go",
-    "Version": "1.7.11",
+    "Version": "1.8.1",
     "Description": "Command line interface to test internet speed using speedtest.net",
     "Homepage": "https://github.com/showwin/speedtest-go/"
   },
