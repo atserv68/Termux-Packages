@@ -7014,6 +7014,10 @@
   Version: "3.21"
   Description: Mailutils is a swiss army knife of electronic mail handling.
   Homepage: https://mailutils.org/
+- Package: maintainerr
+  Version: 3.24.0-1
+  Description: An automation rule engine for your media server
+  Homepage: https://github.com/maintainerr/Maintainerr
 - Package: make
   Version: 4.4.1-1
   Description: Tool to control the generation of non-source files from source files
@@ -9151,7 +9155,7 @@
   Description: UNIX-like reverse engineering framework and command-line toolset
   Homepage: https://www.radare.org/
 - Package: radarr
-  Version: 6.3.0.10514-2
+  Version: 6.3.0.10514-3
   Description: A PVR for Usenet and BitTorrent users (server)
   Homepage: https://radarr.video
 - Package: rage
@@ -9643,7 +9647,7 @@
   Description: GNU stream editor for filtering/transforming text
   Homepage: https://www.gnu.org/software/sed/
 - Package: seerr
-  Version: 3.4.1
+  Version: 3.4.1-1
   Description: A fork of Overseerr with focus on adding support for Jellyfin/Emby
   Homepage: https://github.com/seerr-team/seerr
 - Package: sendme
@@ -9851,7 +9855,7 @@
   Description: An Ethereum smart contract-oriented language
   Homepage: https://www.soliditylang.org/
 - Package: sonarr
-  Version: 4.0.19.2979-3
+  Version: 4.0.19.2979-4
   Description: A PVR for Usenet and BitTorrent users (server)
   Homepage: https://sonarr.tv
 - Package: sops

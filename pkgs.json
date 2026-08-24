@@ -10524,6 +10524,12 @@
     "Homepage": "https://mailutils.org/"
   },
   {
+    "Package": "maintainerr",
+    "Version": "3.24.0-1",
+    "Description": "An automation rule engine for your media server",
+    "Homepage": "https://github.com/maintainerr/Maintainerr"
+  },
+  {
     "Package": "make",
     "Version": "4.4.1-1",
     "Description": "Tool to control the generation of non-source files from source files",
@@ -13729,7 +13735,7 @@
   },
   {
     "Package": "radarr",
-    "Version": "6.3.0.10514-2",
+    "Version": "6.3.0.10514-3",
     "Description": "A PVR for Usenet and BitTorrent users (server)",
     "Homepage": "https://radarr.video"
   },
@@ -14467,7 +14473,7 @@
   },
   {
     "Package": "seerr",
-    "Version": "3.4.1",
+    "Version": "3.4.1-1",
     "Description": "A fork of Overseerr with focus on adding support for Jellyfin/Emby",
     "Homepage": "https://github.com/seerr-team/seerr"
   },
@@ -14779,7 +14785,7 @@
   },
   {
     "Package": "sonarr",
-    "Version": "4.0.19.2979-3",
+    "Version": "4.0.19.2979-4",
     "Description": "A PVR for Usenet and BitTorrent users (server)",
     "Homepage": "https://sonarr.tv"
   },
