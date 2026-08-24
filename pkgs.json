@@ -5167,7 +5167,7 @@
   },
   {
     "Package": "jython",
-    "Version": "2.7.4-1",
+    "Version": "2.7.5b1",
     "Description": "Python for the Java Platform",
     "Homepage": "https://www.jython.org/"
   },
@@ -11935,7 +11935,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.27.6",
+    "Version": "1.27.7",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
