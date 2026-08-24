@@ -1831,7 +1831,7 @@
   Description: A friendly and expressive Unix shell
   Homepage: https://github.com/elves/elvish
 - Package: emacs
-  Version: 30.2-5
+  Version: 30.2-6
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emmylua-ls
@@ -2434,6 +2434,10 @@
   Version: 2.55.0
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
+- Package: git-cliff
+  Version: 2.13.1
+  Description: A highly customizable changelog generator that follows Conventional Commit specifications
+  Homepage: https://git-cliff.org
 - Package: git-credential-manager
   Version: 2.9.1
   Description: Cross-platform Git credential storage for multiple hosting providers
@@ -10291,7 +10295,7 @@
   Description: The official CLI for Gitea
   Homepage: https://gitea.com/gitea/tea
 - Package: tealdeer
-  Version: 1.8.1
+  Version: 1.9.0
   Description: A very fast implementation of tldr in Rust
   Homepage: https://tealdeer-rs.github.io/tealdeer/
 - Package: teckit
