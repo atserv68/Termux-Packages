@@ -10525,7 +10525,7 @@
   },
   {
     "Package": "maintainerr",
-    "Version": "3.24.0-1",
+    "Version": "3.24.0-2",
     "Description": "An automation rule engine for your media server",
     "Homepage": "https://github.com/maintainerr/Maintainerr"
   },

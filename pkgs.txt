@@ -1752,7 +1752,7 @@
  magic-wormhole-rs  0.7.6-1  Rust implementation of Magic Wormhole, with new features and enhancements  https://github.com/magic-wormhole/magic-wormhole.rs 
  mailsync  5.2.7-2  A way of synchronizing a collection of mailboxes  https://mailsync.sourceforge.net/ 
  mailutils  3.21  Mailutils is a swiss army knife of electronic mail handling.   https://mailutils.org/ 
- maintainerr  3.24.0-1  An automation rule engine for your media server  https://github.com/maintainerr/Maintainerr 
+ maintainerr  3.24.0-2  An automation rule engine for your media server  https://github.com/maintainerr/Maintainerr 
  make  4.4.1-1  Tool to control the generation of non-source files from source files  https://www.gnu.org/software/make/ 
  make-guile  4.4.1-2  Tool to control the generation of non-source files from source files  https://www.gnu.org/software/make/ 
  mandoc  1.14.6-6  Man page viewer from the mandoc toolset  https://mdocml.bsd.lv/ 
