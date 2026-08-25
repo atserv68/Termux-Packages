@@ -819,7 +819,7 @@
   Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
   Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
-  Version: 0.10.24
+  Version: 0.10.25
   Description: Cargo C-ABI helpers
   Homepage: https://github.com/lu-zero/cargo-c
 - Package: cargo-cache
@@ -1715,7 +1715,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.42.1
+  Version: 2.43.0
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -2438,6 +2438,10 @@
   Version: 2.55.0
   Description: Fast, scalable, distributed revision control system
   Homepage: https://git-scm.com/
+- Package: git-absorb
+  Version: 0.9.0
+  Description: git commit --fixup, but automatic
+  Homepage: https://github.com/tummychow/git-absorb
 - Package: git-cliff
   Version: 2.13.1
   Description: A highly customizable changelog generator that follows Conventional Commit specifications
@@ -2670,6 +2674,10 @@
   Version: 3:1.27.0
   Description: Go programming language - documentation
   Homepage: https://go.dev/
+- Package: golang-migrate
+  Version: 4.19.1
+  Description: Database migrations. CLI and Golang library
+  Homepage: https://github.com/golang-migrate/migrate
 - Package: golangci-lint
   Version: 2.13.1
   Description: Fast linters runner for Go, aggregating many Go linters into one tool
@@ -2722,6 +2730,10 @@
   Version: 1.9.0
   Description: Generates Go tests from your source code
   Homepage: https://github.com/cweill/gotests
+- Package: gotestsum
+  Version: 1.13.0
+  Description: go test runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results
+  Homepage: https://github.com/gotestyourself/gotestsum
 - Package: gotify
   Version: 3.0.0
   Description: A simple server for sending and receiving messages in real-time per WebSocket.
@@ -2886,6 +2898,10 @@
   Version: 1.28.6
   Description: Open source multimedia framework
   Homepage: https://gstreamer.freedesktop.org/
+- Package: gtrash
+  Version: 0.0.6
+  Description: A featureful trash CLI manager, alternative to rm and trash-cli
+  Homepage: https://github.com/umlx5h/gtrash
 - Package: gtypist
   Version: 2.10.1-1
   Description: Universal typing tutor
@@ -3519,7 +3535,7 @@
   Description: The Kerberos network authentication system
   Homepage: https://web.mit.edu/kerberos
 - Package: kubecolor
-  Version: 0.6.0
+  Version: 0.7.1
   Description: Colorize your kubectl output
   Homepage: https://github.com/kubecolor/kubecolor
 - Package: kubectl
@@ -6291,7 +6307,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.18.5
+  Version: 8.18.6
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvisio
@@ -6335,11 +6351,11 @@
   Description: Static libraries for libvorbis
   Homepage: https://xiph.org/vorbis/
 - Package: libvpx
-  Version: 1:1.16.0
+  Version: 1:1.17.0
   Description: VP8 & VP9 Codec SDK
   Homepage: https://www.webmproject.org
 - Package: libvpx-static
-  Version: 1:1.16.0
+  Version: 1:1.17.0
   Description: Static libraries for libvpx
   Homepage: https://www.webmproject.org
 - Package: libvterm
@@ -8711,7 +8727,7 @@
   Description: ProtonMail Bridge application
   Homepage: https://github.com/ProtonMail/proton-bridge
 - Package: proton-pass-cli
-  Version: 2.3.2-1
+  Version: 2.3.3
   Description: Proton Pass Command Line Interface (CLI)
   Homepage: https://protonpass.github.io/pass-cli/
 - Package: prover9
@@ -9567,7 +9583,7 @@
   Description: A custom system info fetching tool
   Homepage: https://github.com/Mangeshrex/rxfetch
 - Package: sabnzbd
-  Version: 5.1.1
+  Version: 5.1.2
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: samba
@@ -9911,7 +9927,7 @@
   Description: Platform-independent data for speechd
   Homepage: https://github.com/brailcom/speechd
 - Package: speedtest-go
-  Version: 1.8.1
+  Version: 1.8.2
   Description: Command line interface to test internet speed using speedtest.net
   Homepage: https://github.com/showwin/speedtest-go/
 - Package: speex-utils
@@ -9950,6 +9966,10 @@
   Version: 1.4.357.0
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
+- Package: sqlc
+  Version: 1.31.1
+  Description: Generate type-safe code from SQL
+  Homepage: https://sqlc.dev
 - Package: sqlcipher
   Version: 4.18.0
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
