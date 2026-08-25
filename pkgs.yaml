@@ -1835,7 +1835,7 @@
   Description: A friendly and expressive Unix shell
   Homepage: https://github.com/elves/elvish
 - Package: emacs
-  Version: 30.2-6
+  Version: "31.1"
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emmylua-ls
@@ -3031,11 +3031,11 @@
   Description: The Moon-powered shell! A comfy and extensible shell for Lua fans!
   Homepage: https://rosettea.github.io/Hilbish/
 - Package: hledger
-  Version: 1.52.1-1
+  Version: 1.52.1-2
   Description: Robust, friendly, fast plain text accounting software. (CLI only)
   Homepage: https://hledger.org/
 - Package: hledger-ui
-  Version: 1.52.1-1
+  Version: 1.52.1-2
   Description: hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.
   Homepage: https://hledger.org/
 - Package: hnterm
@@ -9739,7 +9739,7 @@
   Description: Executing shell commands via HTTP server
   Homepage: https://github.com/msoap/shell2http
 - Package: shellcheck
-  Version: 0.11.0-2
+  Version: 0.11.0-3
   Description: Shell script analysis tool
   Homepage: https://www.shellcheck.net/
 - Package: shellharden

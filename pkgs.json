@@ -2755,7 +2755,7 @@
   },
   {
     "Package": "emacs",
-    "Version": "30.2-6",
+    "Version": "31.1",
     "Description": "Extensible, customizable text editor-and more",
     "Homepage": "https://www.gnu.org/software/emacs/"
   },
@@ -4549,13 +4549,13 @@
   },
   {
     "Package": "hledger",
-    "Version": "1.52.1-1",
+    "Version": "1.52.1-2",
     "Description": "Robust, friendly, fast plain text accounting software. (CLI only)",
     "Homepage": "https://hledger.org/"
   },
   {
     "Package": "hledger-ui",
-    "Version": "1.52.1-1",
+    "Version": "1.52.1-2",
     "Description": "hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.",
     "Homepage": "https://hledger.org/"
   },
@@ -14611,7 +14611,7 @@
   },
   {
     "Package": "shellcheck",
-    "Version": "0.11.0-2",
+    "Version": "0.11.0-3",
     "Description": "Shell script analysis tool",
     "Homepage": "https://www.shellcheck.net/"
   },
