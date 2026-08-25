@@ -2123,7 +2123,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.87
+  Version: 0.4.90
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2487,7 +2487,7 @@
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
 - Package: gitoxide
-  Version: 0.57.0
+  Version: 0.58.0
   Description: Rust implementation of Git
   Homepage: https://github.com/GitoxideLabs/gitoxide
 - Package: gitui
@@ -4835,11 +4835,11 @@
   Description: Static libraries for libkokkos
   Homepage: https://github.com/kokkos
 - Package: libksba
-  Version: 1.8.0
+  Version: 1.8.1
   Description: Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible
   Homepage: https://gnupg.org/related_software/libksba/
 - Package: libksba-static
-  Version: 1.8.0
+  Version: 1.8.1
   Description: Static libraries for libksba
   Homepage: https://gnupg.org/related_software/libksba/
 - Package: liblangtag
