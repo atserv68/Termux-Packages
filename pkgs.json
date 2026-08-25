@@ -3193,7 +3193,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.90",
+    "Version": "0.4.91",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4891,7 +4891,7 @@
   },
   {
     "Package": "iproute2",
-    "Version": "7.1.0",
+    "Version": "7.2.0",
     "Description": "Utilities for controlling networking",
     "Homepage": "https://wiki.linuxfoundation.org/networking/iproute2"
   },
@@ -7699,7 +7699,7 @@
   },
   {
     "Package": "libmsgpack",
-    "Version": "7.0.1",
+    "Version": "7.0.2",
     "Description": "MessagePack implementation for C",
     "Homepage": "https://github.com/msgpack/msgpack-c/"
   },
@@ -7711,7 +7711,7 @@
   },
   {
     "Package": "libmsgpack-static",
-    "Version": "7.0.1",
+    "Version": "7.0.2",
     "Description": "Static libraries for libmsgpack",
     "Homepage": "https://github.com/msgpack/msgpack-c/"
   },
@@ -11569,7 +11569,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1403+g70958dae75-0",
+    "Version": "0.13.0~dev-1410+g510f61555b-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },

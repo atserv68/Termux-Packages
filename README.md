@@ -542,7 +542,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.6.0 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.90 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.91 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.3 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -825,7 +825,7 @@
 | **iperf3** | 3.21 | TCP, UDP, and SCTP network bandwidth measurement tool | https://github.com/esnet/iperf |
 | **iperf3-static** | 3.21 | Static libraries for iperf3 | https://github.com/esnet/iperf |
 | **ipmitool** | 1.8.19-1 | Command-line interface to IPMI-enabled devices | https://github.com/ipmitool/ipmitool |
-| **iproute2** | 7.1.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
+| **iproute2** | 7.2.0 | Utilities for controlling networking | https://wiki.linuxfoundation.org/networking/iproute2 |
 | **ipv6calc** | 4.4.0 | Does some format changes and calculations of IPv6 addresses | https://www.deepspace6.net/projects/ipv6calc.html |
 | **ipv6toolkit** | 2022.09.30-4 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-3 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
@@ -1293,9 +1293,9 @@
 | **libmpfr-static** | 4.2.1-1 | Static libraries for libmpfr | https://www.mpfr.org/ |
 | **libmpg123** | 1.33.5 | Fast console MPEG Audio Player and decoder library | https://mpg123.org/ |
 | **libmpg123-static** | 1.33.5 | Static libraries for libmpg123 | https://mpg123.org/ |
-| **libmsgpack** | 7.0.1 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
+| **libmsgpack** | 7.0.2 | MessagePack implementation for C | https://github.com/msgpack/msgpack-c/ |
 | **libmsgpack-cxx** | 8.0.0-1 | msgpack for C++ | https://msgpack.org/ |
-| **libmsgpack-static** | 7.0.1 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
+| **libmsgpack-static** | 7.0.2 | Static libraries for libmsgpack | https://github.com/msgpack/msgpack-c/ |
 | **libmspub** | 0.1.4-5 | Microsoft Publisher file format parser library (latest snapshot) | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
 | **libmspub-static** | 0.1.4-5 | Static libraries for libmspub | https://wiki.documentfoundation.org/DLP/Libraries/libcdr |
 | **libmtp** | 1.1.23 | A library for communicating with MTP devices | https://github.com/libmtp/libmtp |
@@ -1938,7 +1938,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1403+g70958dae75-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1410+g510f61555b-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
