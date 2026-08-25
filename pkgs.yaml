@@ -1303,7 +1303,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dart
-  Version: 3.13.1
+  Version: 3.13.2
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
@@ -5135,7 +5135,7 @@
   Description: MessagePack implementation for C
   Homepage: https://github.com/msgpack/msgpack-c/
 - Package: libmsgpack-cxx
-  Version: 8.0.0-1
+  Version: 9.0.0
   Description: msgpack for C++
   Homepage: https://msgpack.org/
 - Package: libmsgpack-static
@@ -6963,7 +6963,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.41.1
+  Version: 0.42.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7939,7 +7939,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 30.6.5
+  Version: 30.7.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -9303,7 +9303,7 @@
   Description: Library that provides a high-level interface to RDF data
   Homepage: http://librdf.org/
 - Package: remind
-  Version: 1:06.03.00
+  Version: 1:06.03.01
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
