@@ -467,7 +467,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.29
+  Version: 2.36.30
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1242,6 +1242,10 @@
   Version: 4.8.1-1
   Description: A fast inference engine for Transformer models
   Homepage: https://github.com/OpenNMT/CTranslate2
+- Package: ctre
+  Version: 3.11.0
+  Description: Compile Time Regular Expression in C++
+  Homepage: https://github.com/hanickadot/compile-time-regular-expressions
 - Package: ctypes-sh
   Version: "1.3"
   Description: A foreign function interface for bash
