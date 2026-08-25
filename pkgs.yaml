@@ -831,11 +831,11 @@
   Description: Build tool for the Rust framework Leptos
   Homepage: https://github.com/leptos-rs/cargo-leptos
 - Package: catch2
-  Version: 3.15.3
+  Version: 3.16.0
   Description: A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
   Homepage: https://github.com/catchorg/catch2
 - Package: catch2-static
-  Version: 3.15.3
+  Version: 3.16.0
   Description: Static libraries for catch2
   Homepage: https://github.com/catchorg/catch2
 - Package: catdoc
@@ -1195,7 +1195,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.3.0
+  Version: 1:11.3.2
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -4615,11 +4615,11 @@
   Description: Static libraries for libhdf5
   Homepage: https://portal.hdfgroup.org/display/support
 - Package: libheif
-  Version: 1.23.1-1
+  Version: 1.23.2
   Description: HEIF (HEIC/AVIF) image encoding and decoding library
   Homepage: https://github.com/strukturag/libheif
 - Package: libheif-progs
-  Version: 1.23.1-1
+  Version: 1.23.2
   Description: Programs for manipulating HEIF (HEIC/AVIF) image files
   Homepage: https://github.com/strukturag/libheif
 - Package: libhiredis
@@ -7634,6 +7634,10 @@
   Version: 3.3.0-1
   Description: A free set of programs that use the File Transfer Protocol
   Homepage: https://www.ncftp.com/
+- Package: nchat
+  Version: 5.18.20
+  Description: TUI for Telegram and WhatsApp
+  Homepage: https://github.com/d99kris/nchat
 - Package: ncmpcpp
   Version: 0.10.1-9
   Description: NCurses Music Player Client (Plus Plus)
