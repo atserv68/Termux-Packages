@@ -16813,7 +16813,7 @@
   },
   {
     "Package": "wasi-libc",
-    "Version": "33",
+    "Version": "34",
     "Description": "Libc for WebAssembly programs built on top of WASI system calls",
     "Homepage": "https://wasi.dev/"
   },

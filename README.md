@@ -2812,7 +2812,7 @@
 | **wakatime-cli** | 2.24.4 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
-| **wasi-libc** | 33 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
+| **wasi-libc** | 34 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.30 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge** | 0.17.1 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.1.0 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
