@@ -1047,11 +1047,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 4.4.2
+  Version: 4.4.3
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 4.4.2
+  Version: 4.4.3
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -1487,7 +1487,7 @@
   Description: A libpcap application that displays various tables of DNS traffic on your network
   Homepage: https://github.com/measurement-factory/dnstop
 - Package: dnsutils
-  Version: 9.20.27
+  Version: 9.20.27-1
   Description: Clients provided with BIND
   Homepage: https://www.isc.org/bind/
 - Package: docbook-xml
