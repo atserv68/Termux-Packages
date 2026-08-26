@@ -3375,7 +3375,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.121.0
+  Version: 2.122.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -7063,7 +7063,7 @@
   Description: A community-maintained Python framework for creating mathematical animations
   Homepage: https://manim.community
 - Package: manpages
-  Version: "6.18"
+  Version: "6.19"
   Description: Man pages for linux kernel and C library interfaces
   Homepage: https://www.kernel.org/doc/man-pages/
 - Package: mapserver
@@ -7515,7 +7515,7 @@
   Description: Static libraries for mruby
   Homepage: https://mruby.org/
 - Package: ms-gsl
-  Version: 4.2.2
+  Version: 5.0.0
   Description: Guidelines Support Library
   Homepage: https://github.com/Microsoft/GSL
 - Package: msedit
@@ -11163,7 +11163,7 @@
   Description: Program for testing the VT100 compatibility of terminal emulators
   Homepage: https://invisible-island.net/vttest/
 - Package: vulkan-extension-layer
-  Version: 1.4.350
+  Version: 1.4.360
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers

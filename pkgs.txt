@@ -842,7 +842,7 @@
  jcal-static  0.5.1-1  Static libraries for jcal  http://nongnu.org/jcal 
  jellyfin-ffmpeg  10.11.11-2  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
  jellyfin-server  10.11.11-2  A free media system for organizing and streaming media (server)  https://jellyfin.org 
- jfrog-cli  2.121.0  A CLI for JFrog products  https://jfrog.com/getcli 
+ jfrog-cli  2.122.0  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.5  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08-1  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
  jigdo  0.8.2-1  Distribute large images by sending and receiving the files that make them up  http://atterer.org/jigdo/ 
@@ -1764,7 +1764,7 @@
  mandoc  1.14.6-6  Man page viewer from the mandoc toolset  https://mdocml.bsd.lv/ 
  mangal  4.0.6-3  Cli manga downloader  https://github.com/metafates/mangal 
  manim  0.21.0-1  A community-maintained Python framework for creating mathematical animations  https://manim.community 
- manpages  6.18  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
+ manpages  6.19  Man pages for linux kernel and C library interfaces  https://www.kernel.org/doc/man-pages/ 
  mapserver  8.2.2-4  MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web  https://mapserver.org/ 
  mariadb  2:12.3.3  A drop-in replacement for mysql server  https://mariadb.org 
  mariadb-static  2:12.3.3  Static libraries for mariadb  https://mariadb.org 
@@ -1877,7 +1877,7 @@
  mpv  0.41.0-2  Command-line media player  https://mpv.io/ 
  mruby  4.0.0  Lightweight implementation of the Ruby language  https://mruby.org/ 
  mruby-static  4.0.0  Static libraries for mruby  https://mruby.org/ 
- ms-gsl  4.2.2  Guidelines Support Library  https://github.com/Microsoft/GSL 
+ ms-gsl  5.0.0  Guidelines Support Library  https://github.com/Microsoft/GSL 
  msedit  2.0.0-1  A simple editor for simple needs (Microsoft Edit)  https://github.com/microsoft/edit 
  msitools  0.106-1  Set of programs to inspect and build Windows Installer (.MSI) files  https://gitlab.gnome.org/GNOME/msitools 
  msmtp  1.8.34  Lightweight SMTP client  https://marlam.de/msmtp/ 
@@ -2789,7 +2789,7 @@
  vorbis-tools  1.4.3-1  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
  vtm  2026.07.22  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
- vulkan-extension-layer  1.4.350  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
+ vulkan-extension-layer  1.4.360  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
  vulkan-headers  1.4.360  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
  vulkan-icd  0.1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
