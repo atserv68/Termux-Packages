@@ -7359,7 +7359,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.8.13
+  Version: 2026.8.14
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7731,7 +7731,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1410+g510f61555b-0
+  Version: 0.13.0~dev-1418+gf97bcbdf77-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10543,7 +10543,7 @@
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinymist
-  Version: 0.15.2
+  Version: 0.15.4
   Description: An integrated language service for Typst
   Homepage: https://myriad-dreamin.github.io/tinymist
 - Package: tinyproxy
