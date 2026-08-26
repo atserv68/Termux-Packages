@@ -467,7 +467,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.30
+  Version: 2.36.31
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -7359,7 +7359,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.8.12
+  Version: 2026.8.13
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7423,7 +7423,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://www.seehuhn.de/programs/moon-buggy
 - Package: moor
-  Version: 2.17.0
+  Version: 2.18.0
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -8859,7 +8859,7 @@
   Description: Python library for calculating contours in 2D quadrilateral grids
   Homepage: https://contourpy.readthedocs.io/
 - Package: python-cryptography
-  Version: 50.0.0
+  Version: 50.0.1
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ctranslate2
@@ -11011,7 +11011,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.12.5
+  Version: 0.12.6
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11255,7 +11255,7 @@
   Description: WavPack command-line programs
   Homepage: https://www.wavpack.com/
 - Package: waypipe
-  Version: 0.11.1
+  Version: 0.11.2
   Description: A proxy for Wayland clients
   Homepage: https://gitlab.freedesktop.org/mstoeckl/waypipe
 - Package: wcalc

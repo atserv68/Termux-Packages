@@ -115,7 +115,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.36.30 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.36.31 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.7 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -1838,7 +1838,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.0 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.0 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.8.12 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.8.13 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
 | **mksh** | 59c-3 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
@@ -1854,7 +1854,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.1.0 | Simple game where you drive a car across the moon's surface | https://www.seehuhn.de/programs/moon-buggy |
-| **moor** | 2.17.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.18.0 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.03.17-1 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-7 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -2213,7 +2213,7 @@
 | **python-brotli** | 1.2.0-2 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-cmake** | 4.4.0 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.3.3-5 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
-| **python-cryptography** | 50.0.0 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
+| **python-cryptography** | 50.0.1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ctranslate2** | 4.8.1-1 | Python bindings for CTranslate2 | https://github.com/OpenNMT/CTranslate2 |
 | **python-ensurepip-wheels** | 3.14.6-1 | Wheels for Python ensurepip | https://python.org/ |
 | **python-greenlet** | 3.5.5 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
@@ -2751,7 +2751,7 @@
 | **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.12.5 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.12.6 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.53.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2812,7 +2812,7 @@
 | **wasmtime** | 46.0.1-1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.7.0 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |
-| **waypipe** | 0.11.1 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
+| **waypipe** | 0.11.2 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-6 | Capable calculator | https://w-calc.sourceforge.net |
 | **wcslib** | 8.9 | a C library that implements the 'World Coordinate System' (WCS) standard in FITS | https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/ |
 | **wcslib-static** | 8.9 | Static libraries for wcslib | https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/ |

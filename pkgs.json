@@ -703,7 +703,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.30",
+    "Version": "2.36.31",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -11041,7 +11041,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.8.12",
+    "Version": "2026.8.13",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11137,7 +11137,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.17.0",
+    "Version": "2.18.0",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -13291,7 +13291,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "50.0.0",
+    "Version": "50.0.1",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -16519,7 +16519,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.5",
+    "Version": "0.12.6",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -16885,7 +16885,7 @@
   },
   {
     "Package": "waypipe",
-    "Version": "0.11.1",
+    "Version": "0.11.2",
     "Description": "A proxy for Wayland clients",
     "Homepage": "https://gitlab.freedesktop.org/mstoeckl/waypipe"
   },
