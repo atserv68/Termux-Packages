@@ -726,6 +726,12 @@
     "Homepage": "https://gegl.org/babl/"
   },
   {
+    "Package": "bacon",
+    "Version": "3.25.0",
+    "Description": "A background code checker for Rust, designed for minimal interaction",
+    "Homepage": "https://dystroy.org/bacon"
+  },
+  {
     "Package": "bacula-fd",
     "Version": "15.0.3-2",
     "Description": "Bacula backup software",
@@ -1224,6 +1230,12 @@
     "Homepage": "https://carapace.sh/"
   },
   {
+    "Package": "cargo-audit",
+    "Version": "0.22.2",
+    "Description": "Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database",
+    "Homepage": "https://rustsec.org"
+  },
+  {
     "Package": "cargo-binstall",
     "Version": "1.22.0",
     "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
@@ -1240,6 +1252,12 @@
     "Version": "0.8.3",
     "Description": "Tool to manage cargo cache",
     "Homepage": "https://github.com/matthiaskrgr/cargo-cache"
+  },
+  {
+    "Package": "cargo-flamegraph",
+    "Version": "0.6.14",
+    "Description": "Simple cargo subcommand for generating flamegraphs, using inferno under the hood",
+    "Homepage": "https://github.com/flamegraph-rs/flamegraph"
   },
   {
     "Package": "cargo-leptos",
