@@ -187,7 +187,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.14.1
+  Version: 3.15.0
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: aosp-libs
@@ -1835,7 +1835,7 @@
   Description: A friendly and expressive Unix shell
   Homepage: https://github.com/elves/elvish
 - Package: emacs
-  Version: "31.1"
+  Version: 31.1-1
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emmylua-ls
@@ -1999,7 +1999,7 @@
   Description: A significantly faster alternative to the classic Unix cp(1) command
   Homepage: https://github.com/Svetlitski/fcp
 - Package: fd
-  Version: 10.4.2
+  Version: 10.5.0
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
@@ -3787,11 +3787,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.14.1
+  Version: 3.15.0
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.14.1
+  Version: 3.15.0
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
@@ -5955,7 +5955,7 @@
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
-  Version: 1.5.6
+  Version: 1.5.7
   Description: Secure Reliable Transport (SRT) Protocol
   Homepage: https://github.com/Haivision/srt
 - Package: libsrtp
@@ -6135,7 +6135,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.16.20
+  Version: 0.16.21
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -6143,7 +6143,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.16.20
+  Version: 0.16.21
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -7103,7 +7103,7 @@
   Description: A simple chat bridge
   Homepage: https://github.com/42wim/matterbridge
 - Package: matterircd
-  Version: 0.31.0
+  Version: 0.32.0
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: matugen
@@ -8723,7 +8723,7 @@
   Description: Compiler for protocol buffer definition files
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: proton-bridge
-  Version: 3.25.0
+  Version: 3.26.0
   Description: ProtonMail Bridge application
   Homepage: https://github.com/ProtonMail/proton-bridge
 - Package: proton-pass-cli
@@ -9459,7 +9459,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.16.20
+  Version: 0.16.21
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -10003,7 +10003,7 @@
   Description: A Free SOCKS proxy server
   Homepage: https://sourceforge.net/projects/socks-relay/
 - Package: srt-tools
-  Version: 1.5.6
+  Version: 1.5.7
   Description: Command-line tools for libsrt
   Homepage: https://github.com/Haivision/srt
 - Package: srt2vobsub

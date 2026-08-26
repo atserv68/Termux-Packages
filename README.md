@@ -57,7 +57,7 @@
 | **ant** | 1.10.17 | Java based build tool like make | https://ant.apache.org/ |
 | **antibody** | 6.1.1-3 | The fastest shell plugin manager | https://github.com/getantibody/antibody |
 | **antiword** | 0.37-4 | A free MS Word reader | https://en.m.wikipedia.org/wiki/Antiword |
-| **aom-tools** | 3.14.1 | Command-line tools using AOMedia library | https://aomedia.org/ |
+| **aom-tools** | 3.15.0 | Command-line tools using AOMedia library | https://aomedia.org/ |
 | **aosp-libs** | 9.0.0-r76-4 | bionic libc, libicuuc, liblzma, zlib, and boringssl for package builder and termux-docker | https://source.android.com/ |
 | **aosp-utils** | 9.0.0-r76-4 | AOSP-based mksh, toybox, grep and iputils for termux-docker | https://source.android.com/ |
 | **apache-orc** | 2.3.1 | Columnar storage for Hadoop workloads | https://orc.apache.org/ |
@@ -469,7 +469,7 @@
 | **elixir** | 1.20.3 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
-| **emacs** | 31.1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
+| **emacs** | 31.1-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emmylua-ls** | 0.25.1 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
 | **emscripten** | 6.0.8 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 6.0.8 | Emscripten-compatible Binaryen | https://emscripten.org |
@@ -510,7 +510,7 @@
 | **fcgiwrap** | 1.1.0+g99c942c | A simple server for running CGI applications over FastCGI | https://github.com/gnosek/fcgiwrap |
 | **fclones** | 0.35.0-1 | Efficient Duplicate File Finder | https://github.com/pkolaczk/fclones |
 | **fcp** | 0.2.2 | A significantly faster alternative to the classic Unix cp(1) command | https://github.com/Svetlitski/fcp |
-| **fd** | 10.4.2 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
+| **fd** | 10.5.0 | Simple, fast and user-friendly alternative to find | https://github.com/sharkdp/fd |
 | **fdisk** | 2.42.1-4 | Utilities to manipulate disk partition tables | https://en.wikipedia.org/wiki/Util-linux |
 | **fdkaac** | 1.0.9 | command line encoder frontend for libfdk-aac | https://github.com/nu774/fdkaac |
 | **fdm** | 2.2-2 | A program designed to fetch mail from POP3 or IMAP servers, or receive local mail from stdin, and deliver it in various ways | https://github.com/nicm/fdm |
@@ -957,8 +957,8 @@
 | **libandroid-wordexp-static** | 0.1-1 | Static libraries for libandroid-wordexp | https://man7.org/linux/man-pages/man3/wordexp.3.html |
 | **libao** | 1.2.2-8 | A cross platform audio library | https://www.xiph.org/ao/ |
 | **libao-static** | 1.2.2-8 | Static libraries for libao | https://www.xiph.org/ao/ |
-| **libaom** | 3.14.1 | AV1 Video Codec Library | https://aomedia.org/ |
-| **libaom-static** | 3.14.1 | Static libraries for libaom | https://aomedia.org/ |
+| **libaom** | 3.15.0 | AV1 Video Codec Library | https://aomedia.org/ |
+| **libaom-static** | 3.15.0 | Static libraries for libaom | https://aomedia.org/ |
 | **libapt-pkg-perl** | 0.1.43 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.9 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.9 | Static libraries for libarchive | https://www.libarchive.org/ |
@@ -1499,7 +1499,7 @@
 | **libsqlite** | 3.53.4 | Library implementing a self-contained and transactional SQL database engine | https://www.sqlite.org |
 | **libsqlite-static** | 3.53.4 | Static libraries for libsqlite | https://www.sqlite.org |
 | **libsqlite-tcl** | 3.53.4 | tcl bindings for SQLite | https://www.sqlite.org |
-| **libsrt** | 1.5.6 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
+| **libsrt** | 1.5.7 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
 | **libsrtp** | 2.8.0 | Library for SRTP (Secure Realtime Transport Protocol) | https://github.com/cisco/libsrtp |
 | **libssh** | 0.12.2 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-2 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
@@ -1544,9 +1544,9 @@
 | **libtommath** | 1.3.0 | A free open source portable number theoretic multiple-precision integer library | https://www.libtom.net/LibTomMath/ |
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.6.2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
-| **libtorrent** | 0.16.20 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent** | 0.16.21 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
 | **libtorrent-rasterbar** | 2.1.1 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
-| **libtorrent-static** | 0.16.20 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent-static** | 0.16.21 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.4-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
@@ -1786,7 +1786,7 @@
 | **mathomatic** | 16.0.5-7 | Simple CAS and symbolic calculator | https://en.wikipedia.org/wiki/Mathomatic |
 | **matplotlib** | 3.11.1 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-4 | A simple chat bridge | https://github.com/42wim/matterbridge |
-| **matterircd** | 0.31.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
+| **matterircd** | 0.32.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **matugen** | 4.2.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
 | **mautrix-whatsapp** | 26.08 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
 | **maven** | 3.9.16 | A Java software project management and comprehension tool | https://maven.apache.org/ |
@@ -2191,7 +2191,7 @@
 | **proot** | 5.1.107.92 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 5.8.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:35.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
-| **proton-bridge** | 3.25.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
+| **proton-bridge** | 3.26.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **proton-pass-cli** | 2.3.3 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **prowlarr** | 2.5.2.5491 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
@@ -2375,7 +2375,7 @@
 | **rsync** | 3.5.0-1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
-| **rtorrent** | 0.16.20 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
+| **rtorrent** | 0.16.21 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
 | **rubberband** | 4.0.0-1 | An audio time-stretching and pitch-shifting library and utility program | https://breakfastquay.com/rubberband/ |
 | **rubberband-ladspa** | 4.0.0-1 | LADSPA plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
 | **rubberband-lv2** | 4.0.0-1 | LV2 plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
@@ -2511,7 +2511,7 @@
 | **squid** | 7.7 | Full-featured Web proxy cache server | http://www.squid-cache.org |
 | **sratom** | 0.6.22 | A small library for serialising LV2 atoms to and from RDF | https://drobilla.net/software/sratom.html |
 | **srelay** | 0.4.8p3-8 | A Free SOCKS proxy server | https://sourceforge.net/projects/socks-relay/ |
-| **srt-tools** | 1.5.6 | Command-line tools for libsrt | https://github.com/Haivision/srt |
+| **srt-tools** | 1.5.7 | Command-line tools for libsrt | https://github.com/Haivision/srt |
 | **srt2vobsub** | 1.0-8 | A command-line tool that generates a pair of .idx/.sub subtitle files from a textual subtitles file | https://srt2vobsub.sourceforge.io/ |
 | **ssdb** | 1.9.9-3 | A Redis compatible NoSQL database stored on disk | https://ssdb.io/ |
 | **ssdeep** | 2.14.1-2 | A program for computing context triggered piecewise hashes (CTPH) | https://ssdeep-project.github.io/ssdeep/ |

@@ -283,7 +283,7 @@
   },
   {
     "Package": "aom-tools",
-    "Version": "3.14.1",
+    "Version": "3.15.0",
     "Description": "Command-line tools using AOMedia library",
     "Homepage": "https://aomedia.org/"
   },
@@ -2755,7 +2755,7 @@
   },
   {
     "Package": "emacs",
-    "Version": "31.1",
+    "Version": "31.1-1",
     "Description": "Extensible, customizable text editor-and more",
     "Homepage": "https://www.gnu.org/software/emacs/"
   },
@@ -3001,7 +3001,7 @@
   },
   {
     "Package": "fd",
-    "Version": "10.4.2",
+    "Version": "10.5.0",
     "Description": "Simple, fast and user-friendly alternative to find",
     "Homepage": "https://github.com/sharkdp/fd"
   },
@@ -5683,13 +5683,13 @@
   },
   {
     "Package": "libaom",
-    "Version": "3.14.1",
+    "Version": "3.15.0",
     "Description": "AV1 Video Codec Library",
     "Homepage": "https://aomedia.org/"
   },
   {
     "Package": "libaom-static",
-    "Version": "3.14.1",
+    "Version": "3.15.0",
     "Description": "Static libraries for libaom",
     "Homepage": "https://aomedia.org/"
   },
@@ -8935,7 +8935,7 @@
   },
   {
     "Package": "libsrt",
-    "Version": "1.5.6",
+    "Version": "1.5.7",
     "Description": "Secure Reliable Transport (SRT) Protocol",
     "Homepage": "https://github.com/Haivision/srt"
   },
@@ -9205,7 +9205,7 @@
   },
   {
     "Package": "libtorrent",
-    "Version": "0.16.20",
+    "Version": "0.16.21",
     "Description": "Libtorrent BitTorrent library",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -9217,7 +9217,7 @@
   },
   {
     "Package": "libtorrent-static",
-    "Version": "0.16.20",
+    "Version": "0.16.21",
     "Description": "Static libraries for libtorrent",
     "Homepage": "https://github.com/rakshasa/rtorrent/wiki"
   },
@@ -10657,7 +10657,7 @@
   },
   {
     "Package": "matterircd",
-    "Version": "0.31.0",
+    "Version": "0.32.0",
     "Description": "Connect to your mattermost or slack using your IRC-client of choice",
     "Homepage": "https://github.com/42wim/matterircd"
   },
@@ -13087,7 +13087,7 @@
   },
   {
     "Package": "proton-bridge",
-    "Version": "3.25.0",
+    "Version": "3.26.0",
     "Description": "ProtonMail Bridge application",
     "Homepage": "https://github.com/ProtonMail/proton-bridge"
   },
@@ -14191,7 +14191,7 @@
   },
   {
     "Package": "rtorrent",
-    "Version": "0.16.20",
+    "Version": "0.16.21",
     "Description": "Ncurses BitTorrent client based on libTorrent",
     "Homepage": "https://rakshasa.github.io/rtorrent/"
   },
@@ -15007,7 +15007,7 @@
   },
   {
     "Package": "srt-tools",
-    "Version": "1.5.6",
+    "Version": "1.5.7",
     "Description": "Command-line tools for libsrt",
     "Homepage": "https://github.com/Haivision/srt"
   },
