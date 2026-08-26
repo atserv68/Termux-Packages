@@ -2127,7 +2127,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.91
+  Version: 0.4.92
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2507,7 +2507,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.114.0
+  Version: 1.115.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2599,7 +2599,7 @@
   Description: gnuit - GNU Interactive Tools
   Homepage: https://www.gnu.org/software/gnuit/
 - Package: gnunet
-  Version: 0.28.0-1
+  Version: 0.29.0
   Description: A framework for secure peer-to-peer networking
   Homepage: https://gnunet.org
 - Package: gnupg
@@ -3031,7 +3031,7 @@
   Description: The Moon-powered shell! A comfy and extensible shell for Lua fans!
   Homepage: https://rosettea.github.io/Hilbish/
 - Package: hledger
-  Version: 1.52.1-2
+  Version: 1.52.2
   Description: Robust, friendly, fast plain text accounting software. (CLI only)
   Homepage: https://hledger.org/
 - Package: hledger-ui
@@ -7039,7 +7039,7 @@
   Description: Mailutils is a swiss army knife of electronic mail handling.
   Homepage: https://mailutils.org/
 - Package: maintainerr
-  Version: 3.24.0-2
+  Version: 3.25.0
   Description: An automation rule engine for your media server
   Homepage: https://github.com/maintainerr/Maintainerr
 - Package: make
