@@ -3193,7 +3193,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.92",
+    "Version": "0.4.93",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "Package": "frei0r-plugins",
-    "Version": "3.4.0",
+    "Version": "3.5.0",
     "Description": "Minimalistic plugin API for video effects",
     "Homepage": "https://www.dyne.org/software/frei0r/"
   },
@@ -11935,7 +11935,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "30.7.0",
+    "Version": "30.8.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
