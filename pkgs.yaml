@@ -842,6 +842,10 @@
   Version: 0.3.7
   Description: Build tool for the Rust framework Leptos
   Homepage: https://github.com/leptos-rs/cargo-leptos
+- Package: cargo-machete
+  Version: 0.9.2
+  Description: Find unused dependencies in Rust projects
+  Homepage: https://github.com/bnjbvr/cargo-machete
 - Package: catch2
   Version: 3.16.0
   Description: A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
@@ -1135,7 +1139,7 @@
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
-  Version: 2.10.2
+  Version: 2.10.3
   Description: Dependency Manager for PHP
   Homepage: https://getcomposer.org/
 - Package: console-bridge
@@ -1483,7 +1487,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 4.46.0
+  Version: 5.0.0-1
   Description: Infrastructure as code for DNS!
   Homepage: https://github.com/StackExchange/dnscontrol
 - Package: dnslookup
@@ -1534,6 +1538,10 @@
   Version: 0.2.8-2
   Description: A command-line DNS client
   Homepage: https://github.com/Dj-Codeman/dog_community
+- Package: doggo
+  Version: 1.3.0
+  Description: Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt
+  Homepage: https://github.com/mr-karan/doggo
 - Package: dopewars
   Version: 1.6.2-1
   Description: Drug-dealing game set in streets of New York City
@@ -2654,6 +2662,10 @@
   Version: 5.1.0
   Description: A netease music player in terminal.
   Homepage: https://github.com/go-musicfox/go-musicfox
+- Package: go-task
+  Version: 3.53.1
+  Description: A task runner / simpler Make alternative written in Go
+  Homepage: https://github.com/go-task/task
 - Package: goaccess
   Version: "1.11"
   Description: An open source real-time web log analyzer and interactive viewer
@@ -2666,6 +2678,10 @@
   Version: 1.86.0-2
   Description: Uniform machine readable API
   Homepage: https://gi.readthedocs.io/
+- Package: gofumpt
+  Version: 0.11.0
+  Description: A stricter gofmt, backwards compatible drop-in replacement
+  Homepage: https://github.com/mvdan/gofumpt
 - Package: gogs
   Version: 0.14.3
   Description: A painless self-hosted Git service
@@ -2734,6 +2750,10 @@
   Version: "3.4"
   Description: Go symbol recovery tool
   Homepage: https://github.com/mandiant/GoReSym
+- Package: gosec
+  Version: 2.29.0
+  Description: Golang security checker
+  Homepage: https://github.com/securego/gosec
 - Package: gost
   Version: 2.12.0
   Description: GO Simple Tunnel - a simple tunnel written in golang
@@ -6991,7 +7011,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.42.0
+  Version: 0.42.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7499,7 +7519,7 @@
   Description: Minimalist command line interface for MPD
   Homepage: https://www.musicpd.org/clients/mpc/
 - Package: mpd
-  Version: 0.24.14
+  Version: 0.24.15
   Description: Music player daemon
   Homepage: https://www.musicpd.org
 - Package: mpdscribble
@@ -7743,7 +7763,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1418+gf97bcbdf77-0
+  Version: 0.13.0~dev-1430+g6eb36bcb2d-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7967,7 +7987,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 30.8.0
+  Version: 30.9.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -7995,7 +8015,7 @@
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
-  Version: 1.27.7
+  Version: 1.27.8
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
@@ -8911,7 +8931,7 @@
   Description: Binding for Pango, to use with Manim.
   Homepage: https://github.com/ManimCommunity/ManimPango
 - Package: python-msgpack
-  Version: 1.2.1-2
+  Version: 1.2.2
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-mupdf
@@ -8971,7 +8991,7 @@
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
-  Version: 9.7.0
+  Version: 9.7.1
   Description: C implementations of functions for use within SABnzbd
   Homepage: https://github.com/sabnzbd/sabctools
 - Package: python-scipy
@@ -9666,6 +9686,10 @@
   Version: 0.5.5-2
   Description: StarDict Console Version
   Homepage: http://dushistov.github.io/sdcv/
+- Package: sea-orm-cli
+  Version: 2.0.2
+  Description: Command line utility for SeaORM, an async & dynamic ORM for Rust
+  Homepage: https://github.com/SeaQL/sea-orm
 - Package: seafile-client
   Version: 9.0.21
   Description: Seafile is a file syncing and sharing software with file encryption and group sharing
@@ -9799,7 +9823,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.6.8
+  Version: 4.6.9
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -10971,7 +10995,7 @@
   Description: Power management support for DeviceKit
   Homepage: https://upower.freedesktop.org/
 - Package: upx
-  Version: 5.2.0
+  Version: 5.2.1
   Description: the Ultimate Packer for eXecutables
   Homepage: https://upx.github.io/
 - Package: urdfdom
@@ -11227,7 +11251,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.24.4
+  Version: 2.25.0
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
@@ -11251,7 +11275,7 @@
   Description: A lightweight, high-performance, and extensible WebAssembly runtime
   Homepage: https://wasmedge.org/
 - Package: wasmer
-  Version: 7.1.0
+  Version: 7.1.0-1
   Description: A fast and secure WebAssembly runtime
   Homepage: https://wasmer.io/
 - Package: wasmtime
