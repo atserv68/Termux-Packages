@@ -127,7 +127,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.36.31 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.36.32 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.7 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -545,7 +545,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.6.0 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.93 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.94 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.3 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -749,9 +749,9 @@
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **half** | 2.2.1 | C++ header-only library for IEEE 754 half-precision floating-point format | https://half.sourceforge.net/ |
 | **haproxy** | 3.4.3 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
-| **harfbuzz** | 14.3.1 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-icu** | 14.3.1 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-utils** | 14.3.1 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz** | 14.4.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-icu** | 14.4.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-utils** | 14.4.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harper** | 2.8.0 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered | https://writewithharper.com/ |
 | **hash-slinger** | 3.6 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
@@ -898,7 +898,7 @@
 | **kotlin** | 2.4.10 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.7.1 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
-| **kubectl** | 1.36.4 | Kubernetes.io client binary | https://kubernetes.io/ |
+| **kubectl** | 1.37.0 | Kubernetes.io client binary | https://kubernetes.io/ |
 | **kubelogin** | 1.36.3 | A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication | https://github.com/int128/kubelogin |
 | **kubo** | 0.43.0-1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-3 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
@@ -1982,7 +1982,7 @@
 | **notcurses-data** | 3.0.17-2 | Platform-independent data for notcurses | https://notcurses.com/ |
 | **notcurses-tools** | 3.0.17-2 | Tools and demos for notcurses | https://notcurses.com/ |
 | **notmuch** | 0.40-1 | Thread-based email index, search and tagging system | https://notmuchmail.org |
-| **npm** | 11.19.0 | The package manager for JavaScript | https://docs.npmjs.com/cli/ |
+| **npm** | 11.19.1 | The package manager for JavaScript | https://docs.npmjs.com/cli/ |
 | **npush** | 0.7-2 | Curses-based logic game similar to Sokoban and Boulder Dash | https://npush.sourceforge.net/ |
 | **nsis** | 3.12 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.12 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
@@ -2726,7 +2726,7 @@
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.6.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
-| **ty** | 0.0.74 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
+| **ty** | 0.0.75 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
 | **uchardet** | 0.0.8-2 | An encoding detector utility | https://www.freedesktop.org/wiki/Software/uchardet/ |
@@ -2773,7 +2773,7 @@
 | **valac-static** | 0.56.19 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.19 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.19 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.18.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.19.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valkey** | 9.1.1-3 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
 | **valkey-static** | 9.1.1-3 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
@@ -2874,7 +2874,7 @@
 | **xerces-c** | 3.3.0 | Validating XML parser library for C++. | https://xerces.apache.org/ |
 | **xerces-c-static** | 3.3.0 | Static libraries for xerces-c | https://xerces.apache.org/ |
 | **xh** | 0.26.2 | A friendly and fast tool for sending HTTP requests | https://github.com/ducaale/xh |
-| **xmake** | 3.1.0 | A cross-platform build utility based on Lua | https://xmake.io/ |
+| **xmake** | 3.1.1 | A cross-platform build utility based on Lua | https://xmake.io/ |
 | **xmlsec** | 1.3.12 | XML Security Library | https://www.aleksey.com/xmlsec/ |
 | **xmlsec-static** | 1.3.12 | Static libraries for xmlsec | https://www.aleksey.com/xmlsec/ |
 | **xmlstarlet** | 1.6.1-8 | Command line XML toolkit | https://xmlstar.sourceforge.net/ |

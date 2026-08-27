@@ -703,7 +703,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.31",
+    "Version": "2.36.32",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -3211,7 +3211,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.93",
+    "Version": "0.4.94",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4435,19 +4435,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "14.3.1",
+    "Version": "14.4.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "14.3.1",
+    "Version": "14.4.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "14.3.1",
+    "Version": "14.4.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -5329,7 +5329,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.36.4",
+    "Version": "1.37.0",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -11833,7 +11833,7 @@
   },
   {
     "Package": "npm",
-    "Version": "11.19.0",
+    "Version": "11.19.1",
     "Description": "The package manager for JavaScript",
     "Homepage": "https://docs.npmjs.com/cli/"
   },
@@ -16297,7 +16297,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.74",
+    "Version": "0.0.75",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -16579,7 +16579,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.18.0",
+    "Version": "3.19.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
@@ -17185,7 +17185,7 @@
   },
   {
     "Package": "xmake",
-    "Version": "3.1.0",
+    "Version": "3.1.1",
     "Description": "A cross-platform build utility based on Lua",
     "Homepage": "https://xmake.io/"
   },
