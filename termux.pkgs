@@ -7,8 +7,8 @@
 | **a52dec** | 0.8.0-3 | A test program for liba52 | http://liba52.sourceforge.net/ |
 | **aalib** | 1.4rc5-13 | A portable ASCII art graphic library | https://sourceforge.net/projects/aa-project/ |
 | **aalib-static** | 1.4rc5-13 | Static libraries for aalib | https://sourceforge.net/projects/aa-project/ |
-| **aapt** | 16.0.0.4-1 | Android Asset Packaging Tool | https://github.com/termux/android-build-tools |
-| **aapt2** | 16.0.0.4-1 | AAPT2 (Android Asset Packaging Tool) | https://github.com/termux/android-build-tools |
+| **aapt** | 16.0.0.4-2 | Android Asset Packaging Tool | https://github.com/termux/android-build-tools |
+| **aapt2** | 16.0.0.4-2 | AAPT2 (Android Asset Packaging Tool) | https://github.com/termux/android-build-tools |
 | **abduco** | 0.6-4 | Clean and simple terminal session manager | https://www.brain-dump.org/projects/abduco/ |
 | **abook** | 0.6.2-1 | Abook is a text-based addressbook program designed to use with mutt mail client | http://abook.sourceforge.net/ |
 | **abootimg** | 0.6-3 | Pack or unpack android boot images | https://gitlab.com/ajs124/abootimg |
@@ -23,7 +23,7 @@
 | **agg** | 1.9.0 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1-2 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
 | **aichat** | 0.30.0-1 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
-| **aidl** | 16.0.0.4-1 | Android Interface Definition Language (AIDL) | https://github.com/termux/android-build-tools |
+| **aidl** | 16.0.0.4-2 | Android Interface Definition Language (AIDL) | https://github.com/termux/android-build-tools |
 | **air** | 1.67.4 | Live reload for Go apps - rebuilds and restarts your binary on file change | https://github.com/air-verse/air |
 | **alass** | 2.0.0-4 | Automatic Language-Agnostic Subtitle Synchronization | https://github.com/kaegi/alass |
 | **alembic** | 1.8.12 | A framework for sharing scene data that includes a C++ lib, a file format and client plugin | https://alembic.io |
@@ -35,7 +35,7 @@
 | **alsa-utils-static** | 1.2.16 | Static libraries for alsa-utils | https://www.alsa-project.org |
 | **amber** | 0.6.1 | A code search / replace tool | https://github.com/dalance/amber |
 | **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
-| **android-tools** | 36.0.1+really35.0.2 | Android platform tools | https://developer.android.com/ |
+| **android-tools** | 36.0.1+really35.0.2-1 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.2.1 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
@@ -246,7 +246,7 @@
 | **choose** | 1.3.7 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
 | **chroma-visualizer** | 0.0.0+g3c32e7d | Shader-based audio visualizer for the terminal | https://github.com/yuri-xyz/chroma.git |
 | **chromaprint** | 1.6.1 | C library for generating audio fingerprints used by AcoustID (fpcalc tool) | https://acoustid.org/chromaprint |
-| **chrony** | 4.8 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
+| **chrony** | 4.9 | chrony is an implementation of the Network Time Protocol (NTP) | https://chrony-project.org/ |
 | **cicada** | 1.3.1 | A bash like Unix shell | https://github.com/mitnk/cicada |
 | **ciso** | 1.0.2-2 | PSP ISO compression tool | https://github.com/jamie/ciso |
 | **cjson** | 1.7.19 | Ultralightweight JSON parser in ANSI C | https://github.com/DaveGamble/cJSON |
@@ -301,7 +301,7 @@
 | **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:11.3.2 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:11.3.3 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -340,7 +340,7 @@
 | **dcmtk** | 3.7.0 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
 | **dcraw** | 9.28.0-7 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
 | **ddrescue** | 1.30 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
-| **debianutils** | 5.23.2-1 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
+| **debianutils** | 5.24 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.144 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **delve** | 1.27.1 | A debugger for the Go programming language | https://github.com/go-delve/delve |
 | **deno** | 1:2.9.5 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
@@ -459,7 +459,7 @@
 | **electrum** | 4.7.1-1 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.193-1 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.20.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
-| **elixir** | 1.20.3 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
+| **elixir** | 1.20.4 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 31.1-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
@@ -679,7 +679,7 @@
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 26.08 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
-| **googletest** | 1.17.0-1 | Google C++ testing framework | https://github.com/google/googletest |
+| **googletest** | 1.18.0 | Google C++ testing framework | https://github.com/google/googletest |
 | **goose** | 3.27.3 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.16.1 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-2 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
@@ -1215,7 +1215,7 @@
 | **libjxl** | 0.12.0 | JPEG XL image format reference implementation | https://jpegxl.info/ |
 | **libjxl-progs** | 0.12.0 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkeyfinder** | 2.2.8 | Musical key detection for digital audio | https://mixxxdj.github.io/libkeyfinder |
-| **libkiwix** | 14.2.1 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
+| **libkiwix** | 14.2.1-1 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.2.4-2 | Knot DNS libraries | https://www.knot-dns.cz/ |
 | **libknot-static** | 3.2.4-2 | Static libraries for libknot | https://www.knot-dns.cz/ |
 | **libkokkos** | 5.2.1 | Implements a programming model in C++ for writing performance portable applications | https://github.com/kokkos |
@@ -1319,7 +1319,7 @@
 | **libnewt-static** | 0.52.25-1 | Static libraries for libnewt | https://pagure.io/newt |
 | **libnfc** | 1.8.0-2 | Free/Libre Near Field Communication (NFC) library | https://github.com/nfc-tools/libnfc |
 | **libnfc-static** | 1.8.0-2 | Static libraries for libnfc | https://github.com/nfc-tools/libnfc |
-| **libnfs** | 7.0.0 | NFS client library | https://github.com/sahlberg/libnfs |
+| **libnfs** | 7.0.1 | NFS client library | https://github.com/sahlberg/libnfs |
 | **libnftnl** | 1.3.1 | Netfilter library providing interface to the nf_tables subsystem | https://www.netfilter.org/projects/libnftnl/ |
 | **libnftnl-static** | 1.3.1 | Static libraries for libnftnl | https://www.netfilter.org/projects/libnftnl/ |
 | **libnghttp2** | 1.70.0 | nghttp HTTP 2.0 library | https://nghttp2.org/ |
@@ -1673,7 +1673,7 @@
 | **libyaml-static** | 0.2.5-5 | Static libraries for libyaml | https://pyyaml.org/wiki/LibYAML |
 | **libzen** | 0.4.41-1 | ZenLib C++ utility library | https://mediaarea.net/en/MediaInfo |
 | **libzen-static** | 0.4.41-1 | Static libraries for libzen | https://mediaarea.net/en/MediaInfo |
-| **libzim** | 9.8.2 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
+| **libzim** | 9.8.2-1 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
 | **libzimg** | 3.0.6 | Scaling, colorspace conversion, and dithering library | https://github.com/sekrit-twc/zimg |
 | **libzimg-static** | 3.0.6 | Static libraries for libzimg | https://github.com/sekrit-twc/zimg |
 | **libzip** | 1.11.4-1 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
@@ -1885,7 +1885,7 @@
 | **mpv** | 0.41.0-2 | Command-line media player | https://mpv.io/ |
 | **mruby** | 4.0.0 | Lightweight implementation of the Ruby language | https://mruby.org/ |
 | **mruby-static** | 4.0.0 | Static libraries for mruby | https://mruby.org/ |
-| **ms-gsl** | 5.0.0 | Guidelines Support Library | https://github.com/Microsoft/GSL |
+| **ms-gsl** | 5.0.0-1 | Guidelines Support Library | https://github.com/Microsoft/GSL |
 | **msedit** | 2.0.0-1 | A simple editor for simple needs (Microsoft Edit) | https://github.com/microsoft/edit |
 | **msitools** | 0.106-1 | Set of programs to inspect and build Windows Installer (.MSI) files | https://gitlab.gnome.org/GNOME/msitools |
 | **msmtp** | 1.8.34 | Lightweight SMTP client | https://marlam.de/msmtp/ |
@@ -1893,8 +1893,8 @@
 | **mtools** | 4.0.49-1 | Tool for manipulating FAT images | https://www.gnu.org/software/mtools/ |
 | **mu** | 1.14.3 | Maildir indexer/searcher and Emacs client (mu4e) | https://www.djcbsoftware.nl/code/mu/ |
 | **muchsync** | 7-3 | Synchronize notmuch mail across machines | http://www.muchsync.org/ |
-| **mujs** | 1.3.9 | A lightweight Javascript interpreter designed for embedding in other software | https://mujs.com/ |
-| **mujs-static** | 1.3.9 | Static libraries for mujs | https://mujs.com/ |
+| **mujs** | 1.3.10 | A lightweight Javascript interpreter designed for embedding in other software | https://mujs.com/ |
+| **mujs-static** | 1.3.10 | Static libraries for mujs | https://mujs.com/ |
 | **multitail** | 7.1.5-2 | Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge | http://www.vanheusden.com/multitail/ |
 | **mupdf** | 1.28.2-1 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
 | **mupdf-static** | 1.24.10-2 | Static libraries for mupdf | https://mupdf.com/ |
@@ -1902,7 +1902,7 @@
 | **music-file-organizer** | 1.0.4-10 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.4.1 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
-| **mympd** | 25.3.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
+| **mympd** | 26.0.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
 | **myrepos** | 1.20180726-4 | Tool to manage all your version control repos | https://myrepos.branchable.com/ |
 | **n-t-roff-sc** | 7.16-1.2.0-0 | A vi-like spreadsheet calculator | https://github.com/n-t-roff/sc |
@@ -1939,7 +1939,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1430+g6eb36bcb2d-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1437+g2fbc82820b-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2138,8 +2138,8 @@
 | **picocom** | 2018.04.12-1 | A minimal dumb-terminal emulation program | https://github.com/npat-efault/picocom |
 | **picolisp** | 26.6-1 | Lisp interpreter and application server framework | https://picolisp.com/wiki/?home |
 | **pigz** | 2.8-1 | Parallel implementation of the gzip file compressor | https://www.zlib.net/pigz |
-| **pikiwidb** | 3.5.6-2 | Redis-Compatible database developed by Qihoo's infrastructure team | https://github.com/OpenAtomFoundation/pikiwidb |
-| **pikiwidb-static** | 3.5.6-2 | Static libraries for pikiwidb | https://github.com/OpenAtomFoundation/pikiwidb |
+| **pikiwidb** | 3.5.6-3 | Redis-Compatible database developed by Qihoo's infrastructure team | https://github.com/OpenAtomFoundation/pikiwidb |
+| **pikiwidb-static** | 3.5.6-3 | Static libraries for pikiwidb | https://github.com/OpenAtomFoundation/pikiwidb |
 | **pinentry** | 1.3.3 | Dialog allowing secure password entry | https://www.gnupg.org/related_software/pinentry/index.html |
 | **pingme** | 0.2.7 | A small utility which can be called from anywhere to send a message with particular information | https://github.com/kha7iq/pingme |
 | **pipebuffer** | 0.0.git20211120-1 | Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline) | https://github.com/tfenne/pipebuffer |
@@ -2205,7 +2205,7 @@
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.1.0 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
-| **pygobject** | 3.56.3-1 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
+| **pygobject** | 3.58.0 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
 | **pypy** | 7.3.23 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 7.3.23 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 7.3.23 | Tkinter support for PyPy | https://pypy.org |
@@ -2228,7 +2228,7 @@
 | **python-grpcio** | 1.83.1 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-lameenc** | 1.8.4-1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0-3 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
-| **python-llvmlite** | 0.48.0-3 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
+| **python-llvmlite** | 0.49.0-3 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
 | **python-lxml** | 6.1.2 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-manimpango** | 0.6.1 | Binding for Pango, to use with Manim. | https://github.com/ManimCommunity/ManimPango |
 | **python-msgpack** | 1.2.2 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
@@ -2572,7 +2572,7 @@
 | **swtpm** | 0.10.2 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
 | **swtpm-static** | 0.10.2 | Static libraries for swtpm | https://github.com/stefanberger/swtpm |
 | **syncthing** | 2.1.3 | Decentralized file synchronization | https://syncthing.net/ |
-| **sysprop** | 16.0.0.4-1 | Android sysprop generators | https://github.com/termux/android-build-tools |
+| **sysprop** | 16.0.0.4-2 | Android sysprop generators | https://github.com/termux/android-build-tools |
 | **ta-lib** | 0.5.0 | Technical analysis library with indicators like ADX | https://ta-lib.org/ |
 | **ta-lib-static** | 0.5.0 | Static libraries for ta-lib | https://ta-lib.org/ |
 | **taglib** | 2.3.1 | A Library for reading and editing the meta-data of several popular audio formats. | http://taglib.github.io/ |
@@ -2804,7 +2804,7 @@
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-loader-generic** | 1.4.361 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.360 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-tools** | 1.4.361 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.361 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.357 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.350 | Meta loader for Vulkan API | https://github.com/zeux/volk |
@@ -2877,7 +2877,7 @@
 | **xorg-util-macros** | 1.20.2 | X.Org Autotools macros | https://xorg.freedesktop.org/ |
 | **xorgproto** | 2025.1 | X.Org X11 Protocol headers | https://xorg.freedesktop.org/ |
 | **xorriso** | 1:1.5.8.pl02 | Tool for creating ISO files | https://www.gnu.org/software/xorriso |
-| **xsimd** | 14.3.0 | C++ wrappers for SIMD intrinsics | https://github.com/xtensor-stack/xsimd |
+| **xsimd** | 14.3.0-1 | C++ wrappers for SIMD intrinsics | https://github.com/xtensor-stack/xsimd |
 | **xsltproc** | 1.1.45-1 | XSLT command line processor | http://xmlsoft.org/libxslt/ |
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |

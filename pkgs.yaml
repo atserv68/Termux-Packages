@@ -35,11 +35,11 @@
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt
-  Version: 16.0.0.4-1
+  Version: 16.0.0.4-2
   Description: Android Asset Packaging Tool
   Homepage: https://github.com/termux/android-build-tools
 - Package: aapt2
-  Version: 16.0.0.4-1
+  Version: 16.0.0.4-2
   Description: AAPT2 (Android Asset Packaging Tool)
   Homepage: https://github.com/termux/android-build-tools
 - Package: abduco
@@ -99,7 +99,7 @@
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
-  Version: 16.0.0.4-1
+  Version: 16.0.0.4-2
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://github.com/termux/android-build-tools
 - Package: air
@@ -147,7 +147,7 @@
   Description: Aims to be the best looking Gemini client
   Homepage: https://github.com/makew0rld/amfora
 - Package: android-tools
-  Version: 36.0.1+really35.0.2
+  Version: 36.0.1+really35.0.2-1
   Description: Android platform tools
   Homepage: https://developer.android.com/
 - Package: anewer
@@ -991,7 +991,7 @@
   Description: C library for generating audio fingerprints used by AcoustID (fpcalc tool)
   Homepage: https://acoustid.org/chromaprint
 - Package: chrony
-  Version: "4.8"
+  Version: "4.9"
   Description: chrony is an implementation of the Network Time Protocol (NTP)
   Homepage: https://chrony-project.org/
 - Package: cicada
@@ -1211,7 +1211,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.3.2
+  Version: 1:11.3.3
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -1367,7 +1367,7 @@
   Description: GNU data recovery tool
   Homepage: https://www.gnu.org/software/ddrescue/
 - Package: debianutils
-  Version: 5.23.2-1
+  Version: "5.24"
   Description: Small utilities which are used primarily by the installation scripts of Debian packages
   Homepage: https://packages.debian.org/debianutils
 - Package: debootstrap
@@ -1843,7 +1843,7 @@
   Description: Full-Featured Text WWW Browser
   Homepage: https://github.com/rkd77/elinks
 - Package: elixir
-  Version: 1.20.3
+  Version: 1.20.4
   Description: Elixir is a dynamic, functional language designed for building scalable and maintainable applications
   Homepage: https://elixir-lang.org/
 - Package: eltclsh
@@ -2723,7 +2723,7 @@
   Description: Logging library for C++
   Homepage: https://github.com/google/glog
 - Package: googletest
-  Version: 1.17.0-1
+  Version: 1.18.0
   Description: Google C++ testing framework
   Homepage: https://github.com/google/googletest
 - Package: goose
@@ -4867,7 +4867,7 @@
   Description: Musical key detection for digital audio
   Homepage: https://mixxxdj.github.io/libkeyfinder
 - Package: libkiwix
-  Version: 14.2.1
+  Version: 14.2.1-1
   Description: A library that contains a lot of things used by other kiwix programs
   Homepage: https://github.com/kiwix/libkiwix
 - Package: libknot
@@ -5283,7 +5283,7 @@
   Description: Static libraries for libnfc
   Homepage: https://github.com/nfc-tools/libnfc
 - Package: libnfs
-  Version: 7.0.0
+  Version: 7.0.1
   Description: NFS client library
   Homepage: https://github.com/sahlberg/libnfs
 - Package: libnftnl
@@ -6699,7 +6699,7 @@
   Description: Static libraries for libzen
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: libzim
-  Version: 9.8.2
+  Version: 9.8.2-1
   Description: The ZIM library is the reference implementation for the ZIM file format.
   Homepage: https://openzim.org
 - Package: libzimg
@@ -7547,7 +7547,7 @@
   Description: Static libraries for mruby
   Homepage: https://mruby.org/
 - Package: ms-gsl
-  Version: 5.0.0
+  Version: 5.0.0-1
   Description: Guidelines Support Library
   Homepage: https://github.com/Microsoft/GSL
 - Package: msedit
@@ -7579,11 +7579,11 @@
   Description: Synchronize notmuch mail across machines
   Homepage: http://www.muchsync.org/
 - Package: mujs
-  Version: 1.3.9
+  Version: 1.3.10
   Description: A lightweight Javascript interpreter designed for embedding in other software
   Homepage: https://mujs.com/
 - Package: mujs-static
-  Version: 1.3.9
+  Version: 1.3.10
   Description: Static libraries for mujs
   Homepage: https://mujs.com/
 - Package: multitail
@@ -7615,7 +7615,7 @@
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
   Homepage: https://sourceforge.net/projects/myman/
 - Package: mympd
-  Version: 25.3.0
+  Version: 26.0.0
   Description: A standalone and lightweight web-based MPD client
   Homepage: https://jcorporation.github.io/myMPD/
 - Package: mypaint-brushes
@@ -7763,7 +7763,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1430+g6eb36bcb2d-0
+  Version: 0.13.0~dev-1437+g2fbc82820b-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8559,11 +8559,11 @@
   Description: Parallel implementation of the gzip file compressor
   Homepage: https://www.zlib.net/pigz
 - Package: pikiwidb
-  Version: 3.5.6-2
+  Version: 3.5.6-3
   Description: Redis-Compatible database developed by Qihoos infrastructure team
   Homepage: https://github.com/OpenAtomFoundation/pikiwidb
 - Package: pikiwidb-static
-  Version: 3.5.6-2
+  Version: 3.5.6-3
   Description: Static libraries for pikiwidb
   Homepage: https://github.com/OpenAtomFoundation/pikiwidb
 - Package: pinentry
@@ -8827,7 +8827,7 @@
   Description: Python bindings for the cairo graphics library
   Homepage: https://www.cairographics.org/pycairo/
 - Package: pygobject
-  Version: 3.56.3-1
+  Version: 3.58.0
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
@@ -8919,7 +8919,7 @@
   Description: A straightforward binding of libsass for Python
   Homepage: https://github.com/sass/libsass-python
 - Package: python-llvmlite
-  Version: 0.48.0-3
+  Version: 0.49.0-3
   Description: A lightweight LLVM python binding for writing JIT compilers
   Homepage: https://llvmlite.pydata.org/
 - Package: python-lxml
@@ -10295,7 +10295,7 @@
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
-  Version: 16.0.0.4-1
+  Version: 16.0.0.4-2
   Description: Android sysprop generators
   Homepage: https://github.com/termux/android-build-tools
 - Package: ta-lib
@@ -11223,7 +11223,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.360
+  Version: 1.4.361
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
@@ -11515,7 +11515,7 @@
   Description: Tool for creating ISO files
   Homepage: https://www.gnu.org/software/xorriso
 - Package: xsimd
-  Version: 14.3.0
+  Version: 14.3.0-1
   Description: C++ wrappers for SIMD intrinsics
   Homepage: https://github.com/xtensor-stack/xsimd
 - Package: xsltproc
