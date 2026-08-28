@@ -467,7 +467,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.32
+  Version: 2.36.33
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -579,7 +579,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.5.10
+  Version: 2.5.11
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -1547,7 +1547,7 @@
   Description: Drug-dealing game set in streets of New York City
   Homepage: https://dopewars.sourceforge.io
 - Package: dos2unix
-  Version: 7.5.6
+  Version: 7.5.7
   Description: Converts between DOS and Unix text files
   Homepage: https://waterlander.net/dos2unix/
 - Package: dosfstools
@@ -2147,7 +2147,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.94
+  Version: 0.4.95
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2491,7 +2491,7 @@
   Description: A graphical interface to Git
   Homepage: https://git-scm.com/
 - Package: git-lfs
-  Version: 3.7.1
+  Version: 3.8.0
   Description: Git extension for versioning large files
   Homepage: https://git-lfs.github.com/
 - Package: git-sizer
@@ -2707,7 +2707,7 @@
   Description: Database migrations. CLI and Golang library
   Homepage: https://github.com/golang-migrate/migrate
 - Package: golangci-lint
-  Version: 2.13.1
+  Version: 2.13.2
   Description: Fast linters runner for Go, aggregating many Go linters into one tool
   Homepage: https://golangci-lint.run/
 - Package: gomp
@@ -2767,7 +2767,7 @@
   Description: go test runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results
   Homepage: https://github.com/gotestyourself/gotestsum
 - Package: gotify
-  Version: 3.0.0
+  Version: 3.1.0
   Description: A simple server for sending and receiving messages in real-time per WebSocket.
   Homepage: https://github.com/gotify/server
 - Package: gotop
@@ -2971,7 +2971,7 @@
   Description: C++ header-only library for IEEE 754 half-precision floating-point format
   Homepage: https://half.sourceforge.net/
 - Package: haproxy
-  Version: 3.4.3
+  Version: 3.4.4
   Description: The Reliable, High Performance TCP/HTTP Load Balancer
   Homepage: https://www.haproxy.org/
 - Package: harfbuzz
@@ -3663,11 +3663,11 @@
   Description: Terminal file manager
   Homepage: https://github.com/gokcehan/lf
 - Package: lfortran
-  Version: 0.64.0
+  Version: 0.65.0
   Description: A modern open-source interactive Fortran compiler
   Homepage: https://lfortran.org/
 - Package: lfortran-static
-  Version: 0.64.0
+  Version: 0.65.0
   Description: Static libraries for lfortran
   Homepage: https://lfortran.org/
 - Package: lftp
@@ -4603,7 +4603,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.83.0
+  Version: 1.83.1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -5359,7 +5359,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.127"
+  Version: "3.128"
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -7927,7 +7927,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.127"
+  Version: "3.128"
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
@@ -8907,7 +8907,7 @@
   Description: Lightweight coroutines for in-process concurrent programming
   Homepage: https://github.com/python-greenlet/greenlet
 - Package: python-grpcio
-  Version: 1.83.0
+  Version: 1.83.1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: python-lameenc
@@ -8987,7 +8987,7 @@
   Description: PPM compression/decompression library
   Homepage: https://github.com/miurahr/pyppmd
 - Package: python-ruff
-  Version: 0.16.4
+  Version: 0.16.5
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -9175,7 +9175,7 @@
   Description: Static libraries for qhull
   Homepage: http://www.qhull.org
 - Package: qpdf
-  Version: 12.4.0
+  Version: 12.4.1
   Description: Content-Preserving PDF Transformation System
   Homepage: http://qpdf.sourceforge.net
 - Package: qrsspig
@@ -9527,7 +9527,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.16.4
+  Version: 0.16.5
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -11047,7 +11047,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.12.6
+  Version: 0.12.7
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11191,7 +11191,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.07.22
+  Version: 2026.07.30
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -11203,7 +11203,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.360
+  Version: 1.4.361
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -11219,7 +11219,7 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.360
+  Version: 1.4.361
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
@@ -11227,7 +11227,7 @@
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.360
+  Version: 1.4.361
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
