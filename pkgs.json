@@ -577,7 +577,7 @@
   },
   {
     "Package": "asymptote",
-    "Version": "3.13",
+    "Version": "3.14",
     "Description": "A powerful descriptive vector graphics language for technical drawing",
     "Homepage": "https://asymptote.sourceforge.io/"
   },
@@ -1819,7 +1819,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.3.4",
+    "Version": "1:11.3.5",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2605,7 +2605,7 @@
   },
   {
     "Package": "dua",
-    "Version": "2.43.0",
+    "Version": "2.43.1",
     "Description": "View disk space usage and delete unwanted data, fast",
     "Homepage": "https://github.com/Byron/dua-cli"
   },
@@ -10519,7 +10519,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.43.0",
+    "Version": "0.43.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -14761,7 +14761,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.13.19",
+    "Version": "1.13.20",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -16819,7 +16819,7 @@
   },
   {
     "Package": "vulkan-icd",
-    "Version": "0.1",
+    "Version": "0.1-1",
     "Description": "A metapackage that provides Vulkan ICDs",
     "Homepage": "https://github.com/termux/termux-packages"
   },
