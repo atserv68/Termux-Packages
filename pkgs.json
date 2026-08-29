@@ -127,7 +127,7 @@
   },
   {
     "Package": "age",
-    "Version": "1:1.3.1-1",
+    "Version": "1:1.3.2",
     "Description": "A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability",
     "Homepage": "https://github.com/FiloSottile/age"
   },
@@ -2071,7 +2071,7 @@
   },
   {
     "Package": "deno",
-    "Version": "1:2.9.5",
+    "Version": "1:2.9.6",
     "Description": "A modern runtime for JavaScript and TypeScript",
     "Homepage": "https://deno.land/"
   },
@@ -3079,13 +3079,13 @@
   },
   {
     "Package": "fetchmail",
-    "Version": "6.6.6-1",
+    "Version": "6.6.7",
     "Description": "A remote-mail retrieval utility",
     "Homepage": "https://www.fetchmail.info/"
   },
   {
     "Package": "fetchmailconf",
-    "Version": "6.6.6-1",
+    "Version": "6.6.7",
     "Description": "A GUI configurator for generating fetchmail configuration files",
     "Homepage": "https://www.fetchmail.info/"
   },
@@ -3763,7 +3763,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.27.2",
+    "Version": "1.27.3",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -4867,13 +4867,13 @@
   },
   {
     "Package": "imlib2",
-    "Version": "1.12.6-1",
+    "Version": "1.12.7",
     "Description": "Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support",
     "Homepage": "https://sourceforge.net/projects/enlightenment/"
   },
   {
     "Package": "imlib2-static",
-    "Version": "1.12.6-1",
+    "Version": "1.12.7",
     "Description": "Static libraries for imlib2",
     "Homepage": "https://sourceforge.net/projects/enlightenment/"
   },
@@ -8671,7 +8671,7 @@
   },
   {
     "Package": "librusty-v8",
-    "Version": "1:2.9.5",
+    "Version": "1:2.9.6",
     "Description": "High quality Rust bindings to V8s C++ API",
     "Homepage": "https://deno.land/"
   },

@@ -31,7 +31,7 @@
 | **adms** | 2.3.7-1 | A code generator for the Verilog-AMS language | https://github.com/qucs/adms |
 | **aerc** | 0.22.0 | A pretty good email client | https://aerc-mail.org/ |
 | **agate** | 3.3.24 | Very simple server for the Gemini hypertext protocol | https://github.com/mbrubeck/agate |
-| **age** | 1:1.3.1-1 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
+| **age** | 1:1.3.2 | A simple, modern and secure encryption tool with small explicit keys, no config options, and UNIX-style composability | https://github.com/FiloSottile/age |
 | **agg** | 1.9.0 | asciinema gif generator | https://github.com/asciinema/agg |
 | **aha** | 0.5.1-2 | Converts ANSI escape sequences of a unix terminal to HTML code | https://github.com/theZiz/aha |
 | **aichat** | 0.30.0-1 | A powerful chatgpt cli | https://github.com/sigoden/aichat |
@@ -355,7 +355,7 @@
 | **debianutils** | 5.24 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.144 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
 | **delve** | 1.27.1 | A debugger for the Go programming language | https://github.com/go-delve/delve |
-| **deno** | 1:2.9.5 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
+| **deno** | 1:2.9.6 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
 | **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
 | **dex2jar** | 2.4-1 | Tools to work with android .dex and java .class files | https://github.com/pxb1988/dex2jar |
@@ -523,8 +523,8 @@
 | **fdupes** | 2.4.0-1 | Duplicates file detector | https://github.com/adrianlopezroche/fdupes |
 | **fennel** | 1.6.1 | A Lisp that compiles to Lua | https://fennel-lang.org |
 | **feroxbuster** | 2.13.1 | A fast, simple, recursive content discovery tool written in Rust | https://github.com/epi052/feroxbuster |
-| **fetchmail** | 6.6.6-1 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
-| **fetchmailconf** | 6.6.6-1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
+| **fetchmail** | 6.6.7 | A remote-mail retrieval utility | https://www.fetchmail.info/ |
+| **fetchmailconf** | 6.6.7 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
 | **ffmpeg** | 8.1.2-5 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
 | **ffmpegthumbnailer** | 2.3.1 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
@@ -637,7 +637,7 @@
 | **git-sizer** | 1.5.0-5 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.55.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **git-town** | 24.0.0 | Git branches made easy | https://www.git-town.com |
-| **gitea** | 1.27.2 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 1.27.3 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitoxide** | 0.58.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
@@ -821,8 +821,8 @@
 | **imagemagick** | 7.1.2.30 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
 | **imagemagick-static** | 7.1.2.30 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.2.2 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
-| **imlib2** | 1.12.6-1 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
-| **imlib2-static** | 1.12.6-1 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
+| **imlib2** | 1.12.7 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
+| **imlib2-static** | 1.12.7 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
 | **immer** | 0.9.1 | Postmodern immutable and persistent data structures for C++ | https://sinusoid.es/immer |
 | **indent** | 2.2.13-1 | C language source code formatting program | https://www.gnu.org/software/indent/ |
 | **indi** | 2.2.4.2 | Astronomical instrumentation control | https://www.indilib.org |
@@ -1455,7 +1455,7 @@
 | **librtmidi** | 5.0.0-3 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-5 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
 | **librttopo-static** | 1.1.0-5 | Static libraries for librttopo | https://git.osgeo.org/gitea/rttopo/librttopo |
-| **librusty-v8** | 1:2.9.5 | High quality Rust bindings to V8's C++ API | https://deno.land/ |
+| **librusty-v8** | 1:2.9.6 | High quality Rust bindings to V8's C++ API | https://deno.land/ |
 | **libsamplerate** | 0.2.2-4 | A library for performing sample rate conversion of audio data | https://libsndfile.github.io/libsamplerate/ |
 | **libsasl** | 2.1.28-3 | Cyrus SASL - authentication abstraction library | https://www.cyrusimap.org/sasl/ |
 | **libsasl-static** | 2.1.28-3 | Static libraries for libsasl | https://www.cyrusimap.org/sasl/ |
