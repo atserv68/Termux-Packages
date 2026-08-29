@@ -331,7 +331,7 @@
   },
   {
     "Package": "appstream",
-    "Version": "1.1.6",
+    "Version": "1.2.0",
     "Description": "Provides a standard for creating app stores across distributions",
     "Homepage": "https://www.freedesktop.org/wiki/Distributions/AppStream/"
   },
@@ -2161,7 +2161,7 @@
   },
   {
     "Package": "discount",
-    "Version": "3.0.1.3",
+    "Version": "3.0.2.0",
     "Description": "Markdown implementation written in C",
     "Homepage": "https://www.pell.portland.or.us/~orc/Code/discount/"
   },
@@ -2233,9 +2233,9 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "5.0.0-1",
+    "Version": "5.0.2",
     "Description": "Infrastructure as code for DNS!",
-    "Homepage": "https://github.com/StackExchange/dnscontrol"
+    "Homepage": "https://dnscontrol.org/"
   },
   {
     "Package": "dnslookup",
@@ -4315,7 +4315,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "16.0.9",
+    "Version": "16.1.0",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -4483,7 +4483,7 @@
   },
   {
     "Package": "harper",
-    "Version": "2.8.0",
+    "Version": "2.9.1",
     "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
     "Homepage": "https://writewithharper.com/"
   },
@@ -5305,7 +5305,7 @@
   },
   {
     "Package": "keychain",
-    "Version": "3.0.3",
+    "Version": "3.0.4",
     "Description": "Keychain manager for ssh-agent and gpg-agent",
     "Homepage": "https://kernel-seeds.org/projects/keychain/"
   },
@@ -11629,7 +11629,7 @@
   },
   {
     "Package": "neocmakelsp",
-    "Version": "0.11.0",
+    "Version": "0.11.1",
     "Description": "a cmake lsp based on tower-lsp and treesitter",
     "Homepage": "https://neocmakelsp.github.io/"
   },
@@ -11653,7 +11653,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1437+g2fbc82820b-0",
+    "Version": "0.13.0~dev-1445+gaea69c660b-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
