@@ -703,7 +703,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.33",
+    "Version": "2.36.34",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1819,7 +1819,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.3.3",
+    "Version": "1:11.3.4",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3103,7 +3103,7 @@
   },
   {
     "Package": "ffmpegthumbnailer",
-    "Version": "2.3.0",
+    "Version": "2.3.1",
     "Description": "Lightweight video thumbnailer that can be used by file managers",
     "Homepage": "https://github.com/dirkvdb/ffmpegthumbnailer"
   },
@@ -8191,7 +8191,7 @@
   },
   {
     "Package": "liborc",
-    "Version": "0.4.42",
+    "Version": "0.4.43",
     "Description": "Library of Optimized Inner Loops Runtime Compiler",
     "Homepage": "https://gstreamer.freedesktop.org/projects/orc.html"
   },
@@ -10483,7 +10483,7 @@
   },
   {
     "Package": "luau",
-    "Version": "0.735",
+    "Version": "0.736",
     "Description": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
     "Homepage": "https://github.com/luau-lang/luau"
   },
@@ -10519,7 +10519,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.42.1",
+    "Version": "0.43.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10951,26 +10951,32 @@
   },
   {
     "Package": "mesa",
-    "Version": "26.0.6-2",
+    "Version": "26.0.6-3",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "26.0.6-2",
+    "Version": "26.0.6-3",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "26.0.6-2",
+    "Version": "26.0.6-3",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "26.0.6-2",
+    "Version": "26.0.6-3",
     "Description": "Mesas Swrast Vulkan ICD",
+    "Homepage": "https://www.mesa3d.org"
+  },
+  {
+    "Package": "mesa-vulkan-icd-virtio",
+    "Version": "26.0.6-3",
+    "Description": "Mesas VirtIO Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
@@ -14455,7 +14461,7 @@
   },
   {
     "Package": "sbcl",
-    "Version": "2.6.7",
+    "Version": "2.6.8",
     "Description": "A high performance Common Lisp compiler",
     "Homepage": "http://www.sbcl.org/"
   },
@@ -14683,7 +14689,7 @@
   },
   {
     "Package": "shfmt",
-    "Version": "3.13.1",
+    "Version": "3.14.0",
     "Description": "A shell parser and formatter",
     "Homepage": "https://github.com/mvdan/sh"
   },
@@ -17461,7 +17467,7 @@
   },
   {
     "Package": "zellij",
-    "Version": "0.45.0",
+    "Version": "0.45.1",
     "Description": "A terminal workspace with batteries included",
     "Homepage": "https://zellij.dev/"
   },

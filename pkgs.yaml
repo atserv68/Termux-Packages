@@ -467,7 +467,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.33
+  Version: 2.36.34
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1211,7 +1211,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.3.3
+  Version: 1:11.3.4
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -2067,7 +2067,7 @@
   Description: Tools and libraries to manipulate a wide range of multimedia formats and protocols
   Homepage: https://ffmpeg.org
 - Package: ffmpegthumbnailer
-  Version: 2.3.0
+  Version: 2.3.1
   Description: Lightweight video thumbnailer that can be used by file managers
   Homepage: https://github.com/dirkvdb/ffmpegthumbnailer
 - Package: ffsend
@@ -5459,7 +5459,7 @@
   Description: Static libraries for libopusenc
   Homepage: https://github.com/xiph/libopusenc
 - Package: liborc
-  Version: 0.4.42
+  Version: 0.4.43
   Description: Library of Optimized Inner Loops Runtime Compiler
   Homepage: https://gstreamer.freedesktop.org/projects/orc.html
 - Package: liborcus
@@ -6987,7 +6987,7 @@
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luau
-  Version: "0.735"
+  Version: "0.736"
   Description: A small, fast, and embeddable programming language based on Lua with a gradual type system.
   Homepage: https://github.com/luau-lang/luau
 - Package: lunasvg
@@ -7011,7 +7011,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.42.1
+  Version: 0.43.0
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7299,20 +7299,24 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 26.0.6-2
+  Version: 26.0.6-3
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 26.0.6-2
+  Version: 26.0.6-3
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 26.0.6-2
+  Version: 26.0.6-3
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 26.0.6-2
+  Version: 26.0.6-3
   Description: Mesas Swrast Vulkan ICD
+  Homepage: https://www.mesa3d.org
+- Package: mesa-vulkan-icd-virtio
+  Version: 26.0.6-3
+  Description: Mesas VirtIO Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
   Version: 2018.07.14-1
@@ -9635,7 +9639,7 @@
   Description: libsass command line driver
   Homepage: https://github.com/sass/sassc
 - Package: sbcl
-  Version: 2.6.7
+  Version: 2.6.8
   Description: A high performance Common Lisp compiler
   Homepage: http://www.sbcl.org/
 - Package: sc-im
@@ -9787,7 +9791,7 @@
   Description: Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator
   Homepage: https://github.com/shellinabox/shellinabox
 - Package: shfmt
-  Version: 3.13.1
+  Version: 3.14.0
   Description: A shell parser and formatter
   Homepage: https://github.com/mvdan/sh
 - Package: shiori
@@ -11639,7 +11643,7 @@
   Description: Static libraries for zbar
   Homepage: https://github.com/mchehab/zbar
 - Package: zellij
-  Version: 0.45.0
+  Version: 0.45.1
   Description: A terminal workspace with batteries included
   Homepage: https://zellij.dev/
 - Package: zeronet

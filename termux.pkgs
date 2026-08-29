@@ -115,7 +115,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.36.33 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.36.34 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.7 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -301,7 +301,7 @@
 | **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:11.3.3 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:11.3.4 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -515,7 +515,7 @@
 | **fetchmailconf** | 6.6.6-1 | A GUI configurator for generating fetchmail configuration files | https://www.fetchmail.info/ |
 | **fff** | 2.2 | A simple file manager written in bash | https://github.com/dylanaraps/fff |
 | **ffmpeg** | 8.1.2-5 | Tools and libraries to manipulate a wide range of multimedia formats and protocols | https://ffmpeg.org |
-| **ffmpegthumbnailer** | 2.3.0 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
+| **ffmpegthumbnailer** | 2.3.1 | Lightweight video thumbnailer that can be used by file managers | https://github.com/dirkvdb/ffmpegthumbnailer |
 | **ffsend** | 0.2.77-2 | A fully featured Firefox Send client | https://gitlab.com/timvisee/ffsend |
 | **fftw** | 3.3.11 | Library for computing the Discrete Fourier Transform (DFT) in one or more dimensions | http://www.fftw.org/ |
 | **fftw-static** | 3.3.11 | Static libraries for fftw | http://www.fftw.org/ |
@@ -1363,7 +1363,7 @@
 | **libopus-static** | 1.6.1 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-4 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
 | **libopusenc-static** | 0.2.1-4 | Static libraries for libopusenc | https://github.com/xiph/libopusenc |
-| **liborc** | 0.4.42 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
+| **liborc** | 0.4.43 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
 | **liborcus** | 0.21.0-2 | File import filter library for spreadsheet documents. | https://gitlab.com/orcus/orcus/ |
 | **liborcus-static** | 0.21.0-2 | Static libraries for liborcus | https://gitlab.com/orcus/orcus/ |
 | **libosmium** | 2.23.1-1 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
@@ -1745,13 +1745,13 @@
 | **luajit-lgi** | 0.9.2+p20251219-3 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **luajit-static** | 1:2.1.1787165859+g1ee778a | Static libraries for luajit | https://luajit.org/ |
 | **luarocks** | 3.13.0-1 | Deployment and management system for Lua modules | https://luarocks.org/ |
-| **luau** | 0.735 | A small, fast, and embeddable programming language based on Lua with a gradual type system. | https://github.com/luau-lang/luau |
+| **luau** | 0.736 | A small, fast, and embeddable programming language based on Lua with a gradual type system. | https://github.com/luau-lang/luau |
 | **lunasvg** | 3.5.0-1 | SVG rendering and manipulation library in C++ | https://github.com/sammycage/lunasvg |
 | **luv** | 1.52.1-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.42.1 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.43.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1823,10 +1823,11 @@
 | **memcached** | 1.6.45 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.8-1 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.8-1 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 26.0.6-2 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 26.0.6-2 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-opencl-icd-rusticl** | 26.0.6-2 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 26.0.6-2 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 26.0.6-3 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 26.0.6-3 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-opencl-icd-rusticl** | 26.0.6-3 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 26.0.6-3 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-virtio** | 26.0.6-3 | Mesa's VirtIO Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14-1 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20260719 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.15-2 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -2407,7 +2408,7 @@
 | **samefile** | 2.15-6 | Finds files with identical contents, independent of file name | http://www.schweikhardt.net/samefile/ |
 | **samurai** | 1.3 | ninja-compatible build tool written in C | https://github.com/michaelforney/samurai |
 | **sassc** | 3.6.2-1 | libsass command line driver | https://github.com/sass/sassc |
-| **sbcl** | 2.6.7 | A high performance Common Lisp compiler | http://www.sbcl.org/ |
+| **sbcl** | 2.6.8 | A high performance Common Lisp compiler | http://www.sbcl.org/ |
 | **sc-im** | 0.8.5-4 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.8.4 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 4.0.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
@@ -2445,7 +2446,7 @@
 | **shellcheck** | 0.11.0-3 | Shell script analysis tool | https://www.shellcheck.net/ |
 | **shellharden** | 4.3.2 | The corrective bash syntax highlighter | https://github.com/anordal/shellharden |
 | **shellinabox** | 2.21-1 | Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator | https://github.com/shellinabox/shellinabox |
-| **shfmt** | 3.13.1 | A shell parser and formatter | https://github.com/mvdan/sh |
+| **shfmt** | 3.14.0 | A shell parser and formatter | https://github.com/mvdan/sh |
 | **shiori** | 1.8.0 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10-1 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
@@ -2908,7 +2909,7 @@
 | **z3** | 5.1.0 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
 | **zbar** | 0.23.93-2 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
 | **zbar-static** | 0.23.93-2 | Static libraries for zbar | https://github.com/mchehab/zbar |
-| **zellij** | 0.45.0 | A terminal workspace with batteries included | https://zellij.dev/ |
+| **zellij** | 0.45.1 | A terminal workspace with batteries included | https://zellij.dev/ |
 | **zeronet** | 0.7.1-9 | Decentralized websites using Bitcoin crypto and BitTorrent network | https://zeronet.io/ |
 | **zig** | 0.16.0 | General-purpose programming language and toolchain | https://ziglang.org |
 | **zile** | 2.6.4-3 | Lightweight clone of the Emacs text editor | https://www.gnu.org/software/zile/ |
