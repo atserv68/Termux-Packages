@@ -1015,7 +1015,7 @@
   },
   {
     "Package": "boxes",
-    "Version": "2.3.1-1",
+    "Version": "2.3.2",
     "Description": "A command line filter program which draws ASCII art boxes around your input text",
     "Homepage": "https://boxes.thomasjensen.com/"
   },
@@ -3652,6 +3652,12 @@
     "Version": "10.07.1-1",
     "Description": "Interpreter for the PostScript language and for PDF",
     "Homepage": "https://www.ghostscript.com/"
+  },
+  {
+    "Package": "ghq",
+    "Version": "1.10.1",
+    "Description": "Manage remote repository clones, like go get does",
+    "Homepage": "https://github.com/x-motemen/ghq"
   },
   {
     "Package": "giflib",
@@ -9379,7 +9385,7 @@
   },
   {
     "Package": "libunibilium",
-    "Version": "2.1.2-2",
+    "Version": "2.1.4",
     "Description": "Terminfo parsing library",
     "Homepage": "https://github.com/neovim/unibilium"
   },
@@ -11419,7 +11425,7 @@
   },
   {
     "Package": "mutt",
-    "Version": "2.4.1",
+    "Version": "2.4.2",
     "Description": "Mail client with patches from neomutt",
     "Homepage": "http://www.mutt.org/"
   },
@@ -11989,7 +11995,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "30.9.0",
+    "Version": "31.0.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12037,7 +12043,7 @@
   },
   {
     "Package": "onefetch",
-    "Version": "2.27.1",
+    "Version": "2.28.1",
     "Description": "A command-line Git information tool written in Rust",
     "Homepage": "https://onefetch.dev/"
   },
@@ -14761,7 +14767,7 @@
   },
   {
     "Package": "sing-box",
-    "Version": "1.13.20",
+    "Version": "1.13.21",
     "Description": "The universal proxy platform",
     "Homepage": "https://sing-box.sagernet.org"
   },
@@ -15373,7 +15379,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "10.1.13",
+    "Version": "10.1.14",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },

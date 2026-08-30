@@ -675,7 +675,7 @@
   Description: Static libraries for botan3
   Homepage: https://botan.randombit.net/
 - Package: boxes
-  Version: 2.3.1-1
+  Version: 2.3.2
   Description: A command line filter program which draws ASCII art boxes around your input text
   Homepage: https://boxes.thomasjensen.com/
 - Package: brainfuck
@@ -2434,6 +2434,10 @@
   Version: 10.07.1-1
   Description: Interpreter for the PostScript language and for PDF
   Homepage: https://www.ghostscript.com/
+- Package: ghq
+  Version: 1.10.1
+  Description: Manage remote repository clones, like go get does
+  Homepage: https://github.com/x-motemen/ghq
 - Package: giflib
   Version: 5.2.2-2
   Description: A library for reading and writing gif images
@@ -6251,7 +6255,7 @@
   Description: Static libraries for libunbound
   Homepage: https://unbound.net/
 - Package: libunibilium
-  Version: 2.1.2-2
+  Version: 2.1.4
   Description: Terminfo parsing library
   Homepage: https://github.com/neovim/unibilium
 - Package: libunibreak
@@ -7611,7 +7615,7 @@
   Description: Organizer of audio files into directories based on metadata tags
   Homepage: https://git.zx2c4.com/music-file-organizer/about/
 - Package: mutt
-  Version: 2.4.1
+  Version: 2.4.2
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: myman
@@ -7991,7 +7995,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 30.9.0
+  Version: 31.0.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8023,7 +8027,7 @@
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
-  Version: 2.27.1
+  Version: 2.28.1
   Description: A command-line Git information tool written in Rust
   Homepage: https://onefetch.dev/
 - Package: onigmo
@@ -9839,7 +9843,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.13.20
+  Version: 1.13.21
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skate
@@ -10247,7 +10251,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 10.1.13
+  Version: 10.1.14
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift
