@@ -875,7 +875,7 @@
   Description: A Boulder Dash like game for consoles/terminals
   Homepage: https://github.com/AMDmi3/cavezofphear
 - Package: cavif
-  Version: 1.6.0
+  Version: 1.8.0
   Description: AVIF image creator in pure Rust
   Homepage: https://lib.rs/cavif
 - Package: cboard
@@ -963,7 +963,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.72.0
+  Version: 2.72.1
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -1471,7 +1471,7 @@
   Description: A command line interface for libdmtx
   Homepage: https://github.com/dmtx/dmtx-utils
 - Package: dnglab
-  Version: 0.7.2
+  Version: 0.8.0
   Description: Camera RAW to DNG file format converter
   Homepage: https://github.com/dnglab/dnglab
 - Package: dnote
@@ -1735,7 +1735,7 @@
   Description: A small, configurable console text editor
   Homepage: https://craigbarnes.gitlab.io/dte/
 - Package: dua
-  Version: 2.43.1
+  Version: 2.44.0
   Description: View disk space usage and delete unwanted data, fast
   Homepage: https://github.com/Byron/dua-cli
 - Package: duc
@@ -3071,7 +3071,7 @@
   Description: Robust, friendly, fast plain text accounting software. (CLI only)
   Homepage: https://hledger.org/
 - Package: hledger-ui
-  Version: 1.52.1-2
+  Version: 1.52.3
   Description: hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.
   Homepage: https://hledger.org/
 - Package: hnterm
@@ -3363,7 +3363,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2451
+  Version: 0.24.2492
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7075,7 +7075,7 @@
   Description: Mailutils is a swiss army knife of electronic mail handling.
   Homepage: https://mailutils.org/
 - Package: maintainerr
-  Version: 3.25.0
+  Version: 3.26.0
   Description: An automation rule engine for your media server
   Homepage: https://github.com/maintainerr/Maintainerr
 - Package: make
@@ -7295,11 +7295,11 @@
   Description: Free & open source, high-performance, distributed memory object caching system
   Homepage: https://memcached.org/
 - Package: mercury
-  Version: 22.01.8-1
+  Version: 22.01.9
   Description: A logic/functional programming language
   Homepage: https://www.mercurylang.org/
 - Package: mercury-static
-  Version: 22.01.8-1
+  Version: 22.01.9
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
@@ -8295,7 +8295,7 @@
   Description: Command-line version of the 7zip compressed file archiver
   Homepage: https://github.com/p7zip-project/p7zip
 - Package: pacman
-  Version: 7.1.0-6
+  Version: 7.1.0-7
   Description: A library-based package manager with dependency support
   Homepage: https://archlinux.org/pacman/
 - Package: pacman4console
@@ -8891,7 +8891,7 @@
   Description: lossless compression algorithm and format (Python bindings)
   Homepage: https://github.com/google/brotli
 - Package: python-cmake
-  Version: 4.4.0
+  Version: 4.4.3
   Description: Python wrapper for CMake
   Homepage: https://cmake-python-distributions.readthedocs.io/
 - Package: python-contourpy
@@ -10523,7 +10523,7 @@
   Description: Wrapper around texlives install-tl script
   Homepage: https://www.tug.org/texlive/
 - Package: tgpt
-  Version: 2.11.1
+  Version: 2.13.0
   Description: AI Chatbots in terminal without needing API keys
   Homepage: https://github.com/aandrew-me/tgpt
 - Package: thrift
@@ -10919,7 +10919,7 @@
   Description: A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.
   Homepage: https://indigo-dc.github.io/udocker
 - Package: uftrace
-  Version: 0.19-3
+  Version: "0.20"
   Description: Function (graph) tracer for user-space
   Homepage: https://uftrace.github.io/slide
 - Package: ugrep

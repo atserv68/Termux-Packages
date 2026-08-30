@@ -1315,7 +1315,7 @@
   },
   {
     "Package": "cavif",
-    "Version": "1.6.0",
+    "Version": "1.8.0",
     "Description": "AVIF image creator in pure Rust",
     "Homepage": "https://lib.rs/cavif"
   },
@@ -1447,7 +1447,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.72.0",
+    "Version": "2.72.1",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -2209,7 +2209,7 @@
   },
   {
     "Package": "dnglab",
-    "Version": "0.7.2",
+    "Version": "0.8.0",
     "Description": "Camera RAW to DNG file format converter",
     "Homepage": "https://github.com/dnglab/dnglab"
   },
@@ -2605,7 +2605,7 @@
   },
   {
     "Package": "dua",
-    "Version": "2.43.1",
+    "Version": "2.44.0",
     "Description": "View disk space usage and delete unwanted data, fast",
     "Homepage": "https://github.com/Byron/dua-cli"
   },
@@ -4609,7 +4609,7 @@
   },
   {
     "Package": "hledger-ui",
-    "Version": "1.52.1-2",
+    "Version": "1.52.3",
     "Description": "hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.",
     "Homepage": "https://hledger.org/"
   },
@@ -5047,7 +5047,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2451",
+    "Version": "0.24.2492",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -10615,7 +10615,7 @@
   },
   {
     "Package": "maintainerr",
-    "Version": "3.25.0",
+    "Version": "3.26.0",
     "Description": "An automation rule engine for your media server",
     "Homepage": "https://github.com/maintainerr/Maintainerr"
   },
@@ -10945,13 +10945,13 @@
   },
   {
     "Package": "mercury",
-    "Version": "22.01.8-1",
+    "Version": "22.01.9",
     "Description": "A logic/functional programming language",
     "Homepage": "https://www.mercurylang.org/"
   },
   {
     "Package": "mercury-static",
-    "Version": "22.01.8-1",
+    "Version": "22.01.9",
     "Description": "Static libraries for mercury",
     "Homepage": "https://www.mercurylang.org/"
   },
@@ -12445,7 +12445,7 @@
   },
   {
     "Package": "pacman",
-    "Version": "7.1.0-6",
+    "Version": "7.1.0-7",
     "Description": "A library-based package manager with dependency support",
     "Homepage": "https://archlinux.org/pacman/"
   },
@@ -13339,7 +13339,7 @@
   },
   {
     "Package": "python-cmake",
-    "Version": "4.4.0",
+    "Version": "4.4.3",
     "Description": "Python wrapper for CMake",
     "Homepage": "https://cmake-python-distributions.readthedocs.io/"
   },
@@ -15787,7 +15787,7 @@
   },
   {
     "Package": "tgpt",
-    "Version": "2.11.1",
+    "Version": "2.13.0",
     "Description": "AI Chatbots in terminal without needing API keys",
     "Homepage": "https://github.com/aandrew-me/tgpt"
   },
@@ -16381,7 +16381,7 @@
   },
   {
     "Package": "uftrace",
-    "Version": "0.19-3",
+    "Version": "0.20",
     "Description": "Function (graph) tracer for user-space",
     "Homepage": "https://uftrace.github.io/slide"
   },

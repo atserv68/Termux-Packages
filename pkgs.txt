@@ -217,7 +217,7 @@
  catimg  2.8.0  Renders images in the terminal  https://posva.net/shell/retro/bash/2013/05/27/catimg 
  cava  1.0.0  Console-based Audio Visualizer. Works with MPD and Pulseaudio  https://github.com/karlstav/cava 
  cavez-of-phear  0.6.2  A Boulder Dash like game for consoles/terminals  https://github.com/AMDmi3/cavezofphear 
- cavif  1.6.0  AVIF image creator in pure Rust  https://lib.rs/cavif 
+ cavif  1.8.0  AVIF image creator in pure Rust  https://lib.rs/cavif 
  cboard  0.7.5-5  PGN browser, editor and chess engine frontend  https://benkibbey.wordpress.com/cboard/ 
  cbonsai  1.4.2-1  Grow bonsai trees in your terminal  https://gitlab.com/jallbrit/cbonsai 
  cc65  2.19-1  A free compiler for 6502 based system  https://cc65.github.io/ 
@@ -239,7 +239,7 @@
  chafa-static  1.18.2-1  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-3  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-3  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.72.0  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.72.1  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  5.4.0-2  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  5.4.0-2  Static libraries for chicken  https://www.call-cc.org 
  chntpw  140201  Offline Windows NT Password & Registry Editor  https://pogostick.net/~pnh/ntpasswd/ 
@@ -366,7 +366,7 @@
  djvulibre-static  3.5.30  Static libraries for djvulibre  https://djvu.sourceforge.net/ 
  dmagnetic  0.37-1  Interpreter for classic text adventure games and interactive fiction  https://dettus.net/dMagnetic 
  dmtx-utils  0.7.6-2  A command line interface for libdmtx  https://github.com/dmtx/dmtx-utils 
- dnglab  0.7.2  Camera RAW to DNG file format converter  https://github.com/dnglab/dnglab 
+ dnglab  0.8.0  Camera RAW to DNG file format converter  https://github.com/dnglab/dnglab 
  dnote  1:0.16.0  A simple command line notebook for programmers  https://www.getdnote.com/ 
  dnote-server  3.0.0  This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs.  https://www.getdnote.com/ 
  dns2tcp  0.5.2-2  dns2tcp is a tool for relaying TCP connections over DNS  https://github.com/alex-sector/dns2tcp 
@@ -432,7 +432,7 @@
  dtc  1.8.1  Device Tree Compiler  https://git.kernel.org/pub/scm/utils/dtc/dtc 
  dtc-static  1.8.1  Static libraries for dtc  https://git.kernel.org/pub/scm/utils/dtc/dtc 
  dte  1.11.1-2  A small, configurable console text editor  https://craigbarnes.gitlab.io/dte/ 
- dua  2.43.1  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
+ dua  2.44.0  View disk space usage and delete unwanted data, fast  https://github.com/Byron/dua-cli 
  duc  1.4.6  High-performance disk usage analyzer  http://duc.zevv.nl/ 
  duckdb  1.5.5  DuckDB Command Line Interface (CLI) shell  https://duckdb.org/ 
  duf  0.9.1  Disk usage/free utility  https://github.com/muesli/duf 
@@ -766,7 +766,7 @@
  hidapi  0.14.0-1  Simple cross-platform library for communicating with HID devices  https://libusb.info/hidapi 
  hilbish  1:2.3.4-1  The Moon-powered shell! A comfy and extensible shell for Lua fans!  https://rosettea.github.io/Hilbish/ 
  hledger  1.52.2  Robust, friendly, fast plain text accounting software. (CLI only)  https://hledger.org/ 
- hledger-ui  1.52.1-2  hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.  https://hledger.org/ 
+ hledger-ui  1.52.3  hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.  https://hledger.org/ 
  hnterm  1.0.5-2  A simple tool to browse Hacker News in the terminal  https://github.com/ggerganov/imtui 
  hollywood  1.22-1  Fill your console with Hollywood melodrama technobabble  https://launchpad.net/hollywood 
  hors  0.8.2-3  Instant coding answers via the command line (howdoi in rust)  https://github.com/WindSoilder/hors 
@@ -839,7 +839,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.2451  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.2492  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.5  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.5  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.41.2  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1767,7 +1767,7 @@
  magic-wormhole-rs  0.7.6-1  Rust implementation of Magic Wormhole, with new features and enhancements  https://github.com/magic-wormhole/magic-wormhole.rs 
  mailsync  5.2.7-2  A way of synchronizing a collection of mailboxes  https://mailsync.sourceforge.net/ 
  mailutils  3.21  Mailutils is a swiss army knife of electronic mail handling.   https://mailutils.org/ 
- maintainerr  3.25.0  An automation rule engine for your media server  https://github.com/maintainerr/Maintainerr 
+ maintainerr  3.26.0  An automation rule engine for your media server  https://github.com/maintainerr/Maintainerr 
  make  4.4.1-1  Tool to control the generation of non-source files from source files  https://www.gnu.org/software/make/ 
  make-guile  4.4.1-2  Tool to control the generation of non-source files from source files  https://www.gnu.org/software/make/ 
  mandoc  1.14.6-6  Man page viewer from the mandoc toolset  https://mdocml.bsd.lv/ 
@@ -1822,8 +1822,8 @@
  megacmd  2.5.2  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.5.20250706-1  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://xff.cz/megatools/ 
  memcached  1.6.45  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
- mercury  22.01.8-1  A logic/functional programming language  https://www.mercurylang.org/ 
- mercury-static  22.01.8-1  Static libraries for mercury  https://www.mercurylang.org/ 
+ mercury  22.01.9  A logic/functional programming language  https://www.mercurylang.org/ 
+ mercury-static  22.01.9  Static libraries for mercury  https://www.mercurylang.org/ 
  mesa  26.0.6-3  An open-source implementation of the OpenGL specification  https://www.mesa3d.org 
  mesa-dev  26.0.6-3  Mesa's OpenGL headers  https://www.mesa3d.org 
  mesa-opencl-icd-rusticl  26.0.6-3  Mesa's Rusticl OpenCL ICD  https://www.mesa3d.org 
@@ -2072,7 +2072,7 @@
  oxlint  1.80.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.26.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06-1  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
- pacman  7.1.0-6  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
+ pacman  7.1.0-7  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
  pacman4console  1.3-6  A 9 level ncurses pacman game with editor  https://sites.google.com/site/doctormike/pacman.html 
  panda3d  1.10.16-1  A framework for 3D rendering and game development for Python and C++ programs  https://www.panda3d.org/ 
  panda3d-samples  1.10.16-1  Python sample programs that use Panda3D  https://www.panda3d.org/ 
@@ -2221,7 +2221,7 @@
  python-apt  3.1.0-2  Python bindings for APT  https://apt-team.pages.debian.net/python-apt/ 
  python-bcrypt  5.0.0-3  Acceptable password hashing for your software and your servers  https://github.com/pyca/bcrypt 
  python-brotli  1.2.0-2  lossless compression algorithm and format (Python bindings)  https://github.com/google/brotli 
- python-cmake  4.4.0  Python wrapper for CMake  https://cmake-python-distributions.readthedocs.io/ 
+ python-cmake  4.4.3  Python wrapper for CMake  https://cmake-python-distributions.readthedocs.io/ 
  python-contourpy  1.3.3-5  Python library for calculating contours in 2D quadrilateral grids  https://contourpy.readthedocs.io/ 
  python-cryptography  50.0.1  Provides cryptographic recipes and primitives to Python developers  https://github.com/pyca/cryptography 
  python-ctranslate2  4.8.1-1  Python bindings for CTranslate2  https://github.com/OpenNMT/CTranslate2 
@@ -2629,7 +2629,7 @@
  texlive-bin  1:2026.0  TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.  https://www.tug.org/texlive/ 
  texlive-bin-static  1:2026.0  Static libraries for texlive-bin  https://www.tug.org/texlive/ 
  texlive-installer  20260301  Wrapper around texlive's install-tl script  https://www.tug.org/texlive/ 
- tgpt  2.11.1  AI Chatbots in terminal without needing API keys  https://github.com/aandrew-me/tgpt 
+ tgpt  2.13.0  AI Chatbots in terminal without needing API keys  https://github.com/aandrew-me/tgpt 
  thrift  0.24.0-1  Scalable cross-language services framework for IPC/RPC  https://thrift.apache.org 
  tidy  5.9.14-next-3  A tool to tidy down your HTML code to a clean style  http://www.html-tidy.org/ 
  tidy-static  5.9.14-next-3  Static libraries for tidy  http://www.html-tidy.org/ 
@@ -2728,7 +2728,7 @@
  uchardet  0.0.8-2  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 
  udftools  2.3-1  Linux tools for UDF filesystems and DVD/CD-R(W) drives  https://github.com/pali/udftools 
  udocker  1.3.17-5  A basic user tool to execute simple docker containers in batch or interactive systems without root privileges.  https://indigo-dc.github.io/udocker 
- uftrace  0.19-3  Function (graph) tracer for user-space  https://uftrace.github.io/slide 
+ uftrace  0.20  Function (graph) tracer for user-space  https://uftrace.github.io/slide 
  ugrep  7.8.4  A faster, user-friendly and compatible grep replacement  https://github.com/Genivia/ugrep 
  unar  1.10.8-3  Command line tools for archive and file unarchiving and extraction  https://theunarchiver.com/command-line 
  unbound  1.26.0  Unbound command-line tools  https://unbound.net/ 
