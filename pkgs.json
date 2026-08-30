@@ -1705,7 +1705,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.5.0-8",
+    "Version": "3.5.0-9",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -13963,7 +13963,7 @@
   },
   {
     "Package": "re2c",
-    "Version": "4.5.1",
+    "Version": "4.6",
     "Description": "Lexer generator for C, C++ and Go.",
     "Homepage": "https://re2c.org/"
   },
@@ -14689,7 +14689,7 @@
   },
   {
     "Package": "shfmt",
-    "Version": "3.14.0",
+    "Version": "3.14.0-1",
     "Description": "A shell parser and formatter",
     "Homepage": "https://github.com/mvdan/sh"
   },
@@ -16735,7 +16735,7 @@
   },
   {
     "Package": "virglrenderer-android",
-    "Version": "1.3.0",
+    "Version": "1.3.0-1",
     "Description": "A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android",
     "Homepage": "https://virgil3d.github.io/"
   },
@@ -16885,7 +16885,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.25.0",
+    "Version": "2.26.0",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
