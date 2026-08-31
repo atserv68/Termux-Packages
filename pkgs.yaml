@@ -151,7 +151,7 @@
   Description: Android platform tools
   Homepage: https://developer.android.com/
 - Package: anewer
-  Version: 0.2.1
+  Version: 0.2.2
   Description: Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq)
   Homepage: https://github.com/ysf/anewer
 - Package: angband
@@ -1255,7 +1255,7 @@
   Description: 'Universal ctags: Source code index builder'
   Homepage: https://ctags.io/
 - Package: ctranslate2
-  Version: 4.8.1-1
+  Version: 4.8.2
   Description: A fast inference engine for Transformer models
   Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: ctre
@@ -3631,7 +3631,7 @@
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: lego
-  Version: 5.4.0
+  Version: 5.4.1
   Description: Lets Encrypt/ACME client and library written in Go
   Homepage: https://github.com/go-acme/lego
 - Package: leptonica
@@ -4387,11 +4387,11 @@
   Description: Static libraries for libexif
   Homepage: https://libexif.github.io/
 - Package: libexpat
-  Version: 2.8.3
+  Version: 2.8.4
   Description: XML parsing C library
   Homepage: https://libexpat.github.io/
 - Package: libexpat-static
-  Version: 2.8.3
+  Version: 2.8.4
   Description: Static libraries for libexpat
   Homepage: https://libexpat.github.io/
 - Package: libexttextcat
@@ -7399,7 +7399,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.8.15
+  Version: 2026.8.16
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7995,7 +7995,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 31.1.0
+  Version: 31.1.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8903,7 +8903,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ctranslate2
-  Version: 4.8.1-1
+  Version: 4.8.2
   Description: Python bindings for CTranslate2
   Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: python-ensurepip-wheels
@@ -10895,7 +10895,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.75
+  Version: 0.0.76
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
