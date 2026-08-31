@@ -1047,7 +1047,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2026.8.2
+  Version: 2026.8.3
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -3907,7 +3907,7 @@
   Description: Static libraries for libblosc
   Homepage: https://www.blosc.org
 - Package: libblosc2
-  Version: 3.3.2
+  Version: 3.3.3
   Description: A blocking, shuffling and loss-less compression library
   Homepage: https://www.blosc.org
 - Package: libbluray
@@ -7391,11 +7391,11 @@
   Description: Single C source file zlib-replacement library
   Homepage: https://github.com/richgel999/miniz
 - Package: minizinc
-  Version: 2.10.0
+  Version: 2.10.1
   Description: A medium-level constraint modelling language
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: minizinc-static
-  Version: 2.10.0
+  Version: 2.10.1
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
@@ -10471,7 +10471,7 @@
   Description: A graphical package manager for various package formats for Termux and proot-distro distros
   Homepage: https://github.com/tareksander/termux-gui-pm
 - Package: termux-keyring
-  Version: "3.13"
+  Version: "3.14"
   Description: GPG public keys for the official Termux repositories
   Homepage: https://github.com/termux
 - Package: termux-licenses

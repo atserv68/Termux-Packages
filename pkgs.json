@@ -1573,7 +1573,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.8.2",
+    "Version": "2026.8.3",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -5863,7 +5863,7 @@
   },
   {
     "Package": "libblosc2",
-    "Version": "3.3.2",
+    "Version": "3.3.3",
     "Description": "A blocking, shuffling and loss-less compression library",
     "Homepage": "https://www.blosc.org"
   },
@@ -11089,13 +11089,13 @@
   },
   {
     "Package": "minizinc",
-    "Version": "2.10.0",
+    "Version": "2.10.1",
     "Description": "A medium-level constraint modelling language",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
   {
     "Package": "minizinc-static",
-    "Version": "2.10.0",
+    "Version": "2.10.1",
     "Description": "Static libraries for minizinc",
     "Homepage": "https://github.com/MiniZinc/libminizinc"
   },
@@ -15709,7 +15709,7 @@
   },
   {
     "Package": "termux-keyring",
-    "Version": "3.13",
+    "Version": "3.14",
     "Description": "GPG public keys for the official Termux repositories",
     "Homepage": "https://github.com/termux"
   },
