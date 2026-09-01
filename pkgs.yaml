@@ -3062,6 +3062,10 @@
   Version: 0.14.0-1
   Description: Simple cross-platform library for communicating with HID devices
   Homepage: https://libusb.info/hidapi
+- Package: highway
+  Version: 1.4.0
+  Description: Performance-portable, length-agnostic SIMD with runtime dispatch
+  Homepage: https://github.com/google/highway
 - Package: hilbish
   Version: 1:2.3.4-1
   Description: The Moon-powered shell! A comfy and extensible shell for Lua fans!
@@ -3330,6 +3334,10 @@
   Version: 0.6-3
   Description: Minimalist hexadecimal editor
   Homepage: https://github.com/radare/ired
+- Package: iredis
+  Version: 1.16.1
+  Description: Interactive CLI for Redis with auto-completion and syntax highlighting
+  Homepage: https://iredis.xbin.io
 - Package: irssi
   Version: 1.4.5-5
   Description: Terminal based IRC client
@@ -3779,7 +3787,7 @@
   Description: Static libraries for libandroid-spawn
   Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
 - Package: libandroid-stub
-  Version: 29-2
+  Version: 29-3
   Description: Stub libandroid.so for non-Android certified environment
   Homepage: https://android.googlesource.com/platform/frameworks/base/+/main/native/android
 - Package: libandroid-support
@@ -4859,11 +4867,11 @@
   Description: Static libraries for libjpeg-turbo
   Homepage: https://libjpeg-turbo.virtualgl.org
 - Package: libjxl
-  Version: 0.12.0
+  Version: 0.12.0-1
   Description: JPEG XL image format reference implementation
   Homepage: https://jpegxl.info/
 - Package: libjxl-progs
-  Version: 0.12.0
+  Version: 0.12.0-1
   Description: Programs for manipulating JPEG XL files
   Homepage: https://jpegxl.info/
 - Package: libkeyfinder
@@ -6343,7 +6351,7 @@
   Description: Computer vision library
   Homepage: https://ukoethe.github.io/vigra/
 - Package: libvips
-  Version: 8.18.6
+  Version: 8.18.6-1
   Description: A fast image processing library with low memory needs
   Homepage: https://libvips.github.io/libvips/
 - Package: libvisio
@@ -6774,6 +6782,10 @@
   Version: 3.8.5-3
   Description: Toolkit for developing, sharing, and running luvit/lua programs and libraries.
   Homepage: https://luvit.io
+- Package: litecli
+  Version: 1.17.1
+  Description: CLI for SQLite databases with auto-completion and syntax highlighting
+  Homepage: https://litecli.com
 - Package: litespeedtest
   Version: 0.15.0-3
   Description: A simple tool for batch test ss/ssr/v2ray/trojan servers
@@ -7438,6 +7450,10 @@
   Version: 11.55.5-1
   Description: A high-performance database kernel for query-intensive applications
   Homepage: https://www.monetdb.org/
+- Package: mongosh
+  Version: 2.10.0
+  Description: The MongoDB Shell
+  Homepage: https://github.com/mongodb-js/mongosh
 - Package: monit
   Version: 6.0.0
   Description: Utility for managing and monitoring processes, programs, files, directories and filesystems
@@ -7618,6 +7634,10 @@
   Version: 2.4.2
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
+- Package: mycli
+  Version: 2.18.5
+  Description: CLI for MySQL/MariaDB with auto-completion and syntax highlighting
+  Homepage: https://mycli.net
 - Package: myman
   Version: 0.7.1-6
   Description: Video game for color and monochrome text terminals in the genre of Namcos Pac-Man
@@ -7771,7 +7791,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1464+g57d97e513d-0
+  Version: 0.13.0~dev-1471+gca992e82d4-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8331,7 +8351,7 @@
   Description: par2cmdline is a PAR 2.0 compatible file verification and repair tool
   Homepage: https://github.com/Parchive/par2cmdline
 - Package: parallel
-  Version: "20260622"
+  Version: "20260822"
   Description: GNU Parallel is a shell tool for executing jobs in parallel using one or more machines
   Homepage: https://www.gnu.org/software/parallel/
 - Package: pari

@@ -4596,6 +4596,12 @@
     "Homepage": "https://libusb.info/hidapi"
   },
   {
+    "Package": "highway",
+    "Version": "1.4.0",
+    "Description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
+    "Homepage": "https://github.com/google/highway"
+  },
+  {
     "Package": "hilbish",
     "Version": "1:2.3.4-1",
     "Description": "The Moon-powered shell! A comfy and extensible shell for Lua fans!",
@@ -4996,6 +5002,12 @@
     "Version": "0.6-3",
     "Description": "Minimalist hexadecimal editor",
     "Homepage": "https://github.com/radare/ired"
+  },
+  {
+    "Package": "iredis",
+    "Version": "1.16.1",
+    "Description": "Interactive CLI for Redis with auto-completion and syntax highlighting",
+    "Homepage": "https://iredis.xbin.io"
   },
   {
     "Package": "irssi",
@@ -5671,7 +5683,7 @@
   },
   {
     "Package": "libandroid-stub",
-    "Version": "29-2",
+    "Version": "29-3",
     "Description": "Stub libandroid.so for non-Android certified environment",
     "Homepage": "https://android.googlesource.com/platform/frameworks/base/+/main/native/android"
   },
@@ -7291,13 +7303,13 @@
   },
   {
     "Package": "libjxl",
-    "Version": "0.12.0",
+    "Version": "0.12.0-1",
     "Description": "JPEG XL image format reference implementation",
     "Homepage": "https://jpegxl.info/"
   },
   {
     "Package": "libjxl-progs",
-    "Version": "0.12.0",
+    "Version": "0.12.0-1",
     "Description": "Programs for manipulating JPEG XL files",
     "Homepage": "https://jpegxl.info/"
   },
@@ -9517,7 +9529,7 @@
   },
   {
     "Package": "libvips",
-    "Version": "8.18.6",
+    "Version": "8.18.6-1",
     "Description": "A fast image processing library with low memory needs",
     "Homepage": "https://libvips.github.io/libvips/"
   },
@@ -10162,6 +10174,12 @@
     "Version": "3.8.5-3",
     "Description": "Toolkit for developing, sharing, and running luvit/lua programs and libraries.",
     "Homepage": "https://luvit.io"
+  },
+  {
+    "Package": "litecli",
+    "Version": "1.17.1",
+    "Description": "CLI for SQLite databases with auto-completion and syntax highlighting",
+    "Homepage": "https://litecli.com"
   },
   {
     "Package": "litespeedtest",
@@ -11160,6 +11178,12 @@
     "Homepage": "https://www.monetdb.org/"
   },
   {
+    "Package": "mongosh",
+    "Version": "2.10.0",
+    "Description": "The MongoDB Shell",
+    "Homepage": "https://github.com/mongodb-js/mongosh"
+  },
+  {
     "Package": "monit",
     "Version": "6.0.0",
     "Description": "Utility for managing and monitoring processes, programs, files, directories and filesystems",
@@ -11430,6 +11454,12 @@
     "Homepage": "http://www.mutt.org/"
   },
   {
+    "Package": "mycli",
+    "Version": "2.18.5",
+    "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
+    "Homepage": "https://mycli.net"
+  },
+  {
     "Package": "myman",
     "Version": "0.7.1-6",
     "Description": "Video game for color and monochrome text terminals in the genre of Namcos Pac-Man",
@@ -11659,7 +11689,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1464+g57d97e513d-0",
+    "Version": "0.13.0~dev-1471+gca992e82d4-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12499,7 +12529,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20260622",
+    "Version": "20260822",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },

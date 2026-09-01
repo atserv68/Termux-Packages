@@ -764,6 +764,7 @@
 | **heyu** | 1:2.10.3-2 | Program for remotely controlling lights and appliances | https://www.heyu.org/ |
 | **hfsutils** | 3.2.6-2 | Tool for manipulating HFS images | https://www.mars.org/home/rob/proj/hfs/ |
 | **hidapi** | 0.14.0-1 | Simple cross-platform library for communicating with HID devices | https://libusb.info/hidapi |
+| **highway** | 1.4.0 | Performance-portable, length-agnostic SIMD with runtime dispatch | https://github.com/google/highway |
 | **hilbish** | 1:2.3.4-1 | The Moon-powered shell! A comfy and extensible shell for Lua fans! | https://rosettea.github.io/Hilbish/ |
 | **hledger** | 1.52.2 | Robust, friendly, fast plain text accounting software. (CLI only) | https://hledger.org/ |
 | **hledger-ui** | 1.52.3 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
@@ -831,6 +832,7 @@
 | **ipv6toolkit** | 2022.09.30-4 | SI6 Networks IPv6 Toolkit | https://www.si6networks.com/research/tools/ipv6toolkit/ |
 | **ircd-irc2** | 2.11.2p3-3 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
 | **ired** | 0.6-3 | Minimalist hexadecimal editor | https://github.com/radare/ired |
+| **iredis** | 1.16.1 | Interactive CLI for Redis with auto-completion and syntax highlighting | https://iredis.xbin.io |
 | **irssi** | 1.4.5-5 | Terminal based IRC client | https://irssi.org/ |
 | **isync** | 1.5.1-1 | IMAP and MailDir mailbox synchronizer | http://isync.sourceforge.net |
 | **iverilog** | 12.0-1 | Icarus Verilog compiler and simulation tool | http://iverilog.icarus.com/ |
@@ -943,7 +945,7 @@
 | **libandroid-shmem-static** | 0.7 | Static libraries for libandroid-shmem | https://github.com/termux/libandroid-shmem |
 | **libandroid-spawn** | 0.3 | Shared library for the posix_spawn system function | https://man7.org/linux/man-pages/man3/posix_spawn.3.html |
 | **libandroid-spawn-static** | 0.3 | Static libraries for libandroid-spawn | https://man7.org/linux/man-pages/man3/posix_spawn.3.html |
-| **libandroid-stub** | 29-2 | Stub libandroid.so for non-Android certified environment | https://android.googlesource.com/platform/frameworks/base/+/main/native/android |
+| **libandroid-stub** | 29-3 | Stub libandroid.so for non-Android certified environment | https://android.googlesource.com/platform/frameworks/base/+/main/native/android |
 | **libandroid-support** | 29-1 | Library extending the Android C library (Bionic) for additional multibyte, locale and math support | https://github.com/termux/libandroid-support |
 | **libandroid-support-static** | 29-1 | Static libraries for libandroid-support | https://github.com/termux/libandroid-support |
 | **libandroid-sysv-semaphore** | 0.1-1 | A shared library providing System V semaphores | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp |
@@ -1213,8 +1215,8 @@
 | **libjpeg-turbo** | 3.2.0 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.2.0 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.2.0 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
-| **libjxl** | 0.12.0 | JPEG XL image format reference implementation | https://jpegxl.info/ |
-| **libjxl-progs** | 0.12.0 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
+| **libjxl** | 0.12.0-1 | JPEG XL image format reference implementation | https://jpegxl.info/ |
+| **libjxl-progs** | 0.12.0-1 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkeyfinder** | 2.2.8 | Musical key detection for digital audio | https://mixxxdj.github.io/libkeyfinder |
 | **libkiwix** | 14.2.1-1 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.2.4-2 | Knot DNS libraries | https://www.knot-dns.cz/ |
@@ -1584,7 +1586,7 @@
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.1-3 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.12.4 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.18.6 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvips** | 8.18.6-1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvisio** | 0.1.10-1 | Library providing ability to interpret and import visio diagrams | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvisio-static** | 0.1.10-1 | Static libraries for libvisio | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvmaf** | 3.2.0-1 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
@@ -1692,6 +1694,7 @@
 | **links** | 2.29-2 | Links is a text and graphics mode WWW browser | http://links.twibright.com |
 | **lipl** | 0.1.3-1 | A command line tool that is similar to watch but has extended functions for commands outputing a number | https://github.com/yxdunc/lipl |
 | **lit** | 3.8.5-3 | Toolkit for developing, sharing, and running luvit/lua programs and libraries. | https://luvit.io |
+| **litecli** | 1.17.1 | CLI for SQLite databases with auto-completion and syntax highlighting | https://litecli.com |
 | **litespeedtest** | 0.15.0-3 | A simple tool for batch test ss/ssr/v2ray/trojan servers | https://github.com/xxf098/LiteSpeedTest |
 | **littlecms** | 2.19.1 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.19.1 | Static libraries for littlecms | http://www.littlecms.com/ |
@@ -1858,6 +1861,7 @@
 | **mold** | 2.42.0 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.5.1-2 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **monetdb** | 11.55.5-1 | A high-performance database kernel for query-intensive applications | https://www.monetdb.org/ |
+| **mongosh** | 2.10.0 | The MongoDB Shell | https://github.com/mongodb-js/mongosh |
 | **monit** | 6.0.0 | Utility for managing and monitoring processes, programs, files, directories and filesystems | https://mmonit.com/monit/ |
 | **mono** | 6.14.1-2 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.1-2 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
@@ -1903,6 +1907,7 @@
 | **mupdf-tools** | 1.28.2-1 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
 | **music-file-organizer** | 1.0.4-10 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.4.2 | Mail client with patches from neomutt | http://www.mutt.org/ |
+| **mycli** | 2.18.5 | CLI for MySQL/MariaDB with auto-completion and syntax highlighting | https://mycli.net |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
 | **mympd** | 26.0.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
@@ -1941,7 +1946,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1464+g57d97e513d-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1471+gca992e82d4-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2081,7 +2086,7 @@
 | **pango** | 1.58.2 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 1.3.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
-| **parallel** | 20260622 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
+| **parallel** | 20260822 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.4 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.4 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
 | **parted** | 3.6-1 | Versatile partition editor | https://www.gnu.org/software/parted/ |
