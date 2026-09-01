@@ -763,11 +763,11 @@
   Description: Static libraries for c-toxcore
   Homepage: https://tox.chat
 - Package: ca-certificates
-  Version: 1:2026.07.16
+  Version: 1:2026.08.13
   Description: Common CA certificates
   Homepage: https://curl.se/docs/caextract.html
 - Package: ca-certificates-java
-  Version: 1:2026.07.16
+  Version: 1:2026.08.13
   Description: Common CA certificates (java keystore format)
   Homepage: https://curl.se/docs/caextract.html
 - Package: cabal-install
@@ -2467,7 +2467,7 @@
   Description: git commit --fixup, but automatic
   Homepage: https://github.com/tummychow/git-absorb
 - Package: git-cliff
-  Version: 2.13.1
+  Version: 2.14.1
   Description: A highly customizable changelog generator that follows Conventional Commit specifications
   Homepage: https://git-cliff.org
 - Package: git-credential-manager
@@ -2531,7 +2531,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.115.0
+  Version: 1.116.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -2811,7 +2811,7 @@
   Description: Static libraries for gpgme
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgmepp
-  Version: 2.1.0
+  Version: 2.2.0
   Description: C++ bindings for GPGME
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgv
@@ -4527,7 +4527,7 @@
   Description: Static libraries for libgee
   Homepage: https://wiki.gnome.org/Projects/Libgee
 - Package: libgeos
-  Version: 3.14.1
+  Version: 3.15.0
   Description: Geometry Engine, C++ port of the Java Topology Suite
   Homepage: https://geos.osgeo.org/
 - Package: libgeotiff
@@ -7791,7 +7791,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1471+gca992e82d4-0
+  Version: 0.13.0~dev-1473+g9a29622b54-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8299,11 +8299,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.80.0
+  Version: 1.81.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
