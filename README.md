@@ -127,7 +127,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.36.36 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.36.37 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **b3sum** | 1.8.7 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
@@ -252,8 +252,8 @@
 | **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
 | **chezmoi** | 2.72.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
-| **chicken** | 5.4.0-2 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
-| **chicken-static** | 5.4.0-2 | Static libraries for chicken | https://www.call-cc.org |
+| **chicken** | 6.0.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
+| **chicken-static** | 6.0.0 | Static libraries for chicken | https://www.call-cc.org |
 | **chntpw** | 140201 | Offline Windows NT Password & Registry Editor | https://pogostick.net/~pnh/ntpasswd/ |
 | **choose** | 1.3.7 | A human-friendly and fast alternative to cut and (sometimes) awk | https://github.com/theryangeary/choose |
 | **chroma-visualizer** | 0.0.0+g3c32e7d | Shader-based audio visualizer for the terminal | https://github.com/yuri-xyz/chroma.git |
@@ -694,7 +694,7 @@
 | **gomuks** | 26.08 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.18.0 | Google C++ testing framework | https://github.com/google/googletest |
-| **goose** | 3.27.3 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
+| **goose** | 3.28.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
 | **gopass** | 1.16.1 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-2 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
 | **gopls** | 0.23.0 | The official Go language server | https://github.com/golang/tools |
@@ -1786,7 +1786,7 @@
 | **maintainerr** | 3.26.0 | An automation rule engine for your media server | https://github.com/maintainerr/Maintainerr |
 | **make** | 4.4.1-1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **make-guile** | 4.4.1-2 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
-| **mandoc** | 1.14.6-6 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
+| **mandoc** | 1.14.6-7 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
 | **mangal** | 4.0.6-3 | Cli manga downloader | https://github.com/metafates/mangal |
 | **manim** | 0.21.0-1 | A community-maintained Python framework for creating mathematical animations | https://manim.community |
 | **manpages** | 6.19 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
@@ -1959,7 +1959,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1473+g9a29622b54-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1474+gd42367570c-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2015,7 +2015,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 31.1.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 31.1.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2249,7 +2249,7 @@
 | **python-lameenc** | 1.8.4-1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
 | **python-libsass** | 0.23.0-3 | A straightforward binding of libsass for Python | https://github.com/sass/libsass-python |
 | **python-llvmlite** | 0.49.0-3 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
-| **python-lxml** | 6.1.2 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
+| **python-lxml** | 6.1.3 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-manimpango** | 0.6.1 | Binding for Pango, to use with Manim. | https://github.com/ManimCommunity/ManimPango |
 | **python-msgpack** | 1.2.2 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-mupdf** | 1.28.2-1 | Lightweight PDF and XPS viewer (Python bindings) | https://mupdf.com/ |
@@ -2781,7 +2781,7 @@
 | **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.12.8 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.12.9 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.53.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
