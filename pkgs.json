@@ -1927,7 +1927,7 @@
   },
   {
     "Package": "curl",
-    "Version": "8.21.0",
+    "Version": "8.22.0",
     "Description": "Command line tool for transferring data with URL syntax",
     "Homepage": "https://curl.se/"
   },
@@ -3223,7 +3223,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.96",
+    "Version": "0.4.97",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3637,7 +3637,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.98.0",
+    "Version": "2.99.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -3700,6 +3700,12 @@
     "Version": "0.9.0",
     "Description": "git commit --fixup, but automatic",
     "Homepage": "https://github.com/tummychow/git-absorb"
+  },
+  {
+    "Package": "git-annex",
+    "Version": "10.20260717",
+    "Description": "Manage large files with git, without storing the file contents in git",
+    "Homepage": "https://git-annex.branchable.com"
   },
   {
     "Package": "git-cliff",
@@ -6235,13 +6241,13 @@
   },
   {
     "Package": "libcurl",
-    "Version": "8.21.0",
+    "Version": "8.22.0",
     "Description": "Easy-to-use client-side URL transfer library",
     "Homepage": "https://curl.se/"
   },
   {
     "Package": "libcurl-static",
-    "Version": "8.21.0",
+    "Version": "8.22.0",
     "Description": "Static libraries for libcurl",
     "Homepage": "https://curl.se/"
   },
@@ -12277,7 +12283,7 @@
   },
   {
     "Package": "openlist",
-    "Version": "4.2.5-1",
+    "Version": "4.2.6",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://oplist.org/"
   },
