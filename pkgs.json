@@ -1417,7 +1417,7 @@
   },
   {
     "Package": "cgif",
-    "Version": "0.5.3",
+    "Version": "0.5.4",
     "Description": "A fast and lightweight GIF encoding library",
     "Homepage": "https://github.com/dloebl/cgif"
   },
@@ -11125,7 +11125,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.0",
+    "Version": "2026.9.1",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -12991,7 +12991,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.40.1",
+    "Version": "0.40.2",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -14257,7 +14257,7 @@
   },
   {
     "Package": "rsgain",
-    "Version": "3.7",
+    "Version": "3.8",
     "Description": "A simple audio normalizazion utility",
     "Homepage": "https://github.com/complexlogic/rsgain"
   },
