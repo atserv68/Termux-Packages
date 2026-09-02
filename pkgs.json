@@ -7015,13 +7015,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.23.2",
+    "Version": "1.23.3",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.23.2",
+    "Version": "1.23.3",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
