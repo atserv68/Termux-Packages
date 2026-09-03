@@ -2245,7 +2245,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "5.0.2",
+    "Version": "5.0.3",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://dnscontrol.org/"
   },
@@ -2293,7 +2293,7 @@
   },
   {
     "Package": "docker-compose",
-    "Version": "5.5.0",
+    "Version": "5.5.1",
     "Description": "Compose is a tool for defining and running multi-container Docker applications.",
     "Homepage": "https://github.com/docker/compose"
   },
@@ -2839,13 +2839,13 @@
   },
   {
     "Package": "enchant",
-    "Version": "2.8.19-1",
+    "Version": "2.8.21",
     "Description": "Wraps a number of different spelling libraries and programs with a consistent interface",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
   {
     "Package": "enchant-static",
-    "Version": "2.8.19-1",
+    "Version": "2.8.21",
     "Description": "Static libraries for enchant",
     "Homepage": "https://rrthomas.github.io/enchant/"
   },
@@ -3649,7 +3649,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.99.0",
+    "Version": "2.100.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -10237,19 +10237,19 @@
   },
   {
     "Package": "llama-cpp",
-    "Version": "0.0.0-b10516-0",
+    "Version": "0.0.0-v0.3.0-0",
     "Description": "LLM inference in C/C++",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-opencl",
-    "Version": "0.0.0-b10516-0",
+    "Version": "0.0.0-v0.3.0-0",
     "Description": "OpenCL Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-vulkan",
-    "Version": "0.0.0-b10516-0",
+    "Version": "0.0.0-v0.3.0-0",
     "Description": "Vulkan Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
@@ -13567,7 +13567,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.16.5",
+    "Version": "0.16.6",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14377,7 +14377,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.16.5",
+    "Version": "0.16.6",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14821,7 +14821,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "4.6.9",
+    "Version": "4.6.10",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },

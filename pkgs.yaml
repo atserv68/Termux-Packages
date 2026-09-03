@@ -1495,7 +1495,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 5.0.2
+  Version: 5.0.3
   Description: Infrastructure as code for DNS!
   Homepage: https://dnscontrol.org/
 - Package: dnslookup
@@ -1527,7 +1527,7 @@
   Description: Set of products that use OS-level virtualization to deliver software in packages called containers.
   Homepage: https://docker.com
 - Package: docker-compose
-  Version: 5.5.0
+  Version: 5.5.1
   Description: Compose is a tool for defining and running multi-container Docker applications.
   Homepage: https://github.com/docker/compose
 - Package: docopt
@@ -1891,11 +1891,11 @@
   Description: A tool for compositing images using a Burt&Adelson multiresolution spline
   Homepage: https://enblend.sourceforge.net/
 - Package: enchant
-  Version: 2.8.19-1
+  Version: 2.8.21
   Description: Wraps a number of different spelling libraries and programs with a consistent interface
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enchant-static
-  Version: 2.8.19-1
+  Version: 2.8.21
   Description: Static libraries for enchant
   Homepage: https://rrthomas.github.io/enchant/
 - Package: enscript
@@ -2431,7 +2431,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.99.0
+  Version: 2.100.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -6823,15 +6823,15 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
-  Version: 0.0.0-b10516-0
+  Version: 0.0.0-v0.3.0-0
   Description: LLM inference in C/C++
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-opencl
-  Version: 0.0.0-b10516-0
+  Version: 0.0.0-v0.3.0-0
   Description: OpenCL Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-vulkan
-  Version: 0.0.0-b10516-0
+  Version: 0.0.0-v0.3.0-0
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
@@ -9043,7 +9043,7 @@
   Description: PPM compression/decompression library
   Homepage: https://github.com/miurahr/pyppmd
 - Package: python-ruff
-  Version: 0.16.5
+  Version: 0.16.6
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -9583,7 +9583,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.16.5
+  Version: 0.16.6
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -9879,7 +9879,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 4.6.9
+  Version: 4.6.10
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
