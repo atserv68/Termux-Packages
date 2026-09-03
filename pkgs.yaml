@@ -295,7 +295,7 @@
   Description: A self-hosted comment system
   Homepage: https://artalk.js.org/
 - Package: arturo
-  Version: 0.9.83-1
+  Version: 0.10.0
   Description: Simple, expressive & portable programming language for efficient scripting
   Homepage: https://arturo-lang.io
 - Package: ascii
@@ -474,6 +474,10 @@
   Version: 2.17.14-1
   Description: light command line download accelerator
   Homepage: https://github.com/axel-download-accelerator/axel
+- Package: azure-cli
+  Version: 2.90.0
+  Description: Microsofts command-line tool for managing Azure cloud resources
+  Homepage: https://learn.microsoft.com/en-us/cli/azure/
 - Package: b3sum
   Version: 1.8.7
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
@@ -743,7 +747,7 @@
   Description: byacc is generally conceded to be the best yacc variant available
   Homepage: https://invisible-island.net/byacc/
 - Package: byobu
-  Version: "7.18"
+  Version: "7.19"
   Description: Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
   Homepage: https://www.byobu.org/
 - Package: bzip2
@@ -915,7 +919,7 @@
   Description: Curses Development Kit
   Homepage: https://dickey.his.com/cdk/cdk.html
 - Package: cec-client
-  Version: 8.1.6
+  Version: 8.1.7
   Description: Client applications for libCEC
   Homepage: https://libcec.pulse-eight.com/
 - Package: cfengine
@@ -4039,11 +4043,11 @@
   Description: Static libraries for libcdr
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
 - Package: libcec
-  Version: 8.1.6
+  Version: 8.1.7
   Description: Provides support for Pulse-Eights USB-CEC adapter and other CEC capable hardware
   Homepage: https://libcec.pulse-eight.com/
 - Package: libcec-static
-  Version: 8.1.6
+  Version: 8.1.7
   Description: Static libraries for libcec
   Homepage: https://libcec.pulse-eight.com/
 - Package: libceres-solver
@@ -7803,7 +7807,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1474+gd42367570c-0
+  Version: 0.13.0~dev-1499+gb51a0b2dcc-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9022,6 +9026,10 @@
   Version: 1.28.0-1
   Description: Python bindings for MuPDFs rendering library
   Homepage: https://github.com/pymupdf/PyMuPDF
+- Package: python-pynacl
+  Version: 1.6.2
+  Description: Python binding to the Networking and Cryptography (NaCl) library
+  Homepage: https://github.com/pyca/pynacl
 - Package: python-pynvim
   Version: 0.6.0-3
   Description: Python client for Neovim
