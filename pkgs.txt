@@ -144,7 +144,7 @@
  binutils  2.47  A GNU collection of binary utilities  https://www.gnu.org/software/binutils/ 
  binutils-cross  2.47  GNU Binutils for cross build on the host (NOT for Termux)  https://www.gnu.org/software/binutils/ 
  binwalk  3.1.0  An Binwalk firmware analysis tool.  https://github.com/ReFirmLabs/binwalk 
- biome2  2.5.11  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
+ biome2  2.5.12  A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP  https://biomejs.dev/ 
  bison  3.8.2-4  General-purpose parser generator  https://www.gnu.org/software/bison/ 
  bison-static  3.8.2-4  Static libraries for bison  https://www.gnu.org/software/bison/ 
  bitcoin  31.1-1  Bitcoin Core  https://bitcoincore.org/ 
@@ -182,6 +182,7 @@
  btrfs-progs  7.0  Utilities for Btrfs filesystem  https://btrfs.readthedocs.io/en/latest/ 
  buf  1.72.0  A new way of working with Protocol Buffers  https://buf.build 
  build-essential  4.1  A metapackage that installs essential development tools  https://github.com/termux/termux-packages 
+ bun  1.4.0  Incredibly fast JavaScript runtime, bundler, test runner, and package manager  https://bun.com 
  busybox  1.38.0-1  Tiny versions of many common UNIX utilities into a single small executable  https://busybox.net/ 
  bvi  1.5.0-1  Binary file editor based on vi  https://bvi.sourceforge.net/ 
  byacc  20260126  byacc is generally conceded to be the best yacc variant available  https://invisible-island.net/byacc/ 
@@ -855,7 +856,7 @@
  jcal-static  0.5.1-1  Static libraries for jcal  http://nongnu.org/jcal 
  jellyfin-ffmpeg  10.11.11-2  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
  jellyfin-server  10.11.11-2  A free media system for organizing and streaming media (server)  https://jellyfin.org 
- jfrog-cli  2.122.0  A CLI for JFrog products  https://jfrog.com/getcli 
+ jfrog-cli  2.123.0  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.5  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08-1  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
  jigdo  0.8.2-1  Distribute large images by sending and receiving the files that make them up  http://atterer.org/jigdo/ 
@@ -885,7 +886,7 @@
  kakoune  2026.05.21-1  Code editor heavily inspired by Vim  https://kakoune.org/ 
  kakoune-lsp  21.0.2  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
  kbd  2.10.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
- kew  4.2.7  Music for the Shell  https://kewplayer.com 
+ kew  4.3.0  Music for the Shell  https://kewplayer.com 
  keybase  6.6.3  Key directory that maps social media identities to encryption keys  https://keybase.io 
  keychain  3.0.4  Keychain manager for ssh-agent and gpg-agent  https://kernel-seeds.org/projects/keychain/ 
  kibi  0.3.3-1  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
@@ -1547,9 +1548,9 @@
  libtommath  1.3.0  A free open source portable number theoretic multiple-precision integer library  https://www.libtom.net/LibTomMath/ 
  libtommath-static  1.3.0  Static libraries for libtommath  https://www.libtom.net/LibTomMath/ 
  libtool  2.6.2  Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface  https://www.gnu.org/software/libtool/ 
- libtorrent  0.16.21  Libtorrent BitTorrent library  https://github.com/rakshasa/rtorrent/wiki 
+ libtorrent  0.16.22  Libtorrent BitTorrent library  https://github.com/rakshasa/rtorrent/wiki 
  libtorrent-rasterbar  2.1.1  A feature complete C++ bittorrent implementation focusing on efficiency and scalability  https://libtorrent.org/ 
- libtorrent-static  0.16.21  Static libraries for libtorrent  https://github.com/rakshasa/rtorrent/wiki 
+ libtorrent-static  0.16.22  Static libraries for libtorrent  https://github.com/rakshasa/rtorrent/wiki 
  libtpms  0.10.2  Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0)  https://github.com/stefanberger/libtpms 
  libtpms-static  0.10.2  Static libraries for libtpms  https://github.com/stefanberger/libtpms 
  libtranscript  0.3.4-1  A character-set conversion library  https://os.ghalkes.nl/libtranscript.html 
@@ -1911,7 +1912,7 @@
  mupdf-tools  1.28.2-1  Lightweight PDF and XPS viewer (utilities)  https://mupdf.com/ 
  music-file-organizer  1.0.4-10  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
  mutt  2.4.2  Mail client with patches from neomutt  http://www.mutt.org/ 
- mycli  2.18.5-1  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
+ mycli  2.19.0  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
  mympd  26.0.0  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
  mypaint-brushes  2.0.2  MyPaint brushes  https://github.com/mypaint/mypaint-brushes 
@@ -2342,8 +2343,8 @@
  readline-static  8.3.3  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
  recode  3.7.15-1  Charset converter tool and library  https://github.com/pinard/Recode 
  recode-static  3.7.15-1  Static libraries for recode  https://github.com/pinard/Recode 
- recoll  1.44.1-1  Full-text search for your desktop  https://www.recoll.org/ 
- recoll-python  1.44.1-1  Python interface for Recoll  https://www.recoll.org/ 
+ recoll  1.44.2  Full-text search for your desktop  https://www.recoll.org/ 
+ recoll-python  1.44.2  Python interface for Recoll  https://www.recoll.org/ 
  recutils  1.9-1  Set of tools and libraries to access human-editable, plain text databases called recfiles  https://www.gnu.org/software/recutils/ 
  recutils-static  1.9-1  Static libraries for recutils  https://www.gnu.org/software/recutils/ 
  redir  3.3-3  TCP port redirector for UNIX  https://github.com/troglobit/redir 
@@ -2384,7 +2385,7 @@
  rsync  3.5.0-1  Fast incremental file transfer utility  https://rsync.samba.org/ 
  rtmpdump  2.6-1  Small dumper for media content streamed over the RTMP protocol  https://rtmpdump.mplayerhq.hu/ 
  rtmpdump-static  2.6-1  Static libraries for rtmpdump  https://rtmpdump.mplayerhq.hu/ 
- rtorrent  0.16.21  Ncurses BitTorrent client based on libTorrent  https://rakshasa.github.io/rtorrent/ 
+ rtorrent  0.16.22  Ncurses BitTorrent client based on libTorrent  https://rakshasa.github.io/rtorrent/ 
  rubberband  4.0.0-1  An audio time-stretching and pitch-shifting library and utility program  https://breakfastquay.com/rubberband/ 
  rubberband-ladspa  4.0.0-1  LADSPA plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
  rubberband-lv2  4.0.0-1  LV2 plugin for Rubber Band  https://breakfastquay.com/rubberband/ 
@@ -2422,7 +2423,7 @@
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
  sbcl  2.6.8  A high performance Common Lisp compiler  http://www.sbcl.org/ 
  sc-im  0.8.5-4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
- scala  3.8.4  Scala 3 compiler and standard library.  https://www.scala-lang.org 
+ scala  3.9.0  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  4.0.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.17.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.17  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
@@ -2774,7 +2775,7 @@
  util-linux-static  2.42.1-4  Static libraries for util-linux  https://en.wikipedia.org/wiki/Util-linux 
  uucp  1.07-2  The standard UUCP package of the Free Software Foundation  https://www.airs.com/ian/uucp.html 
  uuid-utils  2.42.1-4  Utilities for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- uv  0.12.9  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
+ uv  0.12.9-1  An extremely fast Python package installer and resolver, written in Rust.  https://docs.astral.sh/uv/ 
  uwsgi  2.0.31-2  uWSGI application server container  https://projects.unbit.it/uwsgi 
  v2ray  5.53.0  A platform for building proxies to bypass network restrictions  https://www.v2fly.org/ 
  valac  0.56.19  C# like language for the GObject system  https://wiki.gnome.org/Projects/Vala 
@@ -2833,7 +2834,7 @@
  wasmedge  0.17.1  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
  wasmer  7.1.0-1  A fast and secure WebAssembly runtime  https://wasmer.io/ 
  wasmtime  46.0.1-1  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
- watchexec  2.7.0  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
+ watchexec  2.7.1  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.9.0  WavPack command-line programs  https://www.wavpack.com/ 
  waypipe  0.11.2  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
  wcalc  2.5-6  Capable calculator  https://w-calc.sourceforge.net 

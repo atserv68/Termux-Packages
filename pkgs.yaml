@@ -583,7 +583,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.5.11
+  Version: 2.5.12
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -734,6 +734,10 @@
   Version: "4.1"
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
+- Package: bun
+  Version: 1.4.0
+  Description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
+  Homepage: https://bun.com
 - Package: busybox
   Version: 1.38.0-1
   Description: Tiny versions of many common UNIX utilities into a single small executable
@@ -3427,7 +3431,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.122.0
+  Version: 2.123.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -3547,7 +3551,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kew
-  Version: 4.2.7
+  Version: 4.3.0
   Description: Music for the Shell
   Homepage: https://kewplayer.com
 - Package: keybase
@@ -6195,7 +6199,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.16.21
+  Version: 0.16.22
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -6203,7 +6207,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.16.21
+  Version: 0.16.22
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -7651,7 +7655,7 @@
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: mycli
-  Version: 2.18.5-1
+  Version: 2.19.0
   Description: CLI for MySQL/MariaDB with auto-completion and syntax highlighting
   Homepage: https://mycli.net
 - Package: myman
@@ -9375,11 +9379,11 @@
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
-  Version: 1.44.1-1
+  Version: 1.44.2
   Description: Full-text search for your desktop
   Homepage: https://www.recoll.org/
 - Package: recoll-python
-  Version: 1.44.1-1
+  Version: 1.44.2
   Description: Python interface for Recoll
   Homepage: https://www.recoll.org/
 - Package: recutils
@@ -9543,7 +9547,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.16.21
+  Version: 0.16.22
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -9695,7 +9699,7 @@
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
-  Version: 3.8.4
+  Version: 3.9.0
   Description: Scala 3 compiler and standard library.
   Homepage: https://www.scala-lang.org
 - Package: scc
@@ -11103,7 +11107,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.12.9
+  Version: 0.12.9-1
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11339,7 +11343,7 @@
   Description: A standalone runtime for WebAssembly
   Homepage: https://wasmtime.dev/
 - Package: watchexec
-  Version: 2.7.0
+  Version: 2.7.1
   Description: Executes commands in response to file modifications
   Homepage: https://github.com/watchexec/watchexec
 - Package: wavpack
