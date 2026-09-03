@@ -467,7 +467,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.37
+  Version: 2.36.38
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -2739,7 +2739,7 @@
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
-  Version: 1.16.1
+  Version: 1.17.0
   Description: The slightly more awesome standard unix password manager for teams
   Homepage: https://github.com/gopasspw/gopass
 - Package: gopher
@@ -3339,7 +3339,7 @@
   Description: Minimalist hexadecimal editor
   Homepage: https://github.com/radare/ired
 - Package: iredis
-  Version: 1.16.1
+  Version: 1.16.1-1
   Description: Interactive CLI for Redis with auto-completion and syntax highlighting
   Homepage: https://iredis.xbin.io
 - Package: irssi
@@ -4199,7 +4199,7 @@
   Description: Static libraries for libdb
   Homepage: https://www.oracle.com/database/berkeley-db
 - Package: libde265
-  Version: 1.1.1
+  Version: 1.1.2
   Description: H.265/HEVC video stream decoder library
   Homepage: https://github.com/strukturag/libde265
 - Package: libdebuginfod
@@ -5646,6 +5646,14 @@
   Version: 1.19-3
   Description: Static libraries for libpopt
   Homepage: https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html
+- Package: libpq
+  Version: 18.2-1
+  Description: PostgreSQL client library (libpq) without the server
+  Homepage: https://www.postgresql.org
+- Package: libpq-static
+  Version: 18.2-1
+  Description: Static library for libpq
+  Homepage: https://www.postgresql.org
 - Package: libprotobuf
   Version: "2:35.1"
   Description: Protocol buffers C++ library
@@ -6787,7 +6795,7 @@
   Description: Toolkit for developing, sharing, and running luvit/lua programs and libraries.
   Homepage: https://luvit.io
 - Package: litecli
-  Version: 1.17.1
+  Version: 1.17.1-1
   Description: CLI for SQLite databases with auto-completion and syntax highlighting
   Homepage: https://litecli.com
 - Package: litespeedtest
@@ -7639,7 +7647,7 @@
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: mycli
-  Version: 2.18.5
+  Version: 2.18.5-1
   Description: CLI for MySQL/MariaDB with auto-completion and syntax highlighting
   Homepage: https://mycli.net
 - Package: myman
@@ -7863,7 +7871,7 @@
   Description: Newsraft is a feed reader with text-based user interface
   Homepage: https://codeberg.org/newsraft/newsraft
 - Package: nginx
-  Version: 1.31.4
+  Version: 1.31.5
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -8243,7 +8251,7 @@
   Description: Open Source API and interchange format for editorial timeline information.
   Homepage: http://opentimeline.io/
 - Package: openxr
-  Version: 1.1.62
+  Version: 1.1.63
   Description: Open standard that provides a common set of APIs for developing XR applications
   Homepage: https://www.khronos.org/openxr/
 - Package: opkssh
@@ -8498,6 +8506,10 @@
   Version: 1:2.0.1-1
   Description: Portable Forth in C
   Homepage: https://www.softsynth.com/pforth/
+- Package: pgcli
+  Version: 4.6.0
+  Description: Postgres CLI with autocompletion and syntax highlighting
+  Homepage: https://www.pgcli.com
 - Package: pgroonga
   Version: 4.0.8
   Description: A PostgreSQL extension to use Groonga as index
@@ -8711,11 +8723,11 @@
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
-  Version: "18.2"
+  Version: 18.2-1
   Description: Object-relational SQL database
   Homepage: https://www.postgresql.org
 - Package: postgresql-static
-  Version: "18.2"
+  Version: 18.2-1
   Description: Static libraries for postgresql
   Homepage: https://www.postgresql.org
 - Package: potrace
@@ -8747,11 +8759,11 @@
   Description: Non-caching web proxy with advanced filtering capabilities
   Homepage: https://www.privoxy.org
 - Package: procps
-  Version: 3.3.17-6
+  Version: 4.0.7
   Description: Utilities that give information about processes using the /proc filesystem
   Homepage: https://gitlab.com/procps-ng/procps
 - Package: procps-static
-  Version: 3.3.17-6
+  Version: 4.0.7
   Description: Static libraries for procps
   Homepage: https://gitlab.com/procps-ng/procps
 - Package: procs
@@ -10923,7 +10935,7 @@
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
 - Package: ty
-  Version: 0.0.77
+  Version: 0.0.78
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
@@ -11111,7 +11123,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.19.0
+  Version: 3.20.0
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valkey
