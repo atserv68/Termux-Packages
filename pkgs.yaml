@@ -467,7 +467,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.38
+  Version: 2.36.39
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -7007,7 +7007,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1787165859+g1ee778a
+  Version: 1:2.1.1788460057+g24c20c9
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -7015,7 +7015,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1787165859+g1ee778a
+  Version: 1:2.1.1788460057+g24c20c9
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -11263,7 +11263,7 @@
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
-  Version: 1.4.361
+  Version: 1.4.362
   Description: Vulkan Header files and API registry
   Homepage: https://github.com/KhronosGroup/Vulkan-Headers
 - Package: vulkan-icd
@@ -11279,15 +11279,15 @@
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
 - Package: vulkan-loader-generic
-  Version: 1.4.361
+  Version: 1.4.362
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.361
+  Version: 1.4.362
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries
-  Version: 1.4.361
+  Version: 1.4.362
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
