@@ -1934,6 +1934,14 @@
   Version: 5.4.0-1
   Description: An enhanced, backward-compatible port of Thompson Shell
   Homepage: https://etsh.nl
+- Package: execline
+  Version: 2.9.9.2
+  Description: A small scripting language, to be used with an exec chain
+  Homepage: https://skarnet.org/software/execline/
+- Package: execline-static
+  Version: 2.9.9.2
+  Description: Static libraries for execline
+  Homepage: https://skarnet.org/software/execline/
 - Package: exercism
   Version: 3.5.8
   Description: A Go based command line tool for exercism.io
@@ -7443,7 +7451,7 @@
   Description: Generate vanity ed25519 (hidden service version 3) onion addresses
   Homepage: https://github.com/cathugger/mkp224o
 - Package: mksh
-  Version: 59c-3
+  Version: 59c-4
   Description: The MirBSD Korn Shell - an enhanced version of the public domain ksh
   Homepage: http://www.mirbsd.org/mksh.htm
 - Package: mktorrent
@@ -9327,7 +9335,7 @@
   Description: An alternative implementation of the plan 9 rc shell
   Homepage: https://github.com/rakitzis/rc
 - Package: rclone
-  Version: 1.75.0
+  Version: 1.75.1
   Description: rsync for cloud storage
   Homepage: https://rclone.org/
 - Package: rcm
@@ -9894,6 +9902,14 @@
   Version: 1.14.0
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
+- Package: skalibs
+  Version: 2.15.1.0
+  Description: A set of general-purpose C programming libraries
+  Homepage: https://skarnet.org/software/skalibs/
+- Package: skalibs-static
+  Version: 2.15.1.0
+  Description: Static libraries for skalibs
+  Homepage: https://skarnet.org/software/skalibs/
 - Package: skate
   Version: 1.0.1-1
   Description: A personal key-value store
@@ -10339,7 +10355,7 @@
   Description: A high-performance CPU-based implementation of the Vulkan graphics API
   Homepage: https://swiftshader.googlesource.com/SwiftShader
 - Package: swig
-  Version: 4.5.0
+  Version: 4.5.1
   Description: Generate scripting interfaces to C/C++ code
   Homepage: https://swig.org
 - Package: swtpm
