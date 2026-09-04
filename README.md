@@ -794,6 +794,7 @@
 | **htop** | 3.5.3 | Interactive process viewer for Linux | https://htop.dev/ |
 | **htslib** | 1.24 | C library for high-throughput sequencing data formats | https://github.com/samtools/htslib |
 | **htslib-static** | 1.24 | Static libraries for htslib | https://github.com/samtools/htslib |
+| **httpie** | 3.2.4 | Modern, user-friendly command-line HTTP client for the API era | https://httpie.io |
 | **httping** | 4.4.0-1 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
 | **httrack** | 3.50.1 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
 | **httrack-data** | 3.50.1 | Platform-independent data for httrack | http://www.httrack.com |
@@ -2925,7 +2926,7 @@
 | **yarn** | 1.22.22 | Fast, reliable, and secure dependency management | https://classic.yarnpkg.com/lang/en/ |
 | **yasm** | 1.3.0-7 | Assembler supporting the x86 and AMD64 instruction sets | https://yasm.tortall.net/ |
 | **yasm-static** | 1.3.0-7 | Static libraries for yasm | https://yasm.tortall.net/ |
-| **yazi** | 26.8.15 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
+| **yazi** | 26.9.1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yoga** | 3.2.1 | Embeddable layout engine targeting web standards | https://www.yogalayout.dev/ |
 | **yosys** | 0.68 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.6 | Download youtube video in Golang | https://github.com/kkdai/youtube |

@@ -4704,6 +4704,12 @@
     "Homepage": "https://github.com/samtools/htslib"
   },
   {
+    "Package": "httpie",
+    "Version": "3.2.4",
+    "Description": "Modern, user-friendly command-line HTTP client for the API era",
+    "Homepage": "https://httpie.io"
+  },
+  {
     "Package": "httping",
     "Version": "4.4.0-1",
     "Description": "ping-like program for http-requests",
@@ -17491,7 +17497,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "26.8.15",
+    "Version": "26.9.1",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
