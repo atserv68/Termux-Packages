@@ -1219,7 +1219,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.3.6
+  Version: 1:11.4.0
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -2155,7 +2155,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.97
+  Version: 0.4.99
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -3251,11 +3251,11 @@
   Description: A command line id3v2 tag editor
   Homepage: https://id3v2.sourceforge.net/
 - Package: imagemagick
-  Version: 7.1.2.30
+  Version: 7.1.2.31
   Description: Suite to create, edit, compose, or convert images in a variety of formats
   Homepage: https://www.imagemagick.org/
 - Package: imagemagick-static
-  Version: 7.1.2.30
+  Version: 7.1.2.31
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
@@ -7811,7 +7811,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1499+gb51a0b2dcc-0
+  Version: 0.13.0~dev-1511+g5209695703-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9407,7 +9407,7 @@
   Description: Library that provides a high-level interface to RDF data
   Homepage: http://librdf.org/
 - Package: remind
-  Version: 1:06.03.01
+  Version: 1:06.03.02
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -10275,11 +10275,11 @@
   Description: A very simple note taking cli app
   Homepage: https://stand-up-notes.org
 - Package: sundials
-  Version: 2:7.8.0
+  Version: 2:7.9.0
   Description: SUite of Nonlinear and DIfferential/ALgebraic equation Solvers.
   Homepage: https://computing.llnl.gov/projects/sundials
 - Package: sundials-static
-  Version: 2:7.8.0
+  Version: 2:7.9.0
   Description: Static libraries for sundials
   Homepage: https://computing.llnl.gov/projects/sundials
 - Package: supercollider
