@@ -735,7 +735,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: bun
-  Version: 1.4.0
+  Version: 1.4.1
   Description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
   Homepage: https://bun.com
 - Package: busybox
@@ -2119,7 +2119,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.9.0
+  Version: 4.9.1
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -3187,7 +3187,7 @@
   Description: A CLI tool for sr.ht
   Homepage: https://git.sr.ht/~xenrox/hut
 - Package: hwdata
-  Version: "0.410"
+  Version: "0.411"
   Description: Database of hardware identification and configuration data
   Homepage: https://github.com/vcrhonek/hwdata
 - Package: hydroxide
@@ -9599,7 +9599,7 @@
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
@@ -9611,55 +9611,55 @@
   Description: Automatically generates Rust FFI bindings to C (and some C++) libraries
   Homepage: https://github.com/rust-lang/rust-bindgen
 - Package: rust-docs
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Rust documentation
   Homepage: https://www.rust-lang.org/
 - Package: rust-src
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Rust source code files
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-aarch64-linux-android
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Component files for target aarch64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-armv7-linux-androideabi
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Component files for target armv7-linux-androideabi
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-i686-linux-android
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Component files for target i686-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-unknown-unknown
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Component files for target wasm32-unknown-unknown
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip1
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Component files for target wasm32-wasip1
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip2
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Component files for target wasm32-wasip2
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32-wasip3
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Component files for target wasm32-wasip3
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-wasm32v1-none
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Component files for target wasm32v1-none
   Homepage: https://www.rust-lang.org/
 - Package: rust-std-x86-64-linux-android
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Component files for target x86_64-linux-android
   Homepage: https://www.rust-lang.org/
 - Package: rustc-dev
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Rust compiler development libs
   Homepage: https://www.rust-lang.org/
 - Package: rustc-src
-  Version: 1.98.0
+  Version: 1.98.1
   Description: Rust compiler source code files
   Homepage: https://www.rust-lang.org/
 - Package: rustscan
