@@ -542,7 +542,7 @@
 | **finch-static** | 2.14.14-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 10.0.1-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.10.0-1 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
-| **fish** | 4.9.1 | The user-friendly command line shell | https://fishshell.com/ |
+| **fish** | 4.9.2 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.5.0-1 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
 | **flang** | 21.1.8-3 | LLVM's Fortran frontend | https://flang.llvm.org/ |
 | **flatbuffers** | 25.12.19-2026-02-06-03fffb2-1 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
@@ -575,7 +575,7 @@
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frotz** | 2.55-2 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
 | **frp** | 0.71.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
-| **fselect** | 0.10.2 | Find files with SQL-like queries | https://fselect.rocks/ |
+| **fselect** | 0.10.3 | Find files with SQL-like queries | https://fselect.rocks/ |
 | **fsmon** | 1.8.8-1 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11-2 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
 | **fwknop-static** | 2.6.11-2 | Static libraries for fwknop | https://www.cipherdyne.org/fwknop/ |
@@ -1874,7 +1874,7 @@
 | **mise** | 2026.9.1 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
-| **mksh** | 59c-4 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
+| **mksh** | 59c-5 | The MirBSD Korn Shell - an enhanced version of the public domain ksh | http://www.mirbsd.org/mksh.htm |
 | **mktorrent** | 1.1-p20210130-1 | command line utility to create BitTorrent metainfo files | https://github.com/Rudde/mktorrent |
 | **mlir** | 21.1.8-3 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-6 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
@@ -2022,7 +2022,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 31.1.2 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 31.1.3 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
 | **ol** | 2.7 | Purely functional dialect of Lisp | https://yuriy-chumak.github.io/ol/ |
@@ -2121,6 +2121,7 @@
 | **patchelf** | 0.19.1 | Utility to modify the dynamic linker and RPATH of ELF executables | https://nixos.org/patchelf.html |
 | **patchutils** | 0.4.5 | A collection of programs for manipulating patch files | https://github.com/twaugh/patchutils |
 | **pathpicker** | 0.9.5-3 | Facebook PathPicker - a terminal-based file picker | https://facebook.github.io/PathPicker/ |
+| **pax-utils** | 1.3.11 | ELF utils that can check files for security relevant properties | https://wiki.gentoo.org/wiki/Hardened/PaX_Utilities |
 | **pb** | 2022.11.03-1 | A helper utility for using 0x0 pastebin services | https://tildegit.org/tomasino/pb |
 | **pcal** | 4.11.0-1 | A multi-platform program which generates annotated PostScript or HTML calendars in a monthly or yearly format | https://pcal.sourceforge.net/ |
 | **pcaudiolib** | 1.3-1 | Portable C Audio Library | https://github.com/espeak-ng/pcaudiolib |
@@ -2563,7 +2564,7 @@
 | **step-cli** | 0.30.6-1 | An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows | https://smallstep.com/cli |
 | **stfl** | 0.24-7 | Structured Terminal Forms Language/Library | http://www.clifford.at/stfl |
 | **stfl-static** | 0.24-7 | Static libraries for stfl | http://www.clifford.at/stfl |
-| **stockfish** | 18 | Free and strong UCI chess engine | https://stockfishchess.org/ |
+| **stockfish** | 19 | Free and strong UCI chess engine | https://stockfishchess.org/ |
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |

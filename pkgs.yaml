@@ -2127,7 +2127,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.9.1
+  Version: 4.9.2
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -2259,7 +2259,7 @@
   Description: A fast reverse proxy to expose a local server behind a NAT or firewall to the internet
   Homepage: https://github.com/fatedier/frp
 - Package: fselect
-  Version: 0.10.2
+  Version: 0.10.3
   Description: Find files with SQL-like queries
   Homepage: https://fselect.rocks/
 - Package: fsmon
@@ -7455,7 +7455,7 @@
   Description: Generate vanity ed25519 (hidden service version 3) onion addresses
   Homepage: https://github.com/cathugger/mkp224o
 - Package: mksh
-  Version: 59c-4
+  Version: 59c-5
   Description: The MirBSD Korn Shell - an enhanced version of the public domain ksh
   Homepage: http://www.mirbsd.org/mksh.htm
 - Package: mktorrent
@@ -8047,7 +8047,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 31.1.2
+  Version: 31.1.3
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oidn
@@ -8442,6 +8442,10 @@
   Version: 0.9.5-3
   Description: Facebook PathPicker - a terminal-based file picker
   Homepage: https://facebook.github.io/PathPicker/
+- Package: pax-utils
+  Version: 1.3.11
+  Description: ELF utils that can check files for security relevant properties
+  Homepage: https://wiki.gentoo.org/wiki/Hardened/PaX_Utilities
 - Package: pb
   Version: 2022.11.03-1
   Description: A helper utility for using 0x0 pastebin services
@@ -10211,7 +10215,7 @@
   Description: Static libraries for stfl
   Homepage: http://www.clifford.at/stfl
 - Package: stockfish
-  Version: "18"
+  Version: "19"
   Description: Free and strong UCI chess engine
   Homepage: https://stockfishchess.org/
 - Package: stoken
