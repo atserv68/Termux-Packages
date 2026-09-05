@@ -703,7 +703,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.39",
+    "Version": "2.36.40",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -7813,13 +7813,13 @@
   },
   {
     "Package": "libmpg123",
-    "Version": "1.33.5",
+    "Version": "1.33.7",
     "Description": "Fast console MPEG Audio Player and decoder library",
     "Homepage": "https://mpg123.org/"
   },
   {
     "Package": "libmpg123-static",
-    "Version": "1.33.5",
+    "Version": "1.33.7",
     "Description": "Static libraries for libmpg123",
     "Homepage": "https://mpg123.org/"
   },
@@ -9961,19 +9961,19 @@
   },
   {
     "Package": "libxml2",
-    "Version": "2.15.3-2",
+    "Version": "2.15.4",
     "Description": "Library for parsing XML documents",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
   {
     "Package": "libxml2-python",
-    "Version": "2.15.3-2",
+    "Version": "2.15.4",
     "Description": "Python bindings for libxml2",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
   {
     "Package": "libxml2-utils",
-    "Version": "2.15.3-2",
+    "Version": "2.15.4",
     "Description": "XML utilities",
     "Homepage": "https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home"
   },
@@ -10555,7 +10555,7 @@
   },
   {
     "Package": "luau",
-    "Version": "0.736",
+    "Version": "0.737",
     "Description": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
     "Homepage": "https://github.com/luau-lang/luau"
   },
@@ -11377,7 +11377,7 @@
   },
   {
     "Package": "mpg123",
-    "Version": "1.33.5",
+    "Version": "1.33.7",
     "Description": "Fast console MPEG Audio Player based on libmpg123",
     "Homepage": "https://mpg123.org/"
   },
@@ -13267,13 +13267,13 @@
   },
   {
     "Package": "ptex",
-    "Version": "2.5.2",
+    "Version": "2.5.4",
     "Description": "Per-Face Texture Mapping for Production Rendering",
     "Homepage": "https://github.com/wdas/ptex"
   },
   {
     "Package": "ptex-static",
-    "Version": "2.5.2",
+    "Version": "2.5.4",
     "Description": "Static libraries for ptex",
     "Homepage": "https://github.com/wdas/ptex"
   },
@@ -16693,7 +16693,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.9-1",
+    "Version": "0.12.10",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
