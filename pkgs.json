@@ -7981,7 +7981,7 @@
   },
   {
     "Package": "libnfs",
-    "Version": "7.0.1",
+    "Version": "7.0.2",
     "Description": "NFS client library",
     "Homepage": "https://github.com/sahlberg/libnfs"
   },
