@@ -823,7 +823,7 @@
   },
   {
     "Package": "bear",
-    "Version": "4.2.1",
+    "Version": "4.2.2",
     "Description": "Bear is a tool that generates a compilation database for clang tooling.",
     "Homepage": "https://github.com/rizsotto/Bear"
   },
@@ -1105,7 +1105,7 @@
   },
   {
     "Package": "bun",
-    "Version": "1.4.1",
+    "Version": "1.4.2",
     "Description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager",
     "Homepage": "https://bun.com"
   },
@@ -2167,7 +2167,7 @@
   },
   {
     "Package": "discordo",
-    "Version": "2026.08.21+gfd794299",
+    "Version": "2026.09.05+g8390e977",
     "Description": "A lightweight, secure, and feature-rich Discord terminal client",
     "Homepage": "https://github.com/ayn2op/discordo"
   },
@@ -4309,13 +4309,13 @@
   },
   {
     "Package": "graphviz",
-    "Version": "16.0.0",
+    "Version": "16.1.0",
     "Description": "Rich set of graph drawing tools",
     "Homepage": "https://www.graphviz.org/"
   },
   {
     "Package": "graphviz-static",
-    "Version": "16.0.0",
+    "Version": "16.1.0",
     "Description": "Static libraries for graphviz",
     "Homepage": "https://www.graphviz.org/"
   },
@@ -10327,7 +10327,7 @@
   },
   {
     "Package": "lnav",
-    "Version": "0.14.0",
+    "Version": "0.14.1",
     "Description": "An advanced log file viewer for the small-scale",
     "Homepage": "https://lnav.org/"
   },
@@ -11677,19 +11677,19 @@
   },
   {
     "Package": "ndk-multilib",
-    "Version": "29-1",
+    "Version": "29-2",
     "Description": "Multilib binaries for cross-compilation",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },
   {
     "Package": "ndk-multilib-native-static",
-    "Version": "29-1",
+    "Version": "29-2",
     "Description": "Install native static libs from NDK",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },
   {
     "Package": "ndk-multilib-native-stubs",
-    "Version": "29-1",
+    "Version": "29-2",
     "Description": "Install native stubs for shared libs from NDK",
     "Homepage": "https://developer.android.com/tools/sdk/ndk/index.html"
   },
@@ -11737,7 +11737,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1511+g5209695703-0",
+    "Version": "0.13.0~dev-1531+g48864161cd-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13464,6 +13464,12 @@
     "Homepage": "https://grpc.io/"
   },
   {
+    "Package": "python-jellyfish",
+    "Version": "1.2.1",
+    "Description": "Library for approximate and phonetic matching of strings",
+    "Homepage": "https://codeberg.org/jpt/jellyfish"
+  },
+  {
     "Package": "python-lameenc",
     "Version": "1.8.4-1",
     "Description": "Python bindings around the LAME encoder",
@@ -13582,6 +13588,12 @@
     "Version": "1.3.1-1",
     "Description": "PPM compression/decompression library",
     "Homepage": "https://github.com/miurahr/pyppmd"
+  },
+  {
+    "Package": "python-rpds-py",
+    "Version": "2026.6.3",
+    "Description": "Python bindings to Rusts persistent data structures (rpds)",
+    "Homepage": "https://github.com/crate-py/rpds"
   },
   {
     "Package": "python-ruff",
@@ -15583,7 +15595,7 @@
   },
   {
     "Package": "taglib",
-    "Version": "2.3.1",
+    "Version": "2.3.2",
     "Description": "A Library for reading and editing the meta-data of several popular audio formats.",
     "Homepage": "http://taglib.github.io/"
   },
