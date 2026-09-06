@@ -4153,7 +4153,7 @@
   },
   {
     "Package": "goreleaser",
-    "Version": "2.18.0",
+    "Version": "2.18.1",
     "Description": "Deliver Go binaries as fast and easily as possible",
     "Homepage": "https://goreleaser.com"
   },
@@ -10591,7 +10591,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.43.3",
+    "Version": "0.43.4",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10987,7 +10987,7 @@
   },
   {
     "Package": "mediamtx",
-    "Version": "1.20.1",
+    "Version": "1.21.0",
     "Description": "Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy",
     "Homepage": "https://github.com/bluenviron/mediamtx"
   },

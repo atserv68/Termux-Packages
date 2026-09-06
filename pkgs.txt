@@ -690,7 +690,7 @@
  gopass  1.17.0  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
  gopher  3.0.17.3-2  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
  gopls  0.23.0  The official Go language server  https://github.com/golang/tools 
- goreleaser  2.18.0  Deliver Go binaries as fast and easily as possible  https://goreleaser.com 
+ goreleaser  2.18.1  Deliver Go binaries as fast and easily as possible  https://goreleaser.com 
  goresym  3.4  Go symbol recovery tool  https://github.com/mandiant/GoReSym 
  gosec  2.29.0  Golang security checker  https://github.com/securego/gosec 
  gost  2.12.0  GO Simple Tunnel - a simple tunnel written in golang  https://github.com/ginuerzh/gost 
@@ -1763,7 +1763,7 @@
  luvi  1:2.15.0-2  A project in-between luv and luvit  https://luvit.io 
  luvit  2.18.1-1  Asynchronous I/O for Lua  https://luvit.io 
  lux  0.24.1-2  CLI tool to download videos from various websites  https://github.com/iawia002/lux 
- lux-cli  0.43.3  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
+ lux-cli  0.43.4  A package manager for Lua, similar to luarocks  https://lux.lumen-labs.org 
  lv2  1.18.10-7  A plugin standard for audio systems  https://lv2plug.in/ 
  lychee  0.24.2  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
  lynx  2.9.2-1  The text web browser  http://lynx.browser.org/ 
@@ -1829,7 +1829,7 @@
  mdp  1.0.18-1  Command-line based markdown presentation tool  https://github.com/visit1985/mdp 
  media-types  14.0.0  List of standard media types and their usual file extension  https://pagure.io/mailcap 
  mediainfo  26.05  Command-line utility for reading information from media files  https://mediaarea.net/en/MediaInfo 
- mediamtx  1.20.1  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
+ mediamtx  1.21.0  Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy  https://github.com/bluenviron/mediamtx 
  megacmd  2.5.2  Provides non UI access to MEGA services  https://mega.io/ 
  megatools  1.11.5.20250706-1  Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage  https://xff.cz/megatools/ 
  memcached  1.6.45  Free & open source, high-performance, distributed memory object caching system  https://memcached.org/ 
