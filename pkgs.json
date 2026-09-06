@@ -4081,13 +4081,13 @@
   },
   {
     "Package": "golang",
-    "Version": "3:1.27.0-1",
+    "Version": "3:1.27.1",
     "Description": "Go programming language compiler",
     "Homepage": "https://go.dev/"
   },
   {
     "Package": "golang-doc",
-    "Version": "3:1.27.0-1",
+    "Version": "3:1.27.1",
     "Description": "Go programming language - documentation",
     "Homepage": "https://go.dev/"
   },
@@ -10255,19 +10255,19 @@
   },
   {
     "Package": "llama-cpp",
-    "Version": "0.3.0",
+    "Version": "0.4.0",
     "Description": "LLM inference in C/C++",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-opencl",
-    "Version": "0.3.0",
+    "Version": "0.4.0",
     "Description": "OpenCL Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-vulkan",
-    "Version": "0.3.0",
+    "Version": "0.4.0",
     "Description": "Vulkan Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
@@ -13240,6 +13240,12 @@
     "Version": "3.26.0",
     "Description": "ProtonMail Bridge application",
     "Homepage": "https://github.com/ProtonMail/proton-bridge"
+  },
+  {
+    "Package": "proton-drive-cli",
+    "Version": "0.8.0",
+    "Description": "Official command-line client for Proton Drive",
+    "Homepage": "https://github.com/ProtonDriveApps/sdk"
   },
   {
     "Package": "proton-pass-cli",
