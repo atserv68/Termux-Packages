@@ -463,7 +463,7 @@
   },
   {
     "Package": "asciidoctor",
-    "Version": "2.0.26",
+    "Version": "2.0.26-1",
     "Description": "An implementation of AsciiDoc in Ruby",
     "Homepage": "https://asciidoctor.org/"
   },
@@ -1984,6 +1984,12 @@
     "Version": "2.8.6",
     "Description": "Static libraries for dar",
     "Homepage": "http://dar.linux.free.fr/"
+  },
+  {
+    "Package": "darcs",
+    "Version": "2.18.5",
+    "Description": "A distributed, interactive, smart revision control system",
+    "Homepage": "https://darcs.net/"
   },
   {
     "Package": "darkhttpd",
@@ -6787,13 +6793,13 @@
   },
   {
     "Package": "libgcrypt",
-    "Version": "1.12.2",
+    "Version": "1.12.3",
     "Description": "General purpose cryptographic library based on the code from GnuPG",
     "Homepage": "https://www.gnu.org/software/libgcrypt/"
   },
   {
     "Package": "libgcrypt-static",
-    "Version": "1.12.2",
+    "Version": "1.12.3",
     "Description": "Static libraries for libgcrypt",
     "Homepage": "https://www.gnu.org/software/libgcrypt/"
   },
@@ -14407,13 +14413,13 @@
   },
   {
     "Package": "ruby",
-    "Version": "3.4.1-2",
+    "Version": "4.0.6",
     "Description": "Dynamic programming language with a focus on simplicity and productivity",
     "Homepage": "https://www.ruby-lang.org/"
   },
   {
     "Package": "ruby-ri",
-    "Version": "3.4.1-2",
+    "Version": "4.0.6",
     "Description": "Ruby documentation index",
     "Homepage": "https://www.ruby-lang.org/"
   },
@@ -16861,7 +16867,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.1000",
+    "Version": "9.2.1000-1",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -17137,13 +17143,13 @@
   },
   {
     "Package": "weechat",
-    "Version": "4.10.0",
+    "Version": "4.10.0-1",
     "Description": "Fast, light and extensible IRC chat client",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-lua-plugin",
-    "Version": "4.10.0",
+    "Version": "4.10.0-1",
     "Description": "WeeChat Lua Plugin",
     "Homepage": "https://weechat.org/"
   },
@@ -17155,19 +17161,19 @@
   },
   {
     "Package": "weechat-perl-plugin",
-    "Version": "4.10.0",
+    "Version": "4.10.0-1",
     "Description": "WeeChat Perl Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-python-plugin",
-    "Version": "4.10.0",
+    "Version": "4.10.0-1",
     "Description": "WeeChat Python3 Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-ruby-plugin",
-    "Version": "4.10.0",
+    "Version": "4.10.0-1",
     "Description": "WeeChat Ruby Plugin",
     "Homepage": "https://weechat.org/"
   },
@@ -17449,7 +17455,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.1000",
+    "Version": "9.2.1000-1",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
