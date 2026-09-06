@@ -182,7 +182,7 @@
  btrfs-progs  7.0  Utilities for Btrfs filesystem  https://btrfs.readthedocs.io/en/latest/ 
  buf  1.72.0  A new way of working with Protocol Buffers  https://buf.build 
  build-essential  4.1  A metapackage that installs essential development tools  https://github.com/termux/termux-packages 
- bun  1.4.2  Incredibly fast JavaScript runtime, bundler, test runner, and package manager  https://bun.com 
+ bun  1.4.2-2  Incredibly fast JavaScript runtime, bundler, test runner, and package manager  https://bun.com 
  busybox  1.38.0-1  Tiny versions of many common UNIX utilities into a single small executable  https://busybox.net/ 
  bvi  1.5.0-1  Binary file editor based on vi  https://bvi.sourceforge.net/ 
  byacc  20260126  byacc is generally conceded to be the best yacc variant available  https://invisible-island.net/byacc/ 
@@ -1707,9 +1707,9 @@
  littlecms  2.19.1  Color management library  http://www.littlecms.com/ 
  littlecms-static  2.19.1  Static libraries for littlecms  http://www.littlecms.com/ 
  littlecms-utils  2.19.1  Color management utilities  http://www.littlecms.com/ 
- llama-cpp  0.0.0-v0.3.0-0  LLM inference in C/C++  https://github.com/ggml-org/llama.cpp 
- llama-cpp-backend-opencl  0.0.0-v0.3.0-0  OpenCL Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
- llama-cpp-backend-vulkan  0.0.0-v0.3.0-0  Vulkan Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
+ llama-cpp  0.3.0  LLM inference in C/C++  https://github.com/ggml-org/llama.cpp 
+ llama-cpp-backend-opencl  0.3.0  OpenCL Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
+ llama-cpp-backend-vulkan  0.3.0  Vulkan Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
  llbuild  6.2.1  A low-level build system, used by the Swift Package Manager  https://github.com/swiftlang/swift-llbuild 
  lld  21.1.8-3  LLVM-based linker  https://clang.llvm.org/ 
  lldb  21.1.8-3  LLVM-based debugger  https://clang.llvm.org/ 

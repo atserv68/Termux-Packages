@@ -1105,7 +1105,7 @@
   },
   {
     "Package": "bun",
-    "Version": "1.4.2",
+    "Version": "1.4.2-2",
     "Description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager",
     "Homepage": "https://bun.com"
   },
@@ -10255,19 +10255,19 @@
   },
   {
     "Package": "llama-cpp",
-    "Version": "0.0.0-v0.3.0-0",
+    "Version": "0.3.0",
     "Description": "LLM inference in C/C++",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-opencl",
-    "Version": "0.0.0-v0.3.0-0",
+    "Version": "0.3.0",
     "Description": "OpenCL Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-vulkan",
-    "Version": "0.0.0-v0.3.0-0",
+    "Version": "0.3.0",
     "Description": "Vulkan Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
