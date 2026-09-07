@@ -2387,7 +2387,7 @@
   Description: Static libraries for gecode
   Homepage: https://www.gecode.dev/
 - Package: gegl
-  Version: 0.4.70
+  Version: 0.4.72
   Description: Data flow based image processing framework
   Homepage: https://gegl.org/
 - Package: gengetopt
@@ -3507,7 +3507,7 @@
   Description: Static libraries for jq
   Homepage: https://jqlang.org/
 - Package: jql
-  Version: 8.1.2
+  Version: 8.3.0
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
@@ -3603,7 +3603,7 @@
   Description: Open-source implementation of the APL-like K programming language
   Homepage: https://github.com/kevinlawler/kona
 - Package: kotlin
-  Version: 2.4.10
+  Version: 2.4.20
   Description: The Kotlin Programming Language
   Homepage: https://kotlinlang.org/
 - Package: krb5

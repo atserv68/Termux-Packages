@@ -3583,7 +3583,7 @@
   },
   {
     "Package": "gegl",
-    "Version": "0.4.70",
+    "Version": "0.4.72",
     "Description": "Data flow based image processing framework",
     "Homepage": "https://gegl.org/"
   },
@@ -5263,7 +5263,7 @@
   },
   {
     "Package": "jql",
-    "Version": "8.1.2",
+    "Version": "8.3.0",
     "Description": "A JSON Query Language CLI tool",
     "Homepage": "https://github.com/yamafaktory/jql"
   },
@@ -5407,7 +5407,7 @@
   },
   {
     "Package": "kotlin",
-    "Version": "2.4.10",
+    "Version": "2.4.20",
     "Description": "The Kotlin Programming Language",
     "Homepage": "https://kotlinlang.org/"
   },

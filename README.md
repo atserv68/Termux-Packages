@@ -607,7 +607,7 @@
 | **geckodriver** | 0.37.1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.4.0 | Generic Constraint Development Environment | https://www.gecode.dev/ |
 | **gecode-static** | 6.3.0 | Static libraries for gecode | https://www.gecode.dev/ |
-| **gegl** | 0.4.70 | Data flow based image processing framework | https://gegl.org/ |
+| **gegl** | 0.4.72 | Data flow based image processing framework | https://gegl.org/ |
 | **gengetopt** | 2.23-4 | gengetopt is a tool to write command line option parsing code for C programs | https://www.gnu.org/software/gengetopt/ |
 | **geographiclib** | 2.7 | Utilities and C++ library to solve some geodesic problems | https://geographiclib.sourceforge.io |
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
@@ -887,7 +887,7 @@
 | **jq** | 1.8.2 | Command-line JSON processor | https://jqlang.org/ |
 | **jq-lsp** | 0.1.18 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.8.2 | Static libraries for jq | https://jqlang.org/ |
-| **jql** | 8.1.2 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
+| **jql** | 8.3.0 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.19 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.19 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
 | **json-glib** | 1.10.8 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
@@ -911,7 +911,7 @@
 | **knockd** | 0.8.2-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.2.4-2 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225-1 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
-| **kotlin** | 2.4.10 | The Kotlin Programming Language | https://kotlinlang.org/ |
+| **kotlin** | 2.4.20 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.7.1 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.37.0 | Kubernetes.io client binary | https://kubernetes.io/ |
