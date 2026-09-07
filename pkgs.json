@@ -3469,7 +3469,7 @@
   },
   {
     "Package": "garage",
-    "Version": "2.3.0-1",
+    "Version": "2.4.0",
     "Description": "S3-compatible object store for small self-hosted geo-distributed deployments",
     "Homepage": "https://garagehq.deuxfleurs.fr/"
   },
@@ -5179,7 +5179,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.123.0",
+    "Version": "2.124.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -8311,7 +8311,7 @@
   },
   {
     "Package": "libp11",
-    "Version": "0.4.20",
+    "Version": "0.4.21",
     "Description": "PKCS#11 wrapper library",
     "Homepage": "https://github.com/OpenSC/libp11"
   },
@@ -11281,7 +11281,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.18.0",
+    "Version": "2.19.0",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -12511,13 +12511,13 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.81.0",
+    "Version": "1.82.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
   {
     "Package": "oxlint",
-    "Version": "1.81.0",
+    "Version": "1.82.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },

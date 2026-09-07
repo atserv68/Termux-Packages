@@ -2311,7 +2311,7 @@
   Description: Packages for gap
   Homepage: https://www.gap-system.org/
 - Package: garage
-  Version: 2.3.0-1
+  Version: 2.4.0
   Description: S3-compatible object store for small self-hosted geo-distributed deployments
   Homepage: https://garagehq.deuxfleurs.fr/
 - Package: gatling
@@ -3451,7 +3451,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.123.0
+  Version: 2.124.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -5539,7 +5539,7 @@
   Description: GPL reimplementation of libdjb
   Homepage: http://www.fefe.de/libowfat/
 - Package: libp11
-  Version: 0.4.20
+  Version: 0.4.21
   Description: PKCS#11 wrapper library
   Homepage: https://github.com/OpenSC/libp11
 - Package: libp8-platform
@@ -7519,7 +7519,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://www.seehuhn.de/programs/moon-buggy
 - Package: moor
-  Version: 2.18.0
+  Version: 2.19.0
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -8339,11 +8339,11 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.81.0
+  Version: 1.82.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxlint
-  Version: 1.81.0
+  Version: 1.82.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
