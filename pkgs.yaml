@@ -15,7 +15,7 @@
   Description: Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa
   Homepage: https://github.com/wojtekka/6tunnel
 - Package: 7zip
-  Version: 26.02-3
+  Version: "26.03"
   Description: 7-Zip file archiver with a high compression ratio
   Homepage: https://www.7-zip.org
 - Package: 8086tiny
@@ -175,7 +175,7 @@
   Description: Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode
   Homepage: http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php
 - Package: ant
-  Version: 1.10.17
+  Version: 1.10.18
   Description: Java based build tool like make
   Homepage: https://ant.apache.org/
 - Package: antibody
@@ -3399,7 +3399,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2492
+  Version: 0.24.2541
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7063,7 +7063,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.43.4
+  Version: 0.43.5
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7315,7 +7315,7 @@
   Description: A tool for scanning for mDNS/DNS-SD services published on the local network
   Homepage: https://github.com/alteholz/mdns-scan
 - Package: mdp
-  Version: 1.0.18-1
+  Version: 1.0.19
   Description: Command-line based markdown presentation tool
   Homepage: https://github.com/visit1985/mdp
 - Package: media-types

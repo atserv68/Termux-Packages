@@ -25,7 +25,7 @@
   },
   {
     "Package": "7zip",
-    "Version": "26.02-3",
+    "Version": "26.03",
     "Description": "7-Zip file archiver with a high compression ratio",
     "Homepage": "https://www.7-zip.org"
   },
@@ -265,7 +265,7 @@
   },
   {
     "Package": "ant",
-    "Version": "1.10.17",
+    "Version": "1.10.18",
     "Description": "Java based build tool like make",
     "Homepage": "https://ant.apache.org/"
   },
@@ -5101,7 +5101,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2492",
+    "Version": "0.24.2541",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -10597,7 +10597,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.43.4",
+    "Version": "0.43.5",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10975,7 +10975,7 @@
   },
   {
     "Package": "mdp",
-    "Version": "1.0.18-1",
+    "Version": "1.0.19",
     "Description": "Command-line based markdown presentation tool",
     "Homepage": "https://github.com/visit1985/mdp"
   },
