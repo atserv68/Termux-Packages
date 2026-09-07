@@ -715,7 +715,7 @@
   },
   {
     "Package": "azure-cli",
-    "Version": "2.90.0",
+    "Version": "2.90.0-1",
     "Description": "Microsofts command-line tool for managing Azure cloud resources",
     "Homepage": "https://learn.microsoft.com/en-us/cli/azure/"
   },
@@ -3241,7 +3241,7 @@
   },
   {
     "Package": "flint",
-    "Version": "3.6.0",
+    "Version": "3.6.0-1",
     "Description": "C library for doing number theory",
     "Homepage": "http://www.flintlib.org"
   },
@@ -4798,6 +4798,12 @@
     "Version": "1.7.3",
     "Description": "Static libraries for hunspell",
     "Homepage": "https://hunspell.github.io"
+  },
+  {
+    "Package": "hurl",
+    "Version": "8.0.1",
+    "Description": "Command line tool that runs and tests HTTP requests defined in a plain text format",
+    "Homepage": "https://hurl.dev"
   },
   {
     "Package": "hut",
@@ -11743,7 +11749,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1536+g050fa30632-0",
+    "Version": "0.13.0~dev-1545+g36cc62b276-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13957,7 +13963,7 @@
   },
   {
     "Package": "radarr",
-    "Version": "6.3.0.10514-3",
+    "Version": "6.3.0.10514-4",
     "Description": "A PVR for Usenet and BitTorrent users (server)",
     "Homepage": "https://radarr.video"
   },
@@ -14455,7 +14461,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260831",
+    "Version": "20260907",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -15031,7 +15037,7 @@
   },
   {
     "Package": "sonarr",
-    "Version": "4.0.19.2979-4",
+    "Version": "4.0.19.2979-5",
     "Description": "A PVR for Usenet and BitTorrent users (server)",
     "Homepage": "https://sonarr.tv"
   },
