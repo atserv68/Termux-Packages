@@ -4399,37 +4399,37 @@
   },
   {
     "Package": "gst-libav",
-    "Version": "1.28.6",
+    "Version": "1.28.7",
     "Description": "GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code",
     "Homepage": "https://gstreamer.freedesktop.org/modules/gst-libav.html"
   },
   {
     "Package": "gst-plugins-bad",
-    "Version": "1.28.6",
+    "Version": "1.28.7",
     "Description": "GStreamer Bad Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-base",
-    "Version": "1.28.6",
+    "Version": "1.28.7",
     "Description": "GStreamer base plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-good",
-    "Version": "1.28.6",
+    "Version": "1.28.7",
     "Description": "GStreamer Good Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-plugins-ugly",
-    "Version": "1.28.6",
+    "Version": "1.28.7",
     "Description": "GStreamer Ugly Plug-ins",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
   {
     "Package": "gst-python",
-    "Version": "1.28.6",
+    "Version": "1.28.7",
     "Description": "Python bindings for GStreamer",
     "Homepage": "https://gstreamer.freedesktop.org/"
   },
@@ -5263,7 +5263,7 @@
   },
   {
     "Package": "jql",
-    "Version": "8.3.0",
+    "Version": "9.0.1",
     "Description": "A JSON Query Language CLI tool",
     "Homepage": "https://github.com/yamafaktory/jql"
   },
@@ -10543,7 +10543,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1788460057+g24c20c9",
+    "Version": "1:2.1.1788856981+gc6ffc14",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -10555,7 +10555,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1788460057+g24c20c9",
+    "Version": "1:2.1.1788856981+gc6ffc14",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -14467,7 +14467,7 @@
   },
   {
     "Package": "rust-bindgen",
-    "Version": "0.73.1",
+    "Version": "0.73.2",
     "Description": "Automatically generates Rust FFI bindings to C (and some C++) libraries",
     "Homepage": "https://github.com/rust-lang/rust-bindgen"
   },
@@ -14563,7 +14563,7 @@
   },
   {
     "Package": "sabnzbd",
-    "Version": "5.1.2",
+    "Version": "5.1.3",
     "Description": "Fully automated Usenet Binary Downloader",
     "Homepage": "https://sabnzbd.org/"
   },
@@ -15595,7 +15595,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "2.1.3",
+    "Version": "2.1.5",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
@@ -16027,7 +16027,7 @@
   },
   {
     "Package": "tinymist",
-    "Version": "0.15.6",
+    "Version": "0.15.8",
     "Description": "An integrated language service for Typst",
     "Homepage": "https://myriad-dreamin.github.io/tinymist"
   },
