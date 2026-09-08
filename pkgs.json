@@ -1831,7 +1831,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.5.0",
+    "Version": "1:11.5.1",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -2251,7 +2251,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "5.0.3",
+    "Version": "5.0.4",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://dnscontrol.org/"
   },
@@ -3835,7 +3835,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.116.0",
+    "Version": "1.117.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -7603,19 +7603,19 @@
   },
   {
     "Package": "libmaxminddb",
-    "Version": "1.13.3",
+    "Version": "1.14.0",
     "Description": "MaxMind GeoIP2 database - library and utilities",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-static",
-    "Version": "1.13.3",
+    "Version": "1.14.0",
     "Description": "Static libraries for libmaxminddb",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-tools",
-    "Version": "1.13.3",
+    "Version": "1.14.0",
     "Description": "A geoip lookup utility for MaxMind DB",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
@@ -12085,7 +12085,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "31.2.0",
+    "Version": "31.2.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -15163,7 +15163,7 @@
   },
   {
     "Package": "sqlcipher",
-    "Version": "4.18.0",
+    "Version": "4.19.0",
     "Description": "SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files",
     "Homepage": "https://github.com/sqlcipher/sqlcipher"
   },
