@@ -72,7 +72,7 @@
  arj  3.10.22-6  Open-source version of arj archiver  https://arj.sourceforge.net/ 
  arpack-ng  2:3.9.1  Collection of Fortran77 subroutines designed to solve large scale eigenvalue problems.  https://github.com/opencollab/arpack-ng 
  artalk  2.10.0  A self-hosted comment system  https://artalk.js.org/ 
- arturo  0.10.0  Simple, expressive & portable programming language for efficient scripting  https://arturo-lang.io 
+ arturo  0.10.0-1  Simple, expressive & portable programming language for efficient scripting  https://arturo-lang.io 
  ascii  3.32  List ASCII idiomatic names and octal/decimal code-point forms  http://www.catb.org/~esr/ascii/ 
  asciidoc  10.2.1-3  Text document format for short documents, articles, books and UNIX man pages.  https://asciidoc.org 
  asciidoctor  2.0.26-1  An implementation of AsciiDoc in Ruby  https://asciidoctor.org/ 
@@ -310,7 +310,7 @@
  cryptopp  8.9.0-1  A free C++ class library of cryptographic schemes  https://www.cryptopp.com/ 
  cryptopp-static  8.9.0-1  Static libraries for cryptopp  https://www.cryptopp.com/ 
  cscope  15.9-2  A developers tool for browsing program code  https://cscope.sourceforge.net/ 
- csh  20110502-1  C Shell with process control from 3BSD  https://packages.debian.org/sid/csh 
+ csh  20110502-2  C Shell with process control from 3BSD  https://packages.debian.org/sid/csh 
  csol  1.6.0-1  A small collection of solitaire games implemented in C using ncurses  https://github.com/nielssp/csol 
  csview  1.3.4-1  Pretty-printing CSV/TSV/xSV on terminal  https://github.com/wfxr/csview 
  ctags  2:6.2.1  Universal ctags: Source code index builder  https://ctags.io/ 
@@ -460,7 +460,7 @@
  electric-fence  2.2.7-1  Electric Fence (eFence) malloc memory debugger  https://elinux.org/Electric_Fence 
  electric-fence-static  2.2.7-1  Static libraries for electric-fence  https://elinux.org/Electric_Fence 
  electrum  4.7.1-1  Electrum is a lightweight Bitcoin wallet  https://electrum.org 
- elfutils  0.193-1  A collection of utilities to read, create and modify ELF binary files  https://sourceware.org/elfutils/ 
+ elfutils  0.196  A collection of utilities to read, create and modify ELF binary files  https://sourceware.org/elfutils/ 
  elinks  0.20.0  Full-Featured Text WWW Browser  https://github.com/rkd77/elinks 
  elixir  1.20.4  Elixir is a dynamic, functional language designed for building scalable and maintainable applications  https://elixir-lang.org/ 
  eltclsh  1.20-1  Interactive shell for TCL programming language  https://homepages.laas.fr/mallet/soft/shell/eltclsh 
@@ -934,8 +934,8 @@
  lhasa-static  0.6.0  Static libraries for lhasa  https://lhasa.soulsphere.org/ 
  liba52  0.8.0-3  A free library for decoding ATSC A/52 streams  http://liba52.sourceforge.net/ 
  liba52-static  0.8.0-3  Static libraries for liba52  http://liba52.sourceforge.net/ 
- libabw  0.1.3-5  a library that parses the file format of AbiWord documents  https://wiki.documentfoundation.org/DLP/Libraries/libabw 
- libabw-static  0.1.3-5  Static libraries for libabw  https://wiki.documentfoundation.org/DLP/Libraries/libabw 
+ libabw  0.1.4  a library that parses the file format of AbiWord documents  https://wiki.documentfoundation.org/DLP/Libraries/libabw 
+ libabw-static  0.1.4  Static libraries for libabw  https://wiki.documentfoundation.org/DLP/Libraries/libabw 
  libaccounts-glib  1.27  Glib-based client library for accessing the online accounts database  https://gitlab.com/accounts-sso/libaccounts-glib 
  libacl  2.4.0  Access control list shared library  http://savannah.nongnu.org/projects/acl 
  libacl-static  2.4.0  Static libraries for libacl  http://savannah.nongnu.org/projects/acl 
@@ -970,9 +970,9 @@
  libarchive  3.8.9  Multi-format archive and compression library  https://www.libarchive.org/ 
  libarchive-static  3.8.9  Static libraries for libarchive  https://www.libarchive.org/ 
  libarrow-cpp  25.0.1  C++ libraries for Apache Arrow  https://github.com/apache/arrow 
- libasio  1.36.0-1  Cross-platform C++ library for network and low-level I/O programming  https://think-async.com/Asio 
- libasm  0.193-1  Library to assemble and disassemble instructions  https://sourceware.org/elfutils/ 
- libasm-static  0.193-1  Static library to assemble and disassemble instructions  https://sourceware.org/elfutils/ 
+ libasio  1.38.2  Cross-platform C++ library for network and low-level I/O programming  https://think-async.com/Asio 
+ libasm  0.196  Library to assemble and disassemble instructions  https://sourceware.org/elfutils/ 
+ libasm-static  0.196  Static library to assemble and disassemble instructions  https://sourceware.org/elfutils/ 
  libass  0.17.5  A portable library for SSA/ASS subtitles rendering  https://github.com/libass/libass 
  libass-static  0.17.5  Static libraries for libass  https://github.com/libass/libass 
  libassuan  3.0.2-1  Library implementing the Assuan IPC protocol used between most newer GnuPG components  https://www.gnupg.org/related_software/libassuan/ 
@@ -991,8 +991,8 @@
  libbluray-utils  1.5.0  Example utilities for libbluray  https://code.videolan.org/videolan/libbluray/ 
  libbs2b  3.1.0-2  Bauer stereophonic-to-binaural DSP  https://bs2b.sourceforge.net/ 
  libbs2b-static  3.1.0-2  Static libraries for libbs2b  https://bs2b.sourceforge.net/ 
- libbsd  0.11.7-3  utility functions from BSD systems  https://libbsd.freedesktop.org 
- libbsd-static  0.11.7-3  Static libraries for libbsd  https://libbsd.freedesktop.org 
+ libbsd  0.12.2  utility functions from BSD systems  https://libbsd.freedesktop.org 
+ libbsd-static  0.12.2  Static libraries for libbsd  https://libbsd.freedesktop.org 
  libbullet  3.25-2  SDK for real-time collision detection and multi-physics simulation for robotics, VR, etc  https://github.com/bulletphysics/bullet3 
  libburn  1.5.8  Library for reading, mastering and writing optical discs  https://dev.lovelyhq.com/libburnia 
  libburn-static  1.5.8  Static libraries for libburn  https://dev.lovelyhq.com/libburnia 
@@ -1006,15 +1006,15 @@
  libcairo  1.18.4-2  Cairo 2D vector graphics library  https://cairographics.org 
  libcairomm-1.0  1.14.6  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
  libcairomm-1.16  1.18.1  Provides a C++ interface to cairo  https://www.cairographics.org/cairomm/ 
- libcap  2.69-1  POSIX 1003.1e capabilities  https://sites.google.com/site/fullycapable/ 
+ libcap  2.78  POSIX 1003.1e capabilities  https://sites.google.com/site/fullycapable/ 
  libcap-ng  2:0.9.5  Library making programming with POSIX capabilities easier than traditional libcap  https://people.redhat.com/sgrubb/libcap-ng/ 
  libcap-ng-static  2:0.9.5  Static libraries for libcap-ng  https://people.redhat.com/sgrubb/libcap-ng/ 
- libcap-static  2.69-1  Static libraries for libcap  https://sites.google.com/site/fullycapable/ 
+ libcap-static  2.78  Static libraries for libcap  https://sites.google.com/site/fullycapable/ 
  libccd  2.1-2  Library for collision detection between two convex shapes  https://github.com/danfis/libccd 
  libcddb  1.3.2-1  A C library to access data on a CDDB server  https://libcddb.sourceforge.net/ 
  libcddb-static  1.3.2-1  Static libraries for libcddb  https://libcddb.sourceforge.net/ 
- libcdr  0.1.8-5  CorelDraw file format importer library for LibreOffice  https://wiki.documentfoundation.org/DLP/Libraries/libcdr 
- libcdr-static  0.1.8-5  Static libraries for libcdr  https://wiki.documentfoundation.org/DLP/Libraries/libcdr 
+ libcdr  0.1.9  CorelDraw file format importer library for LibreOffice  https://wiki.documentfoundation.org/DLP/Libraries/libcdr 
+ libcdr-static  0.1.9  Static libraries for libcdr  https://wiki.documentfoundation.org/DLP/Libraries/libcdr 
  libcec  8.1.7  Provides support for Pulse-Eight's USB-CEC adapter and other CEC capable hardware  https://libcec.pulse-eight.com/ 
  libcec-static  8.1.7  Static libraries for libcec  https://libcec.pulse-eight.com/ 
  libceres-solver  2.2.0-4  C++ library for modeling and solving large, complicated optimization problems  http://ceres-solver.org 
@@ -1056,7 +1056,7 @@
  libdb  18.1.40-6  The Berkeley DB embedded database system (library)  https://www.oracle.com/database/berkeley-db 
  libdb-static  18.1.40-6  Static libraries for libdb  https://www.oracle.com/database/berkeley-db 
  libde265  1.1.2  H.265/HEVC video stream decoder library  https://github.com/strukturag/libde265 
- libdebuginfod  0.193-1  Library for debuginfod  https://sourceware.org/elfutils/ 
+ libdebuginfod  0.196  Library for debuginfod  https://sourceware.org/elfutils/ 
  libdeflate  1.26  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
  libdeflate-static  1.26  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
  libdevil  1.8.0-7  A cross-platform image library utilizing a simple syntax  https://openil.sourceforge.net/ 
@@ -1077,8 +1077,8 @@
  libdvdnav-static  7.0.0  Static libraries for libdvdnav  https://www.videolan.org/developers/libdvdnav.html 
  libdvdread  7.1.1  A library that allows easy use of sophisticated DVD navigation features  https://code.videolan.org/videolan/libdvdread 
  libdvdread-static  7.1.1  Static libraries for libdvdread  https://code.videolan.org/videolan/libdvdread 
- libdw  0.193-1  Library to read DWARF information  https://sourceware.org/elfutils/ 
- libdw-static  0.193-1  Static library to read DWARF information  https://sourceware.org/elfutils/ 
+ libdw  0.196  Library to read DWARF information  https://sourceware.org/elfutils/ 
+ libdw-static  0.196  Static library to read DWARF information  https://sourceware.org/elfutils/ 
  libdwarf  2.3.2  Library for handling DWARF Debugging Information Format  https://www.prevanders.net/dwarf.html 
  libdwarf-static  2.3.2  Static libraries for libdwarf  https://www.prevanders.net/dwarf.html 
  libe-book  0.1.3-5  Library for import of reflowable e-book formats.  https://sourceforge.net/projects/libebook/ 
@@ -1087,8 +1087,8 @@
  libebur128  1.2.6-4  Implements the EBU R 128 standard for loudness normalisation  https://github.com/jiixyj/libebur128 
  libedit  20260512-3.1-0  Library providing line editing, history, and tokenization functions  https://thrysoee.dk/editline/ 
  libedit-static  20260512-3.1-0  Static libraries for libedit  https://thrysoee.dk/editline/ 
- libelf  0.193-1  ELF object file access library  https://sourceware.org/elfutils/ 
- libelf-static  0.193-1  Static libraries for libelf  https://sourceware.org/elfutils/ 
+ libelf  0.196  ELF object file access library  https://sourceware.org/elfutils/ 
+ libelf-static  0.196  Static libraries for libelf  https://sourceware.org/elfutils/ 
  libenet  1.3.18-1  ENet reliable UDP networking library  http://enet.bespin.org 
  libenet-static  1.3.18-1  Static libraries for libenet  http://enet.bespin.org 
  libeot  0.01  Library for parsing Embedded OpenType font files  https://github.com/umanwizard/libeot 
@@ -1114,8 +1114,8 @@
  libfdisk  2.42.1-4  Library for manipulating disk partition tables  https://en.wikipedia.org/wiki/Util-linux 
  libfdk-aac  2.0.3-1  Fraunhofer FDK AAC Codec Library  https://github.com/mstorsjo/fdk-aac 
  libfdk-aac-static  2.0.3-1  Static libraries for libfdk-aac  https://github.com/mstorsjo/fdk-aac 
- libffi  3.5.2  Library providing a portable, high level programming interface to various calling conventions  https://sourceware.org/libffi/ 
- libffi-static  3.5.2  Static libraries for libffi  https://sourceware.org/libffi/ 
+ libffi  3.8.0  Library providing a portable, high level programming interface to various calling conventions  https://sourceware.org/libffi/ 
+ libffi-static  3.8.0  Static libraries for libffi  https://sourceware.org/libffi/ 
  libfixposix  0.5.1-1  Thin wrapper over POSIX syscalls  https://github.com/sionescu/libfixposix/ 
  libfixposix-static  0.5.1-1  Static libraries for libfixposix  https://github.com/sionescu/libfixposix/ 
  libflac  1.5.0-1  FLAC (Free Lossless Audio Codec) library  https://xiph.org/flac/ 
@@ -1533,7 +1533,7 @@
  libtbb  2023.1.0  oneAPI Threading Building Blocks  https://uxlfoundation.github.io/oneTBB/ 
  libtd  1.8.50-1  Library for building Telegram clients  https://core.telegram.org/tdlib/ 
  libtd-static  1.8.50-1  Static libraries for libtd  https://core.telegram.org/tdlib/ 
- libtdb  1.4.15  A trivial database system  https://tdb.samba.org/ 
+ libtdb  1.4.15-1  A trivial database system  https://tdb.samba.org/ 
  libtermkey  0.22-5  Library for processing of keyboard entry for terminal-based programs  http://www.leonerd.org.uk/code/libtermkey/ 
  libtheora  1.2.0-1  An open video codec developed by the Xiph.org  https://www.theora.org/ 
  libtheora-static  1.2.0-1  Static libraries for libtheora  https://www.theora.org/ 
@@ -1843,7 +1843,7 @@
  mesa-vulkan-icd-swrast  26.0.6-3  Mesa's Swrast Vulkan ICD  https://www.mesa3d.org 
  mesa-vulkan-icd-virtio  26.0.6-3  Mesa's VirtIO Vulkan ICD  https://www.mesa3d.org 
  mfcuk  2018.07.14-1  MiFare Classic Universal toolKit (MFCUK)  https://github.com/nfc-tools/mfcuk 
- mg  20260719  microscopic GNU Emacs-style editor  https://github.com/hboetes/mg 
+ mg  20260719-1  microscopic GNU Emacs-style editor  https://github.com/hboetes/mg 
  micro  2.0.15-2  Modern and intuitive terminal-based text editor  https://micro-editor.github.io/ 
  microsocks  1:1.0.5-1  tiny, portable SOCKS5 server with very moderate resource usage  https://github.com/rofl0r/microsocks 
  miller  6.21.0  Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON  https://miller.readthedocs.io/ 
@@ -1861,7 +1861,7 @@
  miniz  3.1.2  Single C source file zlib-replacement library  https://github.com/richgel999/miniz 
  minizinc  2.10.1  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.10.1  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
- mise  2026.9.2  dev tools, env vars, task runner  https://mise.jdx.dev/ 
+ mise  2026.9.3  dev tools, env vars, task runner  https://mise.jdx.dev/ 
  mkbootimg  2022.11.09-1  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
  mksh  59c-5  The MirBSD Korn Shell - an enhanced version of the public domain ksh  http://www.mirbsd.org/mksh.htm 
@@ -1961,7 +1961,7 @@
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
  net-tools  2.10.0-1  Configuration tools for Linux networking  http://net-tools.sourceforge.net/ 
- netcat-openbsd  1.238-1-1  TCP/IP swiss army knife. OpenBSD variant.  https://packages.debian.org/sid/netcat-openbsd 
+ netcat-openbsd  1.238-1-2  TCP/IP swiss army knife. OpenBSD variant.  https://packages.debian.org/sid/netcat-openbsd 
  netcdf-c  4.10.1  NetCDF is a set of software libraries and self-describing, machine-independent data formats that support the creation, access, and sharing of array-oriented scientific data  https://www.unidata.ucar.edu/software/netcdf/ 
  netcdf-c-static  4.10.1  Static libraries for netcdf-c  https://www.unidata.ucar.edu/software/netcdf/ 
  nethack  3.6.7-2  Dungeon crawl game  http://www.nethack.org/ 
@@ -1976,7 +1976,7 @@
  nginx  1.31.5  Lightweight HTTP server  https://www.nginx.org 
  ngircd  28  Free, portable and lightweight Internet Relay Chat server  https://ngircd.barton.de/ 
  ngspice  47  A mixed-level/mixed-signal circuit simulator  https://ngspice.sourceforge.net/ 
- nim  2.2.6  Nim programming language compiler  https://nim-lang.org/ 
+ nim  2.2.6-1  Nim programming language compiler  https://nim-lang.org/ 
  ninja  1.13.2  A small build system with a focus on speed  https://ninja-build.org 
  ninvaders  0.1.2-3  Space Invaders clone based on ncurses for ASCII output  https://ninvaders.sourceforge.net 
  nlohmann-json  3.12.0  JSON for Modern C++  https://github.com/nlohmann/json 
@@ -2426,7 +2426,7 @@
  rustscan  2.4.1-1  The modern,fast,smart and effective port scanner  https://rustscan.github.io/RustScan 
  rxfetch  2023.01.07  A custom system info fetching tool  https://github.com/Mangeshrex/rxfetch 
  sabnzbd  5.1.3  Fully automated Usenet Binary Downloader  https://sabnzbd.org/ 
- samba  4.16.11-6  SMB/CIFS fileserver  https://www.samba.org/ 
+ samba  4.24.6  SMB/CIFS fileserver  https://www.samba.org/ 
  samefile  2.15-6  Finds files with identical contents, independent of file name  http://www.schweikhardt.net/samefile/ 
  samurai  1.3  ninja-compatible build tool written in C  https://github.com/michaelforney/samurai 
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
@@ -2473,7 +2473,7 @@
  shntool  3.0.10-1  A multi-purpose WAVE data processing and reporting utility  http://shnutils.freeshell.org/shntool/ 
  shtool  2.0.8-9  compilation of small but very stable and portable shell scripts into a single shell tool  http://www.gnu.org/software/shtool/ 
  sideloader  1.0~pre4.2025.8.25  Open-source cross-platform iOS app sideloader. Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…  https://github.com/Dadoum/Sideloader 
- signify  32-1  Lightweight cryptographic signing and verifying tool  https://github.com/aperezdc/signify 
+ signify  32-2  Lightweight cryptographic signing and verifying tool  https://github.com/aperezdc/signify 
  silicon  0.5.3-1  Silicon is an alternative to Carbon implemented in Rust  https://github.com/Aloxaf/silicon 
  silversearcher-ag  2.2.0-6  Fast grep-like program, alternative to ack-grep  https://geoff.greer.fm/ag/ 
  simde  0.8.2  Implementations of SIMD instructions for all systems  https://simd-everywhere.github.io/ 
@@ -2611,7 +2611,7 @@
  tcl  8.6.16  Powerful but easy to learn dynamic programming language  https://www.tcl.tk/ 
  tcllib  2.0  Tcl Standard Library  https://core.tcl-lang.org/tcllib/ 
  tcsh  6.24.16-1  TENEX C Shell, an enhanced version of Berkeley csh  https://www.tcsh.org 
- tdb-tools  1.4.15  Tools for TDB  https://tdb.samba.org/ 
+ tdb-tools  1.4.15-1  Tools for TDB  https://tdb.samba.org/ 
  tdl  0.20.4  Telegram downloader/tools written in Golang  https://docs.iyear.me/tdl/ 
  tea  0.15.1  The official CLI for Gitea  https://gitea.com/gitea/tea 
  tealdeer  1.9.0  A very fast implementation of tldr in Rust  https://tealdeer-rs.github.io/tealdeer/ 

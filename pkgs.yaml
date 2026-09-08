@@ -295,7 +295,7 @@
   Description: A self-hosted comment system
   Homepage: https://artalk.js.org/
 - Package: arturo
-  Version: 0.10.0
+  Version: 0.10.0-1
   Description: Simple, expressive & portable programming language for efficient scripting
   Homepage: https://arturo-lang.io
 - Package: ascii
@@ -1247,7 +1247,7 @@
   Description: A developers tool for browsing program code
   Homepage: https://cscope.sourceforge.net/
 - Package: csh
-  Version: 20110502-1
+  Version: 20110502-2
   Description: C Shell with process control from 3BSD
   Homepage: https://packages.debian.org/sid/csh
 - Package: csol
@@ -1847,7 +1847,7 @@
   Description: Electrum is a lightweight Bitcoin wallet
   Homepage: https://electrum.org
 - Package: elfutils
-  Version: 0.193-1
+  Version: "0.196"
   Description: A collection of utilities to read, create and modify ELF binary files
   Homepage: https://sourceware.org/elfutils/
 - Package: elinks
@@ -3743,11 +3743,11 @@
   Description: Static libraries for liba52
   Homepage: http://liba52.sourceforge.net/
 - Package: libabw
-  Version: 0.1.3-5
+  Version: 0.1.4
   Description: a library that parses the file format of AbiWord documents
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libabw
 - Package: libabw-static
-  Version: 0.1.3-5
+  Version: 0.1.4
   Description: Static libraries for libabw
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libabw
 - Package: libaccounts-glib
@@ -3887,15 +3887,15 @@
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
-  Version: 1.36.0-1
+  Version: 1.38.2
   Description: Cross-platform C++ library for network and low-level I/O programming
   Homepage: https://think-async.com/Asio
 - Package: libasm
-  Version: 0.193-1
+  Version: "0.196"
   Description: Library to assemble and disassemble instructions
   Homepage: https://sourceware.org/elfutils/
 - Package: libasm-static
-  Version: 0.193-1
+  Version: "0.196"
   Description: Static library to assemble and disassemble instructions
   Homepage: https://sourceware.org/elfutils/
 - Package: libass
@@ -3971,11 +3971,11 @@
   Description: Static libraries for libbs2b
   Homepage: https://bs2b.sourceforge.net/
 - Package: libbsd
-  Version: 0.11.7-3
+  Version: 0.12.2
   Description: utility functions from BSD systems
   Homepage: https://libbsd.freedesktop.org
 - Package: libbsd-static
-  Version: 0.11.7-3
+  Version: 0.12.2
   Description: Static libraries for libbsd
   Homepage: https://libbsd.freedesktop.org
 - Package: libbullet
@@ -4031,7 +4031,7 @@
   Description: Provides a C++ interface to cairo
   Homepage: https://www.cairographics.org/cairomm/
 - Package: libcap
-  Version: 2.69-1
+  Version: "2.78"
   Description: POSIX 1003.1e capabilities
   Homepage: https://sites.google.com/site/fullycapable/
 - Package: libcap-ng
@@ -4043,7 +4043,7 @@
   Description: Static libraries for libcap-ng
   Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 - Package: libcap-static
-  Version: 2.69-1
+  Version: "2.78"
   Description: Static libraries for libcap
   Homepage: https://sites.google.com/site/fullycapable/
 - Package: libccd
@@ -4059,11 +4059,11 @@
   Description: Static libraries for libcddb
   Homepage: https://libcddb.sourceforge.net/
 - Package: libcdr
-  Version: 0.1.8-5
+  Version: 0.1.9
   Description: CorelDraw file format importer library for LibreOffice
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
 - Package: libcdr-static
-  Version: 0.1.8-5
+  Version: 0.1.9
   Description: Static libraries for libcdr
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libcdr
 - Package: libcec
@@ -4231,7 +4231,7 @@
   Description: H.265/HEVC video stream decoder library
   Homepage: https://github.com/strukturag/libde265
 - Package: libdebuginfod
-  Version: 0.193-1
+  Version: "0.196"
   Description: Library for debuginfod
   Homepage: https://sourceware.org/elfutils/
 - Package: libdeflate
@@ -4315,11 +4315,11 @@
   Description: Static libraries for libdvdread
   Homepage: https://code.videolan.org/videolan/libdvdread
 - Package: libdw
-  Version: 0.193-1
+  Version: "0.196"
   Description: Library to read DWARF information
   Homepage: https://sourceware.org/elfutils/
 - Package: libdw-static
-  Version: 0.193-1
+  Version: "0.196"
   Description: Static library to read DWARF information
   Homepage: https://sourceware.org/elfutils/
 - Package: libdwarf
@@ -4355,11 +4355,11 @@
   Description: Static libraries for libedit
   Homepage: https://thrysoee.dk/editline/
 - Package: libelf
-  Version: 0.193-1
+  Version: "0.196"
   Description: ELF object file access library
   Homepage: https://sourceware.org/elfutils/
 - Package: libelf-static
-  Version: 0.193-1
+  Version: "0.196"
   Description: Static libraries for libelf
   Homepage: https://sourceware.org/elfutils/
 - Package: libenet
@@ -4463,11 +4463,11 @@
   Description: Static libraries for libfdk-aac
   Homepage: https://github.com/mstorsjo/fdk-aac
 - Package: libffi
-  Version: 3.5.2
+  Version: 3.8.0
   Description: Library providing a portable, high level programming interface to various calling conventions
   Homepage: https://sourceware.org/libffi/
 - Package: libffi-static
-  Version: 3.5.2
+  Version: 3.8.0
   Description: Static libraries for libffi
   Homepage: https://sourceware.org/libffi/
 - Package: libfixposix
@@ -6139,7 +6139,7 @@
   Description: Static libraries for libtd
   Homepage: https://core.telegram.org/tdlib/
 - Package: libtdb
-  Version: 1.4.15
+  Version: 1.4.15-1
   Description: A trivial database system
   Homepage: https://tdb.samba.org/
 - Package: libtermkey
@@ -7379,7 +7379,7 @@
   Description: MiFare Classic Universal toolKit (MFCUK)
   Homepage: https://github.com/nfc-tools/mfcuk
 - Package: mg
-  Version: "20260719"
+  Version: 20260719-1
   Description: microscopic GNU Emacs-style editor
   Homepage: https://github.com/hboetes/mg
 - Package: micro
@@ -7451,7 +7451,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.9.2
+  Version: 2026.9.3
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7851,7 +7851,7 @@
   Description: Configuration tools for Linux networking
   Homepage: http://net-tools.sourceforge.net/
 - Package: netcat-openbsd
-  Version: 1.238-1-1
+  Version: 1.238-1-2
   Description: TCP/IP swiss army knife. OpenBSD variant.
   Homepage: https://packages.debian.org/sid/netcat-openbsd
 - Package: netcdf-c
@@ -7911,7 +7911,7 @@
   Description: A mixed-level/mixed-signal circuit simulator
   Homepage: https://ngspice.sourceforge.net/
 - Package: nim
-  Version: 2.2.6
+  Version: 2.2.6-1
   Description: Nim programming language compiler
   Homepage: https://nim-lang.org/
 - Package: ninja
@@ -9711,7 +9711,7 @@
   Description: Fully automated Usenet Binary Downloader
   Homepage: https://sabnzbd.org/
 - Package: samba
-  Version: 4.16.11-6
+  Version: 4.24.6
   Description: SMB/CIFS fileserver
   Homepage: https://www.samba.org/
 - Package: samefile
@@ -9899,7 +9899,7 @@
   Description: Open-source cross-platform iOS app sideloader. Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…
   Homepage: https://github.com/Dadoum/Sideloader
 - Package: signify
-  Version: 32-1
+  Version: 32-2
   Description: Lightweight cryptographic signing and verifying tool
   Homepage: https://github.com/aperezdc/signify
 - Package: silicon
@@ -10451,7 +10451,7 @@
   Description: TENEX C Shell, an enhanced version of Berkeley csh
   Homepage: https://www.tcsh.org
 - Package: tdb-tools
-  Version: 1.4.15
+  Version: 1.4.15-1
   Description: Tools for TDB
   Homepage: https://tdb.samba.org/
 - Package: tdl
