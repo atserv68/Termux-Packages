@@ -540,7 +540,7 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0-1  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.6.0  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.99  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.100  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.3  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -675,7 +675,7 @@
  goaccess  1.11  An open source real-time web log analyzer and interactive viewer  https://goaccess.io 
  gobang  0.1.0-alpha.5-4  A cross-platform TUI database management tool written in Rust  https://github.com/TaKO8Ki/gobang 
  gobject-introspection  1.86.0-2  Uniform machine readable API  https://gi.readthedocs.io/ 
- gofumpt  0.11.0  A stricter gofmt, backwards compatible drop-in replacement  https://github.com/mvdan/gofumpt 
+ gofumpt  0.12.0  A stricter gofmt, backwards compatible drop-in replacement  https://github.com/mvdan/gofumpt 
  gogs  0.14.3  A painless self-hosted Git service  https://gogs.io 
  goimports  0.49.0  Updates Go import lines, adding missing ones and removing unreferenced ones  https://pkg.go.dev/golang.org/x/tools/cmd/goimports 
  gojq  0.12.19  Pure Go implementation of jq  https://github.com/itchyny/gojq 
@@ -1917,7 +1917,7 @@
  mupdf-tools  1.28.2-1  Lightweight PDF and XPS viewer (utilities)  https://mupdf.com/ 
  music-file-organizer  1.0.4-10  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
  mutt  2.4.2  Mail client with patches from neomutt  http://www.mutt.org/ 
- mycli  2.20.0  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
+ mycli  2.21.1  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
  mympd  26.0.0  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
  mypaint-brushes  2.0.2  MyPaint brushes  https://github.com/mypaint/mypaint-brushes 
@@ -2012,7 +2012,7 @@
  octomap  1.10.0-1  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.0-1  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-5  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  31.1.3  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  31.2.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  oidn  2.4.1  Intel® Open Image Denoise library  https://www.openimagedenoise.org 
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
@@ -2433,7 +2433,7 @@
  sbcl  2.6.8  A high performance Common Lisp compiler  http://www.sbcl.org/ 
  sc-im  0.8.5-4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
  scala  3.9.0  Scala 3 compiler and standard library.  https://www.scala-lang.org 
- scc  4.0.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
+ scc  4.1.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.17.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.17  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
  scdoc  1.11.5  Small man page generator  https://git.sr.ht/~sircmpwn/scdoc 
@@ -2746,7 +2746,7 @@
  tweego  2.1.1-4  A free command line compiler for Twine/Twee story formats  https://bitbucket.org/tmedwards/tweego 
  twolame  0.4.0-1  The frontend for libtwolame  https://www.twolame.org/ 
  txikijs  1:26.6.0  A small and powerful JavaScript runtime  https://github.com/saghul/txiki.js 
- ty  0.0.78  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
+ ty  0.0.79  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
  typst  0.15.1  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
  typstfmt  0.2.10-1  basic formatter for the Typst language  https://github.com/astrale-sharp/typstfmt 
  uchardet  0.0.8-2  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 
