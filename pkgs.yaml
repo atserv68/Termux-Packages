@@ -1387,7 +1387,7 @@
   Description: Bootstrap a basic Debian system
   Homepage: https://wiki.debian.org/Debootstrap
 - Package: delve
-  Version: 1.27.1
+  Version: 1.27.2
   Description: A debugger for the Go programming language
   Homepage: https://github.com/go-delve/delve
 - Package: deno
@@ -1939,11 +1939,11 @@
   Description: An enhanced, backward-compatible port of Thompson Shell
   Homepage: https://etsh.nl
 - Package: execline
-  Version: 2.9.9.2
+  Version: 2.9.9.2-1
   Description: A small scripting language, to be used with an exec chain
   Homepage: https://skarnet.org/software/execline/
 - Package: execline-static
-  Version: 2.9.9.2
+  Version: 2.9.9.2-1
   Description: Static libraries for execline
   Homepage: https://skarnet.org/software/execline/
 - Package: exercism
@@ -2239,7 +2239,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.4.10
+  Version: 0.5.1
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -3163,7 +3163,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.165.0
+  Version: 0.166.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -4035,11 +4035,11 @@
   Description: POSIX 1003.1e capabilities
   Homepage: https://sites.google.com/site/fullycapable/
 - Package: libcap-ng
-  Version: 2:0.9.5
+  Version: 2:0.9.6
   Description: Library making programming with POSIX capabilities easier than traditional libcap
   Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 - Package: libcap-ng-static
-  Version: 2:0.9.5
+  Version: 2:0.9.6
   Description: Static libraries for libcap-ng
   Homepage: https://people.redhat.com/sgrubb/libcap-ng/
 - Package: libcap-static
@@ -5023,11 +5023,11 @@
   Description: Fast LZ compression algorithm library
   Homepage: https://lz4.github.io/lz4/
 - Package: liblzma
-  Version: 5.8.3
+  Version: 5.8.4
   Description: XZ-format compression library
   Homepage: https://tukaani.org/xz/
 - Package: liblzma-static
-  Version: 5.8.3
+  Version: 5.8.4
   Description: Static libraries for liblzma
   Homepage: https://tukaani.org/xz/
 - Package: liblzo
@@ -8702,6 +8702,10 @@
   Version: 3.0.3-2
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
+- Package: pnpm
+  Version: 12.3.4
+  Description: Fast, disk space efficient package manager for JavaScript
+  Homepage: https://pnpm.io
 - Package: pocketbase
   Version: 0.40.3
   Description: An open source Go backend
@@ -11151,7 +11155,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.12.11
+  Version: 0.12.12
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11199,7 +11203,7 @@
   Description: Static libraries for vamp-plugin-sdk
   Homepage: https://www.vamp-plugins.org/
 - Package: vapoursynth
-  Version: 73-2
+  Version: "79"
   Description: Video processing framework with simplicity in mind
   Homepage: https://www.vapoursynth.com/
 - Package: vbindiff
@@ -11651,7 +11655,7 @@
   Description: Static libraries for xxhash
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xz-utils
-  Version: 5.8.3
+  Version: 5.8.4
   Description: XZ-format compression tools
   Homepage: https://tukaani.org/xz/
 - Package: yadm

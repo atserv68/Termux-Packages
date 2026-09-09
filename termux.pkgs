@@ -345,7 +345,7 @@
 | **ddrescue** | 1.30 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
 | **debianutils** | 5.24 | Small utilities which are used primarily by the installation scripts of Debian packages | https://packages.debian.org/debianutils |
 | **debootstrap** | 1.0.145 | Bootstrap a basic Debian system | https://wiki.debian.org/Debootstrap |
-| **delve** | 1.27.1 | A debugger for the Go programming language | https://github.com/go-delve/delve |
+| **delve** | 1.27.2 | A debugger for the Go programming language | https://github.com/go-delve/delve |
 | **deno** | 1:2.9.6 | A modern runtime for JavaScript and TypeScript | https://deno.land/ |
 | **desed** | 1.2.2-1 | Demystifies and debugs your sed scripts | https://github.com/SoptikHa2/desed |
 | **deutex** | 5.2.3-1 | WAD composer for Doom, Heretic, Hexen, and Strife | https://github.com/Doom-Utils/deutex/ |
@@ -483,8 +483,8 @@
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
 | **et** | 7.0.0 | A remote shell that automatically reconnects without interrupting the session | https://eternalterminal.dev |
 | **etsh** | 5.4.0-1 | An enhanced, backward-compatible port of Thompson Shell | https://etsh.nl |
-| **execline** | 2.9.9.2 | A small scripting language, to be used with an exec chain | https://skarnet.org/software/execline/ |
-| **execline-static** | 2.9.9.2 | Static libraries for execline | https://skarnet.org/software/execline/ |
+| **execline** | 2.9.9.2-1 | A small scripting language, to be used with an exec chain | https://skarnet.org/software/execline/ |
+| **execline-static** | 2.9.9.2-1 | Static libraries for execline | https://skarnet.org/software/execline/ |
 | **exercism** | 3.5.8 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.4.3 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.2RC+really1.2.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
@@ -558,7 +558,7 @@
 | **freetype** | 2.14.3 | Software font engine capable of producing high-quality output | https://www.freetype.org |
 | **freetype-static** | 2.14.3 | Static libraries for freetype | https://www.freetype.org |
 | **frei0r-plugins** | 3.5.0 | Minimalistic plugin API for video effects | https://www.dyne.org/software/frei0r/ |
-| **fresh-editor** | 0.4.10 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
+| **fresh-editor** | 0.5.1 | Text editor for your terminal: easy, powerful and fast | https://getfresh.dev/ |
 | **fribidi** | 1.0.16-1 | Implementation of the Unicode Bidirectional Algorithm | https://github.com/fribidi/fribidi/ |
 | **fribidi-static** | 1.0.16-1 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
@@ -789,7 +789,7 @@
 | **httrack-data** | 3.50.1 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.50.1 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.165.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.166.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.3 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1007,8 +1007,8 @@
 | **libcairomm-1.0** | 1.14.6 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcairomm-1.16** | 1.18.1 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcap** | 2.78 | POSIX 1003.1e capabilities | https://sites.google.com/site/fullycapable/ |
-| **libcap-ng** | 2:0.9.5 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
-| **libcap-ng-static** | 2:0.9.5 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
+| **libcap-ng** | 2:0.9.6 | Library making programming with POSIX capabilities easier than traditional libcap | https://people.redhat.com/sgrubb/libcap-ng/ |
+| **libcap-ng-static** | 2:0.9.6 | Static libraries for libcap-ng | https://people.redhat.com/sgrubb/libcap-ng/ |
 | **libcap-static** | 2.78 | Static libraries for libcap | https://sites.google.com/site/fullycapable/ |
 | **libccd** | 2.1-2 | Library for collision detection between two convex shapes | https://github.com/danfis/libccd |
 | **libcddb** | 1.3.2-1 | A C library to access data on a CDDB server | https://libcddb.sourceforge.net/ |
@@ -1254,8 +1254,8 @@
 | **liblrdf-static** | 0.6.1-2 | Static libraries for liblrdf | https://github.com/swh/LRDF |
 | **libltdl** | 2.6.2 | Library for dlopening libraries | https://www.gnu.org/software/libtool/ |
 | **liblz4** | 1.10.0-1 | Fast LZ compression algorithm library | https://lz4.github.io/lz4/ |
-| **liblzma** | 5.8.3 | XZ-format compression library | https://tukaani.org/xz/ |
-| **liblzma-static** | 5.8.3 | Static libraries for liblzma | https://tukaani.org/xz/ |
+| **liblzma** | 5.8.4 | XZ-format compression library | https://tukaani.org/xz/ |
+| **liblzma-static** | 5.8.4 | Static libraries for liblzma | https://tukaani.org/xz/ |
 | **liblzo** | 2.10-5 | Portable lossless data compression library | http://www.oberhumer.com/opensource/lzo |
 | **liblzo-static** | 2.10-5 | Static libraries for liblzo | http://www.oberhumer.com/opensource/lzo |
 | **libmaa** | 1.4.7-1 | Provides many low-level data structures which are helpful for writing compilers | https://sourceforge.net/projects/dict/ |
@@ -2174,6 +2174,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
+| **pnpm** | 12.3.4 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
 | **pocketbase** | 0.40.3 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 5.0 | Static libraries for poke | http://www.jemarch.net/poke.html |
@@ -2786,7 +2787,7 @@
 | **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.12.11 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.12.12 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.53.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2798,7 +2799,7 @@
 | **valkey-static** | 9.1.2 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
-| **vapoursynth** | 73-2 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
+| **vapoursynth** | 79 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
 | **vbindiff** | 3.0-beta5-1 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
 | **vcsh** | 2.0.10 | Config manager based on Git | https://github.com/RichiH/vcsh |
 | **vde2** | 2.3.3-6 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |
@@ -2911,7 +2912,7 @@
 | **xxd** | 9.2.1050 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.3-1 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.3-1 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
-| **xz-utils** | 5.8.3 | XZ-format compression tools | https://tukaani.org/xz/ |
+| **xz-utils** | 5.8.4 | XZ-format compression tools | https://tukaani.org/xz/ |
 | **yadm** | 3.5.0 | Yet Another Dotfiles Manager | https://yadm.io/ |
 | **yajl** | 2.1.0-8 | Yet Another JSON Library | https://lloyd.github.io/yajl/ |
 | **yajl-static** | 2.1.0-8 | Static libraries for yajl | https://lloyd.github.io/yajl/ |
