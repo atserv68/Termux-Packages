@@ -343,39 +343,39 @@
   Description: Static libraries for aspell
   Homepage: http://aspell.net
 - Package: aspnetcore-runtime-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: ASP.NET Core 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: ASP.NET Core 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: ASP.NET Core 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: ASP.NET Core 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: ASP.NET Core 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-runtime-dbg-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: ASP.NET Core 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: ASP.NET Core 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: ASP.NET Core 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: aspnetcore-targeting-pack-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: ASP.NET Core 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: assimp
@@ -467,7 +467,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.40
+  Version: 2.36.41
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1575,15 +1575,15 @@
   Description: Static libraries for dotconf
   Homepage: https://github.com/williamh/dotconf
 - Package: dotnet-apphost-pack-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-apphost-pack-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host
@@ -1591,111 +1591,111 @@
   Description: A metapackage for .NET Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: .NET 10.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: .NET 8.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-host-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: .NET 9.0 Host
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: .NET 10.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: .NET 8.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-hostfxr-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: .NET 9.0 Host Resolver
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: .NET 10.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: .NET 8.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: .NET 9.0 Runtime
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: .NET 10.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: .NET 8.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-runtime-dbg-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: .NET 9.0 Runtime Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: .NET 10.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: .NET 8.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: .NET 9.0 SDK
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: .NET 10.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: .NET 8.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-sdk-dbg-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: .NET 9.0 SDK Managed Debug Symbols
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: .NET 10.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: .NET 8.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-targeting-pack-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: .NET 9.0 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: .NET 10.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: .NET 8.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet-templates-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: .NET 9.0 Templates
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet10.0
-  Version: 10.0.11
+  Version: 10.0.12
   Description: .NET 10.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: .NET 8.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: dotnet9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: .NET 9.0
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: double-conversion
@@ -2131,7 +2131,7 @@
   Description: Utilities to find files meeting specified criteria and perform various actions on the files which are found
   Homepage: https://www.gnu.org/software/findutils/
 - Package: fish
-  Version: 4.9.2
+  Version: 4.9.3
   Description: The user-friendly command line shell
   Homepage: https://fishshell.com/
 - Package: flac
@@ -2167,7 +2167,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.100
+  Version: 0.4.101
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2311,7 +2311,7 @@
   Description: Packages for gap
   Homepage: https://www.gap-system.org/
 - Package: garage
-  Version: 2.4.0
+  Version: 2.4.1
   Description: S3-compatible object store for small self-hosted geo-distributed deployments
   Homepage: https://garagehq.deuxfleurs.fr/
 - Package: gatling
@@ -2715,7 +2715,7 @@
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
 - Package: goimports
-  Version: 0.49.0
+  Version: 0.50.0
   Description: Updates Go import lines, adding missing ones and removing unreferenced ones
   Homepage: https://pkg.go.dev/golang.org/x/tools/cmd/goimports
 - Package: gojq
@@ -3455,7 +3455,7 @@
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
-  Version: 0.7.5
+  Version: 0.7.6
   Description: jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.
   Homepage: https://github.com/Aanok/jftui
 - Package: jhead
@@ -3507,7 +3507,7 @@
   Description: Static libraries for jq
   Homepage: https://jqlang.org/
 - Package: jql
-  Version: 9.0.1
+  Version: 9.0.3
   Description: A JSON Query Language CLI tool
   Homepage: https://github.com/yamafaktory/jql
 - Package: json-c
@@ -3687,7 +3687,7 @@
   Description: Terminal pager program used to view the contents of a text file one screen at a time
   Homepage: https://www.greenwoodsoftware.com/less/
 - Package: lesspipe
-  Version: 2.27-1
+  Version: "2.28"
   Description: An input filter for the pager less
   Homepage: https://lesspipe.org/
 - Package: leveldb
@@ -5811,7 +5811,7 @@
   Description: Static libraries for librocksdb
   Homepage: https://rocksdb.org/
 - Package: librsvg
-  Version: 2.62.3
+  Version: 2.63.0
   Description: Library to render SVG files using cairo
   Homepage: https://wiki.gnome.org/action/show/Projects/LibRsvg
 - Package: librsync
@@ -7831,7 +7831,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1558+g8d5ebdf986-0
+  Version: 0.13.0~dev-1572+g318ea4de21-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -7879,11 +7879,11 @@
   Description: A metapackage for NETStandard.Library 2.1 Targeting Pack
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-8.0
-  Version: 8.0.30
+  Version: 8.0.31
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 8.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: netstandard-targeting-pack-2.1-9.0
-  Version: 9.0.19
+  Version: 9.0.20
   Description: NETStandard.Library 2.1 Targeting Pack (.NET 9.0)
   Homepage: https://dotnet.microsoft.com/en-us/
 - Package: nettle
@@ -7911,7 +7911,7 @@
   Description: A mixed-level/mixed-signal circuit simulator
   Homepage: https://ngspice.sourceforge.net/
 - Package: nim
-  Version: 2.2.6-1
+  Version: 2.2.12
   Description: Nim programming language compiler
   Homepage: https://nim-lang.org/
 - Package: ninja
@@ -10243,7 +10243,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.162.4
+  Version: 1.163.4
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10735,7 +10735,7 @@
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
-  Version: 0.4.9.11
+  Version: 0.4.9.12
   Description: The Onion Router anonymizing overlay network
   Homepage: https://www.torproject.org
 - Package: torsocks
@@ -11151,7 +11151,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.12.10
+  Version: 0.12.11
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11247,7 +11247,7 @@
   Description: VI Like Emacs - vi work-alike
   Homepage: https://invisible-island.net/vile/
 - Package: vim
-  Version: 9.2.1000-1
+  Version: 9.2.1050
   Description: Vi IMproved - enhanced vi editor
   Homepage: https://www.vim.org
 - Package: virglrenderer
@@ -11639,7 +11639,7 @@
   Description: Static libraries for xvidcore
   Homepage: https://www.xvid.com/
 - Package: xxd
-  Version: 9.2.1000-1
+  Version: 9.2.1050
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
@@ -11695,7 +11695,7 @@
   Description: Embeddable layout engine targeting web standards
   Homepage: https://www.yogalayout.dev/
 - Package: yosys
-  Version: "0.68"
+  Version: "0.69"
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr

@@ -96,15 +96,15 @@
 | **aspell-es** | 2:1.11-2-0 | Spanish dictionary for aspell | http://aspell.net/ |
 | **aspell-fr** | 2:0.50-3-1 | French dictionary for aspell | http://aspell.net/ |
 | **aspell-static** | 0.60.8.2 | Static libraries for aspell | http://aspell.net |
-| **aspnetcore-runtime-10.0** | 10.0.11 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-8.0** | 8.0.30 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-9.0** | 9.0.19 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-10.0** | 10.0.11 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-8.0** | 8.0.30 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-runtime-dbg-9.0** | 9.0.19 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-10.0** | 10.0.11 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-8.0** | 8.0.30 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **aspnetcore-targeting-pack-9.0** | 9.0.19 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-10.0** | 10.0.12 | ASP.NET Core 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-8.0** | 8.0.31 | ASP.NET Core 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-9.0** | 9.0.20 | ASP.NET Core 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-10.0** | 10.0.12 | ASP.NET Core 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-8.0** | 8.0.31 | ASP.NET Core 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-runtime-dbg-9.0** | 9.0.20 | ASP.NET Core 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-10.0** | 10.0.12 | ASP.NET Core 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-8.0** | 8.0.31 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **aspnetcore-targeting-pack-9.0** | 9.0.20 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5-1 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **asymptote** | 3.14 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
@@ -127,7 +127,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.36.40 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.36.41 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **azure-cli** | 2.90.0-1 | Microsoft's command-line tool for managing Azure cloud resources | https://learn.microsoft.com/en-us/cli/azure/ |
 | **b3sum** | 1.8.7 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
@@ -404,37 +404,37 @@
 | **dosfstools** | 4.2-1 | DOS file system utilities | https://github.com/dosfstools/dosfstools |
 | **dotconf** | 1.4.1-1 | dot.conf configuration file parser | https://github.com/williamh/dotconf |
 | **dotconf-static** | 1.4.1-1 | Static libraries for dotconf | https://github.com/williamh/dotconf |
-| **dotnet-apphost-pack-10.0** | 10.0.11 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-apphost-pack-8.0** | 8.0.30 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-apphost-pack-9.0** | 9.0.19 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-10.0** | 10.0.12 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-8.0** | 8.0.31 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-apphost-pack-9.0** | 9.0.20 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **dotnet-host** | 10.0 | A metapackage for .NET Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-10.0** | 10.0.11 | .NET 10.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-8.0** | 8.0.30 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-host-9.0** | 9.0.19 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-10.0** | 10.0.11 | .NET 10.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-8.0** | 8.0.30 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-hostfxr-9.0** | 9.0.19 | .NET 9.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-10.0** | 10.0.11 | .NET 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-8.0** | 8.0.30 | .NET 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-9.0** | 9.0.19 | .NET 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-10.0** | 10.0.11 | .NET 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-8.0** | 8.0.30 | .NET 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-runtime-dbg-9.0** | 9.0.19 | .NET 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-10.0** | 10.0.11 | .NET 10.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-8.0** | 8.0.30 | .NET 8.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-9.0** | 9.0.19 | .NET 9.0 SDK | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-10.0** | 10.0.11 | .NET 10.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-8.0** | 8.0.30 | .NET 8.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-sdk-dbg-9.0** | 9.0.19 | .NET 9.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-10.0** | 10.0.11 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-8.0** | 8.0.30 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-targeting-pack-9.0** | 9.0.19 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-templates-10.0** | 10.0.11 | .NET 10.0 Templates | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-templates-8.0** | 8.0.30 | .NET 8.0 Templates | https://dotnet.microsoft.com/en-us/ |
-| **dotnet-templates-9.0** | 9.0.19 | .NET 9.0 Templates | https://dotnet.microsoft.com/en-us/ |
-| **dotnet10.0** | 10.0.11 | .NET 10.0 | https://dotnet.microsoft.com/en-us/ |
-| **dotnet8.0** | 8.0.30 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
-| **dotnet9.0** | 9.0.19 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host-10.0** | 10.0.12 | .NET 10.0 Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host-8.0** | 8.0.31 | .NET 8.0 Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-host-9.0** | 9.0.20 | .NET 9.0 Host | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-10.0** | 10.0.12 | .NET 10.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-8.0** | 8.0.31 | .NET 8.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-hostfxr-9.0** | 9.0.20 | .NET 9.0 Host Resolver | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-10.0** | 10.0.12 | .NET 10.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-8.0** | 8.0.31 | .NET 8.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-9.0** | 9.0.20 | .NET 9.0 Runtime | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-10.0** | 10.0.12 | .NET 10.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-8.0** | 8.0.31 | .NET 8.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-runtime-dbg-9.0** | 9.0.20 | .NET 9.0 Runtime Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-10.0** | 10.0.12 | .NET 10.0 SDK | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-8.0** | 8.0.31 | .NET 8.0 SDK | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-9.0** | 9.0.20 | .NET 9.0 SDK | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-10.0** | 10.0.12 | .NET 10.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-8.0** | 8.0.31 | .NET 8.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-sdk-dbg-9.0** | 9.0.20 | .NET 9.0 SDK Managed Debug Symbols | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-targeting-pack-10.0** | 10.0.12 | .NET 10.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-targeting-pack-8.0** | 8.0.31 | .NET 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-targeting-pack-9.0** | 9.0.20 | .NET 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-templates-10.0** | 10.0.12 | .NET 10.0 Templates | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-templates-8.0** | 8.0.31 | .NET 8.0 Templates | https://dotnet.microsoft.com/en-us/ |
+| **dotnet-templates-9.0** | 9.0.20 | .NET 9.0 Templates | https://dotnet.microsoft.com/en-us/ |
+| **dotnet10.0** | 10.0.12 | .NET 10.0 | https://dotnet.microsoft.com/en-us/ |
+| **dotnet8.0** | 8.0.31 | .NET 8.0 | https://dotnet.microsoft.com/en-us/ |
+| **dotnet9.0** | 9.0.20 | .NET 9.0 | https://dotnet.microsoft.com/en-us/ |
 | **double-conversion** | 3.4.0 | Binary-decimal and decimal-binary routines for IEEE doubles | https://github.com/google/double-conversion |
 | **doxygen** | 1.18.0 | A documentation system for C++, C, Java, IDL and PHP | http://www.doxygen.org |
 | **dpkg** | 1.22.6-5 | Debian package management system | https://packages.debian.org/dpkg |
@@ -543,7 +543,7 @@
 | **finch-static** | 2.14.14-2 | Static libraries for finch | https://pidgin.im/ |
 | **findomain** | 10.0.1-1 | Findomain is the fastest subdomain enumerator and the only one written in Rust | https://findomain.app/ |
 | **findutils** | 4.10.0-1 | Utilities to find files meeting specified criteria and perform various actions on the files which are found | https://www.gnu.org/software/findutils/ |
-| **fish** | 4.9.2 | The user-friendly command line shell | https://fishshell.com/ |
+| **fish** | 4.9.3 | The user-friendly command line shell | https://fishshell.com/ |
 | **flac** | 1.5.0-1 | FLAC (Free Lossless Audio Codec) command-line tool | https://xiph.org/flac/ |
 | **flang** | 21.1.8-3 | LLVM's Fortran frontend | https://flang.llvm.org/ |
 | **flatbuffers** | 25.12.19-2026-02-06-03fffb2-1 | Memory Efficient Serialization Library | https://github.com/google/flatbuffers |
@@ -552,7 +552,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0-2 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.6.0 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.100 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.101 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.3 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -588,7 +588,7 @@
 | **game-music-emu-static** | 0.6.5 | Static libraries for game-music-emu | https://bitbucket.org/mpyne/game-music-emu/wiki/Home |
 | **gap** | 4.16.1 | GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory | https://www.gap-system.org/ |
 | **gap-packages** | 4.16.1 | Packages for gap | https://www.gap-system.org/ |
-| **garage** | 2.4.0 | S3-compatible object store for small self-hosted geo-distributed deployments | https://garagehq.deuxfleurs.fr/ |
+| **garage** | 2.4.1 | S3-compatible object store for small self-hosted geo-distributed deployments | https://garagehq.deuxfleurs.fr/ |
 | **gatling** | 0.16-2 | A high performance http, ftp and smb server | https://www.fefe.de/gatling/ |
 | **gauche** | 0.9.15-3 | An R7RS Scheme implementation developed to be a handy script interpreter | https://practical-scheme.net/gauche/ |
 | **gauche-static** | 0.9.15-3 | Static libraries for gauche | https://practical-scheme.net/gauche/ |
@@ -689,7 +689,7 @@
 | **gobject-introspection** | 1.86.0-2 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gofumpt** | 0.12.0 | A stricter gofmt, backwards compatible drop-in replacement | https://github.com/mvdan/gofumpt |
 | **gogs** | 0.14.3 | A painless self-hosted Git service | https://gogs.io |
-| **goimports** | 0.49.0 | Updates Go import lines, adding missing ones and removing unreferenced ones | https://pkg.go.dev/golang.org/x/tools/cmd/goimports |
+| **goimports** | 0.50.0 | Updates Go import lines, adding missing ones and removing unreferenced ones | https://pkg.go.dev/golang.org/x/tools/cmd/goimports |
 | **gojq** | 0.12.19 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
 | **golang** | 3:1.27.1 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.27.1 | Go programming language - documentation | https://go.dev/ |
@@ -874,7 +874,7 @@
 | **jellyfin-ffmpeg** | 10.11.11-2 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 10.11.11-2 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
 | **jfrog-cli** | 2.124.0 | A CLI for JFrog products | https://jfrog.com/getcli |
-| **jftui** | 0.7.5 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
+| **jftui** | 0.7.6 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
 | **jira-go** | 1.0.28-3 | Simple jira command line client written in Go | https://github.com/go-jira/jira |
@@ -887,7 +887,7 @@
 | **jq** | 1.8.2 | Command-line JSON processor | https://jqlang.org/ |
 | **jq-lsp** | 0.1.18 | jq language server | https://github.com/wader/jq-lsp |
 | **jq-static** | 1.8.2 | Static libraries for jq | https://jqlang.org/ |
-| **jql** | 9.0.1 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
+| **jql** | 9.0.3 | A JSON Query Language CLI tool | https://github.com/yamafaktory/jql |
 | **json-c** | 0.19 | A JSON implementation in C | https://github.com/json-c/json-c/wiki |
 | **json-c-static** | 0.19 | Static libraries for json-c | https://github.com/json-c/json-c/wiki |
 | **json-glib** | 1.10.8 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
@@ -932,7 +932,7 @@
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
 | **less** | 704 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
-| **lesspipe** | 2.27-1 | An input filter for the pager less | https://lesspipe.org/ |
+| **lesspipe** | 2.28 | An input filter for the pager less | https://lesspipe.org/ |
 | **leveldb** | 1.23-4 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 3.0.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
 | **lexter** | 1.0.3-5 | A real-time word puzzle for text terminals | https://www.kyne.au/~mark/software/lexter.php |
@@ -1463,7 +1463,7 @@
 | **librnnoise-static** | 0.2-1 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
 | **librocksdb** | 8.11.3-3 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
 | **librocksdb-static** | 8.11.3-3 | Static libraries for librocksdb | https://rocksdb.org/ |
-| **librsvg** | 2.62.3 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
+| **librsvg** | 2.63.0 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
 | **librsync** | 2.3.4-1 | Remote delta-compression library | https://github.com/librsync/librsync |
 | **librtmidi** | 5.0.0-3 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-5 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
@@ -1968,7 +1968,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1558+g8d5ebdf986-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1572+g318ea4de21-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1980,15 +1980,15 @@
 | **netpbm** | 1:10.73.43-5 | Toolkit for manipulation of graphic images of different formats | https://netpbm.sourceforge.net/ |
 | **netsed** | 1.4 | Alter the contents of packets forwarded through network in real time | http://silicone.homelinux.org/projects/netsed/ |
 | **netstandard-targeting-pack-2.1** | 9.0-3 | A metapackage for NETStandard.Library 2.1 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
-| **netstandard-targeting-pack-2.1-8.0** | 8.0.30 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
-| **netstandard-targeting-pack-2.1-9.0** | 9.0.19 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
+| **netstandard-targeting-pack-2.1-8.0** | 8.0.31 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
+| **netstandard-targeting-pack-2.1-9.0** | 9.0.20 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.44 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.37 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
 | **nginx** | 1.31.5 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 28 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 47 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
-| **nim** | 2.2.6-1 | Nim programming language compiler | https://nim-lang.org/ |
+| **nim** | 2.2.12 | Nim programming language compiler | https://nim-lang.org/ |
 | **ninja** | 1.13.2 | A small build system with a focus on speed | https://ninja-build.org |
 | **ninvaders** | 0.1.2-3 | Space Invaders clone based on ncurses for ASCII output | https://ninvaders.sourceforge.net |
 | **nlohmann-json** | 3.12.0 | JSON for Modern C++ | https://github.com/nlohmann/json |
@@ -2571,7 +2571,7 @@
 | **stoken** | 0.93-3 | Software Token for Linux/UNIX | https://github.com/cernekee/stoken |
 | **stoken-static** | 0.93-3 | Static libraries for stoken | https://github.com/cernekee/stoken |
 | **stone** | 2.4-3 | A TCP/IP repeater in the application layer | https://www.gcd.org/sengoku/stone/ |
-| **storj-uplink** | 1.162.4 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
+| **storj-uplink** | 1.163.4 | Storj DCS Uplink CLI | https://www.storj.io/integrations/uplink-cli |
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.2 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
@@ -2694,7 +2694,7 @@
 | **tome2** | 2025.12.13-2 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 17.9.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
-| **tor** | 0.4.9.11 | The Onion Router anonymizing overlay network | https://www.torproject.org |
+| **tor** | 0.4.9.12 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
 | **totem-pl-parser** | 3.26.7 | Simple GObject-based library to parse and save a host of playlist formats | https://gitlab.gnome.org/GNOME/totem-pl-parser |
@@ -2798,7 +2798,7 @@
 | **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.12.10 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.12.11 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.53.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2822,7 +2822,7 @@
 | **viddy** | 1.3.1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.4-1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.2.1000-1 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.2.1050 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.3.0-1 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.3.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2920,7 +2920,7 @@
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7-1 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.2.1000-1 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.2.1050 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.3-1 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.3-1 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.8.3 | XZ-format compression tools | https://tukaani.org/xz/ |
@@ -2934,7 +2934,7 @@
 | **yasm-static** | 1.3.0-7 | Static libraries for yasm | https://yasm.tortall.net/ |
 | **yazi** | 26.9.1 | Blazing fast terminal file manager written in Rust, based on async I/O | https://yazi-rs.github.io/ |
 | **yoga** | 3.2.1 | Embeddable layout engine targeting web standards | https://www.yogalayout.dev/ |
-| **yosys** | 0.68 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
+| **yosys** | 0.69 | A framework for RTL synthesis tools | https://yosyshq.net/yosys/ |
 | **youtubedr** | 2.10.6 | Download youtube video in Golang | https://github.com/kkdai/youtube |
 | **yq** | 4.53.6 | A lightweight and portable command-line YAML, JSON and XML processor | https://mikefarah.gitbook.io/yq/ |
 | **yt-dlp-ejs** | 0.8.0-1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
