@@ -1831,7 +1831,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.5.1",
+    "Version": "1:11.5.2",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -4099,7 +4099,7 @@
   },
   {
     "Package": "golang-migrate",
-    "Version": "4.19.1",
+    "Version": "4.20.1",
     "Description": "Database migrations. CLI and Golang library",
     "Homepage": "https://github.com/golang-migrate/migrate"
   },
@@ -8257,7 +8257,7 @@
   },
   {
     "Package": "liborc",
-    "Version": "0.4.43",
+    "Version": "0.4.44",
     "Description": "Library of Optimized Inner Loops Runtime Compiler",
     "Homepage": "https://gstreamer.freedesktop.org/projects/orc.html"
   },
@@ -11515,7 +11515,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.21.1",
+    "Version": "2.22.0",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -12325,13 +12325,13 @@
   },
   {
     "Package": "openldap",
-    "Version": "2.7.0",
+    "Version": "2.7.1",
     "Description": "OpenLDAP server",
     "Homepage": "https://openldap.org"
   },
   {
     "Package": "openldap-static",
-    "Version": "2.7.0",
+    "Version": "2.7.1",
     "Description": "Static libraries for openldap",
     "Homepage": "https://openldap.org"
   },
@@ -12583,7 +12583,7 @@
   },
   {
     "Package": "par2",
-    "Version": "1.3.0",
+    "Version": "1.4.0",
     "Description": "par2cmdline is a PAR 2.0 compatible file verification and repair tool",
     "Homepage": "https://github.com/Parchive/par2cmdline"
   },

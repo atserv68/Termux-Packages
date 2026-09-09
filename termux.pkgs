@@ -303,7 +303,7 @@
 | **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:11.5.1 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:11.5.2 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -681,7 +681,7 @@
 | **gojq** | 0.12.19 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
 | **golang** | 3:1.27.1 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.27.1 | Go programming language - documentation | https://go.dev/ |
-| **golang-migrate** | 4.19.1 | Database migrations. CLI and Golang library | https://github.com/golang-migrate/migrate |
+| **golang-migrate** | 4.20.1 | Database migrations. CLI and Golang library | https://github.com/golang-migrate/migrate |
 | **golangci-lint** | 2.13.2 | Fast linters runner for Go, aggregating many Go linters into one tool | https://golangci-lint.run/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 26.08 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
@@ -1374,7 +1374,7 @@
 | **libopus-static** | 1.6.1 | Static libraries for libopus | https://www.opus-codec.org/ |
 | **libopusenc** | 0.2.1-4 | High-level API for encoding .opus files | https://github.com/xiph/libopusenc |
 | **libopusenc-static** | 0.2.1-4 | Static libraries for libopusenc | https://github.com/xiph/libopusenc |
-| **liborc** | 0.4.43 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
+| **liborc** | 0.4.44 | Library of Optimized Inner Loops Runtime Compiler | https://gstreamer.freedesktop.org/projects/orc.html |
 | **liborcus** | 0.21.0-2 | File import filter library for spreadsheet documents. | https://gitlab.com/orcus/orcus/ |
 | **liborcus-static** | 0.21.0-2 | Static libraries for liborcus | https://gitlab.com/orcus/orcus/ |
 | **libosmium** | 2.23.1-1 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
@@ -1917,7 +1917,7 @@
 | **mupdf-tools** | 1.28.2-1 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
 | **music-file-organizer** | 1.0.4-10 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.4.2 | Mail client with patches from neomutt | http://www.mutt.org/ |
-| **mycli** | 2.21.1 | CLI for MySQL/MariaDB with auto-completion and syntax highlighting | https://mycli.net |
+| **mycli** | 2.22.0 | CLI for MySQL/MariaDB with auto-completion and syntax highlighting | https://mycli.net |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
 | **mympd** | 26.0.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
@@ -2052,8 +2052,8 @@
 | **openjdk-25-x** | 25.0.4 | Portion of openjdk-25 requiring X11 functionality | https://openjdk.java.net |
 | **openjpeg** | 2.5.4 | JPEG 2000 image compression library | https://www.openjpeg.org/ |
 | **openjpeg-tools** | 2.5.4 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
-| **openldap** | 2.7.0 | OpenLDAP server | https://openldap.org |
-| **openldap-static** | 2.7.0 | Static libraries for openldap | https://openldap.org |
+| **openldap** | 2.7.1 | OpenLDAP server | https://openldap.org |
+| **openldap-static** | 2.7.1 | Static libraries for openldap | https://openldap.org |
 | **openlist** | 4.2.6 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |
@@ -2095,7 +2095,7 @@
 | **pandoc** | 3.10.1 | Universal markup converter | https://pandoc.org/ |
 | **pango** | 1.58.2 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
-| **par2** | 1.3.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
+| **par2** | 1.4.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
 | **parallel** | 20260822 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.4 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.4 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
