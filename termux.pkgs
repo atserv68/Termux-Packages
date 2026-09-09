@@ -173,7 +173,7 @@
 | **brainfuck-static** | 1:2.7.3-1 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
 | **brogue** | 1.15.1-1 | Roguelike dungeon crawling game (community edition) | https://sites.google.com/site/broguegame/ |
 | **brook** | 20260101.0 | A cross-platform strong encryption and not detectable proxy. Zero-Configuration. | https://github.com/txthinking/brook |
-| **broot** | 1.60.0 | A better way to navigate directories | https://github.com/Canop/broot |
+| **broot** | 1.60.1 | A better way to navigate directories | https://github.com/Canop/broot |
 | **brotli** | 1.2.0 | lossless compression algorithm and format (command line utility) | https://github.com/google/brotli |
 | **bsd-finger** | 0.17-3 | User information lookup program | https://packages.debian.org/sid/source/bsd-finger |
 | **bsd-games** | 1:3.3-1 | Classic text mode games from UNIX folklore | https://www.polyomino.org.uk/computer/software/bsd-games/ |
@@ -2508,7 +2508,7 @@
 | **sops** | 3.13.3 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.22 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sound-theme-freedesktop** | 0.8 | Freedesktop sound theme | https://freedesktop.org/wiki/Specifications/sound-theme-spec |
-| **sourcekit-lsp** | 6.2.1 | Language Server Protocol implementation for Swift and C-based languages | https://swift.org/ |
+| **sourcekit-lsp** | 6.2.4 | Language Server Protocol implementation for Swift and C-based languages | https://swift.org/ |
 | **sox** | 14.4.2-29 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-29 | Static libraries for sox | https://sox.sourceforge.net/ |
 | **spatialite-tools** | 5.0.1-5 | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
@@ -2586,13 +2586,13 @@
 | **svt-av1** | 4.2.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
 | **swi-prolog** | 10.1.14 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
-| **swift** | 6.2.1 | Swift is a high-performance system programming language | https://swift.org/ |
-| **swift-runtime-aarch64** | 6.2.1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
-| **swift-runtime-arm** | 6.2.1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
-| **swift-runtime-x86-64** | 6.2.1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
-| **swift-sdk-aarch64** | 6.2.1 | Swift SDK for Android AArch64 | https://swift.org/ |
-| **swift-sdk-arm** | 6.2.1 | Swift SDK for Android armv7 | https://swift.org/ |
-| **swift-sdk-x86-64** | 6.2.1 | Swift SDK for Android x86_64 | https://swift.org/ |
+| **swift** | 6.2.4 | Swift is a high-performance system programming language | https://swift.org/ |
+| **swift-runtime-aarch64** | 6.2.4 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
+| **swift-runtime-arm** | 6.2.4 | Swift runtime libraries for Android armv7 | https://swift.org/ |
+| **swift-runtime-x86-64** | 6.2.4 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
+| **swift-sdk-aarch64** | 6.2.4 | Swift SDK for Android AArch64 | https://swift.org/ |
+| **swift-sdk-arm** | 6.2.4 | Swift SDK for Android armv7 | https://swift.org/ |
+| **swift-sdk-x86-64** | 6.2.4 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 2025.06.25-2 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
 | **swig** | 4.5.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.2 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
@@ -2844,7 +2844,7 @@
 | **wasm-component-ld** | 0.5.30 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge** | 0.17.1 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.1.0-1 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
-| **wasmtime** | 46.0.1-1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
+| **wasmtime** | 48.0.1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.7.2 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.11.2 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
