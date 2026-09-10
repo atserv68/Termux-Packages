@@ -7466,6 +7466,10 @@
   Version: 2022.11.09-1
   Description: Maintained fork with androids mkbootimg and unpackbootimg
   Homepage: https://github.com/osm0sis/mkbootimg
+- Package: mkcert
+  Version: 1.4.4
+  Description: A simple zero-config tool to make locally trusted development certificates
+  Homepage: https://github.com/FiloSottile/mkcert
 - Package: mkp224o
   Version: 1.7.0-1
   Description: Generate vanity ed25519 (hidden service version 3) onion addresses
