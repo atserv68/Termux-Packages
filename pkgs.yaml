@@ -467,7 +467,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.41
+  Version: 2.36.42
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1055,7 +1055,7 @@
   Description: A cli tool to download specific GitHub directories or files
   Homepage: https://github.com/alok8bb/cloneit
 - Package: cloudflared
-  Version: 2026.8.3
+  Version: 2026.9.0
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
@@ -2542,6 +2542,10 @@
   Version: 1.12.3-9
   Description: Extend git with Vincent Driessens branching model. The AVH Edition adds more functionality.
   Homepage: https://github.com/petervanderdoes/gitflow/
+- Package: gitleaks
+  Version: 8.30.1
+  Description: Detect secrets like passwords, API keys, and tokens in git repos and files
+  Homepage: https://github.com/gitleaks/gitleaks
 - Package: gitoxide
   Version: 0.58.0
   Description: Rust implementation of Git
@@ -2563,11 +2567,11 @@
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
-  Version: 2.88.3
+  Version: 2.90.0
   Description: Library providing core building blocks for libraries and applications written in C
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-cross
-  Version: 2.88.3
+  Version: 2.90.0
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
@@ -2759,7 +2763,7 @@
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
-  Version: 1.17.0
+  Version: 1.17.1
   Description: The slightly more awesome standard unix password manager for teams
   Homepage: https://github.com/gopasspw/gopass
 - Package: gopher
@@ -3015,7 +3019,7 @@
   Description: Tools using the harfbuzz library
   Homepage: https://www.freedesktop.org/wiki/Software/HarfBuzz/
 - Package: harper
-  Version: 2.9.1
+  Version: 2.10.0
   Description: Offline, privacy-first grammar checker. Fast, open-source, Rust-powered
   Homepage: https://writewithharper.com/
 - Package: hash-slinger
@@ -3047,7 +3051,7 @@
   Description: Prints a friendly greeting
   Homepage: https://www.gnu.org/software/hello/
 - Package: helm
-  Version: 4.2.4
+  Version: 4.3.0
   Description: Helm helps you manage Kubernetes applications
   Homepage: https://helm.sh
 - Package: helm-ls
@@ -3074,6 +3078,10 @@
   Version: 0.17.0
   Description: A command-line hex viewer
   Homepage: https://github.com/sharkdp/hexyl
+- Package: hey
+  Version: 0.1.5
+  Description: HTTP load generator, ApacheBench (ab) replacement
+  Homepage: https://github.com/rakyll/hey
 - Package: heyu
   Version: 1:2.10.3-2
   Description: Program for remotely controlling lights and appliances
@@ -5403,7 +5411,7 @@
   Description: Static libraries for libnspr
   Homepage: https://hg.mozilla.org/projects/nspr
 - Package: libnss
-  Version: "3.128"
+  Version: "3.129"
   Description: Network Security Services (NSS)
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: libntl
@@ -7451,7 +7459,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.9.3
+  Version: 2026.9.4
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7675,7 +7683,7 @@
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: mycli
-  Version: 2.22.0
+  Version: 2.23.0
   Description: CLI for MySQL/MariaDB with auto-completion and syntax highlighting
   Homepage: https://mycli.net
 - Package: myman
@@ -7995,7 +8003,7 @@
   Description: The classic snake game with textual interface
   Homepage: https://github.com/alexdantas/nSnake
 - Package: nss-utils
-  Version: "3.128"
+  Version: "3.129"
   Description: Tools for NSS
   Homepage: https://firefox-source-docs.mozilla.org/security/nss/
 - Package: nudoku
@@ -10999,7 +11007,7 @@
   Description: Data munging language and pattern matching tool
   Homepage: https://www.nongnu.org/txr/
 - Package: ty
-  Version: 0.0.79
+  Version: 0.0.80
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
@@ -11187,7 +11195,7 @@
   Description: Static libraries for valadoc
   Homepage: https://wiki.gnome.org/Projects/Vala
 - Package: vale
-  Version: 3.20.0
+  Version: 3.21.0
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
 - Package: valkey

@@ -703,7 +703,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.41",
+    "Version": "2.36.42",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1585,7 +1585,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.8.3",
+    "Version": "2026.9.0",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -3816,6 +3816,12 @@
     "Homepage": "https://github.com/petervanderdoes/gitflow/"
   },
   {
+    "Package": "gitleaks",
+    "Version": "8.30.1",
+    "Description": "Detect secrets like passwords, API keys, and tokens in git repos and files",
+    "Homepage": "https://github.com/gitleaks/gitleaks"
+  },
+  {
     "Package": "gitoxide",
     "Version": "0.58.0",
     "Description": "Rust implementation of Git",
@@ -3847,13 +3853,13 @@
   },
   {
     "Package": "glib",
-    "Version": "2.88.3",
+    "Version": "2.90.0",
     "Description": "Library providing core building blocks for libraries and applications written in C",
     "Homepage": "https://developer.gnome.org/glib/"
   },
   {
     "Package": "glib-cross",
-    "Version": "2.88.3",
+    "Version": "2.90.0",
     "Description": "glib for host (NOT for Termux)",
     "Homepage": "https://developer.gnome.org/glib/"
   },
@@ -4141,7 +4147,7 @@
   },
   {
     "Package": "gopass",
-    "Version": "1.17.0",
+    "Version": "1.17.1",
     "Description": "The slightly more awesome standard unix password manager for teams",
     "Homepage": "https://github.com/gopasspw/gopass"
   },
@@ -4525,7 +4531,7 @@
   },
   {
     "Package": "harper",
-    "Version": "2.9.1",
+    "Version": "2.10.0",
     "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
     "Homepage": "https://writewithharper.com/"
   },
@@ -4573,7 +4579,7 @@
   },
   {
     "Package": "helm",
-    "Version": "4.2.4",
+    "Version": "4.3.0",
     "Description": "Helm helps you manage Kubernetes applications",
     "Homepage": "https://helm.sh"
   },
@@ -4612,6 +4618,12 @@
     "Version": "0.17.0",
     "Description": "A command-line hex viewer",
     "Homepage": "https://github.com/sharkdp/hexyl"
+  },
+  {
+    "Package": "hey",
+    "Version": "0.1.5",
+    "Description": "HTTP load generator, ApacheBench (ab) replacement",
+    "Homepage": "https://github.com/rakyll/hey"
   },
   {
     "Package": "heyu",
@@ -8107,7 +8119,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.128",
+    "Version": "3.129",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -11179,7 +11191,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.3",
+    "Version": "2026.9.4",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11515,7 +11527,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.22.0",
+    "Version": "2.23.0",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -11995,7 +12007,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.128",
+    "Version": "3.129",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -16501,7 +16513,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.79",
+    "Version": "0.0.80",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -16783,7 +16795,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.20.0",
+    "Version": "3.21.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
