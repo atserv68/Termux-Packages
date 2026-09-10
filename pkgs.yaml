@@ -1867,7 +1867,7 @@
   Description: A friendly and expressive Unix shell
   Homepage: https://github.com/elves/elvish
 - Package: emacs
-  Version: 31.1-1
+  Version: 31.1-2
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emmylua-ls
@@ -7827,11 +7827,11 @@
   Description: A version of mutt with added features
   Homepage: https://neomutt.org/
 - Package: neovim
-  Version: 0.12.5
+  Version: 0.12.5-1
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1572+g318ea4de21-0
+  Version: 0.13.0~dev-1572+g318ea4de21-1
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9515,7 +9515,7 @@
   Description: A terminal IRC client in C
   Homepage: https://github.com/rcr/rirc
 - Package: rizin
-  Version: 0.9.1-1
+  Version: 0.9.1-2
   Description: UNIX-like reverse engineering framework and command-line toolset.
   Homepage: https://rizin.re
 - Package: rlwrap
@@ -9807,7 +9807,7 @@
   Description: Secure file, disk, swap, memory erasure utilities
   Homepage: https://www.thc.org/
 - Package: sed
-  Version: 4.9-2
+  Version: "4.10"
   Description: GNU stream editor for filtering/transforming text
   Homepage: https://www.gnu.org/software/sed/
 - Package: seerr
@@ -10779,95 +10779,95 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.26.13
+  Version: 0.27.0
   Description: An incremental parsing system for programming tools
   Homepage: https://tree-sitter.github.io/
 - Package: tree-sitter-bash
-  Version: 0.25.1-1
+  Version: 0.25.1-2
   Description: Bash grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-bash
 - Package: tree-sitter-c
-  Version: 0.24.2
+  Version: 0.24.2-1
   Description: C grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-c
 - Package: tree-sitter-css
-  Version: 0.25.0-1
+  Version: 0.25.0-2
   Description: CSS grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-css
 - Package: tree-sitter-go
-  Version: 0.25.0-1
+  Version: 0.25.0-2
   Description: Golang grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-go
 - Package: tree-sitter-html
-  Version: 0.23.2-1
+  Version: 0.23.2-2
   Description: HTML grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-html
 - Package: tree-sitter-java
-  Version: 0.23.5-1
+  Version: 0.23.5-2
   Description: Java grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-java
 - Package: tree-sitter-javascript
-  Version: 0.25.0-1
+  Version: 0.25.0-2
   Description: JavaScript grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-javascript
 - Package: tree-sitter-json
-  Version: 0.24.8-1
+  Version: 0.24.8-2
   Description: JSON grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-json
 - Package: tree-sitter-latex
-  Version: 0.6.0-1
+  Version: 0.6.0-2
   Description: LaTeX grammar for tree-sitter
   Homepage: https://github.com/latex-lsp/tree-sitter-latex
 - Package: tree-sitter-lua
-  Version: 0.5.0-1
+  Version: 0.5.0-2
   Description: Lua grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-lua
 - Package: tree-sitter-markdown
-  Version: 0.5.3-1
+  Version: 0.5.3-2
   Description: Markdown grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-markdown
 - Package: tree-sitter-parsers
-  Version: "0.26"
+  Version: "0.27"
   Description: A metapackage that provides commonly used treesitter parsers
   Homepage: https://github.com/termux/termux-packages
 - Package: tree-sitter-python
-  Version: 0.25.0-1
+  Version: 0.25.0-2
   Description: Python grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-python
 - Package: tree-sitter-query
-  Version: 0.8.0-2
+  Version: 0.8.0-3
   Description: TS query grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-query
 - Package: tree-sitter-regex
-  Version: 0.25.0-1
+  Version: 0.25.0-2
   Description: RegEx grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-regex
 - Package: tree-sitter-rust
-  Version: 0.24.2-1
+  Version: 0.24.2-2
   Description: Rust grammar for tree-sitter
   Homepage: https://github.com/tree-sitter/tree-sitter-rust
 - Package: tree-sitter-sql
-  Version: 0.3.11-1
+  Version: 0.3.11-2
   Description: SQL grammar for tree-sitter
   Homepage: https://github.com/derekstride/tree-sitter-sql
 - Package: tree-sitter-toml
-  Version: 0.7.0-1
+  Version: 0.7.0-2
   Description: TOML grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-toml
 - Package: tree-sitter-vim
-  Version: 0.8.1-1
+  Version: 0.8.1-2
   Description: Vimscript grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-vim
 - Package: tree-sitter-vimdoc
-  Version: 4.1.0-2
+  Version: 4.1.0-3
   Description: Tree-sitter parser for Vim help files
   Homepage: https://github.com/neovim/tree-sitter-vimdoc
 - Package: tree-sitter-xml
-  Version: 0.7.0-1
+  Version: 0.7.0-2
   Description: XML grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-xml
 - Package: tree-sitter-yaml
-  Version: 0.7.2-1
+  Version: 0.7.2-2
   Description: YAML grammar for tree-sitter
   Homepage: https://github.com/tree-sitter-grammars/tree-sitter-yaml
 - Package: trojan-go
@@ -10994,6 +10994,10 @@
   Version: 1:26.6.0
   Description: A small and powerful JavaScript runtime
   Homepage: https://github.com/saghul/txiki.js
+- Package: txr
+  Version: "302"
+  Description: Data munging language and pattern matching tool
+  Homepage: https://www.nongnu.org/txr/
 - Package: ty
   Version: 0.0.79
   Description: An extremely fast Python type checker and language server, written in Rust

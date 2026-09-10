@@ -465,7 +465,7 @@
 | **elixir** | 1.20.4 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
 | **eltclsh** | 1.20-1 | Interactive shell for TCL programming language | https://homepages.laas.fr/mallet/soft/shell/eltclsh |
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
-| **emacs** | 31.1-1 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
+| **emacs** | 31.1-2 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emmylua-ls** | 0.25.1 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
 | **emscripten** | 6.0.8 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
 | **emscripten-binaryen** | 6.0.8 | Emscripten-compatible Binaryen | https://emscripten.org |
@@ -1955,8 +1955,8 @@
 | **neocmakelsp** | 0.11.1 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.12.5 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1572+g318ea4de21-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim** | 0.12.5-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1572+g318ea4de21-1 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2377,7 +2377,7 @@
 | **ripgrep-all** | 1:0.10.10-1 | Search tool able to locate in PDFs, E-Books, zip, tar.gz, etc | https://github.com/phiresky/ripgrep-all |
 | **ripsecrets** | 0.1.11-1 | A command-line tool to prevent committing secret keys into your source code | https://github.com/sirwart/ripsecrets |
 | **rirc** | 0.1.7-2 | A terminal IRC client in C | https://github.com/rcr/rirc |
-| **rizin** | 0.9.1-1 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
+| **rizin** | 0.9.1-2 | UNIX-like reverse engineering framework and command-line toolset. | https://rizin.re |
 | **rlwrap** | 0.48 | Wrapper using readline to enable editing of keyboard input for commands | https://github.com/hanslub42/rlwrap |
 | **rmpc** | 0.11.0 | A configurable TUI MPD client with album art support | https://mierak.github.io/rmpc/ |
 | **rmw** | 0.10.0 | A command-line recycle bin utility (ReMove to Waste) | https://theimpossibleastronaut.com/rmw-website/ |
@@ -2450,7 +2450,7 @@
 | **seanime** | 3.10.2-1 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
-| **sed** | 4.9-2 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
+| **sed** | 4.10 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
 | **seerr** | 3.4.1-1 | A fork of Overseerr with focus on adding support for Jellyfin/Emby | https://github.com/seerr-team/seerr |
 | **sendme** | 0.36.0-1 | A tool to send files and directories, based on iroh | https://github.com/n0-computer/sendme |
 | **sendxmpp** | 1.24-1 | A perl-script to send XMPP (jabber) messages | https://sendxmpp.hostname.sk/ |
@@ -2693,29 +2693,29 @@
 | **translate-shell** | 0.9.7.1-1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.1.3 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.3.2 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter** | 0.26.13 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
-| **tree-sitter-bash** | 0.25.1-1 | Bash grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-bash |
-| **tree-sitter-c** | 0.24.2 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
-| **tree-sitter-css** | 0.25.0-1 | CSS grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-css |
-| **tree-sitter-go** | 0.25.0-1 | Golang grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-go |
-| **tree-sitter-html** | 0.23.2-1 | HTML grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-html |
-| **tree-sitter-java** | 0.23.5-1 | Java grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-java |
-| **tree-sitter-javascript** | 0.25.0-1 | JavaScript grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-javascript |
-| **tree-sitter-json** | 0.24.8-1 | JSON grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-json |
-| **tree-sitter-latex** | 0.6.0-1 | LaTeX grammar for tree-sitter | https://github.com/latex-lsp/tree-sitter-latex |
-| **tree-sitter-lua** | 0.5.0-1 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
-| **tree-sitter-markdown** | 0.5.3-1 | Markdown grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
-| **tree-sitter-parsers** | 0.26 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
-| **tree-sitter-python** | 0.25.0-1 | Python grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-python |
-| **tree-sitter-query** | 0.8.0-2 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
-| **tree-sitter-regex** | 0.25.0-1 | RegEx grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-regex |
-| **tree-sitter-rust** | 0.24.2-1 | Rust grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-rust |
-| **tree-sitter-sql** | 0.3.11-1 | SQL grammar for tree-sitter | https://github.com/derekstride/tree-sitter-sql |
-| **tree-sitter-toml** | 0.7.0-1 | TOML grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-toml |
-| **tree-sitter-vim** | 0.8.1-1 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-vim |
-| **tree-sitter-vimdoc** | 4.1.0-2 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
-| **tree-sitter-xml** | 0.7.0-1 | XML grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-xml |
-| **tree-sitter-yaml** | 0.7.2-1 | YAML grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-yaml |
+| **tree-sitter** | 0.27.0 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
+| **tree-sitter-bash** | 0.25.1-2 | Bash grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-bash |
+| **tree-sitter-c** | 0.24.2-1 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
+| **tree-sitter-css** | 0.25.0-2 | CSS grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-css |
+| **tree-sitter-go** | 0.25.0-2 | Golang grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-go |
+| **tree-sitter-html** | 0.23.2-2 | HTML grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-html |
+| **tree-sitter-java** | 0.23.5-2 | Java grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-java |
+| **tree-sitter-javascript** | 0.25.0-2 | JavaScript grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-javascript |
+| **tree-sitter-json** | 0.24.8-2 | JSON grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-json |
+| **tree-sitter-latex** | 0.6.0-2 | LaTeX grammar for tree-sitter | https://github.com/latex-lsp/tree-sitter-latex |
+| **tree-sitter-lua** | 0.5.0-2 | Lua grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-lua |
+| **tree-sitter-markdown** | 0.5.3-2 | Markdown grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-markdown |
+| **tree-sitter-parsers** | 0.27 | A metapackage that provides commonly used treesitter parsers | https://github.com/termux/termux-packages |
+| **tree-sitter-python** | 0.25.0-2 | Python grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-python |
+| **tree-sitter-query** | 0.8.0-3 | TS query grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-query |
+| **tree-sitter-regex** | 0.25.0-2 | RegEx grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-regex |
+| **tree-sitter-rust** | 0.24.2-2 | Rust grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-rust |
+| **tree-sitter-sql** | 0.3.11-2 | SQL grammar for tree-sitter | https://github.com/derekstride/tree-sitter-sql |
+| **tree-sitter-toml** | 0.7.0-2 | TOML grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-toml |
+| **tree-sitter-vim** | 0.8.1-2 | Vimscript grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-vim |
+| **tree-sitter-vimdoc** | 4.1.0-3 | Tree-sitter parser for Vim help files | https://github.com/neovim/tree-sitter-vimdoc |
+| **tree-sitter-xml** | 0.7.0-2 | XML grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-xml |
+| **tree-sitter-yaml** | 0.7.2-2 | YAML grammar for tree-sitter | https://github.com/tree-sitter-grammars/tree-sitter-yaml |
 | **trojan-go** | 0.10.6-4 | A Trojan proxy written in Go. An unidentifiable mechanism that helps you bypass GFW | https://p4gefau1t.github.io/trojan-go |
 | **trunk** | 0.21.14-1 | Build, bundle & ship your Rust WASM application to the web | https://trunkrs.dev/ |
 | **trurl** | 0.16.1-1 | trurl is a command line tool that parses and manipulates URLs | https://curl.se/trurl/ |
@@ -2747,6 +2747,7 @@
 | **tweego** | 2.1.1-4 | A free command line compiler for Twine/Twee story formats | https://bitbucket.org/tmedwards/tweego |
 | **twolame** | 0.4.0-1 | The frontend for libtwolame | https://www.twolame.org/ |
 | **txikijs** | 1:26.6.0 | A small and powerful JavaScript runtime | https://github.com/saghul/txiki.js |
+| **txr** | 302 | Data munging language and pattern matching tool | https://www.nongnu.org/txr/ |
 | **ty** | 0.0.79 | An extremely fast Python type checker and language server, written in Rust | https://github.com/astral-sh/ty |
 | **typst** | 0.15.1 | A new markup-based typesetting system that is powerful and easy to learn | https://typst.app/ |
 | **typstfmt** | 0.2.10-1 | basic formatter for the Typst language | https://github.com/astrale-sharp/typstfmt |
