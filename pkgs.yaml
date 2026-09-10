@@ -2195,7 +2195,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 16.0.3
+  Version: 16.0.4
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -2763,7 +2763,7 @@
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
-  Version: 1.17.1
+  Version: 1.17.2
   Description: The slightly more awesome standard unix password manager for teams
   Homepage: https://github.com/gopasspw/gopass
 - Package: gopher
@@ -9091,7 +9091,7 @@
   Description: Python bindings to Rusts persistent data structures (rpds)
   Homepage: https://github.com/crate-py/rpds
 - Package: python-ruff
-  Version: 0.16.6
+  Version: 0.16.7
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -9631,7 +9631,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.16.6
+  Version: 0.16.7
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -10471,7 +10471,7 @@
   Description: Telegram downloader/tools written in Golang
   Homepage: https://docs.iyear.me/tdl/
 - Package: tea
-  Version: 0.15.1
+  Version: 0.16.0
   Description: The official CLI for Gitea
   Homepage: https://gitea.com/gitea/tea
 - Package: tealdeer
@@ -10498,6 +10498,10 @@
   Version: 18.10.0
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
+- Package: television
+  Version: 0.15.9
+  Description: A very fast, portable and hackable fuzzy finder
+  Homepage: https://github.com/alexpasmantier/television
 - Package: tere
   Version: 1.6.0-1
   Description: Terminal file explorer written in rust
@@ -11091,7 +11095,7 @@
   Description: A post-processing tool for scanned sheets of paper
   Homepage: https://www.flameeyes.com/projects/unpaper
 - Package: unrar
-  Version: 7.2.7
+  Version: 7.3.1
   Description: Tool for extracting files from .rar archives
   Homepage: https://www.rarlab.com/
 - Package: unshield

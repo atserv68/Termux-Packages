@@ -3295,7 +3295,7 @@
   },
   {
     "Package": "forgejo",
-    "Version": "16.0.3",
+    "Version": "16.0.4",
     "Description": "Forgejo is a self-hosted lightweight software forge.",
     "Homepage": "https://forgejo.org/"
   },
@@ -4147,7 +4147,7 @@
   },
   {
     "Package": "gopass",
-    "Version": "1.17.1",
+    "Version": "1.17.2",
     "Description": "The slightly more awesome standard unix password manager for teams",
     "Homepage": "https://github.com/gopasspw/gopass"
   },
@@ -13639,7 +13639,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.16.6",
+    "Version": "0.16.7",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14449,7 +14449,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.16.6",
+    "Version": "0.16.7",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15709,7 +15709,7 @@
   },
   {
     "Package": "tea",
-    "Version": "0.15.1",
+    "Version": "0.16.0",
     "Description": "The official CLI for Gitea",
     "Homepage": "https://gitea.com/gitea/tea"
   },
@@ -15748,6 +15748,12 @@
     "Version": "18.10.0",
     "Description": "Secure Access for Developers that doesnt get in the way",
     "Homepage": "https://github.com/gravitational/teleport"
+  },
+  {
+    "Package": "television",
+    "Version": "0.15.9",
+    "Description": "A very fast, portable and hackable fuzzy finder",
+    "Homepage": "https://github.com/alexpasmantier/television"
   },
   {
     "Package": "tere",
@@ -16639,7 +16645,7 @@
   },
   {
     "Package": "unrar",
-    "Version": "7.2.7",
+    "Version": "7.3.1",
     "Description": "Tool for extracting files from .rar archives",
     "Homepage": "https://www.rarlab.com/"
   },

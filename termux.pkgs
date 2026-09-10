@@ -547,7 +547,7 @@
 | **fontconfig-static** | 2.18.3 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.18.3 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2-2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 16.0.3 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 16.0.4 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-2 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.28 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **foundry** | 1.7.1-1 | A blazing fast, portable and modular toolkit for Ethereum application development | https://github.com/foundry-rs/foundry |
@@ -689,7 +689,7 @@
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.18.0 | Google C++ testing framework | https://github.com/google/googletest |
 | **goose** | 3.28.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
-| **gopass** | 1.17.1 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
+| **gopass** | 1.17.2 | The slightly more awesome standard unix password manager for teams | https://github.com/gopasspw/gopass |
 | **gopher** | 3.0.17.3-2 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
 | **gopls** | 0.23.0 | The official Go language server | https://github.com/golang/tools |
 | **goreleaser** | 2.18.1 | Deliver Go binaries as fast and easily as possible | https://goreleaser.com |
@@ -2271,7 +2271,7 @@
 | **python-pynvim** | 0.6.0-3 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-pyppmd** | 1.3.1-1 | PPM compression/decompression library | https://github.com/miurahr/pyppmd |
 | **python-rpds-py** | 2026.6.3 | Python bindings to Rust's persistent data structures (rpds) | https://github.com/crate-py/rpds |
-| **python-ruff** | 0.16.6 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
+| **python-ruff** | 0.16.7 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 9.7.1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-scipy** | 1.18.1 | Fundamental algorithms for scientific computing in Python | https://scipy.org/ |
 | **python-skia-pathops** | 0.9.2-2 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
@@ -2406,7 +2406,7 @@
 | **rubiks-cube** | 1.2-1 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 4.0.6 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 4.0.6 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.16.6 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.16.7 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.9.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2616,13 +2616,14 @@
 | **tcsh** | 6.24.16-1 | TENEX C Shell, an enhanced version of Berkeley csh | https://www.tcsh.org |
 | **tdb-tools** | 1.4.15-1 | Tools for TDB | https://tdb.samba.org/ |
 | **tdl** | 0.20.4 | Telegram downloader/tools written in Golang | https://docs.iyear.me/tdl/ |
-| **tea** | 0.15.1 | The official CLI for Gitea | https://gitea.com/gitea/tea |
+| **tea** | 0.16.0 | The official CLI for Gitea | https://gitea.com/gitea/tea |
 | **tealdeer** | 1.9.0 | A very fast implementation of tldr in Rust | https://tealdeer-rs.github.io/tealdeer/ |
 | **teckit** | 2.5.13 | TECkit is a library for encoding conversion | https://scripts.sil.org/teckitdownloads |
 | **teckit-static** | 2.5.13 | Static libraries for teckit | https://scripts.sil.org/teckitdownloads |
 | **tectonic** | 0.17.0-1 | A modernized, complete, self-contained TeX/LaTeX engine | https://tectonic-typesetting.github.io/ |
 | **telegram-bot-api** | 20241031-2 | Telegram Bot API server | https://github.com/tdlib/telegram-bot-api |
 | **teleport-tsh** | 18.10.0 | Secure Access for Developers that doesn't get in the way | https://github.com/gravitational/teleport |
+| **television** | 0.15.9 | A very fast, portable and hackable fuzzy finder | https://github.com/alexpasmantier/television |
 | **tere** | 1.6.0-1 | Terminal file explorer written in rust | https://github.com/mgunyho/tere |
 | **tergent** | 1.0.0-5 | A cryptoki/PKCS#11 library for Termux that uses Android Keystore as its backend | https://github.com/aeolwyr/tergent |
 | **termimage** | 1.2.1-1 | Terminal image viewer | https://github.com/nabijaczleweli/termimage |
@@ -2771,7 +2772,7 @@
 | **unixodbc** | 2.3.14 | An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX | https://www.unixodbc.org/ |
 | **unixodbc-static** | 2.3.14 | Static libraries for unixodbc | https://www.unixodbc.org/ |
 | **unpaper** | 1:7.0.0-4 | A post-processing tool for scanned sheets of paper | https://www.flameeyes.com/projects/unpaper |
-| **unrar** | 7.2.7 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
+| **unrar** | 7.3.1 | Tool for extracting files from .rar archives | https://www.rarlab.com/ |
 | **unshield** | 1.6.2-1 | Tool and library to extract CAB files from InstallShield installers | https://github.com/twogood/unshield |
 | **unzip** | 6.0-10 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-4 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |
