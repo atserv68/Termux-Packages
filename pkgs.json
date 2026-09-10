@@ -3013,19 +3013,19 @@
   },
   {
     "Package": "faust",
-    "Version": "2.85.9",
+    "Version": "2.88.0",
     "Description": "A functional programming language for signal processing and sound synthesis",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faust-static",
-    "Version": "2.85.9",
+    "Version": "2.88.0",
     "Description": "Static libraries for faust",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
   {
     "Package": "faustlibraries",
-    "Version": "2.85.9",
+    "Version": "2.88.0",
     "Description": "Faust DSP libraries",
     "Homepage": "https://github.com/grame-cncm/faust"
   },
@@ -4645,7 +4645,7 @@
   },
   {
     "Package": "highway",
-    "Version": "1.4.0",
+    "Version": "1.4.0-1",
     "Description": "Performance-portable, length-agnostic SIMD with runtime dispatch",
     "Homepage": "https://github.com/google/highway"
   },
@@ -11761,7 +11761,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1572+g318ea4de21-1",
+    "Version": "0.13.0~dev-1583+gd039f19af5-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -16669,7 +16669,7 @@
   },
   {
     "Package": "upower",
-    "Version": "1.91.3",
+    "Version": "1.91.4",
     "Description": "Power management support for DeviceKit",
     "Homepage": "https://upower.freedesktop.org/"
   },
