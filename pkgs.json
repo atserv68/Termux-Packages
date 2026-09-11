@@ -2803,7 +2803,7 @@
   },
   {
     "Package": "emacs",
-    "Version": "31.1-2",
+    "Version": "31.1-3",
     "Description": "Extensible, customizable text editor-and more",
     "Homepage": "https://www.gnu.org/software/emacs/"
   },
@@ -3865,7 +3865,7 @@
   },
   {
     "Package": "glib-networking",
-    "Version": "2.80.1-2",
+    "Version": "2.90.0",
     "Description": "Network-related giomodules for glib",
     "Homepage": "https://gitlab.gnome.org/GNOME/glib-networking"
   },
@@ -4735,19 +4735,19 @@
   },
   {
     "Package": "httrack",
-    "Version": "3.50.1",
+    "Version": "3.50.2",
     "Description": "It allows you to download a World Wide Web site from the Internet",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-data",
-    "Version": "3.50.1",
+    "Version": "3.50.2",
     "Description": "Platform-independent data for httrack",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-static",
-    "Version": "3.50.1",
+    "Version": "3.50.2",
     "Description": "Static libraries for httrack",
     "Homepage": "http://www.httrack.com"
   },
@@ -5905,7 +5905,7 @@
   },
   {
     "Package": "libbcprov-java",
-    "Version": "1.85v2",
+    "Version": "1.86",
     "Description": "A lightweight cryptography API for Java",
     "Homepage": "https://www.bouncycastle.org/java.html"
   },
@@ -10021,13 +10021,13 @@
   },
   {
     "Package": "libxmp",
-    "Version": "4.7.2",
+    "Version": "4.7.3",
     "Description": "Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)",
     "Homepage": "https://github.com/libxmp/libxmp"
   },
   {
     "Package": "libxmp-static",
-    "Version": "4.7.2",
+    "Version": "4.7.3",
     "Description": "Static libraries for libxmp",
     "Homepage": "https://github.com/libxmp/libxmp"
   },
@@ -12108,6 +12108,12 @@
     "Homepage": "https://ohmyposh.dev"
   },
   {
+    "Package": "oha",
+    "Version": "1.16.0",
+    "Description": "HTTP load generator with realtime tui, inspired by rakyll/hey",
+    "Homepage": "https://github.com/hatoo/oha"
+  },
+  {
     "Package": "oidn",
     "Version": "2.4.1",
     "Description": "Intel® Open Image Denoise library",
@@ -13075,7 +13081,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.3.4",
+    "Version": "12.4.1",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -14191,7 +14197,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:06.03.02",
+    "Version": "1:06.03.03",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -16129,7 +16135,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.9.0",
+    "Version": "17.10.1",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },

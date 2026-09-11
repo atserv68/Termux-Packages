@@ -1867,7 +1867,7 @@
   Description: A friendly and expressive Unix shell
   Homepage: https://github.com/elves/elvish
 - Package: emacs
-  Version: 31.1-2
+  Version: 31.1-3
   Description: Extensible, customizable text editor-and more
   Homepage: https://www.gnu.org/software/emacs/
 - Package: emmylua-ls
@@ -2575,7 +2575,7 @@
   Description: glib for host (NOT for Termux)
   Homepage: https://developer.gnome.org/glib/
 - Package: glib-networking
-  Version: 2.80.1-2
+  Version: 2.90.0
   Description: Network-related giomodules for glib
   Homepage: https://gitlab.gnome.org/GNOME/glib-networking
 - Package: glibc-repo
@@ -3155,15 +3155,15 @@
   Description: ping-like program for http-requests
   Homepage: https://github.com/folkertvanheusden/HTTPing
 - Package: httrack
-  Version: 3.50.1
+  Version: 3.50.2
   Description: It allows you to download a World Wide Web site from the Internet
   Homepage: http://www.httrack.com
 - Package: httrack-data
-  Version: 3.50.1
+  Version: 3.50.2
   Description: Platform-independent data for httrack
   Homepage: http://www.httrack.com
 - Package: httrack-static
-  Version: 3.50.1
+  Version: 3.50.2
   Description: Static libraries for httrack
   Homepage: http://www.httrack.com
 - Package: hub
@@ -3935,7 +3935,7 @@
   Description: Library for encoding and decoding .avif files
   Homepage: https://github.com/AOMediaCodec/libavif
 - Package: libbcprov-java
-  Version: 1.85v2
+  Version: "1.86"
   Description: A lightweight cryptography API for Java
   Homepage: https://www.bouncycastle.org/java.html
 - Package: libblkid
@@ -6679,11 +6679,11 @@
   Description: Static libraries for libxmlrpc
   Homepage: https://xmlrpc-c.sourceforge.io/
 - Package: libxmp
-  Version: 4.7.2
+  Version: 4.7.3
   Description: Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)
   Homepage: https://github.com/libxmp/libxmp
 - Package: libxmp-static
-  Version: 4.7.2
+  Version: 4.7.3
   Description: Static libraries for libxmp
   Homepage: https://github.com/libxmp/libxmp
 - Package: libxrandr
@@ -8070,6 +8070,10 @@
   Version: 31.2.1
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
+- Package: oha
+  Version: 1.16.0
+  Description: HTTP load generator with realtime tui, inspired by rakyll/hey
+  Homepage: https://github.com/hatoo/oha
 - Package: oidn
   Version: 2.4.1
   Description: Intel® Open Image Denoise library
@@ -8715,7 +8719,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.3.4
+  Version: 12.4.1
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -9459,7 +9463,7 @@
   Description: Library that provides a high-level interface to RDF data
   Homepage: http://librdf.org/
 - Package: remind
-  Version: 1:06.03.02
+  Version: 1:06.03.03
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -10751,7 +10755,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 17.9.0
+  Version: 17.10.1
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor
