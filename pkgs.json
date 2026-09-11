@@ -1093,7 +1093,7 @@
   },
   {
     "Package": "buf",
-    "Version": "1.72.0",
+    "Version": "1.73.0",
     "Description": "A new way of working with Protocol Buffers",
     "Homepage": "https://buf.build"
   },
@@ -1273,7 +1273,7 @@
   },
   {
     "Package": "cargo-leptos",
-    "Version": "0.3.7",
+    "Version": "0.3.8",
     "Description": "Build tool for the Rust framework Leptos",
     "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
@@ -1585,7 +1585,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.9.0",
+    "Version": "2026.9.1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -3907,7 +3907,7 @@
   },
   {
     "Package": "glslang",
-    "Version": "16.5.0",
+    "Version": "16.6.0",
     "Description": "OpenGL and OpenGL ES shader front end and validator",
     "Homepage": "https://github.com/KhronosGroup/glslang"
   },
@@ -4657,7 +4657,7 @@
   },
   {
     "Package": "hledger",
-    "Version": "1.52.2",
+    "Version": "1.52.4",
     "Description": "Robust, friendly, fast plain text accounting software. (CLI only)",
     "Homepage": "https://hledger.org/"
   },
@@ -6439,13 +6439,13 @@
   },
   {
     "Package": "libdvbcsa",
-    "Version": "1.1.0-3",
+    "Version": "1.1.0-4",
     "Description": "An implementation of the DVB Common Scrambling Algorithm - DVB/CSA - with encryption and decryption capabilities",
     "Homepage": "https://www.videolan.org/developers/libdvbcsa.html"
   },
   {
     "Package": "libdvbcsa-static",
-    "Version": "1.1.0-3",
+    "Version": "1.1.0-4",
     "Description": "Static libraries for libdvbcsa",
     "Homepage": "https://www.videolan.org/developers/libdvbcsa.html"
   },
@@ -16495,13 +16495,13 @@
   },
   {
     "Package": "tvheadend",
-    "Version": "4.2.8-12",
+    "Version": "4.2.8-13",
     "Description": "TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.",
     "Homepage": "https://tvheadend.org/"
   },
   {
     "Package": "tvheadend-data",
-    "Version": "4.2.8-12",
+    "Version": "4.2.8-13",
     "Description": "Platform-independent data for tvheadend",
     "Homepage": "https://tvheadend.org/"
   },
