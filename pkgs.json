@@ -3253,7 +3253,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.101",
+    "Version": "0.4.102",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -7399,13 +7399,13 @@
   },
   {
     "Package": "libkokkos",
-    "Version": "5.2.1",
+    "Version": "5.2.2",
     "Description": "Implements a programming model in C++ for writing performance portable applications",
     "Homepage": "https://github.com/kokkos"
   },
   {
     "Package": "libkokkos-static",
-    "Version": "5.2.1",
+    "Version": "5.2.2",
     "Description": "Static libraries for libkokkos",
     "Homepage": "https://github.com/kokkos"
   },
@@ -11191,7 +11191,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.4",
+    "Version": "2026.9.5",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -16765,7 +16765,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.12",
+    "Version": "0.12.13",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -17113,7 +17113,7 @@
   },
   {
     "Package": "wasmtime",
-    "Version": "48.0.1",
+    "Version": "48.0.2",
     "Description": "A standalone runtime for WebAssembly",
     "Homepage": "https://wasmtime.dev/"
   },

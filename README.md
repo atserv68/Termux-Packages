@@ -552,7 +552,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0-2 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.6.0 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.101 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.102 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.3 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -1243,8 +1243,8 @@
 | **libkiwix** | 14.2.1-1 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.2.4-2 | Knot DNS libraries | https://www.knot-dns.cz/ |
 | **libknot-static** | 3.2.4-2 | Static libraries for libknot | https://www.knot-dns.cz/ |
-| **libkokkos** | 5.2.1 | Implements a programming model in C++ for writing performance portable applications | https://github.com/kokkos |
-| **libkokkos-static** | 5.2.1 | Static libraries for libkokkos | https://github.com/kokkos |
+| **libkokkos** | 5.2.2 | Implements a programming model in C++ for writing performance portable applications | https://github.com/kokkos |
+| **libkokkos-static** | 5.2.2 | Static libraries for libkokkos | https://github.com/kokkos |
 | **libksba** | 1.8.1 | Library for using X.509 certificates and CMS (Cryptographic Message Syntax) easily accessible | https://gnupg.org/related_software/libksba/ |
 | **libksba-static** | 1.8.1 | Static libraries for libksba | https://gnupg.org/related_software/libksba/ |
 | **liblangtag** | 0.6.7-2 | interface library to access/deal with tags for identifying languages | https://bitbucket.org/tagoh/liblangtag/wiki/Home |
@@ -1875,7 +1875,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.9.4 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.9.5 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -2804,7 +2804,7 @@
 | **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.12.12 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.12.13 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.53.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2862,7 +2862,7 @@
 | **wasm-component-ld** | 0.5.30 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
 | **wasmedge** | 0.17.1 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.1.0-1 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
-| **wasmtime** | 48.0.1 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
+| **wasmtime** | 48.0.2 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.7.2 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.11.2 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
