@@ -1428,6 +1428,7 @@
  libpsl  0.23.3  Public Suffix List library  https://github.com/rockdaboot/libpsl 
  libpsl-static  0.23.3  Static libraries for libpsl  https://github.com/rockdaboot/libpsl 
  libpugixml  1.16  Light-weight, simple and fast XML parser for C++ with XPath support  https://pugixml.org/ 
+ libpwquality  1.4.5  Library for password quality checking and generating random passwords  https://github.com/libpwquality/libpwquality 
  libqrencode  4.1.1-2  Fast and compact library for encoding data in a QR Code symbol  https://fukuchi.org/works/qrencode/ 
  libqxp  0.0.3  a library that parses the file format of QuarkXPress documents  https://wiki.documentfoundation.org/DLP/Libraries/libqxp 
  libqxp-static  0.0.3  Static libraries for libqxp  https://wiki.documentfoundation.org/DLP/Libraries/libqxp 

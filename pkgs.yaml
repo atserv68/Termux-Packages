@@ -5718,6 +5718,10 @@
   Version: "1.16"
   Description: Light-weight, simple and fast XML parser for C++ with XPath support
   Homepage: https://pugixml.org/
+- Package: libpwquality
+  Version: 1.4.5
+  Description: Library for password quality checking and generating random passwords
+  Homepage: https://github.com/libpwquality/libpwquality
 - Package: libqrencode
   Version: 4.1.1-2
   Description: Fast and compact library for encoding data in a QR Code symbol
