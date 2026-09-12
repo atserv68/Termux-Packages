@@ -8147,11 +8147,11 @@
   Description: Software implementation of the OpenAL API
   Homepage: https://openal-soft.org/
 - Package: openbabel
-  Version: 3.2.0-2
+  Version: 3.2.0-3
   Description: Open Babel is a chemical toolbox designed to speak the many languages of chemical data
   Homepage: http://openbabel.org/wiki/Main_Page
 - Package: openbabel-static
-  Version: 3.2.0-2
+  Version: 3.2.0-3
   Description: Static libraries for openbabel
   Homepage: http://openbabel.org/wiki/Main_Page
 - Package: opencc-tools
@@ -8723,7 +8723,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.4.1
+  Version: 12.4.1-1
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase

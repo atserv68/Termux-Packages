@@ -2047,8 +2047,8 @@
 | **oorexx-static** | 4.2.0-4 | Static libraries for oorexx | https://www.oorexx.org/ |
 | **open-adventure** | 1.22 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
 | **openal-soft** | 1.25.2-1 | Software implementation of the OpenAL API | https://openal-soft.org/ |
-| **openbabel** | 3.2.0-2 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
-| **openbabel-static** | 3.2.0-2 | Static libraries for openbabel | http://openbabel.org/wiki/Main_Page |
+| **openbabel** | 3.2.0-3 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
+| **openbabel-static** | 3.2.0-3 | Static libraries for openbabel | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.4.2 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
 | **opencl-clhpp** | 2026.05.29 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2026.05.29 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
@@ -2191,7 +2191,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pnpm** | 12.4.1 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
+| **pnpm** | 12.4.1-1 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
 | **pocketbase** | 0.40.3 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 5.0 | Static libraries for poke | http://www.jemarch.net/poke.html |
