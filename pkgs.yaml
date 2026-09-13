@@ -7099,7 +7099,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.44.0
+  Version: 0.44.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -8095,7 +8095,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 31.2.1
+  Version: 31.3.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oha
@@ -10102,6 +10102,10 @@
   Version: 14.4.2-29
   Description: Static libraries for sox
   Homepage: https://sox.sourceforge.net/
+- Package: sparsehash
+  Version: 2.0.4
+  Description: Extremely memory-efficient C++ hash_map implementation
+  Homepage: https://github.com/sparsehash/sparsehash
 - Package: spatialite-tools
   Version: 5.0.1-5
   Description: Collection of tools supporting SpatiaLite

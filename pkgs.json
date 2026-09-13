@@ -10651,7 +10651,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.44.0",
+    "Version": "0.44.1",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -12145,7 +12145,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "31.2.1",
+    "Version": "31.3.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -15154,6 +15154,12 @@
     "Version": "14.4.2-29",
     "Description": "Static libraries for sox",
     "Homepage": "https://sox.sourceforge.net/"
+  },
+  {
+    "Package": "sparsehash",
+    "Version": "2.0.4",
+    "Description": "Extremely memory-efficient C++ hash_map implementation",
+    "Homepage": "https://github.com/sparsehash/sparsehash"
   },
   {
     "Package": "spatialite-tools",

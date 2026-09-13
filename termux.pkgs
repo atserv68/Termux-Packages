@@ -1773,7 +1773,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.44.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.44.1 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -2022,7 +2022,7 @@
 | **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 31.2.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 31.3.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oha** | 1.16.0 | HTTP load generator with realtime tui, inspired by rakyll/hey | https://github.com/hatoo/oha |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **okc-agents** | 0.1.2-2 | OpenKeychain agents for GnuPG and OpenSSH | https://github.com/DDoSolitary/okc-agents |
@@ -2524,6 +2524,7 @@
 | **sourcekit-lsp** | 6.2.4 | Language Server Protocol implementation for Swift and C-based languages | https://swift.org/ |
 | **sox** | 14.4.2-29 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-29 | Static libraries for sox | https://sox.sourceforge.net/ |
+| **sparsehash** | 2.0.4 | Extremely memory-efficient C++ hash_map implementation | https://github.com/sparsehash/sparsehash |
 | **spatialite-tools** | 5.0.1-5 | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
 | **speechd** | 0.12.1-2 | Common interface to speech synthesis | https://github.com/brailcom/speechd |
 | **speechd-data** | 0.12.1-2 | Platform-independent data for speechd | https://github.com/brailcom/speechd |
