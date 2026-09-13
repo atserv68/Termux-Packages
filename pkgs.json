@@ -4494,6 +4494,12 @@
     "Homepage": "https://github.com/google/gumbo-parser"
   },
   {
+    "Package": "gurk",
+    "Version": "0.10.1",
+    "Description": "Signal messenger client for terminal",
+    "Homepage": "https://github.com/boxdot/gurk-rs"
+  },
+  {
     "Package": "gweather-locations",
     "Version": "2026.2",
     "Description": "The GWeather locations database",
@@ -5530,6 +5536,12 @@
     "Version": "5.4.1",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
+  },
+  {
+    "Package": "lensfun",
+    "Version": "0.3.4-1",
+    "Description": "Lensfun",
+    "Homepage": "https://lensfun.github.io/"
   },
   {
     "Package": "leptonica",
@@ -11203,7 +11215,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.5",
+    "Version": "2026.9.6",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11545,7 +11557,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.24.0",
+    "Version": "2.24.4",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -11629,7 +11641,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.63.2",
+    "Version": "0.64.0",
     "Description": "Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
@@ -13507,7 +13519,7 @@
   },
   {
     "Package": "python-crc32c",
-    "Version": "2.8",
+    "Version": "2.9.post0",
     "Description": "Python package implementing the crc32c checksum algorithm in hardware and software",
     "Homepage": "https://github.com/ICRAR/crc32c"
   },
@@ -16494,6 +16506,12 @@
     "Homepage": "https://github.com/agnostic-apollo/tudo"
   },
   {
+    "Package": "tuicr",
+    "Version": "0.25.0",
+    "Description": "A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard",
+    "Homepage": "https://github.com/agavra/tuicr"
+  },
+  {
     "Package": "tur-repo",
     "Version": "1.0.1",
     "Description": "A single and trusted place for all unofficial/less popular termux packages",
@@ -17749,7 +17767,7 @@
   },
   {
     "Package": "zola",
-    "Version": "0.23.5",
+    "Version": "0.23.6",
     "Description": "A fast static site generator in a single binary with everything built-in.",
     "Homepage": "https://github.com/getzola/zola"
   },
