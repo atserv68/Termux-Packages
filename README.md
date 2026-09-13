@@ -1680,9 +1680,9 @@
 | **libxls-static** | 1.6.3-2 | Static libraries for libxls | https://github.com/libxls/libxls |
 | **libxls2csv** | 1.6.3-2 | A command-line tool for converting XLS to CSV | https://github.com/libxls/libxls |
 | **libxlsxwriter** | 1.2.4 | A C library for creating Excel XLSX files | https://libxlsxwriter.github.io/ |
-| **libxml2** | 2.15.4 | Library for parsing XML documents | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
-| **libxml2-python** | 2.15.4 | Python bindings for libxml2 | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
-| **libxml2-utils** | 2.15.4 | XML utilities | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
+| **libxml2** | 2.15.4-1 | Library for parsing XML documents | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
+| **libxml2-python** | 2.15.4-1 | Python bindings for libxml2 | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
+| **libxml2-utils** | 2.15.4-1 | XML utilities | https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home |
 | **libxmlb** | 0.3.29 | Library to help create and query binary XML blobs | https://github.com/hughsie/libxmlb |
 | **libxmlrpc** | 1.64.03-1 | XML-RPC for C and C++ | https://xmlrpc-c.sourceforge.io/ |
 | **libxmlrpc-static** | 1.64.03-1 | Static libraries for libxmlrpc | https://xmlrpc-c.sourceforge.io/ |
@@ -2115,7 +2115,7 @@
 | **panda3d** | 1.10.16-1 | A framework for 3D rendering and game development for Python and C++ programs | https://www.panda3d.org/ |
 | **panda3d-samples** | 1.10.16-1 | Python sample programs that use Panda3D | https://www.panda3d.org/ |
 | **panda3d-static** | 1.10.16-1 | Static libraries for panda3d | https://www.panda3d.org/ |
-| **pandoc** | 3.10.1 | Universal markup converter | https://pandoc.org/ |
+| **pandoc** | 3.11 | Universal markup converter | https://pandoc.org/ |
 | **pango** | 1.58.2 | Library for laying out and rendering text | https://www.gtk.org/docs/architecture/pango |
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 1.4.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
