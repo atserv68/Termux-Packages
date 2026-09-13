@@ -935,7 +935,7 @@
 | **lfortran-static** | 0.65.0 | Static libraries for lfortran | https://lfortran.org/ |
 | **lftp** | 4.9.2-7 | FTP/HTTP client and file transfer program | https://lftp.tech/ |
 | **lftp-static** | 4.9.2-7 | Static libraries for lftp | https://lftp.tech/ |
-| **lgogdownloader** | 3.18-4 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
+| **lgogdownloader** | 3.19 | Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader | https://sites.google.com/site/gogdownloader/ |
 | **lhasa** | 0.6.0 | LHA compressor/decompressor | https://lhasa.soulsphere.org/ |
 | **lhasa-static** | 0.6.0 | Static libraries for lhasa | https://lhasa.soulsphere.org/ |
 | **liba52** | 0.8.0-3 | A free library for decoding ATSC A/52 streams | http://liba52.sourceforge.net/ |
@@ -2456,7 +2456,7 @@
 | **scrypt** | 1.3.3-1 | scrypt KDF library and file encryption tool | https://www.tarsnap.com/scrypt.html |
 | **sd** | 1.1.0 | An intuitive find & replace CLI | https://github.com/chmln/sd |
 | **sdcv** | 0.5.5-2 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
-| **sea-orm-cli** | 2.0.2 | Command line utility for SeaORM, an async & dynamic ORM for Rust | https://github.com/SeaQL/sea-orm |
+| **sea-orm-cli** | 2.0.3 | Command line utility for SeaORM, an async & dynamic ORM for Rust | https://github.com/SeaQL/sea-orm |
 | **seafile-client** | 9.0.21 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.21 | Static libraries for seafile-client | https://seafile.com |
 | **seanime** | 3.10.2-1 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
@@ -2515,7 +2515,7 @@
 | **socat** | 1.8.1.3 | Relay for bidirectional data transfer between two independent data channels | http://www.dest-unreach.org/socat/ |
 | **softether-vpn** | 5.2.5188-1 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.2.5188-1 | Static libraries for softether-vpn | https://www.softether.org/ |
-| **soju** | 0.10.1-2 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
+| **soju** | 0.11.0 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.37 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
 | **sonarr** | 4.0.19.2979-5 | A PVR for Usenet and BitTorrent users (server) | https://sonarr.tv |
 | **sops** | 3.13.3 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
@@ -2695,7 +2695,7 @@
 | **tokei** | 15.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tome2** | 2025.12.13-2 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 17.10.1 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 17.11.0 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.9.12 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
@@ -2793,7 +2793,7 @@
 | **urdfdom** | 6.0.1 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 3.0.1 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usbmuxd** | 1.1.1-p20250201-2 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
-| **usql** | 0.21.4-2 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
+| **usql** | 0.21.5 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
 | **utf8cpp** | 1:4.2.0 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.11.3 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.11.3 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |

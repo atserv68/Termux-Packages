@@ -5623,7 +5623,7 @@
   },
   {
     "Package": "lgogdownloader",
-    "Version": "3.18-4",
+    "Version": "3.19",
     "Description": "Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader",
     "Homepage": "https://sites.google.com/site/gogdownloader/"
   },
@@ -14749,7 +14749,7 @@
   },
   {
     "Package": "sea-orm-cli",
-    "Version": "2.0.2",
+    "Version": "2.0.3",
     "Description": "Command line utility for SeaORM, an async & dynamic ORM for Rust",
     "Homepage": "https://github.com/SeaQL/sea-orm"
   },
@@ -15103,7 +15103,7 @@
   },
   {
     "Package": "soju",
-    "Version": "0.10.1-2",
+    "Version": "0.11.0",
     "Description": "A user-friendly IRC bouncer",
     "Homepage": "https://codeberg.org/emersion/soju"
   },
@@ -16183,7 +16183,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.10.1",
+    "Version": "17.11.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -16771,7 +16771,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.21.4-2",
+    "Version": "0.21.5",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },
