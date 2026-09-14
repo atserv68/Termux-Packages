@@ -490,6 +490,10 @@
   Version: 3.25.0-1
   Description: A background code checker for Rust, designed for minimal interaction
   Homepage: https://dystroy.org/bacon
+- Package: bacula
+  Version: 17.0.0
+  Description: Bacula backup software
+  Homepage: https://www.bacula.org
 - Package: bacula-fd
   Version: 15.0.3-2
   Description: Bacula backup software
@@ -971,7 +975,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.72.1
+  Version: 2.72.2
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -1219,7 +1223,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.5.2
+  Version: 1:11.5.3
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -3423,7 +3427,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2541
+  Version: 0.24.2581
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -7483,7 +7487,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.9.6
+  Version: 2026.9.7
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg

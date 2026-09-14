@@ -738,6 +738,12 @@
     "Homepage": "https://dystroy.org/bacon"
   },
   {
+    "Package": "bacula",
+    "Version": "17.0.0",
+    "Description": "Bacula backup software",
+    "Homepage": "https://www.bacula.org"
+  },
+  {
     "Package": "bacula-fd",
     "Version": "15.0.3-2",
     "Description": "Bacula backup software",
@@ -1459,7 +1465,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.72.1",
+    "Version": "2.72.2",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -1831,7 +1837,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.5.2",
+    "Version": "1:11.5.3",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -5137,7 +5143,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2541",
+    "Version": "0.24.2581",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -11227,7 +11233,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.6",
+    "Version": "2026.9.7",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },

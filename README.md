@@ -133,6 +133,7 @@
 | **b3sum** | 1.8.7 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacon** | 3.25.0-1 | A background code checker for Rust, designed for minimal interaction | https://dystroy.org/bacon |
+| **bacula** | 17.0.0 | Bacula backup software | https://www.bacula.org |
 | **bacula-fd** | 15.0.3-2 | Bacula backup software | https://www.bacula.org |
 | **bacula-fd-static** | 15.0.3-2 | Static libraries for bacula-fd | https://www.bacula.org |
 | **barcode** | 0.99-5 | Tool to convert text strings to printed bars | https://www.gnu.org/software/barcode/ |
@@ -253,7 +254,7 @@
 | **chafa-static** | 1.18.2-1 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
-| **chezmoi** | 2.72.1 | Manage your dotfiles across multiple machines | https://chezmoi.io |
+| **chezmoi** | 2.72.2 | Manage your dotfiles across multiple machines | https://chezmoi.io |
 | **chicken** | 6.0.0 | A feature rich Scheme compiler and interpreter | https://www.call-cc.org |
 | **chicken-static** | 6.0.0 | Static libraries for chicken | https://www.call-cc.org |
 | **chntpw** | 140201 | Offline Windows NT Password & Registry Editor | https://pogostick.net/~pnh/ntpasswd/ |
@@ -315,7 +316,7 @@
 | **cpufetch** | 1.07-1 | Simple yet fancy CPU architecture fetching tool | https://github.com/Dr-Noob/cpufetch |
 | **cpulimit** | 0.2-2 | CPU usage limiter | https://github.com/opsengine/cpulimit |
 | **crawl** | 0.34.1 | Roguelike adventure through dungeons filled with dangerous monsters | https://crawl.develz.org/ |
-| **croc** | 1:11.5.2 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
+| **croc** | 1:11.5.3 | Easily and securely send things from one computer to another | https://github.com/schollz/croc |
 | **cronie** | 1.7.2-4 | Daemon that runs specified programs at scheduled times and related tools | https://github.com/cronie-crond/cronie/ |
 | **crowbook** | 0.17.0-1 | Allows you to write a book in Markdown without worrying about formatting or typography | https://github.com/crowdagger/crowbook |
 | **crunch** | 3.6-5 | Highly customizable wordlist generator | https://sourceforge.net/projects/crunch-wordlist/ |
@@ -866,7 +867,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.2541 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.2581 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.5 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.5 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.42.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1881,7 +1882,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.9.6 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.9.7 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
