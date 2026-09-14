@@ -3574,6 +3574,10 @@
   Version: 2.55-6
   Description: A tool that optimizes PDF files for viewing on mobile readers
   Homepage: https://www.willus.com/k2pdfopt/
+- Package: k6
+  Version: 2.2.0
+  Description: Modern load-testing tool for developers and testers
+  Homepage: https://k6.io
 - Package: k9s
   Version: 0.51.0
   Description: Kubernetes CLI To Manage Your Clusters In Style!
