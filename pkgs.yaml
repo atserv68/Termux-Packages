@@ -699,7 +699,7 @@
   Description: Roguelike dungeon crawling game (community edition)
   Homepage: https://sites.google.com/site/broguegame/
 - Package: brook
-  Version: "20260101.0"
+  Version: "20270101"
   Description: A cross-platform strong encryption and not detectable proxy. Zero-Configuration.
   Homepage: https://github.com/txthinking/brook
 - Package: broot
@@ -3467,11 +3467,11 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jellyfin-ffmpeg
-  Version: 10.11.11-2
+  Version: 12.0-1
   Description: FFmpeg for Jellyfin with custom extensions and enhancements
   Homepage: https://jellyfin.org
 - Package: jellyfin-server
-  Version: 10.11.11-2
+  Version: 12.0-1
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
@@ -3963,7 +3963,7 @@
   Description: Block device identification library
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libblocksruntime
-  Version: 1:6.2.1
+  Version: 1:6.3.3
   Description: LLVM Blocks runtime library
   Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 - Package: libblosc
@@ -4275,7 +4275,7 @@
   Description: A cross-platform image library utilizing a simple syntax
   Homepage: https://openil.sourceforge.net/
 - Package: libdispatch
-  Version: 1:6.2.1
+  Version: 1:6.3.3
   Description: The libdispatch project, for concurrency on multicore hardware
   Homepage: https://github.com/swiftlang/swift-corelibs-libdispatch
 - Package: libdisplay-info
@@ -5955,7 +5955,7 @@
   Description: Encoder/decoder implementation for DEC SIXEL graphics
   Homepage: https://saitoha.github.io/libsixel/
 - Package: libskiasharp
-  Version: 3.116.1.20241024-1
+  Version: 3.119.4
   Description: SkiaSharp is a cross-platform 2D graphics API for .NET platforms
   Homepage: https://github.com/mono/SkiaSharp
 - Package: libslirp
@@ -6891,7 +6891,7 @@
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
-  Version: 6.2.1
+  Version: 6.3.3
   Description: A low-level build system, used by the Swift Package Manager
   Homepage: https://github.com/swiftlang/swift-llbuild
 - Package: lld
@@ -7559,7 +7559,7 @@
   Description: Simple game where you drive a car across the moons surface
   Homepage: https://www.seehuhn.de/programs/moon-buggy
 - Package: moor
-  Version: 2.19.0
+  Version: 2.19.1
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
@@ -7843,7 +7843,7 @@
   Description: Install native stubs for shared libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-sysroot
-  Version: 29-2
+  Version: 29-3
   Description: System header and library files from the Android NDK needed for compiling C programs
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ne
@@ -7871,7 +7871,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1630+g6d15a3c5b4-0
+  Version: 0.13.0~dev-1638+ge7e29d9b6d-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9695,7 +9695,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20260907"
+  Version: "20260914"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -10095,7 +10095,7 @@
   Description: Freedesktop sound theme
   Homepage: https://freedesktop.org/wiki/Specifications/sound-theme-spec
 - Package: sourcekit-lsp
-  Version: 6.2.4
+  Version: 6.3.3
   Description: Language Server Protocol implementation for Swift and C-based languages
   Homepage: https://swift.org/
 - Package: sox
@@ -10367,11 +10367,11 @@
   Description: A family of IBM 3270 terminal emulators and related tools
   Homepage: https://x3270.bgp.nu/
 - Package: suitesparse
-  Version: 2:7.14.0
+  Version: 2:7.14.1
   Description: A Suite of Sparse matrix packages.
   Homepage: https://github.com/DrTimothyAldenDavis/SuiteSparse
 - Package: suitesparse-static
-  Version: 2:7.14.0
+  Version: 2:7.14.1
   Description: Static libraries for suitesparse
   Homepage: https://github.com/DrTimothyAldenDavis/SuiteSparse
 - Package: sun
@@ -10411,31 +10411,31 @@
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift
-  Version: 6.2.4
+  Version: 6.3.3
   Description: Swift is a high-performance system programming language
   Homepage: https://swift.org/
 - Package: swift-runtime-aarch64
-  Version: 6.2.4
+  Version: 6.3.3
   Description: Swift runtime libraries for Android AArch64
   Homepage: https://swift.org/
 - Package: swift-runtime-arm
-  Version: 6.2.4
+  Version: 6.3.3
   Description: Swift runtime libraries for Android armv7
   Homepage: https://swift.org/
 - Package: swift-runtime-x86-64
-  Version: 6.2.4
+  Version: 6.3.3
   Description: Swift runtime libraries for Android x86_64
   Homepage: https://swift.org/
 - Package: swift-sdk-aarch64
-  Version: 6.2.4
+  Version: 6.3.3
   Description: Swift SDK for Android AArch64
   Homepage: https://swift.org/
 - Package: swift-sdk-arm
-  Version: 6.2.4
+  Version: 6.3.3
   Description: Swift SDK for Android armv7
   Homepage: https://swift.org/
 - Package: swift-sdk-x86-64
-  Version: 6.2.4
+  Version: 6.3.3
   Description: Swift SDK for Android x86_64
   Homepage: https://swift.org/
 - Package: swiftshader

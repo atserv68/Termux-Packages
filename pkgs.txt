@@ -173,7 +173,7 @@
  brainfuck  1:2.7.3-1  Brainfuck Interpreter written in C  https://github.com/fabianishere/brainfuck 
  brainfuck-static  1:2.7.3-1  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
  brogue  1.15.1-1  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
- brook  20260101.0  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
+ brook  20270101  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
  broot  1.60.1  A better way to navigate directories  https://github.com/Canop/broot 
  brotli  1.2.0  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
  bsd-finger  0.17-3  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
@@ -865,8 +865,8 @@
  jbig2enc-static  1:0.32  Static libraries for jbig2enc  https://github.com/agl/jbig2enc 
  jcal  0.5.1-1  UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar  http://nongnu.org/jcal 
  jcal-static  0.5.1-1  Static libraries for jcal  http://nongnu.org/jcal 
- jellyfin-ffmpeg  10.11.11-2  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
- jellyfin-server  10.11.11-2  A free media system for organizing and streaming media (server)  https://jellyfin.org 
+ jellyfin-ffmpeg  12.0-1  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
+ jellyfin-server  12.0-1  A free media system for organizing and streaming media (server)  https://jellyfin.org 
  jfrog-cli  2.124.0  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.6  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08-1  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
@@ -989,7 +989,7 @@
  libavif  1.4.2  Library for encoding and decoding .avif files  https://github.com/AOMediaCodec/libavif 
  libbcprov-java  1.86  A lightweight cryptography API for Java  https://www.bouncycastle.org/java.html 
  libblkid  2.42.1-4  Block device identification library  https://en.wikipedia.org/wiki/Util-linux 
- libblocksruntime  1:6.2.1  LLVM Blocks runtime library  https://github.com/swiftlang/swift-corelibs-libdispatch 
+ libblocksruntime  1:6.3.3  LLVM Blocks runtime library  https://github.com/swiftlang/swift-corelibs-libdispatch 
  libblosc  1.21.6-2  A blocking, shuffling and loss-less compression library  https://www.blosc.org 
  libblosc-static  1.21.6-2  Static libraries for libblosc  https://www.blosc.org 
  libblosc2  3.3.4  A blocking, shuffling and loss-less compression library  https://www.blosc.org 
@@ -1067,7 +1067,7 @@
  libdeflate  1.26  C library for fast compression and decompression  https://github.com/ebiggers/libdeflate 
  libdeflate-static  1.26  Static libraries for libdeflate  https://github.com/ebiggers/libdeflate 
  libdevil  1.8.0-7  A cross-platform image library utilizing a simple syntax  https://openil.sourceforge.net/ 
- libdispatch  1:6.2.1  The libdispatch project, for concurrency on multicore hardware  https://github.com/swiftlang/swift-corelibs-libdispatch 
+ libdispatch  1:6.3.3  The libdispatch project, for concurrency on multicore hardware  https://github.com/swiftlang/swift-corelibs-libdispatch 
  libdisplay-info  0.4.0  EDID and DisplayID library  https://emersion.pages.freedesktop.org/libdisplay-info/ 
  libdjinterop  0.27.0  C++ library for access to DJ record libraries  https://github.com/xsco/libdjinterop 
  libdmtx  0.7.8-1  A software library that enables programs to read and write Data Matrix barcodes  https://github.com/dmtx/libdmtx 
@@ -1487,7 +1487,7 @@
  libsigsegv  2.14-1  GNU libsigsegv is a library for handling page faults in user mode  https://www.gnu.org/software/libsigsegv/ 
  libsigsegv-static  2.14-1  Static libraries for libsigsegv  https://www.gnu.org/software/libsigsegv/ 
  libsixel  1.10.5-1  Encoder/decoder implementation for DEC SIXEL graphics  https://saitoha.github.io/libsixel/ 
- libskiasharp  3.116.1.20241024-1  SkiaSharp is a cross-platform 2D graphics API for .NET platforms  https://github.com/mono/SkiaSharp 
+ libskiasharp  3.119.4  SkiaSharp is a cross-platform 2D graphics API for .NET platforms  https://github.com/mono/SkiaSharp 
  libslirp  4.8.0-2  A general purpose TCP-IP emulator  https://gitlab.freedesktop.org/slirp/libslirp 
  libsm  1.2.6-1  X11 Session Management library  https://xorg.freedesktop.org/ 
  libsmartcols  2.42.1-4  Library for smart adaptive formatting of tabular data  https://en.wikipedia.org/wiki/Util-linux 
@@ -1721,7 +1721,7 @@
  llama-cpp  0.4.0  LLM inference in C/C++  https://github.com/ggml-org/llama.cpp 
  llama-cpp-backend-opencl  0.4.0  OpenCL Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
  llama-cpp-backend-vulkan  0.4.0  Vulkan Backend for LLaMA.cpp  https://github.com/ggml-org/llama.cpp 
- llbuild  6.2.1  A low-level build system, used by the Swift Package Manager  https://github.com/swiftlang/swift-llbuild 
+ llbuild  6.3.3  A low-level build system, used by the Swift Package Manager  https://github.com/swiftlang/swift-llbuild 
  lld  21.1.8-3  LLVM-based linker  https://clang.llvm.org/ 
  lldb  21.1.8-3  LLVM-based debugger  https://clang.llvm.org/ 
  llvm  21.1.8-3  LLVM modular compiler and toolchain executables  https://clang.llvm.org/ 
@@ -1888,7 +1888,7 @@
  mono-static  6.14.1-2  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
  monolith  2.10.1-1  CLI tool for saving complete web pages as a single HTML file  https://github.com/Y2Z/monolith 
  moon-buggy  1.1.0  Simple game where you drive a car across the moon's surface  https://www.seehuhn.de/programs/moon-buggy 
- moor  2.19.0  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
+ moor  2.19.1  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
  mop  2025.03.17-1  Stock market tracker  https://github.com/mop-tracker/mop 
  moreutils  0.70-1  A growing collection of the unix tools that nobody thought to write thirty years ago  https://joeyh.name/code/moreutils/ 
  moria  5.7.15-7  Rogue-like game with an infinite dungeon  https://umoria.org 
@@ -1959,14 +1959,14 @@
  ndk-multilib  29-2  Multilib binaries for cross-compilation  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-multilib-native-static  29-2  Install native static libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-multilib-native-stubs  29-2  Install native stubs for shared libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
- ndk-sysroot  29-2  System header and library files from the Android NDK needed for compiling C programs  https://developer.android.com/tools/sdk/ndk/index.html 
+ ndk-sysroot  29-3  System header and library files from the Android NDK needed for compiling C programs  https://developer.android.com/tools/sdk/ndk/index.html 
  ne  3.3.4-3  Easy-to-use and powerful text editor  https://ne.di.unimi.it/ 
  nelua  2024.01.13-1  Minimal, efficient, statically-typed and meta-programmable systems programming language  https://nelua.io 
  neocmakelsp  0.11.1  a cmake lsp based on tower-lsp and treesitter  https://neocmakelsp.github.io/ 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.5-1  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1630+g6d15a3c5b4-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1638+ge7e29d9b6d-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2422,7 +2422,7 @@
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.10.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.98.1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20260907  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20260914  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.73.2  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.98.1  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.98.1  Rust source code files  https://www.rust-lang.org/ 
@@ -2522,7 +2522,7 @@
  sops  3.13.3  Simple and flexible tool for managing secrets  https://github.com/getsops/sops 
  sord  0.16.22  A lightweight C library for storing RDF data in memory  https://drobilla.net/software/sord.html 
  sound-theme-freedesktop  0.8  Freedesktop sound theme  https://freedesktop.org/wiki/Specifications/sound-theme-spec 
- sourcekit-lsp  6.2.4  Language Server Protocol implementation for Swift and C-based languages  https://swift.org/ 
+ sourcekit-lsp  6.3.3  Language Server Protocol implementation for Swift and C-based languages  https://swift.org/ 
  sox  14.4.2-29  Command line utility for converting between and applying effects to various audio files formats  https://sox.sourceforge.net/ 
  sox-static  14.4.2-29  Static libraries for sox  https://sox.sourceforge.net/ 
  sparsehash  2.0.4  Extremely memory-efficient C++ hash_map implementation  https://github.com/sparsehash/sparsehash 
@@ -2590,8 +2590,8 @@
  sudo  1.2.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app  https://github.com/agnostic-apollo/sudo 
  suil  0.10.26  A library for loading and wrapping LV2 plugin UIs  https://drobilla.net/software/suil.html 
  suite3270  4.1ga11-2  A family of IBM 3270 terminal emulators and related tools  https://x3270.bgp.nu/ 
- suitesparse  2:7.14.0  A Suite of Sparse matrix packages.  https://github.com/DrTimothyAldenDavis/SuiteSparse 
- suitesparse-static  2:7.14.0  Static libraries for suitesparse  https://github.com/DrTimothyAldenDavis/SuiteSparse 
+ suitesparse  2:7.14.1  A Suite of Sparse matrix packages.  https://github.com/DrTimothyAldenDavis/SuiteSparse 
+ suitesparse-static  2:7.14.1  Static libraries for suitesparse  https://github.com/DrTimothyAldenDavis/SuiteSparse 
  sun  1.0.0-3  A very simple note taking cli app  https://stand-up-notes.org 
  sundials  2:7.9.0  SUite of Nonlinear and DIfferential/ALgebraic equation Solvers.  https://computing.llnl.gov/projects/sundials 
  sundials-static  2:7.9.0  Static libraries for sundials  https://computing.llnl.gov/projects/sundials 
@@ -2601,13 +2601,13 @@
  svt-av1  4.2.0  Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)  https://gitlab.com/AOMediaCodec/SVT-AV1 
  swaks  20240103.0  Swiss Army Knife for SMTP  http://jetmore.org/john/code/swaks/ 
  swi-prolog  10.1.14  Most popular and complete prolog implementation  https://swi-prolog.org/ 
- swift  6.2.4  Swift is a high-performance system programming language  https://swift.org/ 
- swift-runtime-aarch64  6.2.4  Swift runtime libraries for Android AArch64  https://swift.org/ 
- swift-runtime-arm  6.2.4  Swift runtime libraries for Android armv7  https://swift.org/ 
- swift-runtime-x86-64  6.2.4  Swift runtime libraries for Android x86_64  https://swift.org/ 
- swift-sdk-aarch64  6.2.4  Swift SDK for Android AArch64  https://swift.org/ 
- swift-sdk-arm  6.2.4  Swift SDK for Android armv7  https://swift.org/ 
- swift-sdk-x86-64  6.2.4  Swift SDK for Android x86_64  https://swift.org/ 
+ swift  6.3.3  Swift is a high-performance system programming language  https://swift.org/ 
+ swift-runtime-aarch64  6.3.3  Swift runtime libraries for Android AArch64  https://swift.org/ 
+ swift-runtime-arm  6.3.3  Swift runtime libraries for Android armv7  https://swift.org/ 
+ swift-runtime-x86-64  6.3.3  Swift runtime libraries for Android x86_64  https://swift.org/ 
+ swift-sdk-aarch64  6.3.3  Swift SDK for Android AArch64  https://swift.org/ 
+ swift-sdk-arm  6.3.3  Swift SDK for Android armv7  https://swift.org/ 
+ swift-sdk-x86-64  6.3.3  Swift SDK for Android x86_64  https://swift.org/ 
  swiftshader  2025.06.25-2  A high-performance CPU-based implementation of the Vulkan graphics API  https://swiftshader.googlesource.com/SwiftShader 
  swig  4.5.1  Generate scripting interfaces to C/C++ code  https://swig.org 
  swtpm  0.10.2  Software TPM Emulator  https://github.com/stefanberger/swtpm 
