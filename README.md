@@ -708,7 +708,7 @@
 | **gopher** | 3.0.17.3-2 | University of Minnesota gopher | gopher://gopher.quux.org/1/devel/gopher |
 | **gopls** | 0.23.0 | The official Go language server | https://github.com/golang/tools |
 | **goreleaser** | 2.18.1-1 | Deliver Go binaries as fast and easily as possible | https://goreleaser.com |
-| **goresym** | 3.4 | Go symbol recovery tool | https://github.com/mandiant/GoReSym |
+| **goresym** | 3.4.1 | Go symbol recovery tool | https://github.com/mandiant/GoReSym |
 | **gosec** | 2.29.0 | Golang security checker | https://github.com/securego/gosec |
 | **gost** | 2.12.0 | GO Simple Tunnel - a simple tunnel written in golang | https://github.com/ginuerzh/gost |
 | **gotests** | 1.9.0 | Generates Go tests from your source code | https://github.com/cweill/gotests |
@@ -773,7 +773,7 @@
 | **hash-slinger** | 3.6 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
 | **hcl** | 2.24.0-1 | A toolkit for creating structured configuration languages | https://github.com/hashicorp/hcl |
-| **hcloud** | 1.67.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
+| **hcloud** | 1.68.0 | Hetzner Cloud command line client | https://github.com/hetznercloud/cli |
 | **helix** | 25.07.1-2 | A post-modern modal text editor written in rust | https://helix-editor.com/ |
 | **helix-grammars** | 25.07.1-2 | Helix grammars | https://helix-editor.com/ |
 | **hello** | 2.12.3-1 | Prints a friendly greeting | https://www.gnu.org/software/hello/ |
@@ -1074,7 +1074,7 @@
 | **libdav1d** | 1.5.4 | AV1 cross-platform decoder focused on speed and correctness | https://code.videolan.org/videolan/dav1d/ |
 | **libdb** | 18.1.40-6 | The Berkeley DB embedded database system (library) | https://www.oracle.com/database/berkeley-db |
 | **libdb-static** | 18.1.40-6 | Static libraries for libdb | https://www.oracle.com/database/berkeley-db |
-| **libde265** | 1.1.2 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
+| **libde265** | 1.1.3 | H.265/HEVC video stream decoder library | https://github.com/strukturag/libde265 |
 | **libdebuginfod** | 0.196 | Library for debuginfod | https://sourceware.org/elfutils/ |
 | **libdeflate** | 1.26 | C library for fast compression and decompression | https://github.com/ebiggers/libdeflate |
 | **libdeflate-static** | 1.26 | Static libraries for libdeflate | https://github.com/ebiggers/libdeflate |
@@ -1620,8 +1620,8 @@
 | **libvips** | 8.18.6-1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvisio** | 0.1.10-1 | Library providing ability to interpret and import visio diagrams | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvisio-static** | 0.1.10-1 | Static libraries for libvisio | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
-| **libvmaf** | 3.2.0-1 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
-| **libvmaf-static** | 3.2.0-1 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
+| **libvmaf** | 3.2.1 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
+| **libvmaf-static** | 3.2.1 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
 | **libvo-amrwbenc** | 0.1.3-2 | VisualOn AMR-WB encoder library | https://sourceforge.net/projects/opencore-amr/ |
 | **libvo-amrwbenc-static** | 0.1.3-2 | Static libraries for libvo-amrwbenc | https://sourceforge.net/projects/opencore-amr/ |
 | **libvoikko** | 4.3.3-2 | A spelling and grammar checker, hyphenator and collection of related linguistic data for Finnish language | http://voikko.sourceforge.net |
@@ -2107,8 +2107,8 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxfmt** | 1.82.0 | Oxc JavaScript formatter | https://oxc.rs/ |
-| **oxlint** | 1.82.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxfmt** | 1.83.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxlint** | 1.83.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.5 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
 | **pacman** | 7.1.0-7 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
@@ -2270,7 +2270,7 @@
 | **python-cryptography** | 50.0.1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ctranslate2** | 4.8.2 | Python bindings for CTranslate2 | https://github.com/OpenNMT/CTranslate2 |
 | **python-ensurepip-wheels** | 3.14.6-1 | Wheels for Python ensurepip | https://python.org/ |
-| **python-greenlet** | 3.5.5 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
+| **python-greenlet** | 3.5.6 | Lightweight coroutines for in-process concurrent programming | https://github.com/python-greenlet/greenlet |
 | **python-grpcio** | 1.84.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **python-jellyfish** | 1.2.1 | Library for approximate and phonetic matching of strings | https://codeberg.org/jpt/jellyfish |
 | **python-lameenc** | 1.8.4-1 | Python bindings around the LAME encoder | https://github.com/chrisstaite/lameenc |
@@ -2308,7 +2308,7 @@
 | **python-torchaudio** | 2.11.0-2 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
 | **python-torchcodec** | 0.11.0-2 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
 | **python-torchvision** | 0.28.0 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
-| **python-trash-cli** | 0.24.5.26-1 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
+| **python-trash-cli** | 0.26.9.14 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
 | **python-xcbgen** | 1.17.0-3 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-4 | The Python X Library | https://github.com/python-xlib/python-xlib |
 | **python-yt-dlp** | 2026.08.19 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
@@ -2347,7 +2347,7 @@
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs-ng** | 0.16.2 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
-| **rabbitmq-server** | 4.3.5 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
+| **rabbitmq-server** | 4.3.6 | Feature rich, multi-protocol messaging and streaming broker | https://github.com/rabbitmq/rabbitmq-server |
 | **racket** | 9.3 | Full-spectrum programming language going beyond Lisp and Scheme | https://racket-lang.org |
 | **racket-static** | 9.3 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 6.2.0 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
@@ -2460,7 +2460,7 @@
 | **sc-im** | 0.8.5-4 | An improved version of sc, a spreadsheet calculator | https://github.com/andmarti1424/sc-im |
 | **scala** | 3.9.0 | Scala 3 compiler and standard library. | https://www.scala-lang.org |
 | **scc** | 4.1.0 | Counts physical the lines of code, blank lines, comment lines, and physical lines of source code | https://github.com/boyter/scc |
-| **sccache** | 0.17.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
+| **sccache** | 0.18.0 | sccache is ccache with cloud storage | https://github.com/mozilla/sccache |
 | **scdaemon** | 2.5.17 | Daemon invoked by gpg to manage smartcards | https://www.gnupg.org/ |
 | **scdoc** | 1.11.5 | Small man page generator | https://git.sr.ht/~sircmpwn/scdoc |
 | **screen** | 5.0.2 | Terminal multiplexer with VT100/ANSI terminal emulation | https://www.gnu.org/software/screen/ |
@@ -2534,7 +2534,7 @@
 | **sops** | 3.13.3 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.22 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sound-theme-freedesktop** | 0.8 | Freedesktop sound theme | https://freedesktop.org/wiki/Specifications/sound-theme-spec |
-| **sourcekit-lsp** | 6.3.3 | Language Server Protocol implementation for Swift and C-based languages | https://swift.org/ |
+| **sourcekit-lsp** | 6.3.3-1 | Language Server Protocol implementation for Swift and C-based languages | https://swift.org/ |
 | **sox** | 14.4.2-29 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-29 | Static libraries for sox | https://sox.sourceforge.net/ |
 | **sparsehash** | 2.0.4 | Extremely memory-efficient C++ hash_map implementation | https://github.com/sparsehash/sparsehash |
@@ -2613,13 +2613,13 @@
 | **svt-av1** | 4.2.0 | Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder) | https://gitlab.com/AOMediaCodec/SVT-AV1 |
 | **swaks** | 20240103.0 | Swiss Army Knife for SMTP | http://jetmore.org/john/code/swaks/ |
 | **swi-prolog** | 10.1.14 | Most popular and complete prolog implementation | https://swi-prolog.org/ |
-| **swift** | 6.3.3 | Swift is a high-performance system programming language | https://swift.org/ |
-| **swift-runtime-aarch64** | 6.3.3 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
-| **swift-runtime-arm** | 6.3.3 | Swift runtime libraries for Android armv7 | https://swift.org/ |
-| **swift-runtime-x86-64** | 6.3.3 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
-| **swift-sdk-aarch64** | 6.3.3 | Swift SDK for Android AArch64 | https://swift.org/ |
-| **swift-sdk-arm** | 6.3.3 | Swift SDK for Android armv7 | https://swift.org/ |
-| **swift-sdk-x86-64** | 6.3.3 | Swift SDK for Android x86_64 | https://swift.org/ |
+| **swift** | 6.3.3-1 | Swift is a high-performance system programming language | https://swift.org/ |
+| **swift-runtime-aarch64** | 6.3.3-1 | Swift runtime libraries for Android AArch64 | https://swift.org/ |
+| **swift-runtime-arm** | 6.3.3-1 | Swift runtime libraries for Android armv7 | https://swift.org/ |
+| **swift-runtime-x86-64** | 6.3.3-1 | Swift runtime libraries for Android x86_64 | https://swift.org/ |
+| **swift-sdk-aarch64** | 6.3.3-1 | Swift SDK for Android AArch64 | https://swift.org/ |
+| **swift-sdk-arm** | 6.3.3-1 | Swift SDK for Android armv7 | https://swift.org/ |
+| **swift-sdk-x86-64** | 6.3.3-1 | Swift SDK for Android x86_64 | https://swift.org/ |
 | **swiftshader** | 2025.06.25-2 | A high-performance CPU-based implementation of the Vulkan graphics API | https://swiftshader.googlesource.com/SwiftShader |
 | **swig** | 4.5.1 | Generate scripting interfaces to C/C++ code | https://swig.org |
 | **swtpm** | 0.10.2 | Software TPM Emulator | https://github.com/stefanberger/swtpm |
@@ -2840,7 +2840,7 @@
 | **viddy** | 1.3.1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.4-1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.2.1050 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.2.1100 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.3.0-1 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.3.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2867,7 +2867,7 @@
 | **w3m** | 0.5.6-2 | Text based Web browser and pager | https://git.sr.ht/~rkta/w3m |
 | **w3m-img** | 0.5.6-2 | Inline image extension support utilities for w3m | https://git.sr.ht/~rkta/w3m |
 | **wabt** | 1.0.41 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.26.0 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.26.2 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 34+really33 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
@@ -2938,7 +2938,7 @@
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7-1 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.2.1050 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.2.1100 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.3-1 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.3-1 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.8.4 | XZ-format compression tools | https://tukaani.org/xz/ |
