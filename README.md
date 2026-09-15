@@ -130,6 +130,7 @@
 | **awscli** | 2.36.45 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **azure-cli** | 2.90.0-1 | Microsoft's command-line tool for managing Azure cloud resources | https://learn.microsoft.com/en-us/cli/azure/ |
+| **azure-dev-cli** | 1.34.0 | Developer-centric CLI for creating, provisioning and deploying Azure applications (azd) | https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ |
 | **b3sum** | 1.8.7 | A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum | https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum |
 | **babl** | 0.1.128 | Dynamic pixel format translation library | https://gegl.org/babl/ |
 | **bacon** | 3.25.0-1 | A background code checker for Rust, designed for minimal interaction | https://dystroy.org/bacon |
@@ -142,6 +143,7 @@
 | **bash-completion** | 2.18.0 | Programmable completion for the bash shell | https://github.com/scop/bash-completion |
 | **bastet** | 0.43.2-14 | Tetris clone with 'bastard' block-choosing AI | http://fph.altervista.org/prog/bastet.html |
 | **bat** | 0.26.1-1 | A cat(1) clone with wings | https://github.com/sharkdp/bat |
+| **bazel** | 9.2.0-1 | Correct, reproducible, and fast builds for everyone | https://bazel.build/ |
 | **bc** | 1.08.2-1 | Arbitrary precision numeric processing language | https://www.gnu.org/software/bc/ |
 | **bc-gh** | 7.0.3-1 | Unix dc and POSIX bc with GNU and BSD extensions | https://git.gavinhoward.com/gavin/bc |
 | **bcal** | 2.5 | Command-line utility for storage conversions and calculations | https://github.com/jarun/bcal |
@@ -195,7 +197,7 @@
 | **btrfs-progs** | 7.0 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.73.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
-| **bun** | 1.4.2-2 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager | https://bun.com |
+| **bun** | 1.4.2-3 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager | https://bun.com |
 | **busybox** | 1.38.0-1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
 | **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
@@ -877,8 +879,8 @@
 | **jbig2enc-static** | 1:0.32 | Static libraries for jbig2enc | https://github.com/agl/jbig2enc |
 | **jcal** | 0.5.1-1 | UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar | http://nongnu.org/jcal |
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
-| **jellyfin-ffmpeg** | 12.0-1 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
-| **jellyfin-server** | 12.0-1 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
+| **jellyfin-ffmpeg** | 12.1 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
+| **jellyfin-server** | 12.1 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
 | **jfrog-cli** | 2.124.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.6 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
@@ -1165,7 +1167,7 @@
 | **libgfshare** | 2.0.0-8 | Utilities for multi-way secret-sharing | https://www.digital-scurf.org/software/libgfshare |
 | **libgfshare-static** | 2.0.0-8 | Static libraries for libgfshare | https://www.digital-scurf.org/software/libgfshare |
 | **libgit2** | 1.9.7 | C library implementing Git core methods | https://libgit2.github.com/ |
-| **libglibmm-2.4** | 2.66.9 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
+| **libglibmm-2.4** | 2.66.9-1 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglibmm-2.68** | 2.88.1 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglvnd** | 1.7.0-1 | The GL Vendor-Neutral Dispatch library | https://gitlab.freedesktop.org/glvnd/libglvnd |
 | **libglvnd-dev** | 1.7.0-1 | GLVND's OpenGL headers | https://gitlab.freedesktop.org/glvnd/libglvnd |
@@ -1227,6 +1229,8 @@
 | **libiniparser-static** | 4.2.6-2 | Static libraries for libiniparser | https://github.com/ndevilla/iniparser |
 | **libiodbc** | 3.52.16-1 | Independent Open DataBase Connectivity for Linux, MacOS X and Unix systems | https://www.iodbc.org/ |
 | **libiodbc-static** | 3.52.16-1 | Static libraries for libiodbc | https://www.iodbc.org/ |
+| **libiptcdata** | 1.0.4 | a C library for manipulating the IPTC metadata stored within multimedia files | https://libiptcdata.sourceforge.net/ |
+| **libiptcdata-static** | 1.0.4 | Static libraries for libiptcdata | https://libiptcdata.sourceforge.net/ |
 | **libisoburn** | 1.5.8.pl02 | Frontend for libraries libburn and libisofs | https://dev.lovelyhq.com/libburnia |
 | **libisoburn-static** | 1.5.8.pl02 | Static libraries for libisoburn | https://dev.lovelyhq.com/libburnia |
 | **libisofs** | 1.5.8.pl02 | Library to pack up hard disk files and directories into a ISO 9660 disk image | https://dev.lovelyhq.com/libburnia |
@@ -1457,8 +1461,8 @@
 | **librasqal-static** | 0.9.33-4 | Static libraries for librasqal | https://librdf.org/rasqal/ |
 | **librav1e** | 0.8.1 | An AV1 encoder library focused on speed and safety | https://github.com/xiph/rav1e/ |
 | **librav1e-static** | 0.8.1 | Static libraries for librav1e | https://github.com/xiph/rav1e/ |
-| **libraw** | 0.22.2 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
-| **libraw-static** | 0.22.2 | Static libraries for libraw | https://www.libraw.org/ |
+| **libraw** | 0.22.2-1 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
+| **libraw-static** | 0.22.2-1 | Static libraries for libraw | https://www.libraw.org/ |
 | **libre2** | 2025-11-05-2 | A regular expression library | https://github.com/google/re2 |
 | **libregexp-assemble-perl** | 0.38-9 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.7-6 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
@@ -2109,6 +2113,7 @@
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
 | **oxfmt** | 1.83.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxipng** | 10.2.1 | Multithreaded PNG optimizer written in Rust | https://github.com/oxipng/oxipng |
 | **oxlint** | 1.83.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.5 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **p7zip** | 17.06-1 | Command-line version of the 7zip compressed file archiver | https://github.com/p7zip-project/p7zip |
@@ -2507,7 +2512,7 @@
 | **simdjson** | 4.6.11 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
-| **sing-box** | 1.14.0 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.14.1 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skalibs** | 2.15.1.0 | A set of general-purpose C programming libraries | https://skarnet.org/software/skalibs/ |
 | **skalibs-static** | 2.15.1.0 | Static libraries for skalibs | https://skarnet.org/software/skalibs/ |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
@@ -2838,6 +2843,7 @@
 | **vera** | 1.3.0-10 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
 | **vgmstream** | 2117 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
 | **vgmtools** | 2023.01.27-1 | A collection of tools for the VGM file format | https://github.com/vgmrips/vgmtools |
+| **vhs** | 0.12.0-1 | Your CLI home video recorder | https://github.com/charmbracelet/vhs |
 | **viddy** | 1.3.1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.4-1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |

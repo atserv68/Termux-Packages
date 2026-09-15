@@ -478,6 +478,10 @@
   Version: 2.90.0-1
   Description: Microsofts command-line tool for managing Azure cloud resources
   Homepage: https://learn.microsoft.com/en-us/cli/azure/
+- Package: azure-dev-cli
+  Version: 1.34.0
+  Description: Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)
+  Homepage: https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/
 - Package: b3sum
   Version: 1.8.7
   Description: A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum
@@ -526,6 +530,10 @@
   Version: 0.26.1-1
   Description: A cat(1) clone with wings
   Homepage: https://github.com/sharkdp/bat
+- Package: bazel
+  Version: 9.2.0-1
+  Description: Correct, reproducible, and fast builds for everyone
+  Homepage: https://bazel.build/
 - Package: bc
   Version: 1.08.2-1
   Description: Arbitrary precision numeric processing language
@@ -739,7 +747,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: bun
-  Version: 1.4.2-2
+  Version: 1.4.2-3
   Description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
   Homepage: https://bun.com
 - Package: busybox
@@ -3467,11 +3475,11 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jellyfin-ffmpeg
-  Version: 12.0-1
+  Version: "12.1"
   Description: FFmpeg for Jellyfin with custom extensions and enhancements
   Homepage: https://jellyfin.org
 - Package: jellyfin-server
-  Version: 12.0-1
+  Version: "12.1"
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
@@ -4619,7 +4627,7 @@
   Description: C library implementing Git core methods
   Homepage: https://libgit2.github.com/
 - Package: libglibmm-2.4
-  Version: 2.66.9
+  Version: 2.66.9-1
   Description: A C++ API for parts of glib that are useful for C++
   Homepage: https://www.gtkmm.org/
 - Package: libglibmm-2.68
@@ -4866,6 +4874,14 @@
   Version: 3.52.16-1
   Description: Static libraries for libiodbc
   Homepage: https://www.iodbc.org/
+- Package: libiptcdata
+  Version: 1.0.4
+  Description: a C library for manipulating the IPTC metadata stored within multimedia files
+  Homepage: https://libiptcdata.sourceforge.net/
+- Package: libiptcdata-static
+  Version: 1.0.4
+  Description: Static libraries for libiptcdata
+  Homepage: https://libiptcdata.sourceforge.net/
 - Package: libisoburn
   Version: 1.5.8.pl02
   Description: Frontend for libraries libburn and libisofs
@@ -5787,11 +5803,11 @@
   Description: Static libraries for librav1e
   Homepage: https://github.com/xiph/rav1e/
 - Package: libraw
-  Version: 0.22.2
+  Version: 0.22.2-1
   Description: Library for reading RAW files from digital cameras
   Homepage: https://www.libraw.org/
 - Package: libraw-static
-  Version: 0.22.2
+  Version: 0.22.2-1
   Description: Static libraries for libraw
   Homepage: https://www.libraw.org/
 - Package: libre2
@@ -8394,6 +8410,10 @@
   Version: 1.83.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
+- Package: oxipng
+  Version: 10.2.1
+  Description: Multithreaded PNG optimizer written in Rust
+  Homepage: https://github.com/oxipng/oxipng
 - Package: oxlint
   Version: 1.83.0
   Description: Oxc JavaScript linter
@@ -9987,7 +10007,7 @@
   Description: Simulator for Microchip AVR (formerly Atmel) microcontrollers
   Homepage: https://www.nongnu.org/simulavr
 - Package: sing-box
-  Version: 1.14.0
+  Version: 1.14.1
   Description: The universal proxy platform
   Homepage: https://sing-box.sagernet.org
 - Package: skalibs
@@ -11310,6 +11330,10 @@
   Version: 2023.01.27-1
   Description: A collection of tools for the VGM file format
   Homepage: https://github.com/vgmrips/vgmtools
+- Package: vhs
+  Version: 0.12.0-1
+  Description: Your CLI home video recorder
+  Homepage: https://github.com/charmbracelet/vhs
 - Package: viddy
   Version: 1.3.1
   Description: A modern watch command
