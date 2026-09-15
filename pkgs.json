@@ -12643,7 +12643,7 @@
   },
   {
     "Package": "pacman",
-    "Version": "7.1.0-7",
+    "Version": "7.1.0-8",
     "Description": "A library-based package manager with dependency support",
     "Homepage": "https://archlinux.org/pacman/"
   },
