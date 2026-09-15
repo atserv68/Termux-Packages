@@ -2579,7 +2579,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.117.0
+  Version: 1.118.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3055,7 +3055,7 @@
   Description: Programs to compute hashsums of arbitrary number of files recursively
   Homepage: https://md5deep.sourceforge.net/
 - Package: hcl
-  Version: 2.24.0-1
+  Version: 2.25.0
   Description: A toolkit for creating structured configuration languages
   Homepage: https://github.com/hashicorp/hcl
 - Package: hcloud
@@ -3747,11 +3747,11 @@
   Description: Terminal file manager
   Homepage: https://github.com/gokcehan/lf
 - Package: lfortran
-  Version: 0.65.0
+  Version: 0.66.0
   Description: A modern open-source interactive Fortran compiler
   Homepage: https://lfortran.org/
 - Package: lfortran-static
-  Version: 0.65.0
+  Version: 0.66.0
   Description: Static libraries for lfortran
   Homepage: https://lfortran.org/
 - Package: lftp
@@ -6275,7 +6275,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.16.22
+  Version: 0.16.23
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -6283,7 +6283,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.16.22
+  Version: 0.16.23
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -6363,11 +6363,11 @@
   Description: Terminfo parsing library
   Homepage: https://github.com/neovim/unibilium
 - Package: libunibreak
-  Version: "7.0"
+  Version: "8.0"
   Description: Unicode line-breaking library
   Homepage: https://github.com/adah1972/libunibreak
 - Package: libunibreak-static
-  Version: "7.0"
+  Version: "8.0"
   Description: Static libraries for libunibreak
   Homepage: https://github.com/adah1972/libunibreak
 - Package: libunistring
@@ -7123,7 +7123,7 @@
   Description: CLI tool to download videos from various websites
   Homepage: https://github.com/iawia002/lux
 - Package: lux-cli
-  Version: 0.45.0
+  Version: 0.45.1
   Description: A package manager for Lua, similar to luarocks
   Homepage: https://lux.lumen-labs.org
 - Package: lv2
@@ -7507,7 +7507,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.9.8
+  Version: 2026.9.9
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -7551,7 +7551,7 @@
   Description: A high-performance database kernel for query-intensive applications
   Homepage: https://www.monetdb.org/
 - Package: mongosh
-  Version: 2.10.0
+  Version: 2.11.1
   Description: The MongoDB Shell
   Homepage: https://github.com/mongodb-js/mongosh
 - Package: monit
@@ -7891,7 +7891,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1638+ge7e29d9b6d-0
+  Version: 0.13.0~dev-1644+gaed60b8a53-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8083,7 +8083,7 @@
   Description: Static libraries for oathtool
   Homepage: http://www.nongnu.org/oath-toolkit/
 - Package: oci-cli
-  Version: 3.92.1
+  Version: 3.93.0
   Description: Command line interface for Oracle Cloud Infrastructure
   Homepage: https://github.com/oracle/oci-cli
 - Package: ocl-icd
@@ -8427,7 +8427,7 @@
   Description: Command-line version of the 7zip compressed file archiver
   Homepage: https://github.com/p7zip-project/p7zip
 - Package: pacman
-  Version: 7.1.0-8
+  Version: 7.1.0-9
   Description: A library-based package manager with dependency support
   Homepage: https://archlinux.org/pacman/
 - Package: pacman4console
@@ -8891,7 +8891,7 @@
   Description: Linux tool to show progress for cp, mv, dd and more
   Homepage: https://github.com/Xfennec/progress
 - Package: proj
-  Version: 9.8.1
+  Version: 9.9.0
   Description: Generic coordinate transformation software
   Homepage: https://proj.org
 - Package: proot
@@ -9011,7 +9011,7 @@
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pyrefly
-  Version: 1.3.0
+  Version: 1.3.1
   Description: A fast type checker and language server for Python
   Homepage: https://github.com/facebook/pyrefly.git
 - Package: pystring
@@ -9663,7 +9663,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.16.22
+  Version: 0.16.23
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -11087,7 +11087,7 @@
   Description: Data munging language and pattern matching tool
   Homepage: https://www.nongnu.org/txr/
 - Package: ty
-  Version: 0.0.80
+  Version: 0.0.81
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
@@ -11115,7 +11115,7 @@
   Description: Function (graph) tracer for user-space
   Homepage: https://uftrace.github.io/slide
 - Package: ugrep
-  Version: 7.8.4
+  Version: 7.8.5
   Description: A faster, user-friendly and compatible grep replacement
   Homepage: https://github.com/Genivia/ugrep
 - Package: unar
@@ -11247,7 +11247,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.12.13
+  Version: 0.12.15
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11487,7 +11487,7 @@
   Description: A standalone runtime for WebAssembly
   Homepage: https://wasmtime.dev/
 - Package: watchexec
-  Version: 2.7.2
+  Version: 2.7.3
   Description: Executes commands in response to file modifications
   Homepage: https://github.com/watchexec/watchexec
 - Package: wavpack
