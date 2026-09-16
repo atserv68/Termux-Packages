@@ -382,6 +382,10 @@
   Version: 6.0.5-1
   Description: Library to import various well-known 3D model formats in an uniform manner
   Homepage: https://assimp.sourceforge.net/index.html
+- Package: astyle
+  Version: 3.6.18
+  Description: Source code formatter for C-like programming languages
+  Homepage: https://astyle.sourceforge.net/
 - Package: asymptote
   Version: "3.14"
   Description: A powerful descriptive vector graphics language for technical drawing
@@ -7183,7 +7187,7 @@
   Description: Mailutils is a swiss army knife of electronic mail handling.
   Homepage: https://mailutils.org/
 - Package: maintainerr
-  Version: 3.28.0
+  Version: 3.29.0
   Description: An automation rule engine for your media server
   Homepage: https://github.com/maintainerr/Maintainerr
 - Package: make
@@ -7195,7 +7199,7 @@
   Description: Tool to control the generation of non-source files from source files
   Homepage: https://www.gnu.org/software/make/
 - Package: mandoc
-  Version: 1.14.6-7
+  Version: 1.14.6-8
   Description: Man page viewer from the mandoc toolset
   Homepage: https://mdocml.bsd.lv/
 - Package: mangal
@@ -7507,7 +7511,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.9.9
+  Version: 2026.9.10
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -8923,7 +8927,7 @@
   Description: An automated theorem prover for first-order and equational logic
   Homepage: https://www.cs.unm.edu/~mccune/prover9/
 - Package: prowlarr
-  Version: 2.5.2.5491
+  Version: 2.6.5.5623
   Description: An indexer manager/proxy built on the popular arr stack (server)
   Homepage: https://prowlarr.com
 - Package: proxychains-ng
@@ -9159,7 +9163,7 @@
   Description: Python bindings to Rusts persistent data structures (rpds)
   Homepage: https://github.com/crate-py/rpds
 - Package: python-ruff
-  Version: 0.16.7
+  Version: 0.16.8
   Description: An extremely fast Python linter, written in Rust (Python bindings)
   Homepage: https://github.com/charliermarsh/ruff
 - Package: python-sabyenc3
@@ -9699,7 +9703,7 @@
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
-  Version: 0.16.7
+  Version: 0.16.8
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
@@ -10103,7 +10107,7 @@
   Description: An Ethereum smart contract-oriented language
   Homepage: https://www.soliditylang.org/
 - Package: sonarr
-  Version: 4.0.19.2979-5
+  Version: 4.0.20.3014
   Description: A PVR for Usenet and BitTorrent users (server)
   Homepage: https://sonarr.tv
 - Package: sops
@@ -10599,11 +10603,11 @@
   Description: A faster version of am with less features that only works while Termux is running
   Homepage: https://github.com/termux/termux-am-socket
 - Package: termux-api
-  Version: 0.59.1-1
+  Version: 0.60.0
   Description: Termux API commands (install also the Termux:API app)
   Homepage: https://wiki.termux.com/wiki/Termux:API
 - Package: termux-api-static
-  Version: 0.59.1-1
+  Version: 0.60.0
   Description: Static libraries for termux-api
   Homepage: https://wiki.termux.com/wiki/Termux:API
 - Package: termux-apt-repo

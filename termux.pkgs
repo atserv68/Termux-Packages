@@ -94,6 +94,7 @@
 | **aspnetcore-targeting-pack-8.0** | 8.0.31 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-9.0** | 9.0.20 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5-1 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
+| **astyle** | 3.6.18 | Source code formatter for C-like programming languages | https://astyle.sourceforge.net/ |
 | **asymptote** | 3.14 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.60.6 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
@@ -1794,10 +1795,10 @@
 | **magic-wormhole-rs** | 0.7.6-1 | Rust implementation of Magic Wormhole, with new features and enhancements | https://github.com/magic-wormhole/magic-wormhole.rs |
 | **mailsync** | 5.2.7-2 | A way of synchronizing a collection of mailboxes | https://mailsync.sourceforge.net/ |
 | **mailutils** | 3.21 | Mailutils is a swiss army knife of electronic mail handling.  | https://mailutils.org/ |
-| **maintainerr** | 3.28.0 | An automation rule engine for your media server | https://github.com/maintainerr/Maintainerr |
+| **maintainerr** | 3.29.0 | An automation rule engine for your media server | https://github.com/maintainerr/Maintainerr |
 | **make** | 4.4.1-1 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
 | **make-guile** | 4.4.1-2 | Tool to control the generation of non-source files from source files | https://www.gnu.org/software/make/ |
-| **mandoc** | 1.14.6-7 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
+| **mandoc** | 1.14.6-8 | Man page viewer from the mandoc toolset | https://mdocml.bsd.lv/ |
 | **mangal** | 4.0.6-3 | Cli manga downloader | https://github.com/metafates/mangal |
 | **manim** | 0.21.0-1 | A community-maintained Python framework for creating mathematical animations | https://manim.community |
 | **manpages** | 6.19 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
@@ -1875,7 +1876,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.9.9 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.9.10 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -2229,7 +2230,7 @@
 | **proton-drive-cli** | 0.8.0 | Official command-line client for Proton Drive | https://github.com/ProtonDriveApps/sdk |
 | **proton-pass-cli** | 2.3.3 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
-| **prowlarr** | 2.5.2.5491 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
+| **prowlarr** | 2.6.5.5623 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
 | **proxychains-ng** | 4.17-1 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
 | **psmisc** | 23.7-1 | Some small useful utilities that use the proc filesystem | https://gitlab.com/psmisc/psmisc |
 | **ptex** | 2.5.4 | Per-Face Texture Mapping for Production Rendering | https://github.com/wdas/ptex |
@@ -2288,7 +2289,7 @@
 | **python-pynvim** | 0.6.0-3 | Python client for Neovim | https://github.com/neovim/pynvim |
 | **python-pyppmd** | 1.3.1-1 | PPM compression/decompression library | https://github.com/miurahr/pyppmd |
 | **python-rpds-py** | 2026.6.3 | Python bindings to Rust's persistent data structures (rpds) | https://github.com/crate-py/rpds |
-| **python-ruff** | 0.16.7 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
+| **python-ruff** | 0.16.8 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
 | **python-sabyenc3** | 9.7.1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-scipy** | 1.18.1 | Fundamental algorithms for scientific computing in Python | https://scipy.org/ |
 | **python-skia-pathops** | 0.9.2-2 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
@@ -2423,7 +2424,7 @@
 | **rubiks-cube** | 1.2-1 | A rubik's cube that runs in your terminal | https://github.com/been-jamming/rubiks_cube |
 | **ruby** | 4.0.6 | Dynamic programming language with a focus on simplicity and productivity | https://www.ruby-lang.org/ |
 | **ruby-ri** | 4.0.6 | Ruby documentation index | https://www.ruby-lang.org/ |
-| **ruff** | 0.16.7 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
+| **ruff** | 0.16.8 | An extremely fast Python linter, written in Rust | https://github.com/charliermarsh/ruff |
 | **runit** | 2.1.2-4 | Tools to provide service supervision and to manage services | http://smarden.org/runit |
 | **runit-static** | 2.1.2-4 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.10.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
@@ -2524,7 +2525,7 @@
 | **softether-vpn-static** | 5.2.5188-1 | Static libraries for softether-vpn | https://www.softether.org/ |
 | **soju** | 0.11.0 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.37 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
-| **sonarr** | 4.0.19.2979-5 | A PVR for Usenet and BitTorrent users (server) | https://sonarr.tv |
+| **sonarr** | 4.0.20.3014 | A PVR for Usenet and BitTorrent users (server) | https://sonarr.tv |
 | **sops** | 3.13.3 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
 | **sord** | 0.16.22 | A lightweight C library for storing RDF data in memory | https://drobilla.net/software/sord.html |
 | **sound-theme-freedesktop** | 0.8 | Freedesktop sound theme | https://freedesktop.org/wiki/Specifications/sound-theme-spec |
@@ -2648,8 +2649,8 @@
 | **termplay** | 2.0.6-1 | Plays an image/video in your terminal | https://gitlab.com/jD91mZM2/termplay |
 | **termux-am** | 0.8.0-2 | Android Oreo-compatible am command reimplementation | https://github.com/termux/TermuxAm |
 | **termux-am-socket** | 1.5.0-1 | A faster version of am with less features that only works while Termux is running | https://github.com/termux/termux-am-socket |
-| **termux-api** | 0.59.1-1 | Termux API commands (install also the Termux:API app) | https://wiki.termux.com/wiki/Termux:API |
-| **termux-api-static** | 0.59.1-1 | Static libraries for termux-api | https://wiki.termux.com/wiki/Termux:API |
+| **termux-api** | 0.60.0 | Termux API commands (install also the Termux:API app) | https://wiki.termux.com/wiki/Termux:API |
+| **termux-api-static** | 0.60.0 | Static libraries for termux-api | https://wiki.termux.com/wiki/Termux:API |
 | **termux-apt-repo** | 0.5-5 | Script to create Termux apt repositories | https://github.com/termux/termux-apt-repo |
 | **termux-auth** | 1.5.0-1 | Password authentication library and utility for Termux | https://github.com/termux/termux-auth |
 | **termux-core** | 0.4.0-1 | Utils and libraries for Termux core | https://github.com/termux/termux-core-package |
