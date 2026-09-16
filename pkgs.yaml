@@ -467,7 +467,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.45
+  Version: 2.36.46
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -647,7 +647,7 @@
   Description: Markup language for GTK user interfaces
   Homepage: https://gnome.pages.gitlab.gnome.org/blueprint-compiler/
 - Package: bmon
-  Version: 4.0-4
+  Version: "5.0"
   Description: Bandwidth monitor and rate estimator
   Homepage: https://github.com/tgraf/bmon
 - Package: boinc
@@ -1511,7 +1511,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 5.0.4
+  Version: 5.1.0
   Description: Infrastructure as code for DNS!
   Homepage: https://dnscontrol.org/
 - Package: dnslookup
@@ -2183,7 +2183,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.103
+  Version: 0.4.104
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2459,7 +2459,7 @@
   Description: The Forth implementation of the GNU project
   Homepage: https://www.gnu.org/software/gforth/
 - Package: gh
-  Version: 2.100.0
+  Version: 2.101.0
   Description: GitHub’s official command line tool
   Homepage: https://cli.github.com/
 - Package: ghc
@@ -2819,7 +2819,7 @@
   Description: go test runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results
   Homepage: https://github.com/gotestyourself/gotestsum
 - Package: gotify
-  Version: 3.1.0
+  Version: 3.1.1
   Description: A simple server for sending and receiving messages in real-time per WebSocket.
   Homepage: https://github.com/gotify/server
 - Package: gotop
@@ -3659,7 +3659,7 @@
   Description: A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication
   Homepage: https://github.com/int128/kubelogin
 - Package: kubo
-  Version: 0.43.0-1
+  Version: 0.43.1
   Description: A peer-to-peer hypermedia distribution protocol
   Homepage: https://ipfs.io/
 - Package: ladspa-sdk
@@ -4859,11 +4859,11 @@
   Description: A simple .INI file parser written in C
   Homepage: https://github.com/benhoyt/inih
 - Package: libiniparser
-  Version: 4.2.6-2
+  Version: 4.3.0
   Description: Offers parsing of ini files from the C level
   Homepage: https://github.com/ndevilla/iniparser
 - Package: libiniparser-static
-  Version: 4.2.6-2
+  Version: 4.3.0
   Description: Static libraries for libiniparser
   Homepage: https://github.com/ndevilla/iniparser
 - Package: libiodbc
@@ -7891,7 +7891,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1644+gaed60b8a53-0
+  Version: 0.13.0~dev-1651+gcb76690546-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -11043,7 +11043,7 @@
   Description: A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app
   Homepage: https://github.com/agnostic-apollo/tudo
 - Package: tuicr
-  Version: 0.25.0
+  Version: 0.26.0
   Description: A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard
   Homepage: https://github.com/agavra/tuicr
 - Package: tur-repo
@@ -11451,7 +11451,7 @@
   Description: Inline image extension support utilities for w3m
   Homepage: https://git.sr.ht/~rkta/w3m
 - Package: wabt
-  Version: 1.0.41
+  Version: 1.0.42
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
