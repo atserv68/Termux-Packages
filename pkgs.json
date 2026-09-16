@@ -895,7 +895,7 @@
   },
   {
     "Package": "biome2",
-    "Version": "2.5.13",
+    "Version": "2.5.14",
     "Description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP",
     "Homepage": "https://biomejs.dev/"
   },
@@ -4153,7 +4153,7 @@
   },
   {
     "Package": "gomuks",
-    "Version": "26.08",
+    "Version": "26.09",
     "Description": "A terminal Matrix client written in Go",
     "Homepage": "https://go.mau.fi/gomuks"
   },
@@ -10885,7 +10885,7 @@
   },
   {
     "Package": "mautrix-whatsapp",
-    "Version": "26.08",
+    "Version": "26.09",
     "Description": "A Matrix-WhatsApp puppeting bridge",
     "Homepage": "https://maunium.net/go/mautrix-whatsapp/"
   },
@@ -16945,7 +16945,7 @@
   },
   {
     "Package": "vapoursynth",
-    "Version": "79",
+    "Version": "80",
     "Description": "Video processing framework with simplicity in mind",
     "Homepage": "https://www.vapoursynth.com/"
   },

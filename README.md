@@ -159,7 +159,7 @@
 | **binutils** | 2.47 | A GNU collection of binary utilities | https://www.gnu.org/software/binutils/ |
 | **binutils-cross** | 2.47 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
 | **binwalk** | 3.1.0 | An Binwalk firmware analysis tool. | https://github.com/ReFirmLabs/binwalk |
-| **biome2** | 2.5.13 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://biomejs.dev/ |
+| **biome2** | 2.5.14 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://biomejs.dev/ |
 | **bison** | 3.8.2-4 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-4 | Static libraries for bison | https://www.gnu.org/software/bison/ |
 | **bitcoin** | 31.1-1 | Bitcoin Core | https://bitcoincore.org/ |
@@ -702,7 +702,7 @@
 | **golang-migrate** | 4.20.1 | Database migrations. CLI and Golang library | https://github.com/golang-migrate/migrate |
 | **golangci-lint** | 2.13.2-1 | Fast linters runner for Go, aggregating many Go linters into one tool | https://golangci-lint.run/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
-| **gomuks** | 26.08 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
+| **gomuks** | 26.09 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
 | **googletest** | 1.18.0 | Google C++ testing framework | https://github.com/google/googletest |
 | **goose** | 3.28.0 | A database migration tool. Supports SQL migrations and Go functions. | https://pressly.github.io/goose |
@@ -1824,7 +1824,7 @@
 | **matterbridge** | 1.26.0-4 | A simple chat bridge | https://github.com/42wim/matterbridge |
 | **matterircd** | 0.32.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **matugen** | 4.2.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
-| **mautrix-whatsapp** | 26.08 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
+| **mautrix-whatsapp** | 26.09 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
 | **maven** | 3.9.16 | A Java software project management and comprehension tool | https://maven.apache.org/ |
 | **maxcso** | 1.13.0-1 | A fast ISO to CSO compression program for use with PSP and PS2 emulators | https://github.com/unknownbrackets/maxcso |
 | **mazter** | 2022.08.13-1 | Mazes in your terminal | https://github.com/Canop/mazter |
@@ -2834,7 +2834,7 @@
 | **valkey-static** | 9.1.2 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |
 | **vamp-plugin-sdk-static** | 2.10-3 | Static libraries for vamp-plugin-sdk | https://www.vamp-plugins.org/ |
-| **vapoursynth** | 79 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
+| **vapoursynth** | 80 | Video processing framework with simplicity in mind | https://www.vapoursynth.com/ |
 | **vbindiff** | 3.0-beta5-1 | Visual binary diff | https://www.cjmweb.net/vbindiff/ |
 | **vcsh** | 2.0.10 | Config manager based on Git | https://github.com/RichiH/vcsh |
 | **vde2** | 2.3.3-6 | Virtual Distributed Ethernet for emulators like qemu | https://github.com/virtualsquare/vde-2 |

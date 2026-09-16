@@ -595,7 +595,7 @@
   Description: An Binwalk firmware analysis tool.
   Homepage: https://github.com/ReFirmLabs/binwalk
 - Package: biome2
-  Version: 2.5.13
+  Version: 2.5.14
   Description: A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP
   Homepage: https://biomejs.dev/
 - Package: bison
@@ -2767,7 +2767,7 @@
   Description: MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration
   Homepage: https://aditya-k2.github.io/gomp/
 - Package: gomuks
-  Version: "26.08"
+  Version: "26.09"
   Description: A terminal Matrix client written in Go
   Homepage: https://go.mau.fi/gomuks
 - Package: google-glog
@@ -7255,7 +7255,7 @@
   Description: A material you color generation tool with templates
   Homepage: https://github.com/InioX/matugen
 - Package: mautrix-whatsapp
-  Version: "26.08"
+  Version: "26.09"
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
@@ -11295,7 +11295,7 @@
   Description: Static libraries for vamp-plugin-sdk
   Homepage: https://www.vamp-plugins.org/
 - Package: vapoursynth
-  Version: "79"
+  Version: "80"
   Description: Video processing framework with simplicity in mind
   Homepage: https://www.vapoursynth.com/
 - Package: vbindiff
