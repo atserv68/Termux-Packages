@@ -7895,7 +7895,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1651+gcb76690546-0
+  Version: 0.13.0~dev-1658+gd1fd8158de-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10435,7 +10435,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 10.1.14
+  Version: 10.1.15
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift
