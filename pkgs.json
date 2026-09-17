@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.46",
+    "Version": "2.36.47",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -727,7 +727,7 @@
   },
   {
     "Package": "azure-dev-cli",
-    "Version": "1.34.0",
+    "Version": "1.34.1",
     "Description": "Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)",
     "Homepage": "https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/"
   },
@@ -2695,7 +2695,7 @@
   },
   {
     "Package": "dust",
-    "Version": "1.2.5",
+    "Version": "1.2.6",
     "Description": "A more intuitive version of du in rust",
     "Homepage": "https://github.com/bootandy/dust"
   },
@@ -4573,7 +4573,7 @@
   },
   {
     "Package": "harper",
-    "Version": "2.10.0",
+    "Version": "2.11.0",
     "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
     "Homepage": "https://writewithharper.com/"
   },
@@ -5221,13 +5221,13 @@
   },
   {
     "Package": "jellyfin-ffmpeg",
-    "Version": "12.1",
+    "Version": "12.1-1",
     "Description": "FFmpeg for Jellyfin with custom extensions and enhancements",
     "Homepage": "https://jellyfin.org"
   },
   {
     "Package": "jellyfin-server",
-    "Version": "12.1",
+    "Version": "12.1-1",
     "Description": "A free media system for organizing and streaming media (server)",
     "Homepage": "https://jellyfin.org"
   },
@@ -10693,7 +10693,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.45.1",
+    "Version": "0.45.2",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -11377,7 +11377,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.19.1",
+    "Version": "2.19.2",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -11611,7 +11611,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.24.4",
+    "Version": "2.25.2",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
