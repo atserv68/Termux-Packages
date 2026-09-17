@@ -106,7 +106,7 @@
 | **aspnetcore-targeting-pack-8.0** | 8.0.31 | ASP.NET Core 8.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **aspnetcore-targeting-pack-9.0** | 9.0.20 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5-1 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
-| **astyle** | 3.6.18 | Source code formatter for C-like programming languages | https://astyle.sourceforge.net/ |
+| **astyle** | 3.6.18-1 | Source code formatter for C-like programming languages | https://astyle.sourceforge.net/ |
 | **asymptote** | 3.14 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
 | **at-spi2-core** | 2.60.6 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
@@ -938,7 +938,7 @@
 | **ldns** | 1.8.4-1 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ldns-static** | 1.8.4-1 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.4.1-4 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
-| **lego** | 5.4.1 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
+| **lego** | 5.5.0 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
 | **lensfun** | 0.3.4-1 | Lensfun | https://lensfun.github.io/ |
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
@@ -1290,9 +1290,9 @@
 | **libmariadbcpp** | 1.1.2-1 | Enables C++ applications to establish client connections to MariaDB Enterprise over TLS | https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/ |
 | **libmatio** | 1.6.0 | A C library for reading and writing Matlab MAT files | https://github.com/tbeu/matio |
 | **libmatroska** | 1.7.2 | Matroska library | https://dl.matroska.org/downloads/libmatroska/ |
-| **libmaxminddb** | 1.14.0 | MaxMind GeoIP2 database - library and utilities | https://dev.maxmind.com/geoip/geoip2/ |
-| **libmaxminddb-static** | 1.14.0 | Static libraries for libmaxminddb | https://dev.maxmind.com/geoip/geoip2/ |
-| **libmaxminddb-tools** | 1.14.0 | A geoip lookup utility for MaxMind DB | https://dev.maxmind.com/geoip/geoip2/ |
+| **libmaxminddb** | 1.14.1 | MaxMind GeoIP2 database - library and utilities | https://dev.maxmind.com/geoip/geoip2/ |
+| **libmaxminddb-static** | 1.14.1 | Static libraries for libmaxminddb | https://dev.maxmind.com/geoip/geoip2/ |
+| **libmaxminddb-tools** | 1.14.1 | A geoip lookup utility for MaxMind DB | https://dev.maxmind.com/geoip/geoip2/ |
 | **libmcrypt** | 2.5.8-6 | A library which provides a uniform interface to several symmetric encryption algorithms | https://mcrypt.sourceforge.net/ |
 | **libmcrypt-static** | 2.5.8-6 | Static libraries for libmcrypt | https://mcrypt.sourceforge.net/ |
 | **libmd** | 1.2.0 | Message Digest functions from BSD systems | https://www.hadrons.org/software/libmd/ |
@@ -1343,8 +1343,8 @@
 | **libmypaint-static** | 1.6.1-2 | Static libraries for libmypaint | https://github.com/mypaint/libmypaint |
 | **libmysofa** | 1.3.5 | Reader for AES SOFA files to get better HRTFs | https://github.com/hoene/libmysofa |
 | **libmysofa-static** | 1.3.5 | Static libraries for libmysofa | https://github.com/hoene/libmysofa |
-| **libnats-c** | 3.13.0 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
-| **libnats-c-static** | 3.13.0 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
+| **libnats-c** | 3.14.0 | A C client for the NATS messaging system | https://nats-io.github.io/nats.c/ |
+| **libnats-c-static** | 3.14.0 | Static libraries for libnats-c | https://nats-io.github.io/nats.c/ |
 | **libneon** | 0.37.1 | An HTTP/1.1 and WebDAV client library, with a C interface | https://notroj.github.io/neon/ |
 | **libneon-static** | 0.37.1 | Static libraries for libneon | https://notroj.github.io/neon/ |
 | **libnet** | 1.3-1 | A library which provides API for commonly used low-level net functions | https://github.com/libnet/libnet |
@@ -2830,7 +2830,7 @@
 | **valac-static** | 0.56.19 | Static libraries for valac | https://wiki.gnome.org/Projects/Vala |
 | **valadoc** | 0.56.19 | API documentation generator for vala | https://wiki.gnome.org/Projects/Vala |
 | **valadoc-static** | 0.56.19 | Static libraries for valadoc | https://wiki.gnome.org/Projects/Vala |
-| **vale** | 3.21.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
+| **vale** | 3.22.0 | A syntax-aware linter for prose built with speed and extensibility in mind | https://vale.sh |
 | **valkey** | 9.1.2 | In-memory data structure store used as a database, cache and message broker | https://valkey.io/ |
 | **valkey-static** | 9.1.2 | Static libraries for valkey | https://valkey.io/ |
 | **vamp-plugin-sdk** | 2.10-3 | An API for audio analysis and feature extraction plugins | https://www.vamp-plugins.org/ |

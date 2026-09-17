@@ -577,7 +577,7 @@
   },
   {
     "Package": "astyle",
-    "Version": "3.6.18",
+    "Version": "3.6.18-1",
     "Description": "Source code formatter for C-like programming languages",
     "Homepage": "https://astyle.sourceforge.net/"
   },
@@ -5569,7 +5569,7 @@
   },
   {
     "Package": "lego",
-    "Version": "5.4.1",
+    "Version": "5.5.0",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -7681,19 +7681,19 @@
   },
   {
     "Package": "libmaxminddb",
-    "Version": "1.14.0",
+    "Version": "1.14.1",
     "Description": "MaxMind GeoIP2 database - library and utilities",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-static",
-    "Version": "1.14.0",
+    "Version": "1.14.1",
     "Description": "Static libraries for libmaxminddb",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
   {
     "Package": "libmaxminddb-tools",
-    "Version": "1.14.0",
+    "Version": "1.14.1",
     "Description": "A geoip lookup utility for MaxMind DB",
     "Homepage": "https://dev.maxmind.com/geoip/geoip2/"
   },
@@ -7999,13 +7999,13 @@
   },
   {
     "Package": "libnats-c",
-    "Version": "3.13.0",
+    "Version": "3.14.0",
     "Description": "A C client for the NATS messaging system",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
   {
     "Package": "libnats-c-static",
-    "Version": "3.13.0",
+    "Version": "3.14.0",
     "Description": "Static libraries for libnats-c",
     "Homepage": "https://nats-io.github.io/nats.c/"
   },
@@ -16921,7 +16921,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.21.0",
+    "Version": "3.22.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
