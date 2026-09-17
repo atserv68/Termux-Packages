@@ -4201,7 +4201,7 @@
   },
   {
     "Package": "goreleaser",
-    "Version": "2.18.1-1",
+    "Version": "2.18.2",
     "Description": "Deliver Go binaries as fast and easily as possible",
     "Homepage": "https://goreleaser.com"
   },
@@ -11095,7 +11095,7 @@
   },
   {
     "Package": "megacmd",
-    "Version": "2.5.2",
+    "Version": "2.6.0",
     "Description": "Provides non UI access to MEGA services",
     "Homepage": "https://mega.io/"
   },
@@ -12235,7 +12235,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.27.8",
+    "Version": "1.27.9",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },

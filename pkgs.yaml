@@ -2799,7 +2799,7 @@
   Description: The official Go language server
   Homepage: https://github.com/golang/tools
 - Package: goreleaser
-  Version: 2.18.1-1
+  Version: 2.18.2
   Description: Deliver Go binaries as fast and easily as possible
   Homepage: https://goreleaser.com
 - Package: goresym
@@ -7395,7 +7395,7 @@
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
-  Version: 2.5.2
+  Version: 2.6.0
   Description: Provides non UI access to MEGA services
   Homepage: https://mega.io/
 - Package: megatools
@@ -8155,7 +8155,7 @@
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
-  Version: 1.27.8
+  Version: 1.27.9
   Description: oma is an attempt at reworking APTs interface
   Homepage: https://aosc.io/oma
 - Package: onefetch
