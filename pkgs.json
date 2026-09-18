@@ -583,7 +583,7 @@
   },
   {
     "Package": "asymptote",
-    "Version": "3.14",
+    "Version": "3.15",
     "Description": "A powerful descriptive vector graphics language for technical drawing",
     "Homepage": "https://asymptote.sourceforge.io/"
   },
@@ -595,7 +595,7 @@
   },
   {
     "Package": "at-spi2-core",
-    "Version": "2.60.6",
+    "Version": "2.62.0.1",
     "Description": "Assistive Technology Service Provider Interface (AT-SPI)",
     "Homepage": "https://wiki.gnome.org/Accessibility"
   },
@@ -631,7 +631,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.19.0",
+    "Version": "18.22.0",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -1297,7 +1297,7 @@
   },
   {
     "Package": "cargo-leptos",
-    "Version": "0.3.8",
+    "Version": "0.3.9",
     "Description": "Build tool for the Rust framework Leptos",
     "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.35.0",
+    "Version": "0.36.0",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -2299,7 +2299,7 @@
   },
   {
     "Package": "dnsutils",
-    "Version": "9.20.27-1",
+    "Version": "9.20.29",
     "Description": "Clients provided with BIND",
     "Homepage": "https://www.isc.org/bind/"
   },
@@ -4087,7 +4087,7 @@
   },
   {
     "Package": "goaccess",
-    "Version": "1.11",
+    "Version": "1.12",
     "Description": "An open source real-time web log analyzer and interactive viewer",
     "Homepage": "https://goaccess.io"
   },
@@ -4777,19 +4777,19 @@
   },
   {
     "Package": "httrack",
-    "Version": "3.50.2",
+    "Version": "3.50.3",
     "Description": "It allows you to download a World Wide Web site from the Internet",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-data",
-    "Version": "3.50.2",
+    "Version": "3.50.3",
     "Description": "Platform-independent data for httrack",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-static",
-    "Version": "3.50.2",
+    "Version": "3.50.3",
     "Description": "Static libraries for httrack",
     "Homepage": "http://www.httrack.com"
   },
@@ -5515,7 +5515,7 @@
   },
   {
     "Package": "lame",
-    "Version": "4.0",
+    "Version": "4.0-1",
     "Description": "High quality MPEG Audio Layer III (MP3) encoder - frontend",
     "Homepage": "https://lame.sourceforge.io/"
   },
@@ -7837,13 +7837,13 @@
   },
   {
     "Package": "libmp3lame",
-    "Version": "4.0",
+    "Version": "4.0-1",
     "Description": "High quality MPEG Audio Layer III (MP3) encoder",
     "Homepage": "https://lame.sourceforge.io/"
   },
   {
     "Package": "libmp3lame-static",
-    "Version": "4.0",
+    "Version": "4.0-1",
     "Description": "Static libraries for libmp3lame",
     "Homepage": "https://lame.sourceforge.io/"
   },
@@ -9373,13 +9373,13 @@
   },
   {
     "Package": "libtirpc",
-    "Version": "1.3.7-1",
+    "Version": "1.3.8",
     "Description": "Transport Independent RPC library",
     "Homepage": "http://git.linux-nfs.org/?p=steved/libtirpc.git"
   },
   {
     "Package": "libtirpc-static",
-    "Version": "1.3.7-1",
+    "Version": "1.3.8",
     "Description": "Static libraries for libtirpc",
     "Homepage": "http://git.linux-nfs.org/?p=steved/libtirpc.git"
   },
@@ -9535,13 +9535,13 @@
   },
   {
     "Package": "libunbound",
-    "Version": "1.26.0",
+    "Version": "1.26.1",
     "Description": "A validating, recursive, caching DNS resolver",
     "Homepage": "https://unbound.net/"
   },
   {
     "Package": "libunbound-static",
-    "Version": "1.26.0",
+    "Version": "1.26.1",
     "Description": "Static libraries for libunbound",
     "Homepage": "https://unbound.net/"
   },
@@ -11335,7 +11335,7 @@
   },
   {
     "Package": "mongosh",
-    "Version": "2.11.1",
+    "Version": "2.12.0",
     "Description": "The MongoDB Shell",
     "Homepage": "https://github.com/mongodb-js/mongosh"
   },
@@ -12175,13 +12175,13 @@
   },
   {
     "Package": "octomap",
-    "Version": "1.10.0-1",
+    "Version": "1.10.1",
     "Description": "An efficient probabilistic 3D mapping framework based on octrees",
     "Homepage": "https://github.com/OctoMap/octomap"
   },
   {
     "Package": "octomap-static",
-    "Version": "1.10.0-1",
+    "Version": "1.10.1",
     "Description": "Static libraries for octomap",
     "Homepage": "https://github.com/OctoMap/octomap"
   },
@@ -13177,7 +13177,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.4.2",
+    "Version": "12.5.0",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -13873,7 +13873,7 @@
   },
   {
     "Package": "pyunbound",
-    "Version": "1.26.0",
+    "Version": "1.26.1",
     "Description": "Python bindings for Unbound",
     "Homepage": "https://unbound.net/"
   },
@@ -16603,7 +16603,7 @@
   },
   {
     "Package": "turbopack",
-    "Version": "16.3.1",
+    "Version": "16.3.5",
     "Description": "Rust-based incremental compilation engine and bundler for Next.js",
     "Homepage": "https://nextjs.org/"
   },
@@ -16705,7 +16705,7 @@
   },
   {
     "Package": "unbound",
-    "Version": "1.26.0",
+    "Version": "1.26.1",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
   },

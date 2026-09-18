@@ -107,15 +107,15 @@
 | **aspnetcore-targeting-pack-9.0** | 9.0.20 | ASP.NET Core 9.0 Targeting Pack | https://dotnet.microsoft.com/en-us/ |
 | **assimp** | 6.0.5-1 | Library to import various well-known 3D model formats in an uniform manner | https://assimp.sourceforge.net/index.html |
 | **astyle** | 3.6.18-1 | Source code formatter for C-like programming languages | https://astyle.sourceforge.net/ |
-| **asymptote** | 3.14 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
+| **asymptote** | 3.15 | A powerful descriptive vector graphics language for technical drawing | https://asymptote.sourceforge.io/ |
 | **at** | 3.2.5-2 | AT and batch delayed command scheduling utility and daemon | https://salsa.debian.org/debian/at |
-| **at-spi2-core** | 2.60.6 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
+| **at-spi2-core** | 2.62.0.1 | Assistive Technology Service Provider Interface (AT-SPI) | https://wiki.gnome.org/Accessibility |
 | **atomicparsley** | 1:20240608.083822.1ed9031-1 | Read, parse and set metadata of MPEG-4 and 3gp files | https://github.com/wez/atomicparsley |
 | **atomvm** | 1:0.6.6-1 | The minimal Erlang VM implementation | https://github.com/bettio/AtomVM |
 | **atool** | 0.39.0-3 | tool for managing file archives of various types | https://www.nongnu.org/atool |
 | **attr** | 2.6.0 | Utilities for manipulating filesystem extended attributes | http://savannah.nongnu.org/projects/attr/ |
 | **attr-static** | 2.6.0 | Static libraries for attr | http://savannah.nongnu.org/projects/attr/ |
-| **atuin** | 18.19.0 | Magical shell history | https://atuin.sh/ |
+| **atuin** | 18.22.0 | Magical shell history | https://atuin.sh/ |
 | **aubio** | 0.4.9-7 | A library to label music and sounds | https://aubio.org/ |
 | **aubio-static** | 0.4.9-7 | Static libraries for aubio | https://aubio.org/ |
 | **audiofile** | 0.3.6 | Silicon Graphics Audio File Library | https://audiofile.68k.org/ |
@@ -226,7 +226,7 @@
 | **cargo-c** | 0.10.25 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-flamegraph** | 0.6.14 | Simple cargo subcommand for generating flamegraphs, using inferno under the hood | https://github.com/flamegraph-rs/flamegraph |
-| **cargo-leptos** | 0.3.8 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
+| **cargo-leptos** | 0.3.9 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **cargo-machete** | 0.9.2 | Find unused dependencies in Rust projects | https://github.com/bnjbvr/cargo-machete |
 | **catch2** | 3.16.0 | A modern, C++-native, header-only, framework for unit-tests, TDD and BDD | https://github.com/catchorg/catch2 |
 | **catch2-static** | 3.16.0 | Static libraries for catch2 | https://github.com/catchorg/catch2 |
@@ -304,7 +304,7 @@
 | **composer** | 2.10.3 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.35.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.36.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.11-1 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-6 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
@@ -393,7 +393,7 @@
 | **dnslookup** | 1.12.0 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
-| **dnsutils** | 9.20.27-1 | Clients provided with BIND | https://www.isc.org/bind/ |
+| **dnsutils** | 9.20.29 | Clients provided with BIND | https://www.isc.org/bind/ |
 | **docbook-xml** | 5.1-1 | A widely used XML scheme for writing documentation and help | https://www.oasis-open.org/docbook/ |
 | **docbook-xsl** | 1.79.2-4 | XML stylesheets for Docbook-xml transformations | https://docbook.org/ |
 | **docker-cli** | 24.0.6 | Set of products that use OS-level virtualization to deliver software in packages called containers. | https://docker.com |
@@ -691,7 +691,7 @@
 | **go-findimagedupes** | 2023.01.29-5 | Find visually similar or duplicate images | https://gitlab.com/opennota/findimagedupes |
 | **go-musicfox** | 5.1.0 | A netease music player in terminal. | https://github.com/go-musicfox/go-musicfox |
 | **go-task** | 3.53.1-1 | A task runner / simpler Make alternative written in Go | https://github.com/go-task/task |
-| **goaccess** | 1.11 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
+| **goaccess** | 1.12 | An open source real-time web log analyzer and interactive viewer | https://goaccess.io |
 | **gobang** | 0.1.0-alpha.5-4 | A cross-platform TUI database management tool written in Rust | https://github.com/TaKO8Ki/gobang |
 | **gobject-introspection** | 1.86.0-2 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gofumpt** | 0.12.0 | A stricter gofmt, backwards compatible drop-in replacement | https://github.com/mvdan/gofumpt |
@@ -806,9 +806,9 @@
 | **htslib-static** | 1.24 | Static libraries for htslib | https://github.com/samtools/htslib |
 | **httpie** | 3.2.4-1 | Modern, user-friendly command-line HTTP client for the API era | https://httpie.io |
 | **httping** | 4.4.0-1 | ping-like program for http-requests | https://github.com/folkertvanheusden/HTTPing |
-| **httrack** | 3.50.2 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
-| **httrack-data** | 3.50.2 | Platform-independent data for httrack | http://www.httrack.com |
-| **httrack-static** | 3.50.2 | Static libraries for httrack | http://www.httrack.com |
+| **httrack** | 3.50.3 | It allows you to download a World Wide Web site from the Internet | http://www.httrack.com |
+| **httrack-data** | 3.50.3 | Platform-independent data for httrack | http://www.httrack.com |
+| **httrack-static** | 3.50.3 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
 | **hugo** | 0.166.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
@@ -929,7 +929,7 @@
 | **kubo** | 0.43.1 | A peer-to-peer hypermedia distribution protocol | https://ipfs.io/ |
 | **ladspa-sdk** | 1.17-3 | Linux Audio Developer's Simple Plugin API | https://www.ladspa.org/ |
 | **lager** | 0.1.3 | C++ library for value-oriented design | https://sinusoid.es/lager/ |
-| **lame** | 4.0 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
+| **lame** | 4.0-1 | High quality MPEG Audio Layer III (MP3) encoder - frontend | https://lame.sourceforge.io/ |
 | **lastpass-cli** | 1.6.1-4 | LastPass command line interface tool | https://lastpass.com/ |
 | **lazygit** | 0.65.1 | Simple terminal UI for git commands | https://github.com/jesseduffield/lazygit |
 | **lcal** | 2.1.0-1 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
@@ -1316,8 +1316,8 @@
 | **libmodplug-static** | 0.8.9.1.r461-1 | Static libraries for libmodplug | https://modplug-xmms.sourceforge.net/ |
 | **libmosquitto** | 2.1.2-2 | MQTT library | https://mosquitto.org/ |
 | **libmount** | 2.42.1-4 | Library for (un)mounting filesystems | https://en.wikipedia.org/wiki/Util-linux |
-| **libmp3lame** | 4.0 | High quality MPEG Audio Layer III (MP3) encoder | https://lame.sourceforge.io/ |
-| **libmp3lame-static** | 4.0 | Static libraries for libmp3lame | https://lame.sourceforge.io/ |
+| **libmp3lame** | 4.0-1 | High quality MPEG Audio Layer III (MP3) encoder | https://lame.sourceforge.io/ |
+| **libmp3lame-static** | 4.0-1 | Static libraries for libmp3lame | https://lame.sourceforge.io/ |
 | **libmp3splt** | 0.9.2-10 | Utility to split MP3, Ogg Vorbis and native FLAC files without decoding | https://mp3splt.sourceforge.net |
 | **libmp3splt-static** | 0.9.2-10 | Static libraries for libmp3splt | https://mp3splt.sourceforge.net |
 | **libmpc** | 1.4.1 | Library for the arithmetic of complex numbers with arbitrarily high precision | https://www.multiprecision.org/ |
@@ -1572,8 +1572,8 @@
 | **libtins** | 4.5-5 | High-level, multiplatform C++ network packet sniffing and crafting library. | https://libtins.github.io |
 | **libtinyxml** | 2.6.2-2 | A simple, small, C++ XML parser | https://sourceforge.net/projects/tinyxml/ |
 | **libtinyxml2** | 11.0.0-1 | A simple, small, efficient, C++ XML parser | http://www.grinninglizard.com/tinyxml2/ |
-| **libtirpc** | 1.3.7-1 | Transport Independent RPC library | http://git.linux-nfs.org/?p=steved/libtirpc.git |
-| **libtirpc-static** | 1.3.7-1 | Static libraries for libtirpc | http://git.linux-nfs.org/?p=steved/libtirpc.git |
+| **libtirpc** | 1.3.8 | Transport Independent RPC library | http://git.linux-nfs.org/?p=steved/libtirpc.git |
+| **libtirpc-static** | 1.3.8 | Static libraries for libtirpc | http://git.linux-nfs.org/?p=steved/libtirpc.git |
 | **libtllist** | 1.1.0 | A small font loading and glyph rasterization library | https://codeberg.org/dnkl/fcft |
 | **libtomcrypt** | 1.18.2-1 | A fairly comprehensive, modular and portable cryptographic toolkit | https://www.libtom.net/LibTomCrypt/ |
 | **libtomcrypt-static** | 1.18.2-1 | Static libraries for libtomcrypt | https://www.libtom.net/LibTomCrypt/ |
@@ -1599,8 +1599,8 @@
 | **libucontext-static** | 1.5 | Static libraries for libucontext | https://github.com/kaniini/libucontext |
 | **libudfread** | 1.2.0 | A library for reading UDF | https://code.videolan.org/videolan/libudfread/ |
 | **libudfread-static** | 1.2.0 | Static libraries for libudfread | https://code.videolan.org/videolan/libudfread/ |
-| **libunbound** | 1.26.0 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
-| **libunbound-static** | 1.26.0 | Static libraries for libunbound | https://unbound.net/ |
+| **libunbound** | 1.26.1 | A validating, recursive, caching DNS resolver | https://unbound.net/ |
+| **libunbound-static** | 1.26.1 | Static libraries for libunbound | https://unbound.net/ |
 | **libunibilium** | 2.1.4 | Terminfo parsing library | https://github.com/neovim/unibilium |
 | **libunibreak** | 8.0 | Unicode line-breaking library | https://github.com/adah1972/libunibreak |
 | **libunibreak-static** | 8.0 | Static libraries for libunibreak | https://github.com/adah1972/libunibreak |
@@ -1899,7 +1899,7 @@
 | **mold** | 2.42.1 | mold: A Modern Linker | https://github.com/rui314/mold |
 | **monero** | 0.18.5.1-2 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **monetdb** | 11.55.5-1 | A high-performance database kernel for query-intensive applications | https://www.monetdb.org/ |
-| **mongosh** | 2.11.1 | The MongoDB Shell | https://github.com/mongodb-js/mongosh |
+| **mongosh** | 2.12.0 | The MongoDB Shell | https://github.com/mongodb-js/mongosh |
 | **monit** | 6.0.0 | Utility for managing and monitoring processes, programs, files, directories and filesystems | https://mmonit.com/monit/ |
 | **mono** | 6.14.1-2 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.1-2 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
@@ -2039,8 +2039,8 @@
 | **ocrad-static** | 0.29-1 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
 | **octave** | 2:11.3.0-1 | GNU Octave is a high-level language, primarily intended for numerical computations. (only CLI) | https://octave.org |
 | **octave-static** | 2:11.3.0-1 | Static libraries for octave | https://octave.org |
-| **octomap** | 1.10.0-1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
-| **octomap-static** | 1.10.0-1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
+| **octomap** | 1.10.1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
+| **octomap-static** | 1.10.1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
 | **oh-my-posh** | 31.3.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oha** | 1.16.0 | HTTP load generator with realtime tui, inspired by rakyll/hey | https://github.com/hatoo/oha |
@@ -2206,7 +2206,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pnpm** | 12.4.2 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
+| **pnpm** | 12.5.0 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
 | **pocketbase** | 0.40.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 5.0 | Static libraries for poke | http://www.jemarch.net/poke.html |
@@ -2322,7 +2322,7 @@
 | **python-yt-dlp** | 2026.08.19 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
 | **python2** | 2.7.18-15 | Python 2 programming language intended to enable clear programs | http://python.org/ |
 | **python2-static** | 2.7.18-15 | Static libraries for python2 | http://python.org/ |
-| **pyunbound** | 1.26.0 | Python bindings for Unbound | https://unbound.net/ |
+| **pyunbound** | 1.26.1 | Python bindings for Unbound | https://unbound.net/ |
 | **pzstd** | 1.5.7-1 | A Pigz-like tool for Zstandard | https://github.com/facebook/zstd |
 | **q-dns-client** | 0.19.12 | A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH | https://github.com/natesales/q |
 | **qalc** | 5.12.0 | Powerful and easy to use command line calculator | https://qalculate.github.io/ |
@@ -2777,7 +2777,7 @@
 | **tuicr** | 0.26.0 | A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard | https://github.com/agavra/tuicr |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **turbo** | 2.10.0 | High-performance build system for JS/TS | https://turborepo.dev/ |
-| **turbopack** | 16.3.1 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
+| **turbopack** | 16.3.5 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
 | **tut** | 2.0.1-3 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
 | **tvheadend** | 4.2.8-13 | TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats. | https://tvheadend.org/ |
 | **tvheadend-data** | 4.2.8-13 | Platform-independent data for tvheadend | https://tvheadend.org/ |
@@ -2794,7 +2794,7 @@
 | **uftrace** | 0.20 | Function (graph) tracer for user-space | https://uftrace.github.io/slide |
 | **ugrep** | 7.8.5 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
-| **unbound** | 1.26.0 | Unbound command-line tools | https://unbound.net/ |
+| **unbound** | 1.26.1 | Unbound command-line tools | https://unbound.net/ |
 | **unicode-cldr** | 48.1 | Unicode Common Locale Data Repository | http://cldr.unicode.org/ |
 | **unicode-data** | 18.0.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
 | **unicode-emoji** | 17.0.0 | Unicode Emoji Data Files | https://unicode.org/emoji/ |
