@@ -11845,7 +11845,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1658+gd1fd8158de-0",
+    "Version": "0.13.0~dev-1661+g4b5dcbccd7-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -16891,7 +16891,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.15",
+    "Version": "0.12.16",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -17131,7 +17131,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.362",
+    "Version": "1.4.363",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -17155,19 +17155,19 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.362",
+    "Version": "1.4.363",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.362",
+    "Version": "1.4.363",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.362",
+    "Version": "1.4.363",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
