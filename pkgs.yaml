@@ -4879,11 +4879,11 @@
   Description: Static libraries for libiodbc
   Homepage: https://www.iodbc.org/
 - Package: libiptcdata
-  Version: 1.0.4
+  Version: 1.0.5
   Description: a C library for manipulating the IPTC metadata stored within multimedia files
   Homepage: https://libiptcdata.sourceforge.net/
 - Package: libiptcdata-static
-  Version: 1.0.4
+  Version: 1.0.5
   Description: Static libraries for libiptcdata
   Homepage: https://libiptcdata.sourceforge.net/
 - Package: libisoburn
@@ -8066,6 +8066,10 @@
   Version: 8.0.1
   Description: ncurses based sudoku game
   Homepage: http://jubalh.github.io/nudoku/
+- Package: numbat
+  Version: 1.24.0
+  Description: A statically typed programming language for scientific computations with first class support for physical dimensions and units
+  Homepage: https://numbat.dev/
 - Package: nushell
   Version: 0.115.1
   Description: A new type of shell operating on structured data
@@ -8779,7 +8783,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.4.1-1
+  Version: 12.4.2
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -9894,6 +9898,10 @@
   Version: 3.4.1-1
   Description: A fork of Overseerr with focus on adding support for Jellyfin/Emby
   Homepage: https://github.com/seerr-team/seerr
+- Package: selene
+  Version: 0.31.0
+  Description: A blazing-fast modern Lua linter written in Rust
+  Homepage: https://kampfkarren.github.io/selene/
 - Package: sendme
   Version: 0.36.0-1
   Description: A tool to send files and directories, based on iroh
