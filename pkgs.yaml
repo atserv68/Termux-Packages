@@ -471,7 +471,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.47
+  Version: 2.36.48
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -3711,7 +3711,7 @@
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: lego
-  Version: 5.5.0
+  Version: 5.5.1
   Description: Lets Encrypt/ACME client and library written in Go
   Homepage: https://github.com/go-acme/lego
 - Package: lensfun
@@ -6139,7 +6139,7 @@
   Description: Static libraries for libstrophe
   Homepage: https://strophe.im/libstrophe
 - Package: libsynctex
-  Version: 1:2026.0-1
+  Version: 1:2026.0-2
   Description: Library for synchronization between TeX files and resulting file
   Homepage: https://www.tug.org/texlive/
 - Package: libt3config
@@ -10267,7 +10267,7 @@
   Description: measure character-echo latency and bandwidth for an interactive ssh session
   Homepage: https://github.com/spook/sshping
 - Package: sslscan
-  Version: 2.2.2
+  Version: 2.2.3
   Description: Utility to discover supported cipher suites on SSL/TLS enabled servers
   Homepage: https://github.com/rbsec/sslscan
 - Package: sssnake
@@ -10707,11 +10707,11 @@
   Description: A cross-platform implementation of the Language Server Protocol providing rich cross-editing support for the LaTeX typesetting system
   Homepage: https://texlab.netlify.app/
 - Package: texlive-bin
-  Version: 1:2026.0-1
+  Version: 1:2026.0-2
   Description: TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries.
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-bin-static
-  Version: 1:2026.0-1
+  Version: 1:2026.0-2
   Description: Static libraries for texlive-bin
   Homepage: https://www.tug.org/texlive/
 - Package: texlive-installer
@@ -11099,7 +11099,7 @@
   Description: Data munging language and pattern matching tool
   Homepage: https://www.nongnu.org/txr/
 - Package: ty
-  Version: 0.0.81
+  Version: 0.0.82
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst
