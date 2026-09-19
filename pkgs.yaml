@@ -751,7 +751,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: bun
-  Version: 1.4.2-3
+  Version: 1.4.2-4
   Description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
   Homepage: https://bun.com
 - Package: busybox
@@ -2215,7 +2215,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 16.0.4
+  Version: 16.0.5
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -3135,7 +3135,7 @@
   Description: Robust, friendly, fast plain text accounting software. (CLI only)
   Homepage: https://hledger.org/
 - Package: hledger-ui
-  Version: 1.52.3
+  Version: 1.52.4
   Description: hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.
   Homepage: https://hledger.org/
 - Package: hnterm
@@ -3566,6 +3566,10 @@
   Version: 1.9.8
   Description: Static libraries for jsoncpp
   Homepage: https://github.com/open-source-parsers/jsoncpp
+- Package: jujutsu
+  Version: 0.43.0
+  Description: A Git-compatible VCS that is both simple and powerful
+  Homepage: https://jj-vcs.github.io/jj/
 - Package: jump
   Version: 0.51.0-3
   Description: Jump helps you navigate in shell faster by learning your habits
@@ -7219,11 +7223,11 @@
   Description: MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web
   Homepage: https://mapserver.org/
 - Package: mariadb
-  Version: 2:12.3.3
+  Version: 2:13.0.2
   Description: A drop-in replacement for mysql server
   Homepage: https://mariadb.org
 - Package: mariadb-static
-  Version: 2:12.3.3
+  Version: 2:13.0.2
   Description: Static libraries for mariadb
   Homepage: https://mariadb.org
 - Package: marisa
@@ -7366,6 +7370,10 @@
   Version: 1.0.1-1
   Description: Static libraries for mdbtools
   Homepage: https://github.com/mdbtools/mdbtools
+- Package: mdcat
+  Version: 2.17.0
+  Description: 'Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal'
+  Homepage: https://github.com/BIRSAx2/mdcat
 - Package: mdds
   Version: 3.2.1
   Description: A collection of multi-dimensional data structures and indexing algorithms
@@ -7415,23 +7423,23 @@
   Description: Static libraries for mercury
   Homepage: https://www.mercurylang.org/
 - Package: mesa
-  Version: 26.2.2
+  Version: 26.2.3
   Description: An open-source implementation of the OpenGL specification
   Homepage: https://www.mesa3d.org
 - Package: mesa-dev
-  Version: 26.2.2
+  Version: 26.2.3
   Description: Mesas OpenGL headers
   Homepage: https://www.mesa3d.org
 - Package: mesa-opencl-icd-rusticl
-  Version: 26.2.2
+  Version: 26.2.3
   Description: Mesas Rusticl OpenCL ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-swrast
-  Version: 26.2.2
+  Version: 26.2.3
   Description: Mesas Swrast Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mesa-vulkan-icd-virtio
-  Version: 26.2.2
+  Version: 26.2.3
   Description: Mesas VirtIO Vulkan ICD
   Homepage: https://www.mesa3d.org
 - Package: mfcuk
@@ -7963,7 +7971,7 @@
   Description: Newsraft is a feed reader with text-based user interface
   Homepage: https://codeberg.org/newsraft/newsraft
 - Package: nginx
-  Version: 1.31.5
+  Version: 1.31.6
   Description: Lightweight HTTP server
   Homepage: https://www.nginx.org
 - Package: ngircd
@@ -8975,7 +8983,7 @@
   Description: Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server
   Homepage: https://www.pureftpd.org/project/pure-ftpd
 - Package: pv
-  Version: 1.11.0-1
+  Version: 1.12.0
   Description: Terminal-based tool for monitoring the progress of data through a pipeline
   Homepage: https://www.ivarch.com/programs/pv.shtml
 - Package: pwgen
@@ -10355,11 +10363,11 @@
   Description: Records and splits streaming mp3 into tracks
   Homepage: https://streamripper.sourceforge.net/
 - Package: stunnel
-  Version: "5.80"
+  Version: "5.82"
   Description: Socket wrapper which can provide TLS support to ordinary applications
   Homepage: https://www.stunnel.org/
 - Package: stunnel-static
-  Version: "5.80"
+  Version: "5.82"
   Description: Static libraries for stunnel
   Homepage: https://www.stunnel.org/
 - Package: stuntman
@@ -11259,7 +11267,7 @@
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uv
-  Version: 0.12.16
+  Version: 0.12.17
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11895,7 +11903,7 @@
   Description: Zig language server
   Homepage: https://github.com/zigtools/zls
 - Package: znc
-  Version: 1.10.2
+  Version: 1.10.3
   Description: An advanced IRC bouncer
   Homepage: https://znc.in/
 - Package: zola

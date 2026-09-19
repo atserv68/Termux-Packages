@@ -198,7 +198,7 @@
 | **btrfs-progs** | 7.0 | Utilities for Btrfs filesystem | https://btrfs.readthedocs.io/en/latest/ |
 | **buf** | 1.73.0 | A new way of working with Protocol Buffers | https://buf.build |
 | **build-essential** | 4.1 | A metapackage that installs essential development tools | https://github.com/termux/termux-packages |
-| **bun** | 1.4.2-3 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager | https://bun.com |
+| **bun** | 1.4.2-4 | Incredibly fast JavaScript runtime, bundler, test runner, and package manager | https://bun.com |
 | **busybox** | 1.38.0-1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
 | **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
@@ -564,7 +564,7 @@
 | **fontconfig-static** | 2.18.3 | Static libraries for fontconfig | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **fontconfig-utils** | 2.18.3 | Fontconfig binaries | https://www.freedesktop.org/wiki/Software/fontconfig/ |
 | **forestdb-dump** | 1.2-2 | ForestDB dump tool | https://github.com/couchbase/forestdb |
-| **forgejo** | 16.0.4 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
+| **forgejo** | 16.0.5 | Forgejo is a self-hosted lightweight software forge. | https://forgejo.org/ |
 | **fortune** | 1.2-2 | Revealer of fortunes | https://www.fefe.de/fortune/ |
 | **fossil** | 2.28 | DSCM with built-in wiki, http interface and server, tickets database | https://www.fossil-scm.org |
 | **foundry** | 1.7.1-1 | A blazing fast, portable and modular toolkit for Ethereum application development | https://github.com/foundry-rs/foundry |
@@ -794,7 +794,7 @@
 | **highway** | 1.4.0-1 | Performance-portable, length-agnostic SIMD with runtime dispatch | https://github.com/google/highway |
 | **hilbish** | 1:2.3.4-1 | The Moon-powered shell! A comfy and extensible shell for Lua fans! | https://rosettea.github.io/Hilbish/ |
 | **hledger** | 1.52.4 | Robust, friendly, fast plain text accounting software. (CLI only) | https://hledger.org/ |
-| **hledger-ui** | 1.52.3 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
+| **hledger-ui** | 1.52.4 | hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app. | https://hledger.org/ |
 | **hnterm** | 1.0.5-2 | A simple tool to browse Hacker News in the terminal | https://github.com/ggerganov/imtui |
 | **hollywood** | 1.22-1 | Fill your console with Hollywood melodrama technobabble | https://launchpad.net/hollywood |
 | **hors** | 0.8.2-3 | Instant coding answers via the command line (howdoi in rust) | https://github.com/WindSoilder/hors |
@@ -902,6 +902,7 @@
 | **json-glib** | 1.10.8 | GLib JSON manipulation library | https://wiki.gnome.org/Projects/JsonGlib |
 | **jsoncpp** | 1.9.8 | C++ library for interacting with JSON | https://github.com/open-source-parsers/jsoncpp |
 | **jsoncpp-static** | 1.9.8 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
+| **jujutsu** | 0.43.0 | A Git-compatible VCS that is both simple and powerful | https://jj-vcs.github.io/jj/ |
 | **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-4 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **just** | 1.58.0 | A handy way to save and run project-specific commands | https://just.systems |
@@ -1815,8 +1816,8 @@
 | **manim** | 0.21.0-1 | A community-maintained Python framework for creating mathematical animations | https://manim.community |
 | **manpages** | 6.19 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
 | **mapserver** | 8.2.2-4 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
-| **mariadb** | 2:12.3.3 | A drop-in replacement for mysql server | https://mariadb.org |
-| **mariadb-static** | 2:12.3.3 | Static libraries for mariadb | https://mariadb.org |
+| **mariadb** | 2:13.0.2 | A drop-in replacement for mysql server | https://mariadb.org |
+| **mariadb-static** | 2:13.0.2 | Static libraries for mariadb | https://mariadb.org |
 | **marisa** | 0.3.1-1 | Matching Algorithm with Recursively Implemented StorAge | https://github.com/s-yata/marisa-trie |
 | **markdown-flashcards** | 2.0.1 | Small CLI app to learn with flashcards and spaced repetition | https://github.com/bttger/markdown-flashcards |
 | **marksman** | 2026.02.08 | LSP language server for editing Markdown files | https://github.com/artempyanykh/marksman |
@@ -1852,6 +1853,7 @@
 | **mdbook-toc** | 0.15.4 | A preprocessor for mdbook to add inline Table of Contents support | https://github.com/badboy/mdbook-toc |
 | **mdbtools** | 1.0.1-1 | A set of programs to help you extract data from Microsoft Access files in various settings | https://github.com/mdbtools/mdbtools |
 | **mdbtools-static** | 1.0.1-1 | Static libraries for mdbtools | https://github.com/mdbtools/mdbtools |
+| **mdcat** | 2.17.0 | Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal | https://github.com/BIRSAx2/mdcat |
 | **mdds** | 3.2.1 | A collection of multi-dimensional data structures and indexing algorithms | https://gitlab.com/mdds/mdds |
 | **mdf2iso** | 0.3.1 | Small utility that converts MDF images to ISO format | https://salsa.debian.org/debian/mdf2iso |
 | **mdns-scan** | 0.5-3 | A tool for scanning for mDNS/DNS-SD services published on the local network | https://github.com/alteholz/mdns-scan |
@@ -1864,11 +1866,11 @@
 | **memcached** | 1.6.45 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
 | **mercury** | 22.01.9 | A logic/functional programming language | https://www.mercurylang.org/ |
 | **mercury-static** | 22.01.9 | Static libraries for mercury | https://www.mercurylang.org/ |
-| **mesa** | 26.2.2 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
-| **mesa-dev** | 26.2.2 | Mesa's OpenGL headers | https://www.mesa3d.org |
-| **mesa-opencl-icd-rusticl** | 26.2.2 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
-| **mesa-vulkan-icd-swrast** | 26.2.2 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
-| **mesa-vulkan-icd-virtio** | 26.2.2 | Mesa's VirtIO Vulkan ICD | https://www.mesa3d.org |
+| **mesa** | 26.2.3 | An open-source implementation of the OpenGL specification | https://www.mesa3d.org |
+| **mesa-dev** | 26.2.3 | Mesa's OpenGL headers | https://www.mesa3d.org |
+| **mesa-opencl-icd-rusticl** | 26.2.3 | Mesa's Rusticl OpenCL ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-swrast** | 26.2.3 | Mesa's Swrast Vulkan ICD | https://www.mesa3d.org |
+| **mesa-vulkan-icd-virtio** | 26.2.3 | Mesa's VirtIO Vulkan ICD | https://www.mesa3d.org |
 | **mfcuk** | 2018.07.14-1 | MiFare Classic Universal toolKit (MFCUK) | https://github.com/nfc-tools/mfcuk |
 | **mg** | 20260719-1 | microscopic GNU Emacs-style editor | https://github.com/hboetes/mg |
 | **micro** | 2.0.15-2 | Modern and intuitive terminal-based text editor | https://micro-editor.github.io/ |
@@ -2001,7 +2003,7 @@
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.44 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.37 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
-| **nginx** | 1.31.5 | Lightweight HTTP server | https://www.nginx.org |
+| **nginx** | 1.31.6 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 28 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 47 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
 | **nim** | 2.2.12 | Nim programming language compiler | https://nim-lang.org/ |
@@ -2254,7 +2256,7 @@
 | **pulseaudio-glib** | 17.0-4 | PulseAudio GLIB mainloop component | https://www.freedesktop.org/wiki/Software/PulseAudio |
 | **pup** | 0.4.0-7 | command line tool for processing HTML | https://github.com/ericchiang/pup |
 | **pure-ftpd** | 1.0.54 | Pure-FTPd is a free (BSD), secure, production-quality and standard-conformant FTP server | https://www.pureftpd.org/project/pure-ftpd |
-| **pv** | 1.11.0-1 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
+| **pv** | 1.12.0 | Terminal-based tool for monitoring the progress of data through a pipeline | https://www.ivarch.com/programs/pv.shtml |
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.1.0 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
@@ -2599,8 +2601,8 @@
 | **stow** | 2.4.1 | Tool for managing the installation of multiple software packages into a single directory | https://www.gnu.org/software/stow/ |
 | **strace** | 7.2 | Debugging utility to monitor system calls and signals received | https://strace.io/ |
 | **streamripper** | 1.64.6-3 | Records and splits streaming mp3 into tracks | https://streamripper.sourceforge.net/ |
-| **stunnel** | 5.80 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
-| **stunnel-static** | 5.80 | Static libraries for stunnel | https://www.stunnel.org/ |
+| **stunnel** | 5.82 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
+| **stunnel-static** | 5.82 | Static libraries for stunnel | https://www.stunnel.org/ |
 | **stuntman** | 1.2.16-8 | An open source STUN server | https://www.stunprotocol.org/ |
 | **stylua** | 2.5.2 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4-1 | DVD subtitle ripper for Linux | https://subtitleripper.sourceforge.net/ |
@@ -2825,7 +2827,7 @@
 | **util-linux-static** | 2.42.1-4 | Static libraries for util-linux | https://en.wikipedia.org/wiki/Util-linux |
 | **uucp** | 1.07-2 | The standard UUCP package of the Free Software Foundation | https://www.airs.com/ian/uucp.html |
 | **uuid-utils** | 2.42.1-4 | Utilities for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
-| **uv** | 0.12.16 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
+| **uv** | 0.12.17 | An extremely fast Python package installer and resolver, written in Rust. | https://docs.astral.sh/uv/ |
 | **uwsgi** | 2.0.31-2 | uWSGI application server container | https://projects.unbit.it/uwsgi |
 | **v2ray** | 5.53.0 | A platform for building proxies to bypass network restrictions | https://www.v2fly.org/ |
 | **valac** | 0.56.19 | C# like language for the GObject system | https://wiki.gnome.org/Projects/Vala |
@@ -2984,7 +2986,7 @@
 | **zlib** | 1.3.2 | Compression library implementing the deflate compression method found in gzip and PKZIP | https://www.zlib.net/ |
 | **zlib-static** | 1.3.2 | Static libraries for zlib | https://www.zlib.net/ |
 | **zls** | 0.16.0 | Zig language server | https://github.com/zigtools/zls |
-| **znc** | 1.10.2 | An advanced IRC bouncer | https://znc.in/ |
+| **znc** | 1.10.3 | An advanced IRC bouncer | https://znc.in/ |
 | **zola** | 0.23.6 | A fast static site generator in a single binary with everything built-in. | https://github.com/getzola/zola |
 | **zopfli** | 1.0.3-5 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.10.0 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
