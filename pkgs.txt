@@ -912,7 +912,7 @@
  kona  20211225-1  Open-source implementation of the APL-like K programming language  https://github.com/kevinlawler/kona 
  kotlin  2.4.20  The Kotlin Programming Language  https://kotlinlang.org/ 
  krb5  1.22.2  The Kerberos network authentication system  https://web.mit.edu/kerberos 
- kubecolor  0.7.1  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
+ kubecolor  0.8.0  Colorize your kubectl output  https://github.com/kubecolor/kubecolor 
  kubectl  1.37.0  Kubernetes.io client binary  https://kubernetes.io/ 
  kubelogin  1.36.4  A kubectl plugin for Kubernetes OpenID Connect (OIDC) authentication  https://github.com/int128/kubelogin 
  kubo  0.43.1  A peer-to-peer hypermedia distribution protocol  https://ipfs.io/ 
@@ -1411,7 +1411,7 @@
  libpcap  1.10.5-1  Library for network traffic capture  https://www.tcpdump.org 
  libpcap-static  1.10.5-1  Static libraries for libpcap  https://www.tcpdump.org 
  libpcreposix  8.45-2  Posix-compatible runtime libraries for libpcre  https://www.pcre.org 
- libpcsclite  2.5.1  Middleware to access a smart card using SCard API (PC/SC).  https://pcsclite.apdu.fr/ 
+ libpcsclite  2.5.2  Middleware to access a smart card using SCard API (PC/SC).  https://pcsclite.apdu.fr/ 
  libphysfs  3.2.0-2  A portable, flexible file i/o abstraction  https://icculus.org/physfs/ 
  libpinyin  2.10.3  Library to deal with pinyin.  https://github.com/libpinyin/libpinyin 
  libpinyin-static  2.10.3  Static libraries for libpinyin  https://github.com/libpinyin/libpinyin 
@@ -1936,7 +1936,7 @@
  mupdf-tools  1.28.2-1  Lightweight PDF and XPS viewer (utilities)  https://mupdf.com/ 
  music-file-organizer  1.0.4-10  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
  mutt  2.4.2  Mail client with patches from neomutt  http://www.mutt.org/ 
- mycli  2.25.2  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
+ mycli  2.25.3  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
  mympd  26.0.0  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
  mypaint-brushes  2.0.2  MyPaint brushes  https://github.com/mypaint/mypaint-brushes 
@@ -2145,7 +2145,7 @@
  pcre2-static  10.47  Static libraries for pcre2  https://pcre2project.github.io/pcre2/ 
  pcre2grep  10.47  A grep with Perl-compatible regular expressions  https://pcre2project.github.io/pcre2/ 
  pcregrep  8.45-2  A grep with Perl-compatible regular expressions  https://www.pcre.org 
- pcscd  2.5.1  Middleware to access a smart card using SCard API (PC/SC). (daemon side)  https://pcsclite.apdu.fr/ 
+ pcscd  2.5.2  Middleware to access a smart card using SCard API (PC/SC). (daemon side)  https://pcsclite.apdu.fr/ 
  pdf2svg  0.2.4-2  A PDF to SVG converter  http://www.cityinthesky.co.uk/opensource/pdf2svg/ 
  pdfcpu  0.15.0  A PDF processor written in Go  https://pdfcpu.io 
  pdfgrep  2.2.0-5  Command line utility to search text in PDF files  https://pdfgrep.org/ 

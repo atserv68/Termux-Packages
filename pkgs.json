@@ -5485,7 +5485,7 @@
   },
   {
     "Package": "kubecolor",
-    "Version": "0.7.1",
+    "Version": "0.8.0",
     "Description": "Colorize your kubectl output",
     "Homepage": "https://github.com/kubecolor/kubecolor"
   },
@@ -8479,7 +8479,7 @@
   },
   {
     "Package": "libpcsclite",
-    "Version": "2.5.1",
+    "Version": "2.5.2",
     "Description": "Middleware to access a smart card using SCard API (PC/SC).",
     "Homepage": "https://pcsclite.apdu.fr/"
   },
@@ -11629,7 +11629,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.25.2",
+    "Version": "2.25.3",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -12883,7 +12883,7 @@
   },
   {
     "Package": "pcscd",
-    "Version": "2.5.1",
+    "Version": "2.5.2",
     "Description": "Middleware to access a smart card using SCard API (PC/SC). (daemon side)",
     "Homepage": "https://pcsclite.apdu.fr/"
   },
