@@ -471,7 +471,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.36.48
+  Version: 2.36.49
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -1055,7 +1055,7 @@
   Description: Command line parser for C++11
   Homepage: https://github.com/CLIUtils/CLI11
 - Package: clifm
-  Version: 1.28-2
+  Version: "1.29"
   Description: 'The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell'
   Homepage: https://github.com/leo-arch/clifm
 - Package: clinfo
@@ -1407,7 +1407,7 @@
   Description: A debugger for the Go programming language
   Homepage: https://github.com/go-delve/delve
 - Package: deno
-  Version: 1:2.9.6
+  Version: 1:2.9.7
   Description: A modern runtime for JavaScript and TypeScript
   Homepage: https://deno.land/
 - Package: desed
@@ -1443,7 +1443,7 @@
   Description: Displays a histogram of changes to a file
   Homepage: https://invisible-island.net/diffstat/diffstat.html
 - Package: difftastic
-  Version: 0.70.0
+  Version: 0.71.0
   Description: 'difft: A structural diff that understands syntax'
   Homepage: https://github.com/Wilfred/difftastic
 - Package: diffutils
@@ -2227,7 +2227,7 @@
   Description: DSCM with built-in wiki, http interface and server, tickets database
   Homepage: https://www.fossil-scm.org
 - Package: foundry
-  Version: 1.7.1-1
+  Version: 1.8.3-1
   Description: A blazing fast, portable and modular toolkit for Ethereum application development
   Homepage: https://github.com/foundry-rs/foundry
 - Package: freecell-solver
@@ -2515,7 +2515,7 @@
   Description: Manage large files with git, without storing the file contents in git
   Homepage: https://git-annex.branchable.com
 - Package: git-cliff
-  Version: 2.14.1
+  Version: 2.14.2
   Description: A highly customizable changelog generator that follows Conventional Commit specifications
   Homepage: https://git-cliff.org
 - Package: git-credential-manager
@@ -3567,7 +3567,7 @@
   Description: Static libraries for jsoncpp
   Homepage: https://github.com/open-source-parsers/jsoncpp
 - Package: jujutsu
-  Version: 0.43.0
+  Version: 0.45.1
   Description: A Git-compatible VCS that is both simple and powerful
   Homepage: https://jj-vcs.github.io/jj/
 - Package: jump
@@ -5891,7 +5891,7 @@
   Description: Static libraries for librttopo
   Homepage: https://git.osgeo.org/gitea/rttopo/librttopo
 - Package: librusty-v8
-  Version: 1:2.9.6
+  Version: 1:2.9.7
   Description: High quality Rust bindings to V8s C++ API
   Homepage: https://deno.land/
 - Package: libsamplerate
@@ -7107,7 +7107,7 @@
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luau
-  Version: "0.738"
+  Version: "0.739"
   Description: A small, fast, and embeddable programming language based on Lua with a gradual type system.
   Homepage: https://github.com/luau-lang/luau
 - Package: lunasvg
@@ -7903,7 +7903,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1661+g4b5dcbccd7-0
+  Version: 0.13.0~dev-1677+ge884c01bef-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8791,7 +8791,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.5.0
+  Version: 12.5.1
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -9379,7 +9379,7 @@
   Description: Finds bugs in JavaScript programs
   Homepage: https://quick-lint-js.com/
 - Package: quickjs-ng
-  Version: 0.16.2
+  Version: 0.17.0
   Description: Embeddable JavaScript engine in C (NG fork)
   Homepage: https://quickjs-ng.github.io/quickjs/
 - Package: quilt
@@ -11423,7 +11423,7 @@
   Description: Program for testing the VT100 compatibility of terminal emulators
   Homepage: https://invisible-island.net/vttest/
 - Package: vulkan-extension-layer
-  Version: 1.4.360
+  Version: 1.4.363
   Description: Vulkan Extension Layer
   Homepage: https://github.com/KhronosGroup/Vulkan-ExtensionLayer
 - Package: vulkan-headers
@@ -11763,11 +11763,11 @@
   Description: Hexdump utility from vim
   Homepage: https://www.vim.org
 - Package: xxhash
-  Version: 0.8.3-1
+  Version: 0.8.4
   Description: Extremely fast non-cryptographic hash algorithm
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xxhash-static
-  Version: 0.8.3-1
+  Version: 0.8.4
   Description: Static libraries for xxhash
   Homepage: https://cyan4973.github.io/xxHash/
 - Package: xz-utils
