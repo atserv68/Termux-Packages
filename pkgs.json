@@ -2197,7 +2197,7 @@
   },
   {
     "Package": "discordo",
-    "Version": "2026.09.05+g8390e977",
+    "Version": "2026.09.12+ge87645a1",
     "Description": "A lightweight, secure, and feature-rich Discord terminal client",
     "Homepage": "https://github.com/ayn2op/discordo"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "Package": "fluidsynth",
-    "Version": "2.6.0",
+    "Version": "2.6.1",
     "Description": "Software synthesizer based on the SoundFont 2 specifications",
     "Homepage": "https://github.com/FluidSynth/fluidsynth"
   },
@@ -3769,7 +3769,7 @@
   },
   {
     "Package": "git-annex",
-    "Version": "10.20260717",
+    "Version": "10.20260901",
     "Description": "Manage large files with git, without storing the file contents in git",
     "Homepage": "https://git-annex.branchable.com"
   },
@@ -6955,13 +6955,13 @@
   },
   {
     "Package": "libglibmm-2.4",
-    "Version": "2.66.9-1",
+    "Version": "2.66.10",
     "Description": "A C++ API for parts of glib that are useful for C++",
     "Homepage": "https://www.gtkmm.org/"
   },
   {
     "Package": "libglibmm-2.68",
-    "Version": "2.88.1",
+    "Version": "2.90.0",
     "Description": "A C++ API for parts of glib that are useful for C++",
     "Homepage": "https://www.gtkmm.org/"
   },
@@ -8809,7 +8809,7 @@
   },
   {
     "Package": "librsvg",
-    "Version": "2.63.0",
+    "Version": "2.63.2",
     "Description": "Library to render SVG files using cairo",
     "Homepage": "https://wiki.gnome.org/action/show/Projects/LibRsvg"
   },
@@ -11250,6 +11250,12 @@
     "Homepage": "https://jedisct1.github.io/minisign/"
   },
   {
+    "Package": "ministream",
+    "Version": "0.99.1",
+    "Description": "Lightweight alternative to AppStream",
+    "Homepage": "https://gitlab.gnome.org/GNOME/ministream"
+  },
+  {
     "Package": "miniupnpc",
     "Version": "2.3.3-1",
     "Description": "Small UPnP client library and tool to access Internet Gateway Devices",
@@ -12943,7 +12949,7 @@
   },
   {
     "Package": "pgcli",
-    "Version": "4.6.0-1",
+    "Version": "4.7.0",
     "Description": "Postgres CLI with autocompletion and syntax highlighting",
     "Homepage": "https://www.pgcli.com"
   },
@@ -14917,7 +14923,7 @@
   },
   {
     "Package": "sftpgo",
-    "Version": "2.7.5-1",
+    "Version": "2.7.6",
     "Description": "Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server",
     "Homepage": "https://sftpgo.com/"
   },

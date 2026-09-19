@@ -376,7 +376,7 @@
 | **dirb** | 2.22-5 | Web Directory Fuzzer | https://dirb.sourceforge.net/ |
 | **direnv** | 2.37.1-1 | Environment switcher for shell | https://github.com/direnv/direnv |
 | **direvent** | 5.5 | Monitor of events in file system directories | https://www.gnu.org.ua/software/direvent/ |
-| **discordo** | 2026.09.05+g8390e977 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayn2op/discordo |
+| **discordo** | 2026.09.12+ge87645a1 | A lightweight, secure, and feature-rich Discord terminal client | https://github.com/ayn2op/discordo |
 | **discount** | 3.0.2.0 | Markdown implementation written in C | https://www.pell.portland.or.us/~orc/Code/discount/ |
 | **diskus** | 0.9.0 | A minimal, fast alternative to 'du -sh' | https://github.com/sharkdp/diskus |
 | **distant** | 1:0.20.0-3 | Library and tooling that supports remote filesystem and process | https://github.com/chipsenkbeil/distant |
@@ -556,7 +556,7 @@
 | **flex** | 2.6.4-5 | Fast lexical analyser generator | https://github.com/westes/flex |
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0-2 | C library for doing number theory | http://www.flintlib.org |
-| **fluidsynth** | 2.6.0 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
+| **fluidsynth** | 2.6.1 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
 | **flyctl** | 0.4.104 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
@@ -638,7 +638,7 @@
 | **girara** | 2026.07.18 | Simple user interface library used by Zathura | https://pwmt.org/projects/girara |
 | **git** | 2.55.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-absorb** | 0.9.0 | git commit --fixup, but automatic | https://github.com/tummychow/git-absorb |
-| **git-annex** | 10.20260717 | Manage large files with git, without storing the file contents in git | https://git-annex.branchable.com |
+| **git-annex** | 10.20260901 | Manage large files with git, without storing the file contents in git | https://git-annex.branchable.com |
 | **git-cliff** | 2.14.2 | A highly customizable changelog generator that follows Conventional Commit specifications | https://git-cliff.org |
 | **git-credential-manager** | 2.9.1 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.8.0 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
@@ -1169,8 +1169,8 @@
 | **libgfshare** | 2.0.0-8 | Utilities for multi-way secret-sharing | https://www.digital-scurf.org/software/libgfshare |
 | **libgfshare-static** | 2.0.0-8 | Static libraries for libgfshare | https://www.digital-scurf.org/software/libgfshare |
 | **libgit2** | 1.9.7 | C library implementing Git core methods | https://libgit2.github.com/ |
-| **libglibmm-2.4** | 2.66.9-1 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
-| **libglibmm-2.68** | 2.88.1 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
+| **libglibmm-2.4** | 2.66.10 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
+| **libglibmm-2.68** | 2.90.0 | A C++ API for parts of glib that are useful for C++ | https://www.gtkmm.org/ |
 | **libglvnd** | 1.7.0-1 | The GL Vendor-Neutral Dispatch library | https://gitlab.freedesktop.org/glvnd/libglvnd |
 | **libglvnd-dev** | 1.7.0-1 | GLVND's OpenGL headers | https://gitlab.freedesktop.org/glvnd/libglvnd |
 | **libgmime** | 3.2.15-2 | MIME message parser and creator | https://github.com/jstedfast/gmime |
@@ -1478,7 +1478,7 @@
 | **librnnoise-static** | 0.2-1 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
 | **librocksdb** | 8.11.3-3 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
 | **librocksdb-static** | 8.11.3-3 | Static libraries for librocksdb | https://rocksdb.org/ |
-| **librsvg** | 2.63.0 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
+| **librsvg** | 2.63.2 | Library to render SVG files using cairo | https://wiki.gnome.org/action/show/Projects/LibRsvg |
 | **librsync** | 2.3.4-1 | Remote delta-compression library | https://github.com/librsync/librsync |
 | **librtmidi** | 5.0.0-3 | A set of C++ classes that provides a common API for realtime MIDI input/output | https://www.music.mcgill.ca/~gary/rtmidi/ |
 | **librttopo** | 1.1.0-5 | The RT Topology Library exposes an API to create and manage standard topologies | https://git.osgeo.org/gitea/rttopo/librttopo |
@@ -1885,6 +1885,7 @@
 | **minimodem** | 0.24-1-2 | General-purpose software audio FSK modem | http://www.whence.com/minimodem/ |
 | **miniserve** | 0.35.0 | Tool to serve files and dirs over HTTP | https://github.com/svenstaro/miniserve |
 | **minisign** | 0.12-1 | A dead simple tool to sign files and verify signatures | https://jedisct1.github.io/minisign/ |
+| **ministream** | 0.99.1 | Lightweight alternative to AppStream | https://gitlab.gnome.org/GNOME/ministream |
 | **miniupnpc** | 2.3.3-1 | Small UPnP client library and tool to access Internet Gateway Devices | https://miniupnp.tuxfamily.org/ |
 | **miniupnpc-static** | 2.3.3-1 | Static libraries for miniupnpc | https://miniupnp.tuxfamily.org/ |
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
@@ -2167,7 +2168,7 @@
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
 | **pet** | 1.0.1-1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1-1 | Portable Forth in C | https://www.softsynth.com/pforth/ |
-| **pgcli** | 4.6.0-1 | Postgres CLI with autocompletion and syntax highlighting | https://www.pgcli.com |
+| **pgcli** | 4.7.0 | Postgres CLI with autocompletion and syntax highlighting | https://www.pgcli.com |
 | **pgroonga** | 4.0.8 | A PostgreSQL extension to use Groonga as index | https://github.com/pgroonga/pgroonga |
 | **photon-rss** | 2023.02.02-3 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |
 | **php** | 8.5.1 | Server-side, HTML-embedded scripting language | https://php.net |
@@ -2496,7 +2497,7 @@
 | **serf** | 1.3.10-2 | High performance C-based HTTP client library | https://serf.apache.org/ |
 | **serf-static** | 1.3.10-2 | Static libraries for serf | https://serf.apache.org/ |
 | **sfeed** | 2.4 | Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included) | https://codemadness.org/sfeed-simple-feed-parser.html |
-| **sftpgo** | 2.7.5-1 | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server | https://sftpgo.com/ |
+| **sftpgo** | 2.7.6 | Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server | https://sftpgo.com/ |
 | **shaderc** | 2026.4 | Collection of tools, libraries, and tests for Vulkan shader compilation | https://github.com/google/shaderc |
 | **sharutils** | 4.15.2-4 | Utilities for packaging and unpackaging shell archives | https://www.gnu.org/software/sharutils/ |
 | **shc** | 4.0.3-4 | Shell script compiler | https://neurobin.org/projects/softwares/unix/shc/ |
