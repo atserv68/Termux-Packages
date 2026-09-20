@@ -2845,25 +2845,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "6.0.8",
+    "Version": "6.0.9",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "6.0.8",
+    "Version": "6.0.9",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "6.0.8",
+    "Version": "6.0.9",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "6.0.8",
+    "Version": "6.0.9",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -3397,13 +3397,13 @@
   },
   {
     "Package": "fribidi",
-    "Version": "1.0.16-1",
+    "Version": "1.0.17",
     "Description": "Implementation of the Unicode Bidirectional Algorithm",
     "Homepage": "https://github.com/fribidi/fribidi/"
   },
   {
     "Package": "fribidi-static",
-    "Version": "1.0.16-1",
+    "Version": "1.0.17",
     "Description": "Static libraries for fribidi",
     "Homepage": "https://github.com/fribidi/fribidi/"
   },
@@ -8083,7 +8083,7 @@
   },
   {
     "Package": "libnfs",
-    "Version": "7.0.2",
+    "Version": "8.0.0",
     "Description": "NFS client library",
     "Homepage": "https://github.com/sahlberg/libnfs"
   },
@@ -9589,7 +9589,7 @@
   },
   {
     "Package": "libunqlite",
-    "Version": "1.1.9-1",
+    "Version": "1.2.1",
     "Description": "Transactional embedded database engine",
     "Homepage": "https://unqlite.org/"
   },
@@ -12157,13 +12157,13 @@
   },
   {
     "Package": "oathtool",
-    "Version": "2.6.12-2",
+    "Version": "2.6.12-3",
     "Description": "One-time password components",
     "Homepage": "http://www.nongnu.org/oath-toolkit/"
   },
   {
     "Package": "oathtool-static",
-    "Version": "2.6.12-2",
+    "Version": "2.6.12-3",
     "Description": "Static libraries for oathtool",
     "Homepage": "http://www.nongnu.org/oath-toolkit/"
   },
@@ -12961,7 +12961,7 @@
   },
   {
     "Package": "pgcli",
-    "Version": "4.7.0",
+    "Version": "4.7.1",
     "Description": "Postgres CLI with autocompletion and syntax highlighting",
     "Homepage": "https://www.pgcli.com"
   },
@@ -13165,7 +13165,7 @@
   },
   {
     "Package": "plantuml",
-    "Version": "1.2026.2",
+    "Version": "1.2026.3",
     "Description": "Draws UML diagrams, using a simple and human readable text description",
     "Homepage": "https://plantuml.com/"
   },
@@ -14851,7 +14851,7 @@
   },
   {
     "Package": "seanime",
-    "Version": "3.10.2-1",
+    "Version": "3.10.3",
     "Description": "Self-hosted anime and manga server for sea rovers.",
     "Homepage": "https://github.com/5rahim/seanime"
   },
@@ -16249,7 +16249,7 @@
   },
   {
     "Package": "tmux",
-    "Version": "3.7c",
+    "Version": "3.7c-1",
     "Description": "Terminal multiplexer",
     "Homepage": "https://tmux.github.io/"
   },
@@ -17347,13 +17347,13 @@
   },
   {
     "Package": "weechat",
-    "Version": "4.10.0-1",
+    "Version": "4.10.1",
     "Description": "Fast, light and extensible IRC chat client",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-lua-plugin",
-    "Version": "4.10.0-1",
+    "Version": "4.10.1",
     "Description": "WeeChat Lua Plugin",
     "Homepage": "https://weechat.org/"
   },
@@ -17365,19 +17365,19 @@
   },
   {
     "Package": "weechat-perl-plugin",
-    "Version": "4.10.0-1",
+    "Version": "4.10.1",
     "Description": "WeeChat Perl Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-python-plugin",
-    "Version": "4.10.0-1",
+    "Version": "4.10.1",
     "Description": "WeeChat Python3 Plugin",
     "Homepage": "https://weechat.org/"
   },
   {
     "Package": "weechat-ruby-plugin",
-    "Version": "4.10.0-1",
+    "Version": "4.10.1",
     "Description": "WeeChat Ruby Plugin",
     "Homepage": "https://weechat.org/"
   },
