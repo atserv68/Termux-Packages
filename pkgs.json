@@ -12240,6 +12240,12 @@
     "Homepage": "https://www.openimagedenoise.org"
   },
   {
+    "Package": "oils-for-unix",
+    "Version": "0.38.0-1",
+    "Description": "Bash-compatible Unix shell with more consistent syntax and semantics",
+    "Homepage": "https://oils.pub/"
+  },
+  {
     "Package": "okc-agents",
     "Version": "0.1.2-2",
     "Description": "OpenKeychain agents for GnuPG and OpenSSH",
@@ -16279,7 +16285,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.11.0",
+    "Version": "17.12.0",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },
@@ -16918,6 +16924,12 @@
     "Version": "2.42.1-4",
     "Description": "Utilities for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
+  },
+  {
+    "Package": "uutils-coreutils",
+    "Version": "0.12.0",
+    "Description": "Cross-platform Rust rewrite of the GNU coreutils",
+    "Homepage": "https://uutils.org/"
   },
   {
     "Package": "uv",
