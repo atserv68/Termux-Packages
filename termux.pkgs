@@ -838,6 +838,7 @@
 | **innoextract** | 1.9-11 | A tool to unpack installers created by Inno Setup | https://constexpr.org/innoextract/ |
 | **inotify-tools** | 4.25.9.0 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
 | **inotify-tools-static** | 4.25.9.0 | Static libraries for inotify-tools | https://github.com/rvoicilas/inotify-tools/wiki |
+| **inshellisense** | 0.0.4 | IDE style command line auto complete | https://github.com/microsoft/inshellisense |
 | **intltool** | 0.51.0-4 | The internationalization tool collection | https://launchpad.net/intltool |
 | **inxi** | 3.3.41-1-0 | Full featured CLI system information tool | https://smxi.org/site/about.htm#inxi |
 | **ipcalc** | 0.51 | Calculates IP broadcast, network, Cisco wildcard mask, and host ranges | http://jodies.de/ipcalc |
@@ -1794,6 +1795,7 @@
 | **m4** | 1.4.21 | Traditional Unix macro processor | https://www.gnu.org/software/m4/m4.html |
 | **macchina** | 6.4.0-1 | A system information fetcher, with an emphasis on performance and minimalism. | https://github.com/Macchina-CLI/macchina |
 | **magic-wormhole-rs** | 0.7.6-1 | Rust implementation of Magic Wormhole, with new features and enhancements | https://github.com/magic-wormhole/magic-wormhole.rs |
+| **mailpit** | 1.31.0 | An email and SMTP testing tool with API for developers | https://mailpit.axllent.org |
 | **mailsync** | 5.2.7-2 | A way of synchronizing a collection of mailboxes | https://mailsync.sourceforge.net/ |
 | **mailutils** | 3.21 | Mailutils is a swiss army knife of electronic mail handling.  | https://mailutils.org/ |
 | **maintainerr** | 3.29.0 | An automation rule engine for your media server | https://github.com/maintainerr/Maintainerr |

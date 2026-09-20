@@ -3358,6 +3358,10 @@
   Version: 4.25.9.0
   Description: Static libraries for inotify-tools
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
+- Package: inshellisense
+  Version: 0.0.4
+  Description: IDE style command line auto complete
+  Homepage: https://github.com/microsoft/inshellisense
 - Package: intltool
   Version: 0.51.0-4
   Description: The internationalization tool collection
@@ -7182,6 +7186,10 @@
   Version: 0.7.6-1
   Description: Rust implementation of Magic Wormhole, with new features and enhancements
   Homepage: https://github.com/magic-wormhole/magic-wormhole.rs
+- Package: mailpit
+  Version: 1.31.0
+  Description: An email and SMTP testing tool with API for developers
+  Homepage: https://mailpit.axllent.org
 - Package: mailsync
   Version: 5.2.7-2
   Description: A way of synchronizing a collection of mailboxes
