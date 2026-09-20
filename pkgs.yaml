@@ -739,7 +739,7 @@
   Description: Decentralized file system integrating with TRON network and Bittorrent network
   Homepage: https://www.bittorrent.com/btfs/
 - Package: btrfs-progs
-  Version: "7.0"
+  Version: "7.1"
   Description: Utilities for Btrfs filesystem
   Homepage: https://btrfs.readthedocs.io/en/latest/
 - Package: buf
@@ -943,11 +943,11 @@
   Description: Client applications for libCEC
   Homepage: https://libcec.pulse-eight.com/
 - Package: cfengine
-  Version: 1:3.27.1
+  Version: 1:3.28.0
   Description: CFEngine is a configuration management technology
   Homepage: https://cfengine.com/
 - Package: cfengine-static
-  Version: 1:3.27.1
+  Version: 1:3.28.0
   Description: Static libraries for cfengine
   Homepage: https://cfengine.com/
 - Package: cfitsio
@@ -1203,7 +1203,7 @@
   Description: CPIO implementation from the GNU project
   Homepage: https://www.gnu.org/software/cpio/
 - Package: cppcheck
-  Version: 2.21.1
+  Version: 2.22.0
   Description: tool for static C/C++ code analysis
   Homepage: https://github.com/danmar/cppcheck
 - Package: cppi
@@ -1567,7 +1567,7 @@
   Description: The official command line interface for the DigitalOcean API
   Homepage: https://github.com/digitalocean/doctl
 - Package: doge
-  Version: 0.2.8-2
+  Version: 0.2.9
   Description: A command-line DNS client
   Homepage: https://github.com/Dj-Codeman/dog_community
 - Package: doggo
@@ -5031,11 +5031,11 @@
   Description: Static libraries for libllvm
   Homepage: https://clang.llvm.org/
 - Package: liblmdb
-  Version: 0.9.35
+  Version: 1.0.2
   Description: LMDB implements a simplified variant of the BerkeleyDB (BDB) API
   Homepage: https://symas.com/lmdb/
 - Package: liblmdb-static
-  Version: 0.9.35
+  Version: 1.0.2
   Description: Static libraries for liblmdb
   Homepage: https://symas.com/lmdb/
 - Package: liblo
@@ -7915,7 +7915,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1677+ge884c01bef-0
+  Version: 0.13.0~dev-1681+ga73243faa5-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -9551,7 +9551,7 @@
   Description: Library that provides a high-level interface to RDF data
   Homepage: http://librdf.org/
 - Package: remind
-  Version: 1:06.03.03
+  Version: 1:06.03.04
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -11487,7 +11487,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.26.2
+  Version: 2.26.4
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
