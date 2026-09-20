@@ -1023,7 +1023,7 @@
 | **libburn-static** | 1.5.8 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-8 | BZ2 format compression library | http://www.bzip.org/ |
 | **libc++** | 29 | C++ Standard Library | https://libcxx.llvm.org/ |
-| **libc++utilities** | 5.35.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
+| **libc++utilities** | 5.36.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-4 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-4 | Static libraries for libc-client | https://www.washington.edu/imap/ |
 | **libcaca** | 0.99.beta20-3 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
@@ -1862,7 +1862,7 @@
 | **mdp** | 1.0.19 | Command-line based markdown presentation tool | https://github.com/visit1985/mdp |
 | **media-types** | 14.0.0 | List of standard media types and their usual file extension | https://pagure.io/mailcap |
 | **mediainfo** | 26.05 | Command-line utility for reading information from media files | https://mediaarea.net/en/MediaInfo |
-| **mediamtx** | 1.21.0 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
+| **mediamtx** | 1.21.1 | Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy | https://github.com/bluenviron/mediamtx |
 | **megacmd** | 2.6.0 | Provides non UI access to MEGA services | https://mega.io/ |
 | **megatools** | 1.11.5.20250706-1 | Open-source command line tools and C library (libmega) for accessing Mega.co.nz cloud storage | https://xff.cz/megatools/ |
 | **memcached** | 1.6.45 | Free & open source, high-performance, distributed memory object caching system | https://memcached.org/ |
@@ -2822,7 +2822,7 @@
 | **urdfdom-headers** | 3.0.1 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
 | **usbmuxd** | 1.1.1-p20250201-2 | A socket daemon to multiplex connections from and to iOS devices | https://libimobiledevice.org |
 | **usql** | 0.21.5 | A universal command-line interface for SQL databases | https://github.com/xo/usql |
-| **utf8cpp** | 1:4.2.0 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
+| **utf8cpp** | 1:4.2.1 | UTF8-CPP: UTF-8 with C++ in a Portable Way | https://github.com/nemtrif/utfcpp |
 | **utf8proc** | 2.11.3 | Library for processing UTF-8 Unicode data | https://github.com/JuliaLang/utf8proc |
 | **utf8proc-static** | 2.11.3 | Static libraries for utf8proc | https://github.com/JuliaLang/utf8proc |
 | **uthash** | 2.4.0 | C preprocessor implementations of a hash table and a linked list | https://troydhanson.github.io/uthash/ |

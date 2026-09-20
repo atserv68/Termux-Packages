@@ -4051,7 +4051,7 @@
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
-  Version: 5.35.0
+  Version: 5.36.0
   Description: Useful C++ classes and routines such as argument parser, IO and conversion utilities
   Homepage: https://github.com/Martchus/cpp-utilities
 - Package: libc-client
@@ -7407,7 +7407,7 @@
   Description: Command-line utility for reading information from media files
   Homepage: https://mediaarea.net/en/MediaInfo
 - Package: mediamtx
-  Version: 1.21.0
+  Version: 1.21.1
   Description: Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy
   Homepage: https://github.com/bluenviron/mediamtx
 - Package: megacmd
@@ -11247,7 +11247,7 @@
   Description: A universal command-line interface for SQL databases
   Homepage: https://github.com/xo/usql
 - Package: utf8cpp
-  Version: 1:4.2.0
+  Version: 1:4.2.1
   Description: 'UTF8-CPP: UTF-8 with C++ in a Portable Way'
   Homepage: https://github.com/nemtrif/utfcpp
 - Package: utf8proc
