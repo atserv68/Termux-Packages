@@ -959,7 +959,7 @@
   Description: A basic file manager that runs inside a terminal, designed for Linux. Its fully responsive and incredibly fast.
   Homepage: https://github.com/0l1v3rr/cli-file-manager
 - Package: cgal
-  Version: 6.2-1
+  Version: 6.2.1
   Description: Computational Geometry Algorithms Library
   Homepage: https://www.cgal.org/
 - Package: cgdb
@@ -1159,7 +1159,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 3.5.0-11
+  Version: 3.5.0-12
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -7187,7 +7187,7 @@
   Description: Rust implementation of Magic Wormhole, with new features and enhancements
   Homepage: https://github.com/magic-wormhole/magic-wormhole.rs
 - Package: mailpit
-  Version: 1.31.0
+  Version: 1.31.2
   Description: An email and SMTP testing tool with API for developers
   Homepage: https://mailpit.axllent.org
 - Package: mailsync
@@ -8927,7 +8927,7 @@
   Description: Emulate chroot, bind mount and binfmt_misc for non-root users
   Homepage: https://proot-me.github.io/
 - Package: proot-distro
-  Version: 5.8.0
+  Version: 5.9.0
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf

@@ -1441,7 +1441,7 @@
   },
   {
     "Package": "cgal",
-    "Version": "6.2-1",
+    "Version": "6.2.1",
     "Description": "Computational Geometry Algorithms Library",
     "Homepage": "https://www.cgal.org/"
   },
@@ -1741,7 +1741,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.5.0-11",
+    "Version": "3.5.0-12",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -10783,7 +10783,7 @@
   },
   {
     "Package": "mailpit",
-    "Version": "1.31.0",
+    "Version": "1.31.2",
     "Description": "An email and SMTP testing tool with API for developers",
     "Homepage": "https://mailpit.axllent.org"
   },
@@ -13393,7 +13393,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "5.8.0",
+    "Version": "5.9.0",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },

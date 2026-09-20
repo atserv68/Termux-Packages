@@ -250,7 +250,7 @@
 | **cfengine-static** | 1:3.27.1 | Static libraries for cfengine | https://cfengine.com/ |
 | **cfitsio** | 4.7.0 | a library of C and Fortran subroutines for reading and writing data files in FITS (Flexible Image Transport System) data format | https://heasarc.gsfc.nasa.gov/fitsio/ |
 | **cfm** | 1.2.0-3 | A basic file manager that runs inside a terminal, designed for Linux. It's fully responsive and incredibly fast. | https://github.com/0l1v3rr/cli-file-manager |
-| **cgal** | 6.2-1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
+| **cgal** | 6.2.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
 | **cgdb** | 0.8.0-1 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
 | **cgif** | 0.5.4 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
 | **chafa** | 1.18.2-1 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
@@ -300,7 +300,7 @@
 | **colm** | 0.14.7-2 | COmputer Language Machinery | https://www.colm.net/open-source/colm/ |
 | **colm-static** | 0.14.7-2 | Static libraries for colm | https://www.colm.net/open-source/colm/ |
 | **colordiff** | 1.0.22 | Tool to colorize 'diff' output | https://www.colordiff.org/ |
-| **command-not-found** | 3.5.0-11 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
+| **command-not-found** | 3.5.0-12 | Suggest installation of packages in interactive shell sessions | https://github.com/termux/command-not-found |
 | **composer** | 2.10.3 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
@@ -1807,7 +1807,7 @@
 | **m4** | 1.4.21 | Traditional Unix macro processor | https://www.gnu.org/software/m4/m4.html |
 | **macchina** | 6.4.0-1 | A system information fetcher, with an emphasis on performance and minimalism. | https://github.com/Macchina-CLI/macchina |
 | **magic-wormhole-rs** | 0.7.6-1 | Rust implementation of Magic Wormhole, with new features and enhancements | https://github.com/magic-wormhole/magic-wormhole.rs |
-| **mailpit** | 1.31.0 | An email and SMTP testing tool with API for developers | https://mailpit.axllent.org |
+| **mailpit** | 1.31.2 | An email and SMTP testing tool with API for developers | https://mailpit.axllent.org |
 | **mailsync** | 5.2.7-2 | A way of synchronizing a collection of mailboxes | https://mailsync.sourceforge.net/ |
 | **mailutils** | 3.21 | Mailutils is a swiss army knife of electronic mail handling.  | https://mailutils.org/ |
 | **maintainerr** | 3.29.0 | An automation rule engine for your media server | https://github.com/maintainerr/Maintainerr |
@@ -2242,7 +2242,7 @@
 | **progress** | 0.17-1 | Linux tool to show progress for cp, mv, dd and more | https://github.com/Xfennec/progress |
 | **proj** | 9.9.0 | Generic coordinate transformation software | https://proj.org |
 | **proot** | 5.1.107.92 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
-| **proot-distro** | 5.8.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
+| **proot-distro** | 5.9.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:35.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
 | **proton-bridge** | 3.26.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **proton-drive-cli** | 0.8.0 | Official command-line client for Proton Drive | https://github.com/ProtonDriveApps/sdk |
