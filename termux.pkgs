@@ -735,7 +735,7 @@
 | **groovy** | 4.0.26-4 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **grpcurl** | 1.9.4 | Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers | https://github.com/fullstorydev/grpcurl |
 | **gsasl** | 2.2.4 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
-| **gsf-tools** | 1.14.58 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
+| **gsf-tools** | 1.14.59 | Command-line tools for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **gsl** | 2.8-1 | GNU Scientific Library (GSL) providing a wide range of mathematical routines | https://www.gnu.org/software/gsl/ |
 | **gsl-static** | 2.8-1 | Static libraries for gsl | https://www.gnu.org/software/gsl/ |
 | **gst-libav** | 1.28.7 | GStreamer Libav plug-in contains one plugin with a set of elements using the Libav library code | https://gstreamer.freedesktop.org/modules/gst-libav.html |
@@ -757,9 +757,9 @@
 | **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **half** | 2.2.1 | C++ header-only library for IEEE 754 half-precision floating-point format | https://half.sourceforge.net/ |
 | **haproxy** | 3.4.4 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
-| **harfbuzz** | 14.4.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-icu** | 14.4.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
-| **harfbuzz-utils** | 14.4.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz** | 14.5.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-icu** | 14.5.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
+| **harfbuzz-utils** | 14.5.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harper** | 2.11.0 | Offline, privacy-first grammar checker. Fast, open-source, Rust-powered | https://writewithharper.com/ |
 | **hash-slinger** | 3.6 | Various tools to generate special DNS records | https://github.com/letoams/hash-slinger |
 | **hashdeep** | 4.4-9 | Programs to compute hashsums of arbitrary number of files recursively | https://md5deep.sourceforge.net/ |
@@ -859,7 +859,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.2581 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.2627 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.5 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.5 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.42.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -932,7 +932,7 @@
 | **lensfun** | 0.3.4-1 | Lensfun | https://lensfun.github.io/ |
 | **leptonica** | 1.87.0 | Library for image processing and image analysis | http://www.leptonica.com/ |
 | **leptonica-static** | 1.87.0 | Static libraries for leptonica | http://www.leptonica.com/ |
-| **less** | 704 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
+| **less** | 710 | Terminal pager program used to view the contents of a text file one screen at a time | https://www.greenwoodsoftware.com/less/ |
 | **lesspipe** | 2.28 | An input filter for the pager less | https://lesspipe.org/ |
 | **leveldb** | 1.23-4 | Fast key-value storage library | https://github.com/google/leveldb |
 | **lexbor** | 3.0.0 | Fast embeddable web browser engine written in C with no dependencies | https://lexbor.com |
@@ -1176,8 +1176,8 @@
 | **libgrpc** | 1.84.0 | High performance, open source, general RPC framework that puts mobile and HTTP/2 first | https://grpc.io/ |
 | **libgsasl** | 2.2.4 | GNU SASL library | https://www.gnu.org/software/gsasl |
 | **libgsasl-static** | 2.2.4 | Static libraries for libgsasl | https://www.gnu.org/software/gsasl |
-| **libgsf** | 1.14.58 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
-| **libgsf-static** | 1.14.58 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
+| **libgsf** | 1.14.59 | The G Structured File Library | https://gitlab.gnome.org/GNOME/libgsf |
+| **libgsf-static** | 1.14.59 | Static libraries for libgsf | https://gitlab.gnome.org/GNOME/libgsf |
 | **libgtop** | 2.41.3-2 | Library for collecting system monitoring data | https://gitlab.gnome.org/GNOME/libgtop |
 | **libgtop-static** | 2.41.3-2 | Static libraries for libgtop | https://gitlab.gnome.org/GNOME/libgtop |
 | **libgts** | 0.7.6-3 | Provides useful functions to deal with 3D surfaces meshed with interconnected triangles | https://gts.sourceforge.net/ |

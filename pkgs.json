@@ -4423,7 +4423,7 @@
   },
   {
     "Package": "gsf-tools",
-    "Version": "1.14.58",
+    "Version": "1.14.59",
     "Description": "Command-line tools for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -4555,19 +4555,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "14.4.0",
+    "Version": "14.5.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "14.4.0",
+    "Version": "14.5.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "14.4.0",
+    "Version": "14.5.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -5167,7 +5167,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2581",
+    "Version": "0.24.2627",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -5605,7 +5605,7 @@
   },
   {
     "Package": "less",
-    "Version": "704",
+    "Version": "710",
     "Description": "Terminal pager program used to view the contents of a text file one screen at a time",
     "Homepage": "https://www.greenwoodsoftware.com/less/"
   },
@@ -7069,13 +7069,13 @@
   },
   {
     "Package": "libgsf",
-    "Version": "1.14.58",
+    "Version": "1.14.59",
     "Description": "The G Structured File Library",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
   {
     "Package": "libgsf-static",
-    "Version": "1.14.58",
+    "Version": "1.14.59",
     "Description": "Static libraries for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
