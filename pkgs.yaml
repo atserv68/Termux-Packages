@@ -519,7 +519,7 @@
   Description: Encode binary to printable utf16be
   Homepage: https://github.com/fumiama/base16384
 - Package: bash
-  Version: 5.3.15
+  Version: 5.3.20
   Description: A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)
   Homepage: https://www.gnu.org/software/bash/
 - Package: bash-completion
@@ -1347,7 +1347,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dart
-  Version: 3.13.3
+  Version: 3.13.4
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
@@ -6315,11 +6315,11 @@
   Description: Like ldd(1), but prints a tree(1) like output
   Homepage: https://github.com/haampie/libtree
 - Package: libtsduck
-  Version: 3.44.4676
+  Version: 3.45.4798
   Description: An extensible toolkit for MPEG transport streams
   Homepage: https://tsduck.io/
 - Package: libtsduck-static
-  Version: 3.44.4676
+  Version: 3.45.4798
   Description: Static libraries for libtsduck
   Homepage: https://tsduck.io/
 - Package: libtvision
@@ -7891,7 +7891,7 @@
   Description: System header and library files from the Android NDK needed for compiling C programs
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ne
-  Version: 3.3.4-3
+  Version: 3.3.4-4
   Description: Easy-to-use and powerful text editor
   Homepage: https://ne.di.unimi.it/
 - Package: nelua
@@ -8439,7 +8439,7 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.83.0
+  Version: 1.85.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxipng
@@ -8447,7 +8447,7 @@
   Description: Multithreaded PNG optimizer written in Rust
   Homepage: https://github.com/oxipng/oxipng
 - Package: oxlint
-  Version: 1.83.0
+  Version: 1.85.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -9511,11 +9511,11 @@
   Description: Lexer generator for C, C++ and Go.
   Homepage: https://re2c.org/
 - Package: readline
-  Version: 8.3.3
+  Version: 8.3.6
   Description: Library that allow users to edit command lines as they are typed in
   Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
 - Package: readline-static
-  Version: 8.3.3
+  Version: 8.3.6
   Description: Static libraries for readline
   Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
 - Package: recode
@@ -9743,7 +9743,7 @@
   Description: Static libraries for runit
   Homepage: http://smarden.org/runit
 - Package: rush
-  Version: 0.10.0
+  Version: 0.11.0
   Description: A cross-platform command-line tool for executing jobs in parallel
   Homepage: https://github.com/shenwei356/rush
 - Package: rust
@@ -11011,19 +11011,19 @@
   Description: An openssh client alternative
   Homepage: https://trzsz.github.io/ssh
 - Package: tsduck-java
-  Version: 3.44.4676
+  Version: 3.45.4798
   Description: Java bindings for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsduck-plugins
-  Version: 3.44.4676
+  Version: 3.45.4798
   Description: Plugins for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsduck-python
-  Version: 3.44.4676
+  Version: 3.45.4798
   Description: Python bindings for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsduck-tools
-  Version: 3.44.4676
+  Version: 3.45.4798
   Description: Command line tools for TSDuck
   Homepage: https://tsduck.io/
 - Package: tsocks
@@ -11523,7 +11523,7 @@
   Description: A fast and secure WebAssembly runtime
   Homepage: https://wasmer.io/
 - Package: wasmtime
-  Version: 48.0.2
+  Version: 49.0.0
   Description: A standalone runtime for WebAssembly
   Homepage: https://wasmtime.dev/
 - Package: watchexec

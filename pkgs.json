@@ -781,7 +781,7 @@
   },
   {
     "Package": "bash",
-    "Version": "5.3.15",
+    "Version": "5.3.20",
     "Description": "A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)",
     "Homepage": "https://www.gnu.org/software/bash/"
   },
@@ -2023,7 +2023,7 @@
   },
   {
     "Package": "dart",
-    "Version": "3.13.3",
+    "Version": "3.13.4",
     "Description": "Dart is a general-purpose programming language",
     "Homepage": "https://dart.dev/"
   },
@@ -9475,13 +9475,13 @@
   },
   {
     "Package": "libtsduck",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "An extensible toolkit for MPEG transport streams",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "libtsduck-static",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "Static libraries for libtsduck",
     "Homepage": "https://tsduck.io/"
   },
@@ -11839,7 +11839,7 @@
   },
   {
     "Package": "ne",
-    "Version": "3.3.4-3",
+    "Version": "3.3.4-4",
     "Description": "Easy-to-use and powerful text editor",
     "Homepage": "https://ne.di.unimi.it/"
   },
@@ -12661,7 +12661,7 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.83.0",
+    "Version": "1.85.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12673,7 +12673,7 @@
   },
   {
     "Package": "oxlint",
-    "Version": "1.83.0",
+    "Version": "1.85.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -14269,13 +14269,13 @@
   },
   {
     "Package": "readline",
-    "Version": "8.3.3",
+    "Version": "8.3.6",
     "Description": "Library that allow users to edit command lines as they are typed in",
     "Homepage": "https://tiswww.case.edu/php/chet/readline/rltop.html"
   },
   {
     "Package": "readline-static",
-    "Version": "8.3.3",
+    "Version": "8.3.6",
     "Description": "Static libraries for readline",
     "Homepage": "https://tiswww.case.edu/php/chet/readline/rltop.html"
   },
@@ -14617,7 +14617,7 @@
   },
   {
     "Package": "rush",
-    "Version": "0.10.0",
+    "Version": "0.11.0",
     "Description": "A cross-platform command-line tool for executing jobs in parallel",
     "Homepage": "https://github.com/shenwei356/rush"
   },
@@ -16519,25 +16519,25 @@
   },
   {
     "Package": "tsduck-java",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "Java bindings for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-plugins",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "Plugins for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-python",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "Python bindings for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
   {
     "Package": "tsduck-tools",
-    "Version": "3.44.4676",
+    "Version": "3.45.4798",
     "Description": "Command line tools for TSDuck",
     "Homepage": "https://tsduck.io/"
   },
@@ -17287,7 +17287,7 @@
   },
   {
     "Package": "wasmtime",
-    "Version": "48.0.2",
+    "Version": "49.0.0",
     "Description": "A standalone runtime for WebAssembly",
     "Homepage": "https://wasmtime.dev/"
   },

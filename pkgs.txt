@@ -128,7 +128,7 @@
  bacula-fd-static  15.0.3-2  Static libraries for bacula-fd  https://www.bacula.org 
  barcode  0.99-5  Tool to convert text strings to printed bars  https://www.gnu.org/software/barcode/ 
  base16384  2.3.2-1  Encode binary to printable utf16be  https://github.com/fumiama/base16384 
- bash  5.3.15  A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)  https://www.gnu.org/software/bash/ 
+ bash  5.3.20  A sh-compatible shell that incorporates useful features from the Korn shell (ksh) and C shell (csh)  https://www.gnu.org/software/bash/ 
  bash-completion  2.18.0  Programmable completion for the bash shell  https://github.com/scop/bash-completion 
  bastet  0.43.2-14  Tetris clone with 'bastard' block-choosing AI  http://fph.altervista.org/prog/bastet.html 
  bat  0.26.1-1  A cat(1) clone with wings  https://github.com/sharkdp/bat 
@@ -335,7 +335,7 @@
  dar-static  2.8.6  Static libraries for dar  http://dar.linux.free.fr/ 
  darcs  2.18.5  A distributed, interactive, smart revision control system  https://darcs.net/ 
  darkhttpd  1.17-1  A simple webserver, implemented in a single .c file.  https://unix4lyfe.org/darkhttpd 
- dart  3.13.3  Dart is a general-purpose programming language  https://dart.dev/ 
+ dart  3.13.4  Dart is a general-purpose programming language  https://dart.dev/ 
  dasel  3.11.2  Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility  https://github.com/TomWright/dasel 
  dash  0.5.12-2  Small POSIX-compliant implementation of /bin/sh  http://gondor.apana.org.au/~herbert/dash/ 
  dasm  2.20.17  Macro assembler with support for several 8-bit microprocessors  https://dasm-dillon.sourceforge.io/ 
@@ -1577,8 +1577,8 @@
  libtpms-static  0.10.2  Static libraries for libtpms  https://github.com/stefanberger/libtpms 
  libtranscript  0.3.4-1  A character-set conversion library  https://os.ghalkes.nl/libtranscript.html 
  libtree-ldd  3.1.1-2  Like ldd(1), but prints a tree(1) like output  https://github.com/haampie/libtree 
- libtsduck  3.44.4676  An extensible toolkit for MPEG transport streams  https://tsduck.io/ 
- libtsduck-static  3.44.4676  Static libraries for libtsduck  https://tsduck.io/ 
+ libtsduck  3.45.4798  An extensible toolkit for MPEG transport streams  https://tsduck.io/ 
+ libtsduck-static  3.45.4798  Static libraries for libtsduck  https://tsduck.io/ 
  libtvision  2025.10.31  A modern port of Turbo Vision 2.0 with Unicode support  https://github.com/magiblot/tvision 
  libtwolame  0.4.0-1  An optimised MPEG Audio Layer 2 (MP2) encoder  https://www.twolame.org/ 
  libtwolame-static  0.4.0-1  Static libraries for libtwolame  https://www.twolame.org/ 
@@ -1971,7 +1971,7 @@
  ndk-multilib-native-static  29-2  Install native static libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-multilib-native-stubs  29-2  Install native stubs for shared libs from NDK  https://developer.android.com/tools/sdk/ndk/index.html 
  ndk-sysroot  29-3  System header and library files from the Android NDK needed for compiling C programs  https://developer.android.com/tools/sdk/ndk/index.html 
- ne  3.3.4-3  Easy-to-use and powerful text editor  https://ne.di.unimi.it/ 
+ ne  3.3.4-4  Easy-to-use and powerful text editor  https://ne.di.unimi.it/ 
  nelua  2024.01.13-1  Minimal, efficient, statically-typed and meta-programmable systems programming language  https://nelua.io 
  neocmakelsp  0.11.1  a cmake lsp based on tower-lsp and treesitter  https://neocmakelsp.github.io/ 
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
@@ -2108,9 +2108,9 @@
  ossp-uuid  1.6.2-4  ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122.  http://www.ossp.org/pkg/lib/uuid/ 
  ossp-uuid-static  1.6.2-4  Static libraries for ossp-uuid  http://www.ossp.org/pkg/lib/uuid/ 
  ovmf  20231122-16.fc40-0  Open Virtual Machine Firmware  https://www.tianocore.org/ 
- oxfmt  1.83.0  Oxc JavaScript formatter  https://oxc.rs/ 
+ oxfmt  1.85.0  Oxc JavaScript formatter  https://oxc.rs/ 
  oxipng  10.2.1  Multithreaded PNG optimizer written in Rust  https://github.com/oxipng/oxipng 
- oxlint  1.83.0  Oxc JavaScript linter  https://oxc.rs/ 
+ oxlint  1.85.0  Oxc JavaScript linter  https://oxc.rs/ 
  p11-kit  0.26.5  Provides a way to load and enumerate PKCS#11 modules  https://p11-glue.github.io/p11-glue/p11-kit.html 
  p7zip  17.06-1  Command-line version of the 7zip compressed file archiver  https://github.com/p7zip-project/p7zip 
  pacman  7.1.0-9  A library-based package manager with dependency support  https://archlinux.org/pacman/ 
@@ -2376,8 +2376,8 @@
  rdircd  2023.02.07-3  A daemon that allows using a personal Discord account through an IRC client  https://github.com/mk-fg/reliable-discord-client-irc-daemon 
  rdrview  1:0.1.5-1  Command line tool to extract the main content from a webpage  https://github.com/eafer/rdrview 
  re2c  4.6  Lexer generator for C, C++ and Go.  https://re2c.org/ 
- readline  8.3.3  Library that allow users to edit command lines as they are typed in  https://tiswww.case.edu/php/chet/readline/rltop.html 
- readline-static  8.3.3  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
+ readline  8.3.6  Library that allow users to edit command lines as they are typed in  https://tiswww.case.edu/php/chet/readline/rltop.html 
+ readline-static  8.3.6  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
  recode  3.7.15-1  Charset converter tool and library  https://github.com/pinard/Recode 
  recode-static  3.7.15-1  Static libraries for recode  https://github.com/pinard/Recode 
  recoll  1.44.2  Full-text search for your desktop  https://www.recoll.org/ 
@@ -2434,7 +2434,7 @@
  ruff  0.16.8  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-4  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
- rush  0.10.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
+ rush  0.11.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.98.1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
  rust-analyzer  20260921  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.73.2  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
@@ -2751,10 +2751,10 @@
  trurl  0.16.1-1  trurl is a command line tool that parses and manipulates URLs  https://curl.se/trurl/ 
  trzsz-go  1.2.0  A simple file transfer tools, similar to lrzsz ( rz / sz )  https://trzsz.github.io/ 
  trzsz-ssh  0.1.26  An openssh client alternative  https://trzsz.github.io/ssh 
- tsduck-java  3.44.4676  Java bindings for TSDuck  https://tsduck.io/ 
- tsduck-plugins  3.44.4676  Plugins for TSDuck  https://tsduck.io/ 
- tsduck-python  3.44.4676  Python bindings for TSDuck  https://tsduck.io/ 
- tsduck-tools  3.44.4676  Command line tools for TSDuck  https://tsduck.io/ 
+ tsduck-java  3.45.4798  Java bindings for TSDuck  https://tsduck.io/ 
+ tsduck-plugins  3.45.4798  Plugins for TSDuck  https://tsduck.io/ 
+ tsduck-python  3.45.4798  Python bindings for TSDuck  https://tsduck.io/ 
+ tsduck-tools  3.45.4798  Command line tools for TSDuck  https://tsduck.io/ 
  tsocks  1.8beta5-5  transparent network access through a SOCKS 4 or 5 proxy  http://tsocks.sf.net 
  tsu  8.6.0-1  A su wrapper for Termux  https://github.com/cswl/tsu 
  ttf-dejavu  2.37-8  Font family based on the Bitstream Vera Fonts with a wider range of characters  https://dejavu-fonts.github.io/ 
@@ -2879,7 +2879,7 @@
  wasm-component-ld  0.5.30  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
  wasmedge  0.17.1  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
  wasmer  7.1.0-1  A fast and secure WebAssembly runtime  https://wasmer.io/ 
- wasmtime  48.0.2  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
+ wasmtime  49.0.0  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
  watchexec  2.7.3  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.9.0  WavPack command-line programs  https://www.wavpack.com/ 
  waypipe  0.11.2  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
