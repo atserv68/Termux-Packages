@@ -35,7 +35,7 @@
 | **alsa-utils-static** | 1.2.16 | Static libraries for alsa-utils | https://www.alsa-project.org |
 | **amber** | 0.6.1 | A code search / replace tool | https://github.com/dalance/amber |
 | **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
-| **android-tools** | 36.0.1+really35.0.2-1 | Android platform tools | https://developer.android.com/ |
+| **android-tools** | 37.0.0 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.2.2 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
@@ -335,7 +335,7 @@
 | **dar-static** | 2.8.6 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darcs** | 2.18.5 | A distributed, interactive, smart revision control system | https://darcs.net/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dart** | 3.13.2 | Dart is a general-purpose programming language | https://dart.dev/ |
+| **dart** | 3.13.3 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 3.11.2 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.17 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
@@ -481,8 +481,8 @@
 | **enchant-static** | 2.8.21 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-13 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
 | **entr** | 5.8 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
-| **erlang** | 29.0.6 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
-| **erlang-doc** | 29.0.6 | Erlang HTML documentation | https://www.erlang.org/ |
+| **erlang** | 29.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
+| **erlang-doc** | 29.1 | Erlang HTML documentation | https://www.erlang.org/ |
 | **esbuild** | 0.28.2 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
 | **espeak** | 1.52.0-1 | Compact software speech synthesizer | https://github.com/espeak-ng/espeak-ng |
 | **espeak-static** | 1.52.0-1 | Static libraries for espeak | https://github.com/espeak-ng/espeak-ng |
@@ -1525,7 +1525,7 @@
 | **libsqlite-static** | 3.53.4 | Static libraries for libsqlite | https://www.sqlite.org |
 | **libsqlite-tcl** | 3.53.4 | tcl bindings for SQLite | https://www.sqlite.org |
 | **libsrt** | 1.5.7 | Secure Reliable Transport (SRT) Protocol | https://github.com/Haivision/srt |
-| **libsrtp** | 2.8.0 | Library for SRTP (Secure Realtime Transport Protocol) | https://github.com/cisco/libsrtp |
+| **libsrtp** | 2.8.1 | Library for SRTP (Secure Realtime Transport Protocol) | https://github.com/cisco/libsrtp |
 | **libssh** | 0.12.2 | Tiny C SSH library | https://www.libssh.org/ |
 | **libssh2** | 1.11.1-2 | Client-side library implementing the SSH2 protocol | https://www.libssh2.org |
 | **libssh2-static** | 1.11.1-2 | Static libraries for libssh2 | https://www.libssh2.org |
@@ -1744,8 +1744,8 @@
 | **logo-ls** | 2024.07.17-1 | Modern ls command with vscode like File Icon and Git Integrations | https://github.com/Yash-Handa/logo-ls |
 | **logrotate** | 3.22.0-1 | Simplify the administration of log files on a system which generates a lot of log files | https://github.com/logrotate/logrotate |
 | **loksh** | 7.9 | A Linux port of OpenBSD's ksh | https://github.com/dimkr/loksh |
-| **lowdown** | 3.1.1 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
-| **lowdown-static** | 3.1.1 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
+| **lowdown** | 3.2.1 | Markdown utilities and library (fork of hoedown -> sundown -> libsoldout) | https://kristaps.bsd.lv/lowdown |
+| **lowdown-static** | 3.2.1 | Static libraries for lowdown | https://kristaps.bsd.lv/lowdown |
 | **lpsolve** | 5.5.2.11-1 | a Mixed Integer Linear Programming (MILP) solver | http://lpsolve.sourceforge.net/ |
 | **lr** | 2.0.1-1 | list files, recursively, includes the best features of ls, find, stat and du | https://git.vuxu.org/lr/about/ |
 | **lrzip** | 0.660 | A compression utility that excels at compressing large files | https://github.com/ckolivas/lrzip |
@@ -1782,7 +1782,7 @@
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
 | **luvit** | 2.18.1-1 | Asynchronous I/O for Lua | https://luvit.io |
 | **lux** | 0.24.1-2 | CLI tool to download videos from various websites | https://github.com/iawia002/lux |
-| **lux-cli** | 0.45.2 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
+| **lux-cli** | 0.46.0 | A package manager for Lua, similar to luarocks | https://lux.lumen-labs.org |
 | **lv2** | 1.18.10-7 | A plugin standard for audio systems | https://lv2plug.in/ |
 | **lychee** | 0.24.2 | A fast, async, resource-friendly link checker written in Rust | https://github.com/lycheeverse/lychee |
 | **lynx** | 2.9.2-1 | The text web browser | http://lynx.browser.org/ |
@@ -1824,7 +1824,7 @@
 | **mbedtls-static** | 3.6.4-2 | Static libraries for mbedtls | https://www.trustedfirmware.org/projects/mbed-tls/ |
 | **mc** | 4.8.33-2 | Midnight Commander - a powerful file manager | https://midnight-commander.org |
 | **mcfly** | 0.9.4 | Replaces your default ctrl-r shell history search with an intelligent search engine | https://github.com/cantino/mcfly |
-| **md4c** | 0.5.3 | C Markdown parser | https://github.com/mity/md4c |
+| **md4c** | 0.6.0 | C Markdown parser | https://github.com/mity/md4c |
 | **mdbook** | 0.5.4 | Creates book from markdown files | https://rust-lang.github.io/mdBook/ |
 | **mdbook-auto-gen-summary** | 0.1.10 | A preprocessor and cli tool for mdbook to auto generate summary | https://github.com/cococolanosugar/mdbook-auto-gen-summary |
 | **mdbook-cat-prep** | 1.0.9 | A preprocessor for mdbook which provides teacher, subject, material and tag functionality | https://github.com/gjk-cat/cat-prep |
@@ -1881,7 +1881,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.9.10 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.9.12-1 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -2079,7 +2079,7 @@
 | **openjpeg-tools** | 2.5.4 | Command-line tools using the JPEG 2000 library | https://www.openjpeg.org/ |
 | **openldap** | 2.7.1 | OpenLDAP server | https://openldap.org |
 | **openldap-static** | 2.7.1 | Static libraries for openldap | https://openldap.org |
-| **openlist** | 4.2.6 | A file list program that supports multiple storage | https://oplist.org/ |
+| **openlist** | 4.2.6-1 | A file list program that supports multiple storage | https://oplist.org/ |
 | **openmpi** | 4.1.5-1 | Open source Message Passing Interface implementation | https://www.open-mpi.org |
 | **openmpi-static** | 4.1.5-1 | Static libraries for openmpi | https://www.open-mpi.org |
 | **openmpt123** | 0.8.9 | libopenmpt based command-line player for tracker music formats | https://lib.openmpt.org/libopenmpt/ |
@@ -2193,7 +2193,7 @@
 | **pkg-config** | 0.29.2-3 | Helper tool used when compiling applications and libraries | https://www.freedesktop.org/wiki/Software/pkg-config/ |
 | **pkgfile** | 26 | An alpm .files metadata explorer | https://github.com/falconindy/pkgfile |
 | **pkgtop** | 2.5.1 | Interactive package manager and resource monitor | https://github.com/orhun/pkgtop |
-| **plantuml** | 1.2026.3 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
+| **plantuml** | 1.2026.8 | Draws UML diagrams, using a simple and human readable text description | https://plantuml.com/ |
 | **play-audio** | 0.6-2 | Simple command line audio player for Android | https://github.com/termux/play-audio |
 | **plutolang** | 0.13.1 | A superset of Lua 5.4 with a focus on general-purpose programming. | https://plutolang.github.io/ |
 | **plutovg** | 1.3.3 | Tiny 2D vector graphics library in C | https://github.com/sammycage/plutovg |
@@ -2223,8 +2223,8 @@
 | **povray-data** | 3.8.0-beta.2-20 | Platform-independent data for povray | https://www.povray.org/ |
 | **predict** | 2.3.1-3 | A Satellite Tracking/Orbital Prediction Program | https://www.qsl.net/kd2bd/predict.html |
 | **privoxy** | 4.0.0-1 | Non-caching web proxy with advanced filtering capabilities | https://www.privoxy.org |
-| **procps** | 4.0.7 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |
-| **procps-static** | 4.0.7 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
+| **procps** | 4.0.7-2 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |
+| **procps-static** | 4.0.7-2 | Static libraries for procps | https://gitlab.com/procps-ng/procps |
 | **procs** | 0.14.12 | A modern replacement for ps | https://github.com/dalance/procs |
 | **procyon-decompiler** | 0.6.0-2 | A standalone front-end for the Java decompiler in Procyon Compiler Toolset | https://github.com/mstrobel/procyon |
 | **profanity** | 0.18.2-1 | Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi | https://profanity-im.github.io |
@@ -2233,9 +2233,9 @@
 | **proot** | 5.1.107.92 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 5.9.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:35.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
-| **proton-bridge** | 3.26.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
+| **proton-bridge** | 3.27.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **proton-drive-cli** | 0.8.0 | Official command-line client for Proton Drive | https://github.com/ProtonDriveApps/sdk |
-| **proton-pass-cli** | 2.3.3 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
+| **proton-pass-cli** | 2.4.1 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
 | **prowlarr** | 2.6.5.5623 | An indexer manager/proxy built on the popular arr stack (server) | https://prowlarr.com |
 | **proxychains-ng** | 4.17-1 | A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies | https://github.com/rofl0r/proxychains-ng |
@@ -2253,9 +2253,9 @@
 | **pybind11** | 3.1.0 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.1 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
 | **pygobject** | 3.58.0 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
-| **pypy** | 7.3.23 | A fast, compliant alternative implementation of Python | https://pypy.org |
-| **pypy-tests** | 7.3.23 | Test files for PyPy | https://pypy.org |
-| **pypy-tkinter** | 7.3.23 | Tkinter support for PyPy | https://pypy.org |
+| **pypy** | 8.0.0-1 | A fast, compliant alternative implementation of Python | https://pypy.org |
+| **pypy-tests** | 8.0.0-1 | Test files for PyPy | https://pypy.org |
+| **pypy-tkinter** | 8.0.0-1 | Tkinter support for PyPy | https://pypy.org |
 | **pypy3** | 7.3.23-2 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
 | **pypy3-tests** | 7.3.23-2 | Test files for PyPy 3 | https://pypy.org |
 | **pypy3-tkinter** | 7.3.23-2 | Tkinter support for PyPy 3 | https://pypy.org |
@@ -2419,7 +2419,7 @@
 | **rqbit** | 9.0.1 | A bittorrent command line client and server | https://github.com/ikatson/rqbit |
 | **rsgain** | 3.8 | A simple audio normalizazion utility | https://github.com/complexlogic/rsgain |
 | **rsnapshot** | 1.5.1 | A remote filesystem snapshot utility | https://www.rsnapshot.org/ |
-| **rsync** | 3.5.0-1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
+| **rsync** | 3.5.1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
 | **rtorrent** | 0.16.23 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |

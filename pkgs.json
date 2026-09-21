@@ -223,7 +223,7 @@
   },
   {
     "Package": "android-tools",
-    "Version": "36.0.1+really35.0.2-1",
+    "Version": "37.0.0",
     "Description": "Android platform tools",
     "Homepage": "https://developer.android.com/"
   },
@@ -2023,7 +2023,7 @@
   },
   {
     "Package": "dart",
-    "Version": "3.13.2",
+    "Version": "3.13.3",
     "Description": "Dart is a general-purpose programming language",
     "Homepage": "https://dart.dev/"
   },
@@ -2899,13 +2899,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "29.0.6",
+    "Version": "29.1",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "29.0.6",
+    "Version": "29.1",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -9163,7 +9163,7 @@
   },
   {
     "Package": "libsrtp",
-    "Version": "2.8.0",
+    "Version": "2.8.1",
     "Description": "Library for SRTP (Secure Realtime Transport Protocol)",
     "Homepage": "https://github.com/cisco/libsrtp"
   },
@@ -10477,13 +10477,13 @@
   },
   {
     "Package": "lowdown",
-    "Version": "3.1.1",
+    "Version": "3.2.1",
     "Description": "Markdown utilities and library (fork of hoedown -> sundown -> libsoldout)",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
   {
     "Package": "lowdown-static",
-    "Version": "3.1.1",
+    "Version": "3.2.1",
     "Description": "Static libraries for lowdown",
     "Homepage": "https://kristaps.bsd.lv/lowdown"
   },
@@ -10705,7 +10705,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.45.2",
+    "Version": "0.46.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -10957,7 +10957,7 @@
   },
   {
     "Package": "md4c",
-    "Version": "0.5.3",
+    "Version": "0.6.0",
     "Description": "C Markdown parser",
     "Homepage": "https://github.com/mity/md4c"
   },
@@ -11299,7 +11299,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.10",
+    "Version": "2026.9.12-1",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -12487,7 +12487,7 @@
   },
   {
     "Package": "openlist",
-    "Version": "4.2.6",
+    "Version": "4.2.6-1",
     "Description": "A file list program that supports multiple storage",
     "Homepage": "https://oplist.org/"
   },
@@ -13171,7 +13171,7 @@
   },
   {
     "Package": "plantuml",
-    "Version": "1.2026.3",
+    "Version": "1.2026.8",
     "Description": "Draws UML diagrams, using a simple and human readable text description",
     "Homepage": "https://plantuml.com/"
   },
@@ -13351,13 +13351,13 @@
   },
   {
     "Package": "procps",
-    "Version": "4.0.7",
+    "Version": "4.0.7-2",
     "Description": "Utilities that give information about processes using the /proc filesystem",
     "Homepage": "https://gitlab.com/procps-ng/procps"
   },
   {
     "Package": "procps-static",
-    "Version": "4.0.7",
+    "Version": "4.0.7-2",
     "Description": "Static libraries for procps",
     "Homepage": "https://gitlab.com/procps-ng/procps"
   },
@@ -13411,7 +13411,7 @@
   },
   {
     "Package": "proton-bridge",
-    "Version": "3.26.0",
+    "Version": "3.27.0",
     "Description": "ProtonMail Bridge application",
     "Homepage": "https://github.com/ProtonMail/proton-bridge"
   },
@@ -13423,7 +13423,7 @@
   },
   {
     "Package": "proton-pass-cli",
-    "Version": "2.3.3",
+    "Version": "2.4.1",
     "Description": "Proton Pass Command Line Interface (CLI)",
     "Homepage": "https://protonpass.github.io/pass-cli/"
   },
@@ -13531,19 +13531,19 @@
   },
   {
     "Package": "pypy",
-    "Version": "7.3.23",
+    "Version": "8.0.0-1",
     "Description": "A fast, compliant alternative implementation of Python",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tests",
-    "Version": "7.3.23",
+    "Version": "8.0.0-1",
     "Description": "Test files for PyPy",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tkinter",
-    "Version": "7.3.23",
+    "Version": "8.0.0-1",
     "Description": "Tkinter support for PyPy",
     "Homepage": "https://pypy.org"
   },
@@ -14527,7 +14527,7 @@
   },
   {
     "Package": "rsync",
-    "Version": "3.5.0-1",
+    "Version": "3.5.1",
     "Description": "Fast incremental file transfer utility",
     "Homepage": "https://rsync.samba.org/"
   },
