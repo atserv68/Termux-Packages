@@ -1515,7 +1515,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 5.1.0
+  Version: 5.2.0
   Description: Infrastructure as code for DNS!
   Homepage: https://dnscontrol.org/
 - Package: dnslookup
@@ -1563,7 +1563,7 @@
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doctl
-  Version: 1.170.0
+  Version: 1.171.0
   Description: The official command line interface for the DigitalOcean API
   Homepage: https://github.com/digitalocean/doctl
 - Package: doge
@@ -2391,7 +2391,7 @@
   Description: Library for image loading and manipulation
   Homepage: https://wiki.gnome.org/Projects/GdkPixbuf
 - Package: gdu
-  Version: 5.36.1
+  Version: 5.37.0
   Description: Fast disk usage analyzer with console interface written in Go
   Homepage: https://github.com/dundee/gdu
 - Package: geckodriver
@@ -2911,7 +2911,7 @@
   Description: Static libraries for graphviz
   Homepage: https://www.graphviz.org/
 - Package: greed
-  Version: "5.0"
+  Version: "5.2"
   Description: Game where you try to eat as much as possible of the board before munching yourself into a corner
   Homepage: http://www.catb.org/~esr/greed/
 - Package: grep
@@ -4847,7 +4847,7 @@
   Description: Static libraries for libimagequant
   Homepage: https://pngquant.org/lib/
 - Package: libimobiledevice
-  Version: 1.3.0-p20250228-3
+  Version: 1.4.0
   Description: A library to communicate with services on iOS devices using native protocols
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-glue
@@ -4859,7 +4859,7 @@
   Description: Static libraries for libimobiledevice-glue
   Homepage: https://libimobiledevice.org/
 - Package: libimobiledevice-static
-  Version: 1.3.0-p20250228-3
+  Version: 1.4.0
   Description: Static libraries for libimobiledevice
   Homepage: https://libimobiledevice.org/
 - Package: libimtui
@@ -5719,7 +5719,7 @@
   Description: Static libraries for libpngwriter
   Homepage: https://pngwriter.sourceforge.net
 - Package: libpoco
-  Version: 1.15.3
+  Version: 1.15.4
   Description: A comprehensive set of C++ libraries that cover all modern-day programming needs
   Homepage: https://pocoproject.org/
 - Package: libpolly
@@ -6287,7 +6287,7 @@
   Description: Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface
   Homepage: https://www.gnu.org/software/libtool/
 - Package: libtorrent
-  Version: 0.16.23
+  Version: 0.16.24
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
@@ -6295,7 +6295,7 @@
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
-  Version: 0.16.23
+  Version: 0.16.24
   Description: Static libraries for libtorrent
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtpms
@@ -6451,7 +6451,7 @@
   Description: Static libraries for libvbisam
   Homepage: https://sourceforge.net/projects/vbisam/
 - Package: libvidstab
-  Version: 1.1.1-3
+  Version: 1.1.2
   Description: video stabilization library
   Homepage: https://github.com/georgmartius/vid.stab
 - Package: libvigra
@@ -7695,7 +7695,7 @@
   Description: Static libraries for mruby
   Homepage: https://mruby.org/
 - Package: ms-gsl
-  Version: 5.0.0-1
+  Version: 5.0.1
   Description: Guidelines Support Library
   Homepage: https://github.com/Microsoft/GSL
 - Package: msedit
@@ -8807,7 +8807,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.5.1
+  Version: 12.6.0
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -9547,7 +9547,7 @@
   Description: TCP port redirector for UNIX
   Homepage: https://github.com/troglobit/redir
 - Package: redis
-  Version: 1:8.8.1-1
+  Version: 1:8.10.0
   Description: In-memory data structure store used as a database, cache and message broker
   Homepage: https://redis.io/
 - Package: redland
@@ -9583,7 +9583,7 @@
   Description: A CLI for interacting with REST-ish HTTP APIs
   Homepage: https://github.com/rest-sh/restish
 - Package: rgbds
-  Version: 1.0.3
+  Version: 1.0.4
   Description: Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy & Game Boy Color
   Homepage: https://rgbds.gbdev.io
 - Package: rhash
@@ -9695,7 +9695,7 @@
   Description: Static libraries for rtmpdump
   Homepage: https://rtmpdump.mplayerhq.hu/
 - Package: rtorrent
-  Version: 0.16.23
+  Version: 0.16.24
   Description: Ncurses BitTorrent client based on libTorrent
   Homepage: https://rakshasa.github.io/rtorrent/
 - Package: rubberband
@@ -10363,7 +10363,7 @@
   Description: A TCP/IP repeater in the application layer
   Homepage: https://www.gcd.org/sengoku/stone/
 - Package: storj-uplink
-  Version: 1.163.5
+  Version: 1.163.6
   Description: Storj DCS Uplink CLI
   Homepage: https://www.storj.io/integrations/uplink-cli
 - Package: stow
@@ -10799,11 +10799,11 @@
   Description: Flexible, screen-oriented MUD client, for use with any type of MUD
   Homepage: https://tinyfugue.sourceforge.net/
 - Package: tinygo
-  Version: 0.41.1
+  Version: 0.42.0-1
   Description: Go compiler for microcontrollers, WASM, CLI tools
   Homepage: https://tinygo.org
 - Package: tinygo-common
-  Version: 0.41.1
+  Version: 0.42.0-1
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinymist
@@ -11091,7 +11091,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.3.5
+  Version: 16.3.6
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut
