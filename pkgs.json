@@ -2899,13 +2899,13 @@
   },
   {
     "Package": "erlang",
-    "Version": "29.1",
+    "Version": "29.1.1",
     "Description": "General-purpose concurrent functional programming language",
     "Homepage": "https://www.erlang.org/"
   },
   {
     "Package": "erlang-doc",
-    "Version": "29.1",
+    "Version": "29.1.1",
     "Description": "Erlang HTML documentation",
     "Homepage": "https://www.erlang.org/"
   },
@@ -2977,7 +2977,7 @@
   },
   {
     "Package": "exiv2",
-    "Version": "2:0.28.8",
+    "Version": "2:0.28.9",
     "Description": "Exif, Iptc and XMP metadata manipulation library and tools",
     "Homepage": "https://exiv2.org/"
   },
@@ -3157,7 +3157,7 @@
   },
   {
     "Package": "ffmpeg",
-    "Version": "8.1.2-5",
+    "Version": "8.1.3",
     "Description": "Tools and libraries to manipulate a wide range of multimedia formats and protocols",
     "Homepage": "https://ffmpeg.org"
   },
@@ -3877,7 +3877,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.118.0",
+    "Version": "1.119.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -6721,13 +6721,13 @@
   },
   {
     "Package": "libexpat",
-    "Version": "2.8.4",
+    "Version": "2.8.5",
     "Description": "XML parsing C library",
     "Homepage": "https://libexpat.github.io/"
   },
   {
     "Package": "libexpat-static",
-    "Version": "2.8.4",
+    "Version": "2.8.5",
     "Description": "Static libraries for libexpat",
     "Homepage": "https://libexpat.github.io/"
   },
@@ -9199,13 +9199,13 @@
   },
   {
     "Package": "libstemmer",
-    "Version": "3.0.1",
+    "Version": "3.1.1",
     "Description": "Snowball compiler and stemming algorithms",
     "Homepage": "https://snowballstem.org/"
   },
   {
     "Package": "libstemmer-static",
-    "Version": "3.0.1",
+    "Version": "3.1.1",
     "Description": "Static libraries for libstemmer",
     "Homepage": "https://snowballstem.org/"
   },
@@ -12169,7 +12169,7 @@
   },
   {
     "Package": "oci-cli",
-    "Version": "3.93.0",
+    "Version": "3.94.0",
     "Description": "Command line interface for Oracle Cloud Infrastructure",
     "Homepage": "https://github.com/oracle/oci-cli"
   },
@@ -14131,7 +14131,7 @@
   },
   {
     "Package": "radarr",
-    "Version": "6.3.0.10514-4",
+    "Version": "6.4.4.10685",
     "Description": "A PVR for Usenet and BitTorrent users (server)",
     "Homepage": "https://radarr.video"
   },
@@ -15211,7 +15211,7 @@
   },
   {
     "Package": "sonarr",
-    "Version": "4.0.20.3014",
+    "Version": "4.0.20.3014-1",
     "Description": "A PVR for Usenet and BitTorrent users (server)",
     "Homepage": "https://sonarr.tv"
   },
@@ -15499,7 +15499,7 @@
   },
   {
     "Package": "stemwords",
-    "Version": "3.0.1",
+    "Version": "3.1.1",
     "Description": "A command-line tool which uses libstemmer",
     "Homepage": "https://snowballstem.org/"
   },
@@ -15547,7 +15547,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.163.4",
+    "Version": "1.163.5",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
