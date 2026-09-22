@@ -631,7 +631,7 @@
   },
   {
     "Package": "atuin",
-    "Version": "18.22.0",
+    "Version": "18.23.0",
     "Description": "Magical shell history",
     "Homepage": "https://atuin.sh/"
   },
@@ -7141,13 +7141,13 @@
   },
   {
     "Package": "libheif",
-    "Version": "1.23.4",
+    "Version": "1.23.5",
     "Description": "HEIF (HEIC/AVIF) image encoding and decoding library",
     "Homepage": "https://github.com/strukturag/libheif"
   },
   {
     "Package": "libheif-progs",
-    "Version": "1.23.4",
+    "Version": "1.23.5",
     "Description": "Programs for manipulating HEIF (HEIC/AVIF) image files",
     "Homepage": "https://github.com/strukturag/libheif"
   },
