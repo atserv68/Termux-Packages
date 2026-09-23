@@ -241,8 +241,8 @@
 | **cgal** | 6.2.1 | Computational Geometry Algorithms Library | https://www.cgal.org/ |
 | **cgdb** | 0.8.0-1 | A lightweight curses (terminal-based) interface to the GNU Debugger (GDB) | https://cgdb.github.io/ |
 | **cgif** | 0.5.4 | A fast and lightweight GIF encoding library | https://github.com/dloebl/cgif |
-| **chafa** | 1.18.2-1 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
-| **chafa-static** | 1.18.2-1 | Static libraries for chafa | https://hpjansson.org/chafa/ |
+| **chafa** | 1.18.3 | Image-to-text converter supporting a wide range of symbols, etc. | https://hpjansson.org/chafa/ |
+| **chafa-static** | 1.18.3 | Static libraries for chafa | https://hpjansson.org/chafa/ |
 | **check** | 0.15.2-3 | A unit testing framework for C | https://libcheck.github.io/check |
 | **check-static** | 0.15.2-3 | Static libraries for check | https://libcheck.github.io/check |
 | **chezmoi** | 2.72.2 | Manage your dotfiles across multiple machines | https://chezmoi.io |
@@ -389,7 +389,7 @@
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
 | **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://docopt.org |
 | **doctest** | 2.5.3 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
-| **doctl** | 1.171.2 | The official command line interface for the DigitalOcean API | https://github.com/digitalocean/doctl |
+| **doctl** | 1.173.0 | The official command line interface for the DigitalOcean API | https://github.com/digitalocean/doctl |
 | **doge** | 0.2.9 | A command-line DNS client | https://github.com/Dj-Codeman/dog_community |
 | **doggo** | 1.4.0 | Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt | https://github.com/mr-karan/doggo |
 | **dopewars** | 1.6.2-1 | Drug-dealing game set in streets of New York City | https://dopewars.sourceforge.io |
@@ -999,9 +999,9 @@
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
 | **libblosc2** | 3.3.4 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
-| **libbluray** | 1.5.0 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
-| **libbluray-static** | 1.5.0 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
-| **libbluray-utils** | 1.5.0 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
+| **libbluray** | 1.5.1 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
+| **libbluray-static** | 1.5.1 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
+| **libbluray-utils** | 1.5.1 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbs2b** | 3.1.0-2 | Bauer stereophonic-to-binaural DSP | https://bs2b.sourceforge.net/ |
 | **libbs2b-static** | 3.1.0-2 | Static libraries for libbs2b | https://bs2b.sourceforge.net/ |
 | **libbsd** | 0.12.2 | utility functions from BSD systems | https://libbsd.freedesktop.org |
@@ -1364,7 +1364,7 @@
 | **libnpth-static** | 1.8 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.40 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.40 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
-| **libnss** | 3.129 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **libnss** | 3.130 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.6.0 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.6.0 | Static libraries for libntl | https://libntl.org |
 | **libnumbertext** | 1.0.11-1 | Number to number name and money text conversion library | https://github.com/Numbertext/libnumbertext |
@@ -2019,7 +2019,7 @@
 | **nsis** | 3.12 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.12 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-7 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
-| **nss-utils** | 3.129 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **nss-utils** | 3.130 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 8.0.1 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **numbat** | 1.24.0 | A statically typed programming language for scientific computations with first class support for physical dimensions and units | https://numbat.dev/ |
 | **nushell** | 0.115.1 | A new type of shell operating on structured data | https://www.nushell.sh |
@@ -2027,7 +2027,7 @@
 | **nzbget** | 26.3 | The most efficient usenet downloader | https://nzbget.com/ |
 | **oathtool** | 2.6.14 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.14 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
-| **oci-cli** | 3.94.0 | Command line interface for Oracle Cloud Infrastructure | https://github.com/oracle/oci-cli |
+| **oci-cli** | 3.94.0-1 | Command line interface for Oracle Cloud Infrastructure | https://github.com/oracle/oci-cli |
 | **ocl-icd** | 2.3.5 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.29-1 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
 | **ocrad-static** | 0.29-1 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
@@ -2269,7 +2269,7 @@
 | **python-brotli** | 1.2.0-2 | lossless compression algorithm and format (Python bindings) | https://github.com/google/brotli |
 | **python-cmake** | 4.4.3 | Python wrapper for CMake | https://cmake-python-distributions.readthedocs.io/ |
 | **python-contourpy** | 1.4.0 | Python library for calculating contours in 2D quadrilateral grids | https://contourpy.readthedocs.io/ |
-| **python-crc32c** | 2.9.post0 | Python package implementing the crc32c checksum algorithm in hardware and software | https://github.com/ICRAR/crc32c |
+| **python-crc32c** | 2.9.post0+really2.8 | Python package implementing the crc32c checksum algorithm in hardware and software | https://github.com/ICRAR/crc32c |
 | **python-cryptography** | 50.0.1 | Provides cryptographic recipes and primitives to Python developers | https://github.com/pyca/cryptography |
 | **python-ctranslate2** | 4.8.2 | Python bindings for CTranslate2 | https://github.com/OpenNMT/CTranslate2 |
 | **python-ensurepip-wheels** | 3.14.6-1 | Wheels for Python ensurepip | https://python.org/ |
@@ -2356,10 +2356,10 @@
 | **racket-static** | 9.3 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 6.2.0 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
 | **radarr** | 6.4.4.10685 | A PVR for Usenet and BitTorrent users (server) | https://radarr.video |
-| **rage** | 0.12.0 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
+| **rage** | 0.12.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.59.0 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.61.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2543,7 +2543,7 @@
 | **sox** | 14.4.2-29 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-29 | Static libraries for sox | https://sox.sourceforge.net/ |
 | **sparsehash** | 2.0.4 | Extremely memory-efficient C++ hash_map implementation | https://github.com/sparsehash/sparsehash |
-| **spatialite-tools** | 5.1.0 | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
+| **spatialite-tools** | 5.1.0a | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
 | **speechd** | 0.12.1-2 | Common interface to speech synthesis | https://github.com/brailcom/speechd |
 | **speechd-data** | 0.12.1-2 | Platform-independent data for speechd | https://github.com/brailcom/speechd |
 | **speedtest-go** | 1.8.3 | Command line interface to test internet speed using speedtest.net | https://github.com/showwin/speedtest-go/ |
@@ -2686,7 +2686,7 @@
 | **texlive-bin** | 1:2026.0-2 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 1:2026.0-2 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20260301 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
-| **tgpt** | 2.14.0-1 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
+| **tgpt** | 2.15.0 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
 | **thrift** | 0.24.0-1 | Scalable cross-language services framework for IPC/RPC | https://thrift.apache.org |
 | **tidy** | 5.9.14-next-3 | A tool to tidy down your HTML code to a clean style | http://www.html-tidy.org/ |
 | **tidy-static** | 5.9.14-next-3 | Static libraries for tidy | http://www.html-tidy.org/ |
@@ -2715,7 +2715,7 @@
 | **tome2** | 2025.12.13-2 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 17.12.1 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
-| **tor** | 0.4.9.12 | The Onion Router anonymizing overlay network | https://www.torproject.org |
+| **tor** | 0.4.9.13 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
 | **totem-pl-parser** | 3.26.7 | Simple GObject-based library to parse and save a host of playlist formats | https://gitlab.gnome.org/GNOME/totem-pl-parser |
@@ -2872,7 +2872,7 @@
 | **w3m** | 0.5.6-2 | Text based Web browser and pager | https://git.sr.ht/~rkta/w3m |
 | **w3m-img** | 0.5.6-2 | Inline image extension support utilities for w3m | https://git.sr.ht/~rkta/w3m |
 | **wabt** | 1.0.42 | The WebAssembly Binary Toolkit | https://github.com/WebAssembly/wabt |
-| **wakatime-cli** | 2.26.5 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
+| **wakatime-cli** | 2.26.6 | Command line interface used by all WakaTime text editor plugins | https://wakatime.com/plugins/ |
 | **walk** | 1.13.0 | A terminal file manager | https://github.com/antonmedv/walk |
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 34+really33 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |

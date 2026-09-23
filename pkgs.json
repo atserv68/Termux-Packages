@@ -1459,13 +1459,13 @@
   },
   {
     "Package": "chafa",
-    "Version": "1.18.2-1",
+    "Version": "1.18.3",
     "Description": "Image-to-text converter supporting a wide range of symbols, etc.",
     "Homepage": "https://hpjansson.org/chafa/"
   },
   {
     "Package": "chafa-static",
-    "Version": "1.18.2-1",
+    "Version": "1.18.3",
     "Description": "Static libraries for chafa",
     "Homepage": "https://hpjansson.org/chafa/"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.171.2",
+    "Version": "1.173.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -6007,19 +6007,19 @@
   },
   {
     "Package": "libbluray",
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Description": "An open-source library designed for Blu-Ray Discs playback for media players",
     "Homepage": "https://code.videolan.org/videolan/libbluray/"
   },
   {
     "Package": "libbluray-static",
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Description": "Static libraries for libbluray",
     "Homepage": "https://code.videolan.org/videolan/libbluray/"
   },
   {
     "Package": "libbluray-utils",
-    "Version": "1.5.0",
+    "Version": "1.5.1",
     "Description": "Example utilities for libbluray",
     "Homepage": "https://code.videolan.org/videolan/libbluray/"
   },
@@ -8197,7 +8197,7 @@
   },
   {
     "Package": "libnss",
-    "Version": "3.129",
+    "Version": "3.130",
     "Description": "Network Security Services (NSS)",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -12127,7 +12127,7 @@
   },
   {
     "Package": "nss-utils",
-    "Version": "3.129",
+    "Version": "3.130",
     "Description": "Tools for NSS",
     "Homepage": "https://firefox-source-docs.mozilla.org/security/nss/"
   },
@@ -12175,7 +12175,7 @@
   },
   {
     "Package": "oci-cli",
-    "Version": "3.94.0",
+    "Version": "3.94.0-1",
     "Description": "Command line interface for Oracle Cloud Infrastructure",
     "Homepage": "https://github.com/oracle/oci-cli"
   },
@@ -13627,7 +13627,7 @@
   },
   {
     "Package": "python-crc32c",
-    "Version": "2.9.post0",
+    "Version": "2.9.post0+really2.8",
     "Description": "Python package implementing the crc32c checksum algorithm in hardware and software",
     "Homepage": "https://github.com/ICRAR/crc32c"
   },
@@ -14149,7 +14149,7 @@
   },
   {
     "Package": "rage",
-    "Version": "0.12.0",
+    "Version": "0.12.1",
     "Description": "A simple, secure and modern encryption tool",
     "Homepage": "https://age-encryption.org/v1"
   },
@@ -14167,7 +14167,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.59.0",
+    "Version": "5.61.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -15271,7 +15271,7 @@
   },
   {
     "Package": "spatialite-tools",
-    "Version": "5.1.0",
+    "Version": "5.1.0a",
     "Description": "Collection of tools supporting SpatiaLite",
     "Homepage": "https://www.gaia-gis.it/fossil/spatialite-tools"
   },
@@ -16129,7 +16129,7 @@
   },
   {
     "Package": "tgpt",
-    "Version": "2.14.0-1",
+    "Version": "2.15.0",
     "Description": "AI Chatbots in terminal without needing API keys",
     "Homepage": "https://github.com/aandrew-me/tgpt"
   },
@@ -16303,7 +16303,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.9.12",
+    "Version": "0.4.9.13",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
@@ -17245,7 +17245,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.26.5",
+    "Version": "2.26.6",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
