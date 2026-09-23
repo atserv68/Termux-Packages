@@ -16980,12 +16980,6 @@
     "Homepage": "https://vale.sh"
   },
   {
-    "Package": "valkey",
-    "Version": "9.1.2",
-    "Description": "In-memory data structure store used as a database, cache and message broker",
-    "Homepage": "https://valkey.io/"
-  },
-  {
     "Package": "valkey-static",
     "Version": "9.1.2",
     "Description": "Static libraries for valkey",
@@ -17281,7 +17275,7 @@
   },
   {
     "Package": "wasmer",
-    "Version": "7.1.0-1",
+    "Version": "7.4.2",
     "Description": "A fast and secure WebAssembly runtime",
     "Homepage": "https://wasmer.io/"
   },
