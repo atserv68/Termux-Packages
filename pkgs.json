@@ -283,7 +283,7 @@
   },
   {
     "Package": "aom-tools",
-    "Version": "3.15.0",
+    "Version": "3.15.1",
     "Description": "Command-line tools using AOMedia library",
     "Homepage": "https://aomedia.org/"
   },
@@ -3553,7 +3553,7 @@
   },
   {
     "Package": "gdal",
-    "Version": "3.12.4-3",
+    "Version": "3.13.3",
     "Description": "A translator library for raster and vector geospatial data formats",
     "Homepage": "https://gdal.org"
   },
@@ -4729,7 +4729,7 @@
   },
   {
     "Package": "hstr",
-    "Version": "3.1-1",
+    "Version": "3.2",
     "Description": "Shell history suggest box for bash and zsh",
     "Homepage": "https://github.com/dvorka/hstr"
   },
@@ -5581,7 +5581,7 @@
   },
   {
     "Package": "lego",
-    "Version": "5.5.1",
+    "Version": "5.5.2",
     "Description": "Lets Encrypt/ACME client and library written in Go",
     "Homepage": "https://github.com/go-acme/lego"
   },
@@ -5875,13 +5875,13 @@
   },
   {
     "Package": "libaom",
-    "Version": "3.15.0",
+    "Version": "3.15.1",
     "Description": "AV1 Video Codec Library",
     "Homepage": "https://aomedia.org/"
   },
   {
     "Package": "libaom-static",
-    "Version": "3.15.0",
+    "Version": "3.15.1",
     "Description": "Static libraries for libaom",
     "Homepage": "https://aomedia.org/"
   },
@@ -8335,13 +8335,13 @@
   },
   {
     "Package": "libopusenc",
-    "Version": "0.2.1-4",
+    "Version": "0.3",
     "Description": "High-level API for encoding .opus files",
     "Homepage": "https://github.com/xiph/libopusenc"
   },
   {
     "Package": "libopusenc-static",
-    "Version": "0.2.1-4",
+    "Version": "0.3",
     "Description": "Static libraries for libopusenc",
     "Homepage": "https://github.com/xiph/libopusenc"
   },
@@ -10321,7 +10321,7 @@
   },
   {
     "Package": "links",
-    "Version": "2.29-2",
+    "Version": "2.30",
     "Description": "Links is a text and graphics mode WWW browser",
     "Homepage": "http://links.twibright.com"
   },
@@ -10723,7 +10723,7 @@
   },
   {
     "Package": "lynx",
-    "Version": "2.9.2-1",
+    "Version": "2.9.3",
     "Description": "The text web browser",
     "Homepage": "http://lynx.browser.org/"
   },
@@ -11023,7 +11023,7 @@
   },
   {
     "Package": "mdbook-plantuml",
-    "Version": "0.8.0-3",
+    "Version": "2.0.0",
     "Description": "mdBook preprocessor to render PlantUML code blocks as images in your book",
     "Homepage": "https://github.com/sytsereitsma/mdbook-plantuml"
   },
@@ -12151,7 +12151,7 @@
   },
   {
     "Package": "nzbget",
-    "Version": "26.0-1",
+    "Version": "26.1",
     "Description": "The most efficient usenet downloader",
     "Homepage": "https://nzbget.com/"
   },
@@ -12973,7 +12973,7 @@
   },
   {
     "Package": "pgroonga",
-    "Version": "4.0.8",
+    "Version": "4.0.9",
     "Description": "A PostgreSQL extension to use Groonga as index",
     "Homepage": "https://github.com/pgroonga/pgroonga"
   },
@@ -17913,6 +17913,12 @@
     "Package": "zrok",
     "Version": "1.1.11",
     "Description": "An open source sharing solution built on OpenZiti.",
+    "Homepage": "https://zrok.io/"
+  },
+  {
+    "Package": "zrok2",
+    "Version": "2.0.4",
+    "Description": "An open source sharing solution built on OpenZiti",
     "Homepage": "https://zrok.io/"
   },
   {

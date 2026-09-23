@@ -187,7 +187,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.15.0
+  Version: 3.15.1
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: aosp-libs
@@ -2367,7 +2367,7 @@
   Description: Program for calculating and printing calendars
   Homepage: https://www.gnu.org/software/gcal/
 - Package: gdal
-  Version: 3.12.4-3
+  Version: 3.13.3
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
@@ -3151,7 +3151,7 @@
   Description: Instant coding answers via the command line (howdoi in rust)
   Homepage: https://github.com/WindSoilder/hors
 - Package: hstr
-  Version: 3.1-1
+  Version: "3.2"
   Description: Shell history suggest box for bash and zsh
   Homepage: https://github.com/dvorka/hstr
 - Package: html-xml-utils
@@ -3719,7 +3719,7 @@
   Description: Powerful, double-entry accounting system
   Homepage: https://www.ledger-cli.org
 - Package: lego
-  Version: 5.5.1
+  Version: 5.5.2
   Description: Lets Encrypt/ACME client and library written in Go
   Homepage: https://github.com/go-acme/lego
 - Package: lensfun
@@ -3915,11 +3915,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.15.0
+  Version: 3.15.1
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.15.0
+  Version: 3.15.1
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
@@ -5555,11 +5555,11 @@
   Description: Static libraries for libopus
   Homepage: https://www.opus-codec.org/
 - Package: libopusenc
-  Version: 0.2.1-4
+  Version: "0.3"
   Description: High-level API for encoding .opus files
   Homepage: https://github.com/xiph/libopusenc
 - Package: libopusenc-static
-  Version: 0.2.1-4
+  Version: "0.3"
   Description: Static libraries for libopusenc
   Homepage: https://github.com/xiph/libopusenc
 - Package: liborc
@@ -6879,7 +6879,7 @@
   Description: A music engraving program
   Homepage: https://lilypond.org/
 - Package: links
-  Version: 2.29-2
+  Version: "2.30"
   Description: Links is a text and graphics mode WWW browser
   Homepage: http://links.twibright.com
 - Package: lipl
@@ -7147,7 +7147,7 @@
   Description: A fast, async, resource-friendly link checker written in Rust
   Homepage: https://github.com/lycheeverse/lychee
 - Package: lynx
-  Version: 2.9.2-1
+  Version: 2.9.3
   Description: The text web browser
   Homepage: http://lynx.browser.org/
 - Package: lyrebird
@@ -7347,7 +7347,7 @@
   Description: A mdbook preprocessor to render pikchr code blocks as images in your book
   Homepage: https://github.com/podsvirov/mdbook-pikchr
 - Package: mdbook-plantuml
-  Version: 0.8.0-3
+  Version: 2.0.0
   Description: mdBook preprocessor to render PlantUML code blocks as images in your book
   Homepage: https://github.com/sytsereitsma/mdbook-plantuml
 - Package: mdbook-presentation-preprocessor
@@ -8099,7 +8099,7 @@
   Description: Nyancat in your terminal, rendered through ANSI escape sequences.
   Homepage: http://nyancat.dakko.us
 - Package: nzbget
-  Version: 26.0-1
+  Version: "26.1"
   Description: The most efficient usenet downloader
   Homepage: https://nzbget.com/
 - Package: oathtool
@@ -8647,7 +8647,7 @@
   Description: Postgres CLI with autocompletion and syntax highlighting
   Homepage: https://www.pgcli.com
 - Package: pgroonga
-  Version: 4.0.8
+  Version: 4.0.9
   Description: A PostgreSQL extension to use Groonga as index
   Homepage: https://github.com/pgroonga/pgroonga
 - Package: photon-rss
@@ -11941,6 +11941,10 @@
 - Package: zrok
   Version: 1.1.11
   Description: An open source sharing solution built on OpenZiti.
+  Homepage: https://zrok.io/
+- Package: zrok2
+  Version: 2.0.4
+  Description: An open source sharing solution built on OpenZiti
   Homepage: https://zrok.io/
 - Package: zsh
   Version: 5.9.2-1
