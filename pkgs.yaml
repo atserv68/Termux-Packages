@@ -2431,11 +2431,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.17.5-1
+  Version: 1.17.6
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.17.5-1
+  Version: 1.17.6
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -3523,7 +3523,7 @@
   Description: Wordstar like text editor
   Homepage: http://joe-editor.sourceforge.net
 - Package: jove
-  Version: 4.17.5.3-1
+  Version: 4.17.5.5
   Description: Jove is a compact, powerful, Emacs-style text-editor.
   Homepage: https://directory.fsf.org/wiki/Jove
 - Package: jp2a
@@ -3575,7 +3575,7 @@
   Description: A Git-compatible VCS that is both simple and powerful
   Homepage: https://jj-vcs.github.io/jj/
 - Package: jump
-  Version: 0.51.0-3
+  Version: 0.69.0
   Description: Jump helps you navigate in shell faster by learning your habits
   Homepage: https://github.com/gsamokovarov/jump
 - Package: jupp
@@ -3871,7 +3871,7 @@
   Description: Static libraries for libandroid-spawn
   Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
 - Package: libandroid-stub
-  Version: 29-3
+  Version: "30"
   Description: Stub libandroid.so for non-Android certified environment
   Homepage: https://android.googlesource.com/platform/frameworks/base/+/main/native/android
 - Package: libandroid-support
@@ -4047,7 +4047,7 @@
   Description: BZ2 format compression library
   Homepage: http://www.bzip.org/
 - Package: libc++
-  Version: "29"
+  Version: "30"
   Description: C++ Standard Library
   Homepage: https://libcxx.llvm.org/
 - Package: libc++utilities
@@ -5015,11 +5015,11 @@
   Description: Static libraries for liblightning
   Homepage: https://www.gnu.org/software/lightning/
 - Package: libliquid-dsp
-  Version: 1.7.0-2
+  Version: 1.8.2
   Description: Software-defined radio digital signal processing library
   Homepage: https://liquidsdr.org/
 - Package: libliquid-dsp-static
-  Version: 1.7.0-2
+  Version: 1.8.2
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
@@ -5579,11 +5579,11 @@
   Description: Library for reading from and writing to OSM files in XML and PBF formats
   Homepage: https://osmcode.org/libosmium/
 - Package: libosmpbf
-  Version: 1.5.1-4
+  Version: 1.8.0
   Description: osmpbf is a Java/C library to read and write OpenStreetMap PBF files
   Homepage: https://github.com/openstreetmap/OSM-binary/
 - Package: libosmpbf-static
-  Version: 1.5.1-4
+  Version: 1.8.0
   Description: Static libraries for libosmpbf
   Homepage: https://github.com/openstreetmap/OSM-binary/
 - Package: libotr
@@ -5755,7 +5755,7 @@
   Description: Static libraries for libprotobuf-c
   Homepage: https://github.com/protobuf-c/protobuf-c
 - Package: libprotozero
-  Version: 1.8.0
+  Version: 1.8.2
   Description: Minimalistic protocol buffer decoder and encoder in C++
   Homepage: https://github.com/mapbox/protozero
 - Package: libpsl
@@ -5858,6 +5858,10 @@
   Version: 0.10.3
   Description: A C11 / gnu11 utilities C library
   Homepage: https://github.com/shlomif/rinutils
+- Package: librist
+  Version: 0.2.20
+  Description: Library to add the RIST protocol to applications
+  Homepage: https://code.videolan.org/rist/librist
 - Package: librnnoise
   Version: 0.2-1
   Description: RNN-based noise suppression
@@ -7835,7 +7839,7 @@
   Description: A free set of programs that use the File Transfer Protocol
   Homepage: https://www.ncftp.com/
 - Package: nchat
-  Version: 5.18.20
+  Version: 5.18.20-1
   Description: TUI for Telegram and WhatsApp
   Homepage: https://github.com/d99kris/nchat
 - Package: ncmpcpp
@@ -7875,19 +7879,19 @@
   Description: Tools for working with terminals
   Homepage: https://invisible-island.net/ncurses/
 - Package: ndk-multilib
-  Version: 29-2
+  Version: "30"
   Description: Multilib binaries for cross-compilation
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-static
-  Version: 29-2
+  Version: "30"
   Description: Install native static libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-multilib-native-stubs
-  Version: 29-2
+  Version: "30"
   Description: Install native stubs for shared libs from NDK
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ndk-sysroot
-  Version: 29-3
+  Version: "30"
   Description: System header and library files from the Android NDK needed for compiling C programs
   Homepage: https://developer.android.com/tools/sdk/ndk/index.html
 - Package: ne
@@ -8099,15 +8103,15 @@
   Description: Nyancat in your terminal, rendered through ANSI escape sequences.
   Homepage: http://nyancat.dakko.us
 - Package: nzbget
-  Version: "26.1"
+  Version: "26.3"
   Description: The most efficient usenet downloader
   Homepage: https://nzbget.com/
 - Package: oathtool
-  Version: 2.6.12-3
+  Version: 2.6.14
   Description: One-time password components
   Homepage: http://www.nongnu.org/oath-toolkit/
 - Package: oathtool-static
-  Version: 2.6.12-3
+  Version: 2.6.14
   Description: Static libraries for oathtool
   Homepage: http://www.nongnu.org/oath-toolkit/
 - Package: oci-cli
@@ -8507,11 +8511,11 @@
   Description: Static libraries for pari
   Homepage: https://pari.math.u-bordeaux.fr/
 - Package: parted
-  Version: 3.6-1
+  Version: "3.7"
   Description: Versatile partition editor
   Homepage: https://www.gnu.org/software/parted/
 - Package: parted-static
-  Version: 3.6-1
+  Version: "3.7"
   Description: Static libraries for parted
   Homepage: https://www.gnu.org/software/parted/
 - Package: pass
@@ -9387,8 +9391,12 @@
   Description: Headless QRSS grabber for Raspberry Pis
   Homepage: https://gitlab.com/hb9fxx/qrsspig
 - Package: qrupdate-ng
-  Version: 2:1.1.5
+  Version: 2:1.2.0
   Description: A Library for Fast Updating of QR and Cholesky Decompositions.
+  Homepage: https://github.com/mpimd-csc/qrupdate-ng
+- Package: qrupdate-ng-static
+  Version: 2:1.2.0
+  Description: Static libraries for qrupdate-ng
   Homepage: https://github.com/mpimd-csc/qrupdate-ng
 - Package: quick-lint-js
   Version: 3.2.0-1
@@ -9423,7 +9431,7 @@
   Description: A PVR for Usenet and BitTorrent users (server)
   Homepage: https://radarr.video
 - Package: rage
-  Version: 0.11.2
+  Version: 0.12.0
   Description: A simple, secure and modern encryption tool
   Homepage: https://age-encryption.org/v1
 - Package: ragel
@@ -9435,7 +9443,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.30.4
+  Version: 5.59.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -9459,11 +9467,11 @@
   Description: An AV1 encoder program focused on speed and safety
   Homepage: https://github.com/xiph/rav1e/
 - Package: ravencoin
-  Version: 4.6.1-10
+  Version: 4.8.0
   Description: A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another
   Homepage: https://ravencoin.org/
 - Package: ravencoin-static
-  Version: 4.6.1-10
+  Version: 4.8.0
   Description: Static libraries for ravencoin
   Homepage: https://ravencoin.org/
 - Package: rbw
@@ -10171,7 +10179,7 @@
   Description: Extremely memory-efficient C++ hash_map implementation
   Homepage: https://github.com/sparsehash/sparsehash
 - Package: spatialite-tools
-  Version: 5.0.1-5
+  Version: 5.1.0
   Description: Collection of tools supporting SpatiaLite
   Homepage: https://www.gaia-gis.it/fossil/spatialite-tools
 - Package: speechd
@@ -10295,7 +10303,7 @@
   Description: Utility to discover supported cipher suites on SSL/TLS enabled servers
   Homepage: https://github.com/rbsec/sslscan
 - Package: sssnake
-  Version: 0.3.2-2
+  Version: 0.4.0
   Description: cli snake game that plays itself
   Homepage: https://github.com/AngelJumbo/sssnake
 - Package: ssss
@@ -10743,7 +10751,7 @@
   Description: Wrapper around texlives install-tl script
   Homepage: https://www.tug.org/texlive/
 - Package: tgpt
-  Version: 2.14.0
+  Version: 2.14.0-1
   Description: AI Chatbots in terminal without needing API keys
   Homepage: https://github.com/aandrew-me/tgpt
 - Package: thrift
@@ -11415,7 +11423,7 @@
   Description: A themeable LS_COLORS generator with a rich filetype datebase
   Homepage: https://github.com/sharkdp/vivid
 - Package: vlc
-  Version: 3.0.23-5
+  Version: 3.0.24
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
 - Package: vlc-static
@@ -11455,13 +11463,9 @@
   Description: A metapackage that provides vulkan loader library
   Homepage: https://github.com/termux/termux-packages
 - Package: vulkan-loader-android
-  Version: "29"
+  Version: "30"
   Description: Vulkan Loader for Android
   Homepage: https://source.android.com/devices/graphics/arch-vulkan
-- Package: vulkan-loader-generic
-  Version: 1.4.363
-  Description: Vulkan Loader
-  Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
   Version: 1.4.363
   Description: Vulkan Tools and Utilities

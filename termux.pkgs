@@ -606,8 +606,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6-1 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.17.5-1 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.17.5-1 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.17.6 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.17.6 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 1.0 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 1.0 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.6-1 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -879,7 +879,7 @@
 | **jless** | 0.9.0-1 | A command-line JSON viewer designed for reading, exploring, and searching through JSON data. | https://jless.io |
 | **jo** | 1.9-1 | JSON output from a shell | https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/ |
 | **joe** | 4.6-5 | Wordstar like text editor | http://joe-editor.sourceforge.net |
-| **jove** | 4.17.5.3-1 | Jove is a compact, powerful, Emacs-style text-editor. | https://directory.fsf.org/wiki/Jove |
+| **jove** | 4.17.5.5 | Jove is a compact, powerful, Emacs-style text-editor. | https://directory.fsf.org/wiki/Jove |
 | **jp2a** | 1.3.3 | A simple JPEG to ASCII converter | https://github.com/Talinx/jp2a/ |
 | **jpegoptim** | 1.5.6 | JPEG optimizer that recompresses image files to a smaller size, without losing any information | https://www.kokkonen.net/tjko/projects.html |
 | **jq** | 1.8.2 | Command-line JSON processor | https://jqlang.org/ |
@@ -892,7 +892,7 @@
 | **jsoncpp** | 1.9.8 | C++ library for interacting with JSON | https://github.com/open-source-parsers/jsoncpp |
 | **jsoncpp-static** | 1.9.8 | Static libraries for jsoncpp | https://github.com/open-source-parsers/jsoncpp |
 | **jujutsu** | 0.45.1 | A Git-compatible VCS that is both simple and powerful | https://jj-vcs.github.io/jj/ |
-| **jump** | 0.51.0-3 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
+| **jump** | 0.69.0 | Jump helps you navigate in shell faster by learning your habits | https://github.com/gsamokovarov/jump |
 | **jupp** | 3.1jupp41-4 | User friendly full screen text editor | http://www.mirbsd.org/jupp.htm |
 | **just** | 1.58.0 | A handy way to save and run project-specific commands | https://just.systems |
 | **jython** | 2.7.5b1 | Python for the Java Platform | https://www.jython.org/ |
@@ -966,7 +966,7 @@
 | **libandroid-shmem-static** | 0.7 | Static libraries for libandroid-shmem | https://github.com/termux/libandroid-shmem |
 | **libandroid-spawn** | 0.3 | Shared library for the posix_spawn system function | https://man7.org/linux/man-pages/man3/posix_spawn.3.html |
 | **libandroid-spawn-static** | 0.3 | Static libraries for libandroid-spawn | https://man7.org/linux/man-pages/man3/posix_spawn.3.html |
-| **libandroid-stub** | 29-3 | Stub libandroid.so for non-Android certified environment | https://android.googlesource.com/platform/frameworks/base/+/main/native/android |
+| **libandroid-stub** | 30 | Stub libandroid.so for non-Android certified environment | https://android.googlesource.com/platform/frameworks/base/+/main/native/android |
 | **libandroid-support** | 29-1 | Library extending the Android C library (Bionic) for additional multibyte, locale and math support | https://github.com/termux/libandroid-support |
 | **libandroid-support-static** | 29-1 | Static libraries for libandroid-support | https://github.com/termux/libandroid-support |
 | **libandroid-sysv-semaphore** | 0.1-1 | A shared library providing System V semaphores | https://android.googlesource.com/platform/bionic/+/refs/heads/master/libc/bionic/sys_sem.cpp |
@@ -1010,7 +1010,7 @@
 | **libburn** | 1.5.8 | Library for reading, mastering and writing optical discs | https://dev.lovelyhq.com/libburnia |
 | **libburn-static** | 1.5.8 | Static libraries for libburn | https://dev.lovelyhq.com/libburnia |
 | **libbz2** | 1.0.8-8 | BZ2 format compression library | http://www.bzip.org/ |
-| **libc++** | 29 | C++ Standard Library | https://libcxx.llvm.org/ |
+| **libc++** | 30 | C++ Standard Library | https://libcxx.llvm.org/ |
 | **libc++utilities** | 5.36.0 | Useful C++ classes and routines such as argument parser, IO and conversion utilities | https://github.com/Martchus/cpp-utilities |
 | **libc-client** | 2007f-4 | UW IMAP c-client library | https://www.washington.edu/imap/ |
 | **libc-client-static** | 2007f-4 | Static libraries for libc-client | https://www.washington.edu/imap/ |
@@ -1252,8 +1252,8 @@
 | **liblangtag-static** | 0.6.8 | Static libraries for liblangtag | https://gitlab.com/tagoh/liblangtag |
 | **liblightning** | 2.2.3-1 | A library to aid in making portable programs that compile assembly code at run time | https://www.gnu.org/software/lightning/ |
 | **liblightning-static** | 2.2.3-1 | Static libraries for liblightning | https://www.gnu.org/software/lightning/ |
-| **libliquid-dsp** | 1.7.0-2 | Software-defined radio digital signal processing library | https://liquidsdr.org/ |
-| **libliquid-dsp-static** | 1.7.0-2 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
+| **libliquid-dsp** | 1.8.2 | Software-defined radio digital signal processing library | https://liquidsdr.org/ |
+| **libliquid-dsp-static** | 1.8.2 | Static libraries for libliquid-dsp | https://liquidsdr.org/ |
 | **libllvm** | 21.1.8-3 | Modular compiler and toolchain technologies library | https://clang.llvm.org/ |
 | **libllvm-static** | 21.1.8-3 | Static libraries for libllvm | https://clang.llvm.org/ |
 | **liblmdb** | 1.0.2 | LMDB implements a simplified variant of the BerkeleyDB (BDB) API | https://symas.com/lmdb/ |
@@ -1393,8 +1393,8 @@
 | **liborcus** | 0.21.0-2 | File import filter library for spreadsheet documents. | https://gitlab.com/orcus/orcus/ |
 | **liborcus-static** | 0.21.0-2 | Static libraries for liborcus | https://gitlab.com/orcus/orcus/ |
 | **libosmium** | 2.23.1-1 | Library for reading from and writing to OSM files in XML and PBF formats | https://osmcode.org/libosmium/ |
-| **libosmpbf** | 1.5.1-4 | osmpbf is a Java/C library to read and write OpenStreetMap PBF files | https://github.com/openstreetmap/OSM-binary/ |
-| **libosmpbf-static** | 1.5.1-4 | Static libraries for libosmpbf | https://github.com/openstreetmap/OSM-binary/ |
+| **libosmpbf** | 1.8.0 | osmpbf is a Java/C library to read and write OpenStreetMap PBF files | https://github.com/openstreetmap/OSM-binary/ |
+| **libosmpbf-static** | 1.8.0 | Static libraries for libosmpbf | https://github.com/openstreetmap/OSM-binary/ |
 | **libotr** | 4.1.1-3 | Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy | https://otr.cypherpunks.ca |
 | **libotr-static** | 4.1.1-3 | Static libraries for libotr | https://otr.cypherpunks.ca |
 | **libowfat** | 0.33-1 | GPL reimplementation of libdjb | http://www.fefe.de/libowfat/ |
@@ -1437,7 +1437,7 @@
 | **libprotobuf** | 2:35.1 | Protocol buffers C++ library | https://github.com/protocolbuffers/protobuf |
 | **libprotobuf-c** | 1.5.2-4 | Protocol buffers C library | https://github.com/protobuf-c/protobuf-c |
 | **libprotobuf-c-static** | 1.5.2-4 | Static libraries for libprotobuf-c | https://github.com/protobuf-c/protobuf-c |
-| **libprotozero** | 1.8.0 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
+| **libprotozero** | 1.8.2 | Minimalistic protocol buffer decoder and encoder in C++ | https://github.com/mapbox/protozero |
 | **libpsl** | 0.23.3 | Public Suffix List library | https://github.com/rockdaboot/libpsl |
 | **libpsl-static** | 0.23.3 | Static libraries for libpsl | https://github.com/rockdaboot/libpsl |
 | **libpugixml** | 1.16 | Light-weight, simple and fast XML parser for C++ with XPath support | https://pugixml.org/ |
@@ -1463,6 +1463,7 @@
 | **librevenge-static** | 0.0.5-4 | Static libraries for librevenge | https://sf.net/p/libwpd/librevenge/ |
 | **librime** | 1.17.0-1 | A modular, extensible input method engine in cross-platform C++ code | https://rime.im/ |
 | **librinutils** | 0.10.3 | A C11 / gnu11 utilities C library | https://github.com/shlomif/rinutils |
+| **librist** | 0.2.20 | Library to add the RIST protocol to applications | https://code.videolan.org/rist/librist |
 | **librnnoise** | 0.2-1 | RNN-based noise suppression | https://jmvalin.ca/demo/rnnoise/ |
 | **librnnoise-static** | 0.2-1 | Static libraries for librnnoise | https://jmvalin.ca/demo/rnnoise/ |
 | **librocksdb** | 8.11.3-3 | A persistent key-value store for flash and RAM storage | https://rocksdb.org/ |
@@ -1957,7 +1958,7 @@
 | **ncdu** | 1.22-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncdu2** | 2.9.2-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncftp** | 3.3.0-1 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
-| **nchat** | 5.18.20 | TUI for Telegram and WhatsApp | https://github.com/d99kris/nchat |
+| **nchat** | 5.18.20-1 | TUI for Telegram and WhatsApp | https://github.com/d99kris/nchat |
 | **ncmpcpp** | 0.10.1-9 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
 | **ncompress** | 5.0-1 | The classic unix compression utility which can handle the ancient .Z archive | https://github.com/vapier/ncompress |
 | **ncpamixer** | 1.3.11 | An ncurses mixer for PulseAudio | https://github.com/fulhax/ncpamixer |
@@ -1967,10 +1968,10 @@
 | **ncurses-ui-libs** | 6.6.20260307+really6.5.20250830 | Libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
 | **ncurses-ui-libs-static** | 6.6.20260307+really6.5.20250830 | Static libraries for terminal user interfaces based on ncurses | https://invisible-island.net/ncurses/ |
 | **ncurses-utils** | 6.6.20260307+really6.5.20250830 | Tools for working with terminals | https://invisible-island.net/ncurses/ |
-| **ndk-multilib** | 29-2 | Multilib binaries for cross-compilation | https://developer.android.com/tools/sdk/ndk/index.html |
-| **ndk-multilib-native-static** | 29-2 | Install native static libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
-| **ndk-multilib-native-stubs** | 29-2 | Install native stubs for shared libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
-| **ndk-sysroot** | 29-3 | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-multilib** | 30 | Multilib binaries for cross-compilation | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-multilib-native-static** | 30 | Install native static libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-multilib-native-stubs** | 30 | Install native stubs for shared libs from NDK | https://developer.android.com/tools/sdk/ndk/index.html |
+| **ndk-sysroot** | 30 | System header and library files from the Android NDK needed for compiling C programs | https://developer.android.com/tools/sdk/ndk/index.html |
 | **ne** | 3.3.4-4 | Easy-to-use and powerful text editor | https://ne.di.unimi.it/ |
 | **nelua** | 2024.01.13-1 | Minimal, efficient, statically-typed and meta-programmable systems programming language | https://nelua.io |
 | **neocmakelsp** | 0.11.1 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
@@ -2023,9 +2024,9 @@
 | **numbat** | 1.24.0 | A statically typed programming language for scientific computations with first class support for physical dimensions and units | https://numbat.dev/ |
 | **nushell** | 0.115.1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
-| **nzbget** | 26.1 | The most efficient usenet downloader | https://nzbget.com/ |
-| **oathtool** | 2.6.12-3 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
-| **oathtool-static** | 2.6.12-3 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
+| **nzbget** | 26.3 | The most efficient usenet downloader | https://nzbget.com/ |
+| **oathtool** | 2.6.14 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
+| **oathtool-static** | 2.6.14 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
 | **oci-cli** | 3.94.0 | Command line interface for Oracle Cloud Infrastructure | https://github.com/oracle/oci-cli |
 | **ocl-icd** | 2.3.5 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.29-1 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
@@ -2125,8 +2126,8 @@
 | **parallel** | 20260922 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.4 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.4 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
-| **parted** | 3.6-1 | Versatile partition editor | https://www.gnu.org/software/parted/ |
-| **parted-static** | 3.6-1 | Static libraries for parted | https://www.gnu.org/software/parted/ |
+| **parted** | 3.7 | Versatile partition editor | https://www.gnu.org/software/parted/ |
+| **parted-static** | 3.7 | Static libraries for parted | https://www.gnu.org/software/parted/ |
 | **pass** | 1.7.4-5 | Lightweight directory-based password manager | https://www.passwordstore.org |
 | **pass-otp** | 1.2.0-p20250809-0 | A pass/passage extension for managing one-time-password (OTP) tokens | https://github.com/tadfisher/pass-otp |
 | **passage** | 1.7.4a2-1 | A fork of password-store that uses age as backend | https://github.com/FiloSottile/passage |
@@ -2345,7 +2346,8 @@
 | **qhull-static** | 8.1-alpha3-2 | Static libraries for qhull | http://www.qhull.org |
 | **qpdf** | 12.4.1 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.0-8 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
-| **qrupdate-ng** | 2:1.1.5 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
+| **qrupdate-ng** | 2:1.2.0 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
+| **qrupdate-ng-static** | 2:1.2.0 | Static libraries for qrupdate-ng | https://github.com/mpimd-csc/qrupdate-ng |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs-ng** | 0.17.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
@@ -2354,17 +2356,17 @@
 | **racket-static** | 9.3 | Static libraries for racket | https://racket-lang.org |
 | **radare2** | 6.2.0 | UNIX-like reverse engineering framework and command-line toolset | https://www.radare.org/ |
 | **radarr** | 6.4.4.10685 | A PVR for Usenet and BitTorrent users (server) | https://radarr.video |
-| **rage** | 0.11.2 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
+| **rage** | 0.12.0 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.30.4 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.59.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
 | **ratt** | 2023.02.02-3 | A tool for converting websites to rss/atom feeds | https://git.sr.ht/~ghost08/ratt |
 | **rav1e** | 0.8.1 | An AV1 encoder program focused on speed and safety | https://github.com/xiph/rav1e/ |
-| **ravencoin** | 4.6.1-10 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
-| **ravencoin-static** | 4.6.1-10 | Static libraries for ravencoin | https://ravencoin.org/ |
+| **ravencoin** | 4.8.0 | A peer-to-peer blockchain, handling the efficient creation and transfer of assets from one party to another | https://ravencoin.org/ |
+| **ravencoin-static** | 4.8.0 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.15.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-2 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
 | **rclone** | 1.75.1 | rsync for cloud storage | https://rclone.org/ |
@@ -2541,7 +2543,7 @@
 | **sox** | 14.4.2-29 | Command line utility for converting between and applying effects to various audio files formats | https://sox.sourceforge.net/ |
 | **sox-static** | 14.4.2-29 | Static libraries for sox | https://sox.sourceforge.net/ |
 | **sparsehash** | 2.0.4 | Extremely memory-efficient C++ hash_map implementation | https://github.com/sparsehash/sparsehash |
-| **spatialite-tools** | 5.0.1-5 | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
+| **spatialite-tools** | 5.1.0 | Collection of tools supporting SpatiaLite | https://www.gaia-gis.it/fossil/spatialite-tools |
 | **speechd** | 0.12.1-2 | Common interface to speech synthesis | https://github.com/brailcom/speechd |
 | **speechd-data** | 0.12.1-2 | Platform-independent data for speechd | https://github.com/brailcom/speechd |
 | **speedtest-go** | 1.8.3 | Command line interface to test internet speed using speedtest.net | https://github.com/showwin/speedtest-go/ |
@@ -2572,7 +2574,7 @@
 | **sshpass** | 1.10-1 | Noninteractive ssh password provider | https://sourceforge.net/projects/sshpass/ |
 | **sshping** | 0.1.4-3 | measure character-echo latency and bandwidth for an interactive ssh session | https://github.com/spook/sshping |
 | **sslscan** | 2.2.3 | Utility to discover supported cipher suites on SSL/TLS enabled servers | https://github.com/rbsec/sslscan |
-| **sssnake** | 0.3.2-2 | cli snake game that plays itself | https://github.com/AngelJumbo/sssnake |
+| **sssnake** | 0.4.0 | cli snake game that plays itself | https://github.com/AngelJumbo/sssnake |
 | **ssss** | 0.5.7-1 | Simple command-line implementation of Shamir's Secret Sharing Scheme | https://github.com/MrJoy/ssss |
 | **stag** | 1.0.0-2 | Streaming bar graphs. For stats and stuff. | https://github.com/seenaburns/stag |
 | **starship** | 1.26.0 | A minimal, blazing fast, and extremely customizable prompt for any shell | https://starship.rs |
@@ -2684,7 +2686,7 @@
 | **texlive-bin** | 1:2026.0-2 | TeX Live is a distribution of the TeX typesetting system. This package contains architecture dependent binaries. | https://www.tug.org/texlive/ |
 | **texlive-bin-static** | 1:2026.0-2 | Static libraries for texlive-bin | https://www.tug.org/texlive/ |
 | **texlive-installer** | 20260301 | Wrapper around texlive's install-tl script | https://www.tug.org/texlive/ |
-| **tgpt** | 2.14.0 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
+| **tgpt** | 2.14.0-1 | AI Chatbots in terminal without needing API keys | https://github.com/aandrew-me/tgpt |
 | **thrift** | 0.24.0-1 | Scalable cross-language services framework for IPC/RPC | https://thrift.apache.org |
 | **tidy** | 5.9.14-next-3 | A tool to tidy down your HTML code to a clean style | http://www.html-tidy.org/ |
 | **tidy-static** | 5.9.14-next-3 | Static libraries for tidy | http://www.html-tidy.org/ |
@@ -2852,7 +2854,7 @@
 | **vitetris** | 0.59.1-4 | Virtual terminal *tris clone | http://victornils.net/tetris/ |
 | **viu** | 1.6.1 | Terminal image viewer with native support for iTerm and Kitty | https://github.com/atanunq/viu |
 | **vivid** | 0.11.1 | A themeable LS_COLORS generator with a rich filetype datebase | https://github.com/sharkdp/vivid |
-| **vlc** | 3.0.23-5 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
+| **vlc** | 3.0.24 | A popular libre and open source media player and multimedia engine | https://www.videolan.org/ |
 | **vlc-static** | 3.0.23-5 | Static libraries for vlc | https://www.videolan.org/ |
 | **vobsub2srt** | 2017.12.18-4 | A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR | https://github.com/ruediger/VobSub2SRT |
 | **vorbis-tools** | 1.4.3-1 | Ogg Vorbis tools | https://github.com/xiph/vorbis-tools |
@@ -2862,8 +2864,7 @@
 | **vulkan-headers** | 1.4.363 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1-1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
-| **vulkan-loader-android** | 29 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.363 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-loader-android** | 30 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
 | **vulkan-tools** | 1.4.363 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
 | **vulkan-utility-libraries** | 1.4.363 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.357 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
