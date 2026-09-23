@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.36.50",
+    "Version": "2.37.0",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.171.0",
+    "Version": "1.171.2",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -3139,13 +3139,13 @@
   },
   {
     "Package": "fetchmail",
-    "Version": "6.6.7",
+    "Version": "6.6.8",
     "Description": "A remote-mail retrieval utility",
     "Homepage": "https://www.fetchmail.info/"
   },
   {
     "Package": "fetchmailconf",
-    "Version": "6.6.7",
+    "Version": "6.6.8",
     "Description": "A GUI configurator for generating fetchmail configuration files",
     "Homepage": "https://www.fetchmail.info/"
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.105",
+    "Version": "0.4.106",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4183,7 +4183,7 @@
   },
   {
     "Package": "gopass",
-    "Version": "1.17.2",
+    "Version": "1.17.3",
     "Description": "The slightly more awesome standard unix password manager for teams",
     "Homepage": "https://github.com/gopasspw/gopass"
   },
@@ -4399,7 +4399,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "16.1.0",
+    "Version": "16.1.1",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -5431,7 +5431,7 @@
   },
   {
     "Package": "kew",
-    "Version": "4.3.4",
+    "Version": "4.3.6",
     "Description": "Music for the Shell",
     "Homepage": "https://kewplayer.com"
   },
@@ -11875,7 +11875,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1693+g0f7538c4ab-0",
+    "Version": "0.13.0~dev-1698+g51d7d99fe7-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12091,7 +12091,7 @@
   },
   {
     "Package": "npm",
-    "Version": "11.19.1",
+    "Version": "11.20.0",
     "Description": "The package manager for JavaScript",
     "Homepage": "https://docs.npmjs.com/cli/"
   },
@@ -12745,7 +12745,7 @@
   },
   {
     "Package": "parallel",
-    "Version": "20260822",
+    "Version": "20260922",
     "Description": "GNU Parallel is a shell tool for executing jobs in parallel using one or more machines",
     "Homepage": "https://www.gnu.org/software/parallel/"
   },
@@ -13393,7 +13393,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.92",
+    "Version": "5.1.107.94",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -14323,7 +14323,7 @@
   },
   {
     "Package": "redis",
-    "Version": "1:8.10.0",
+    "Version": "1:8.10.2",
     "Description": "In-memory data structure store used as a database, cache and message broker",
     "Homepage": "https://redis.io/"
   },
@@ -14623,7 +14623,7 @@
   },
   {
     "Package": "rust",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -14641,79 +14641,79 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Component files for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Component files for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Component files for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Component files for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Component files for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Component files for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip3",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Component files for target wasm32-wasip3",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32v1-none",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Component files for target wasm32v1-none",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Component files for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.98.1",
+    "Version": "1.98.1-1",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -16873,7 +16873,7 @@
   },
   {
     "Package": "usql",
-    "Version": "0.21.5",
+    "Version": "0.21.6",
     "Description": "A universal command-line interface for SQL databases",
     "Homepage": "https://github.com/xo/usql"
   },
@@ -16933,7 +16933,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.17",
+    "Version": "0.12.18",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
