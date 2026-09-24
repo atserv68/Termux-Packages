@@ -841,7 +841,7 @@
   },
   {
     "Package": "beanshell",
-    "Version": "2.1.1-1",
+    "Version": "3.0.0b1",
     "Description": "Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java",
     "Homepage": "https://github.com/beanshell/beanshell"
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.106",
+    "Version": "0.4.107",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -14167,7 +14167,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.61.0",
+    "Version": "5.62.0",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -14293,13 +14293,13 @@
   },
   {
     "Package": "recode",
-    "Version": "3.7.15-1",
+    "Version": "3.7.16",
     "Description": "Charset converter tool and library",
     "Homepage": "https://github.com/pinard/Recode"
   },
   {
     "Package": "recode-static",
-    "Version": "3.7.15-1",
+    "Version": "3.7.16",
     "Description": "Static libraries for recode",
     "Homepage": "https://github.com/pinard/Recode"
   },
@@ -16633,7 +16633,7 @@
   },
   {
     "Package": "tuicr",
-    "Version": "0.26.0",
+    "Version": "0.27.0",
     "Description": "A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard",
     "Homepage": "https://github.com/agavra/tuicr"
   },

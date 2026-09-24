@@ -138,7 +138,7 @@
  bcal  2.5  Command-line utility for storage conversions and calculations  https://github.com/jarun/bcal 
  bchunk  1.2.2  Tool to convert .bin + .cue files to .iso files  http://he.fi/bchunk/ 
  bdsup2sub  4.0.1-1  A subtitle conversion tool for image based stream formats  https://github.com/mjuhasz/BDSup2Sub 
- beanshell  2.1.1-1  Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java  https://github.com/beanshell/beanshell 
+ beanshell  3.0.0b1  Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java  https://github.com/beanshell/beanshell 
  bear  4.2.2  Bear is a tool that generates a compilation database for clang tooling.  https://github.com/rizsotto/Bear 
  bed  0.2.8  Binary editor written in GO  https://github.com/itchyny/bed 
  bftpd  6.6  Small, easy-to-configure FTP server  https://bftpd.sourceforge.net/ 
@@ -545,7 +545,7 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0-2  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.6.1  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.106  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.107  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.3  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -2359,7 +2359,7 @@
  rage  0.12.1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  5.61.0  This is the command line interface for Railway  https://railway.app 
+ railway-cli  5.62.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-2  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2380,8 +2380,8 @@
  re2c  4.6  Lexer generator for C, C++ and Go.  https://re2c.org/ 
  readline  8.3.6  Library that allow users to edit command lines as they are typed in  https://tiswww.case.edu/php/chet/readline/rltop.html 
  readline-static  8.3.6  Static libraries for readline  https://tiswww.case.edu/php/chet/readline/rltop.html 
- recode  3.7.15-1  Charset converter tool and library  https://github.com/pinard/Recode 
- recode-static  3.7.15-1  Static libraries for recode  https://github.com/pinard/Recode 
+ recode  3.7.16  Charset converter tool and library  https://github.com/pinard/Recode 
+ recode-static  3.7.16  Static libraries for recode  https://github.com/pinard/Recode 
  recoll  1.44.2  Full-text search for your desktop  https://www.recoll.org/ 
  recoll-python  1.44.2  Python interface for Recoll  https://www.recoll.org/ 
  recutils  1.9-1  Set of tools and libraries to access human-editable, plain text databases called recfiles  https://www.gnu.org/software/recutils/ 
@@ -2770,7 +2770,7 @@
  ttyplot  1.7.6  A realtime plotting utility for terminal with data input from stdin  https://github.com/tenox7/ttyplot 
  ttyrec  1.0.8-8  Terminal recorder and player  http://0xcc.net/ttyrec/ 
  tudo  1.2.0  A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app  https://github.com/agnostic-apollo/tudo 
- tuicr  0.26.0  A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard  https://github.com/agavra/tuicr 
+ tuicr  0.27.0  A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard  https://github.com/agavra/tuicr 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
  turbo  2.10.0  High-performance build system for JS/TS  https://turborepo.dev/ 
  turbopack  16.3.6  Rust-based incremental compilation engine and bundler for Next.js  https://nextjs.org/ 
