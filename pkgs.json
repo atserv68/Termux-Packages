@@ -727,7 +727,7 @@
   },
   {
     "Package": "azure-dev-cli",
-    "Version": "1.34.1",
+    "Version": "1.34.2",
     "Description": "Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)",
     "Homepage": "https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/"
   },
@@ -5281,7 +5281,7 @@
   },
   {
     "Package": "joe",
-    "Version": "4.6-5",
+    "Version": "4.8",
     "Description": "Wordstar like text editor",
     "Homepage": "http://joe-editor.sourceforge.net"
   },
@@ -5497,7 +5497,7 @@
   },
   {
     "Package": "kubectl",
-    "Version": "1.37.0",
+    "Version": "1.37.1",
     "Description": "Kubernetes.io client binary",
     "Homepage": "https://kubernetes.io/"
   },
@@ -6823,13 +6823,13 @@
   },
   {
     "Package": "libfreehand",
-    "Version": "0.1.3",
+    "Version": "0.1.4",
     "Description": "a library for import of Aldus/Macromedia/Adobe FreeHand documents",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libfreehand"
   },
   {
     "Package": "libfreehand-static",
-    "Version": "0.1.3",
+    "Version": "0.1.4",
     "Description": "Static libraries for libfreehand",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libfreehand"
   },
@@ -7675,8 +7675,14 @@
   },
   {
     "Package": "libmariadbcpp",
-    "Version": "1.1.2-1",
+    "Version": "1.1.8",
     "Description": "Enables C++ applications to establish client connections to MariaDB Enterprise over TLS",
+    "Homepage": "https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/"
+  },
+  {
+    "Package": "libmariadbcpp-static",
+    "Version": "1.1.8",
+    "Description": "Static libraries for libmariadbcpp",
     "Homepage": "https://mariadb.com/docs/clients/mariadb-connectors/connector-cpp/"
   },
   {
@@ -7945,13 +7951,13 @@
   },
   {
     "Package": "libmspub",
-    "Version": "0.1.4-5",
+    "Version": "0.1.5",
     "Description": "Microsoft Publisher file format parser library (latest snapshot)",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
   },
   {
     "Package": "libmspub-static",
-    "Version": "0.1.4-5",
+    "Version": "0.1.5",
     "Description": "Static libraries for libmspub",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libcdr"
   },
@@ -7975,13 +7981,13 @@
   },
   {
     "Package": "libmwaw",
-    "Version": "0.3.22-1",
+    "Version": "0.3.23",
     "Description": "Import library for some old mac text documents.",
     "Homepage": "https://sourceforge.net/projects/libmwaw/"
   },
   {
     "Package": "libmwaw-static",
-    "Version": "0.3.22-1",
+    "Version": "0.3.23",
     "Description": "Static libraries for libmwaw",
     "Homepage": "https://sourceforge.net/projects/libmwaw/"
   },
@@ -10939,13 +10945,13 @@
   },
   {
     "Package": "mbedtls",
-    "Version": "3.6.4-2",
+    "Version": "3.6.7",
     "Description": "Light-weight cryptographic and SSL/TLS library",
     "Homepage": "https://www.trustedfirmware.org/projects/mbed-tls/"
   },
   {
     "Package": "mbedtls-static",
-    "Version": "3.6.4-2",
+    "Version": "3.6.7",
     "Description": "Static libraries for mbedtls",
     "Homepage": "https://www.trustedfirmware.org/projects/mbed-tls/"
   },
@@ -11881,7 +11887,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1698+g51d7d99fe7-0",
+    "Version": "0.13.0~dev-1708+gac1a06021d-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -14167,7 +14173,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.62.0",
+    "Version": "5.62.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -16165,7 +16171,7 @@
   },
   {
     "Package": "time",
-    "Version": "1.9-1",
+    "Version": "1.10",
     "Description": "GNU time program for measuring CPU resource usage",
     "Homepage": "https://www.gnu.org/software/time/"
   },
@@ -17329,7 +17335,7 @@
   },
   {
     "Package": "wdiff",
-    "Version": "1.2.2-2",
+    "Version": "1.2.3",
     "Description": "Display word differences between text files",
     "Homepage": "https://www.gnu.org/software/wdiff/"
   },
