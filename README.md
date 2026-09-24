@@ -128,7 +128,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.37.0 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.37.1 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **azure-cli** | 2.90.0-1 | Microsoft's command-line tool for managing Azure cloud resources | https://learn.microsoft.com/en-us/cli/azure/ |
 | **azure-dev-cli** | 1.34.2 | Developer-centric CLI for creating, provisioning and deploying Azure applications (azd) | https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ |
@@ -603,10 +603,10 @@
 | **gcab** | 1.6-1 | GObject library to create cabinet files | https://gitlab.gnome.org/GNOME/gcab |
 | **gcal** | 4.1-4 | Program for calculating and printing calendars | https://www.gnu.org/software/gcal/ |
 | **gdal** | 3.13.3 | A translator library for raster and vector geospatial data formats | https://gdal.org |
-| **gdb** | 16.3-4 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
+| **gdb** | 17.2 | The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages | https://www.gnu.org/software/gdb/ |
 | **gdbm** | 1.26-1 | Library of database functions that use extensible hashing | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
-| **gdbserver** | 16.3-4 | The gdbserver program | https://www.gnu.org/software/gdb/ |
+| **gdbserver** | 17.2 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.44.8 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
 | **gdu** | 5.37.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.37.1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
@@ -701,7 +701,7 @@
 | **golang** | 3:1.27.1 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.27.1 | Go programming language - documentation | https://go.dev/ |
 | **golang-migrate** | 4.20.1 | Database migrations. CLI and Golang library | https://github.com/golang-migrate/migrate |
-| **golangci-lint** | 2.13.2-1 | Fast linters runner for Go, aggregating many Go linters into one tool | https://golangci-lint.run/ |
+| **golangci-lint** | 2.14.0 | Fast linters runner for Go, aggregating many Go linters into one tool | https://golangci-lint.run/ |
 | **gomp** | 2023.02.02-3 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
 | **gomuks** | 26.09 | A terminal Matrix client written in Go | https://go.mau.fi/gomuks |
 | **google-glog** | 0.7.1-2 | Logging library for C++ | https://github.com/google/glog |
@@ -761,7 +761,7 @@
 | **gtypist** | 2.10.1-1 | Universal typing tutor | https://www.gnu.org/software/gtypist/ |
 | **guile** | 3.0.11-1 | Portable, embeddable Scheme implementation written in C | http://www.gnu.org/software/guile/ |
 | **guile-static** | 3.0.11-1 | Static libraries for guile | http://www.gnu.org/software/guile/ |
-| **gum** | 2.0.1 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
+| **gum** | 2.0.2 | A tool for creating minimal interactive TUIs for shell scripts | https://github.com/charmbracelet/gum |
 | **gumbo-parser** | 0.10.1-1 | An HTML5 parsing library | https://github.com/google/gumbo-parser |
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gurk** | 0.10.1 | Signal messenger client for terminal | https://github.com/boxdot/gurk-rs |
@@ -845,7 +845,7 @@
 | **immer** | 0.9.1 | Postmodern immutable and persistent data structures for C++ | https://sinusoid.es/immer |
 | **indent** | 2.2.13-1 | C language source code formatting program | https://www.gnu.org/software/indent/ |
 | **indi** | 2.2.4.2 | Astronomical instrumentation control | https://www.indilib.org |
-| **inetutils** | 2.7 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
+| **inetutils** | 2.8 | Collection of common network programs | https://www.gnu.org/software/inetutils/ |
 | **influxdb** | 1.8.10-4 | An open source time series database with no external dependencies | https://www.influxdata.com/ |
 | **innoextract** | 1.9-11 | A tool to unpack installers created by Inno Setup | https://constexpr.org/innoextract/ |
 | **inotify-tools** | 4.25.9.0 | Programs providing a simple interface to inotify | https://github.com/rvoicilas/inotify-tools/wiki |
@@ -937,8 +937,8 @@
 | **lcal** | 2.1.0-1 | A multi-platform program which generates PostScript lunar calendars in a yearly format | https://pcal.sourceforge.net/ |
 | **ldc** | 1.30.0-3 | D programming language compiler, built with LLVM | https://github.com/ldc-developers/ldc |
 | **ldd** | 0.3-2 | Fake ldd command | https://github.com/termux/termux-packages |
-| **ldns** | 1.8.4-1 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
-| **ldns-static** | 1.8.4-1 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
+| **ldns** | 1.9.2 | Library for simplifying DNS programming and supporting recent and experimental RFCs | https://www.nlnetlabs.nl/projects/ldns/ |
+| **ldns-static** | 1.9.2 | Static libraries for ldns | https://www.nlnetlabs.nl/projects/ldns/ |
 | **ledger** | 3.4.1-4 | Powerful, double-entry accounting system | https://www.ledger-cli.org |
 | **lego** | 5.5.2 | Let's Encrypt/ACME client and library written in Go | https://github.com/go-acme/lego |
 | **lensfun** | 0.3.4-1 | Lensfun | https://lensfun.github.io/ |
@@ -1010,7 +1010,7 @@
 | **libblocksruntime** | 1:6.3.3 | LLVM Blocks runtime library | https://github.com/swiftlang/swift-corelibs-libdispatch |
 | **libblosc** | 1.21.6-2 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libblosc-static** | 1.21.6-2 | Static libraries for libblosc | https://www.blosc.org |
-| **libblosc2** | 3.3.4 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
+| **libblosc2** | 3.3.5 | A blocking, shuffling and loss-less compression library | https://www.blosc.org |
 | **libbluray** | 1.5.1 | An open-source library designed for Blu-Ray Discs playback for media players | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-static** | 1.5.1 | Static libraries for libbluray | https://code.videolan.org/videolan/libbluray/ |
 | **libbluray-utils** | 1.5.1 | Example utilities for libbluray | https://code.videolan.org/videolan/libbluray/ |
@@ -2139,8 +2139,8 @@
 | **parallel** | 20260922 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
 | **pari** | 2.17.4 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
 | **pari-static** | 2.17.4 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
-| **parted** | 3.7 | Versatile partition editor | https://www.gnu.org/software/parted/ |
-| **parted-static** | 3.7 | Static libraries for parted | https://www.gnu.org/software/parted/ |
+| **parted** | 3.8 | Versatile partition editor | https://www.gnu.org/software/parted/ |
+| **parted-static** | 3.8 | Static libraries for parted | https://www.gnu.org/software/parted/ |
 | **pass** | 1.7.4-5 | Lightweight directory-based password manager | https://www.passwordstore.org |
 | **pass-otp** | 1.2.0-p20250809-0 | A pass/passage extension for managing one-time-password (OTP) tokens | https://github.com/tadfisher/pass-otp |
 | **passage** | 1.7.4a2-1 | A fork of password-store that uses age as backend | https://github.com/FiloSottile/passage |
@@ -2524,7 +2524,7 @@
 | **simdjson** | 4.6.11 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
-| **sing-box** | 1.14.1 | The universal proxy platform | https://sing-box.sagernet.org |
+| **sing-box** | 1.14.2 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skalibs** | 2.15.1.0 | A set of general-purpose C programming libraries | https://skarnet.org/software/skalibs/ |
 | **skalibs-static** | 2.15.1.0 | Static libraries for skalibs | https://skarnet.org/software/skalibs/ |
 | **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
@@ -2725,6 +2725,7 @@
 | **tmux** | 3.7c-1 | Terminal multiplexer | https://tmux.github.io/ |
 | **toilet** | 0.3-3 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
 | **tokei** | 15.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
+| **tomcat** | 11.0.26 | Open source implementation of the Jakarta Servlet, Pages and WebSocket technologies | https://tomcat.apache.org/ |
 | **tome2** | 2025.12.13-2 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 17.12.1 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
@@ -2804,7 +2805,7 @@
 | **ugrep** | 7.8.5 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.26.1 | Unbound command-line tools | https://unbound.net/ |
-| **unicode-cldr** | 48.1 | Unicode Common Locale Data Repository | http://cldr.unicode.org/ |
+| **unicode-cldr** | 48.2 | Unicode Common Locale Data Repository | http://cldr.unicode.org/ |
 | **unicode-data** | 18.0.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
 | **unicode-emoji** | 17.0.0 | Unicode Emoji Data Files | https://unicode.org/emoji/ |
 | **unicorn** | 2.1.4 | Unicorn is a lightweight multi-platform, multi-architecture CPU emulator framework | https://www.unicorn-engine.org/ |
@@ -2855,7 +2856,7 @@
 | **vera** | 1.3.0-10 | A programmable tool for verification, analysis and transformation of C++ source code | https://bitbucket.org/verateam/vera |
 | **vgmstream** | 2117 | A library for playback of various streamed audio formats used in video games | https://github.com/vgmstream/vgmstream |
 | **vgmtools** | 2023.01.27-1 | A collection of tools for the VGM file format | https://github.com/vgmrips/vgmtools |
-| **vhs** | 0.12.0-1 | Your CLI home video recorder | https://github.com/charmbracelet/vhs |
+| **vhs** | 0.12.1 | Your CLI home video recorder | https://github.com/charmbracelet/vhs |
 | **viddy** | 1.3.1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.4-1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
