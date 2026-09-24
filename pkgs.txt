@@ -266,7 +266,7 @@
  clinfo  3.0.25.02.14-1  Print all known information about all available OpenCL platforms and devices in the system  https://github.com/Oblomov/clinfo 
  clipp  1.2.3-1  Command line interfaces for modern C++  https://github.com/muellan/clipp 
  cloneit  20250722  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
- cloudflared  2026.9.1  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
+ cloudflared  2026.9.3  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
  clpeak  1.1.7  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
  clucene  2.3.3.4-8  C++ port of the high-performance text search engine Lucene  http://clucene.sourceforge.net/ 
  clvk  0.0.20260707.165306  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
@@ -389,7 +389,7 @@
  docopt  0.6.3-4  Command line arguments parser for C++11 and later  http://docopt.org 
  docopt-static  0.6.3-4  Static libraries for docopt  http://docopt.org 
  doctest  2.5.3  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
- doctl  1.173.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
+ doctl  1.174.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
  doge  0.2.9  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
  doggo  1.4.0  Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt  https://github.com/mr-karan/doggo 
  dopewars  1.6.2-1  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
@@ -582,7 +582,7 @@
  gap  4.16.1  GAP is a system for computational discrete algebra, with particular emphasis on Computational Group Theory  https://www.gap-system.org/ 
  gap-packages  4.16.1  Packages for gap  https://www.gap-system.org/ 
  garage  2.4.1  S3-compatible object store for small self-hosted geo-distributed deployments  https://garagehq.deuxfleurs.fr/ 
- gatling  0.16-2  A high performance http, ftp and smb server  https://www.fefe.de/gatling/ 
+ gatling  0.16-3  A high performance http, ftp and smb server  https://www.fefe.de/gatling/ 
  gauche  0.9.15-3  An R7RS Scheme implementation developed to be a handy script interpreter  https://practical-scheme.net/gauche/ 
  gauche-static  0.9.15-3  Static libraries for gauche  https://practical-scheme.net/gauche/ 
  gawk  5.3.2  Programming language designed for text processing  https://www.gnu.org/software/gawk/ 
@@ -610,7 +610,7 @@
  geth-utils  1.17.6  Additional utilities for Geth (like abigen, bootnode, evm, puppeth)  https://geth.ethereum.org/ 
  gettext  1.0  GNU Internationalization utilities  https://www.gnu.org/software/gettext/ 
  gettext-static  1.0  Static libraries for gettext  https://www.gnu.org/software/gettext/ 
- gexiv2  0.14.6-1  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
+ gexiv2  0.14.7  A GObject-based Exiv2 wrapper  https://wiki.gnome.org/Projects/gexiv2 
  gflags  2.3.1  A C++ library that implements commandline flags processing  https://github.com/gflags/gflags 
  gflags-static  2.3.1  Static libraries for gflags  https://github.com/gflags/gflags 
  gforth  0.7.3-3  The Forth implementation of the GNU project  https://www.gnu.org/software/gforth/ 
@@ -696,7 +696,7 @@
  googletest  1.18.0  Google C++ testing framework  https://github.com/google/googletest 
  goose  3.28.0  A database migration tool. Supports SQL migrations and Go functions.  https://pressly.github.io/goose 
  gopass  1.17.3  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
- gopher  3.0.17.3-2  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
+ gopher  3.0.19  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
  gopls  0.23.0  The official Go language server  https://github.com/golang/tools 
  goreleaser  2.18.2  Deliver Go binaries as fast and easily as possible  https://goreleaser.com 
  goresym  3.4.1  Go symbol recovery tool  https://github.com/mandiant/GoReSym 
@@ -718,7 +718,7 @@
  gpgv  2.5.17  GNU privacy guard - signature verification tool  https://www.gnupg.org/ 
  gping  1.21.0  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-3  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
- gradle  1:9.7.1-1  Powerful build system for the JVM  https://gradle.org/ 
+ gradle  1:9.8.0  Powerful build system for the JVM  https://gradle.org/ 
  grafana  1:12.3.3-1  The open-source platform for monitoring and observability  https://grafana.com/ 
  grap  1.49  Language for typesetting graphs  https://www.lunabase.org/~faber/Vault/software/grap/ 
  graphene  1.10.8-3  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
@@ -764,7 +764,7 @@
  hash-slinger  3.6  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-9  Programs to compute hashsums of arbitrary number of files recursively  https://md5deep.sourceforge.net/ 
  hcl  2.25.0  A toolkit for creating structured configuration languages  https://github.com/hashicorp/hcl 
- hcloud  1.68.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
+ hcloud  1.69.0  Hetzner Cloud command line client  https://github.com/hetznercloud/cli 
  helix  25.07.1-2  A post-modern modal text editor written in rust  https://helix-editor.com/ 
  helix-grammars  25.07.1-2  Helix grammars  https://helix-editor.com/ 
  hello  2.12.3-1  Prints a friendly greeting  https://www.gnu.org/software/hello/ 
@@ -833,7 +833,7 @@
  immer  0.9.1  Postmodern immutable and persistent data structures for C++  https://sinusoid.es/immer 
  indent  2.2.13-1  C language source code formatting program  https://www.gnu.org/software/indent/ 
  indi  2.2.4.2  Astronomical instrumentation control  https://www.indilib.org 
- inetutils  2.8  Collection of common network programs  https://www.gnu.org/software/inetutils/ 
+ inetutils  2.8-1  Collection of common network programs  https://www.gnu.org/software/inetutils/ 
  influxdb  1.8.10-4  An open source time series database with no external dependencies  https://www.influxdata.com/ 
  innoextract  1.9-11  A tool to unpack installers created by Inno Setup  https://constexpr.org/innoextract/ 
  inotify-tools  4.25.9.0  Programs providing a simple interface to inotify  https://github.com/rvoicilas/inotify-tools/wiki 
@@ -860,8 +860,8 @@
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
  jackett  0.24.2627  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
- jadx  1.5.5  Dex to Java decompiler  https://github.com/skylot/jadx 
- jadx-x  1.5.5  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
+ jadx  1.5.6  Dex to Java decompiler  https://github.com/skylot/jadx 
+ jadx-x  1.5.6  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.42.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
  jbig2dec  0.20-2  Decoder implementation of the JBIG2 image compression format  https://jbig2dec.com/ 
  jbig2dec-static  0.20-2  Static libraries for jbig2dec  https://jbig2dec.com/ 
@@ -940,8 +940,8 @@
  lf  42  Terminal file manager  https://github.com/gokcehan/lf 
  lfortran  0.66.0  A modern open-source interactive Fortran compiler  https://lfortran.org/ 
  lfortran-static  0.66.0  Static libraries for lfortran  https://lfortran.org/ 
- lftp  4.9.2-7  FTP/HTTP client and file transfer program  https://lftp.tech/ 
- lftp-static  4.9.2-7  Static libraries for lftp  https://lftp.tech/ 
+ lftp  4.9.3  FTP/HTTP client and file transfer program  https://lftp.tech/ 
+ lftp-static  4.9.3  Static libraries for lftp  https://lftp.tech/ 
  lgogdownloader  3.19  Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader  https://sites.google.com/site/gogdownloader/ 
  lhasa  0.6.0  LHA compressor/decompressor  https://lhasa.soulsphere.org/ 
  lhasa-static  0.6.0  Static libraries for lhasa  https://lhasa.soulsphere.org/ 
@@ -1092,8 +1092,8 @@
  libdvdread-static  7.1.1  Static libraries for libdvdread  https://code.videolan.org/videolan/libdvdread 
  libdw  0.196  Library to read DWARF information  https://sourceware.org/elfutils/ 
  libdw-static  0.196  Static library to read DWARF information  https://sourceware.org/elfutils/ 
- libdwarf  2.3.2  Library for handling DWARF Debugging Information Format  https://www.prevanders.net/dwarf.html 
- libdwarf-static  2.3.2  Static libraries for libdwarf  https://www.prevanders.net/dwarf.html 
+ libdwarf  2.3.3  Library for handling DWARF Debugging Information Format  https://www.prevanders.net/dwarf.html 
+ libdwarf-static  2.3.3  Static libraries for libdwarf  https://www.prevanders.net/dwarf.html 
  libe-book  0.1.4  Library for import of reflowable e-book formats.  https://sourceforge.net/projects/libebook/ 
  libe-book-static  0.1.4  Static libraries for libe-book  https://sourceforge.net/projects/libebook/ 
  libebml  1.4.7  Extensible Binary Meta Language library  https://github.com/Matroska-Org/libebml 
@@ -1398,7 +1398,7 @@
  libosmpbf-static  1.8.0  Static libraries for libosmpbf  https://github.com/openstreetmap/OSM-binary/ 
  libotr  4.1.1-3  Off-the-Record (OTR) Messaging allows you to have private conversations over instant messaging by providing: Encryption, Authentication, Deniability, Perfect forward secrecy  https://otr.cypherpunks.ca 
  libotr-static  4.1.1-3  Static libraries for libotr  https://otr.cypherpunks.ca 
- libowfat  0.33-1  GPL reimplementation of libdjb  http://www.fefe.de/libowfat/ 
+ libowfat  0.34  GPL reimplementation of libdjb  http://www.fefe.de/libowfat/ 
  libp11  0.4.21  PKCS#11 wrapper library  https://github.com/OpenSC/libp11 
  libp8-platform  2.2.0  Platform support library used by libCEC and binary add-ons for Kodi  https://github.com/Pulse-Eight/platform 
  libpagemaker  0.0.4-4  a library that parses the file format of Aldus/Adobe PageMaker documents  https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker 
@@ -2346,7 +2346,7 @@
  qhull  8.1-alpha3-2  Calculate convex hulls and related structures  http://www.qhull.org 
  qhull-static  8.1-alpha3-2  Static libraries for qhull  http://www.qhull.org 
  qpdf  12.4.1  Content-Preserving PDF Transformation System  http://qpdf.sourceforge.net 
- qrsspig  0.8.0-8  Headless QRSS grabber for Raspberry Pi's  https://gitlab.com/hb9fxx/qrsspig 
+ qrsspig  0.8.1  Headless QRSS grabber for Raspberry Pi's  https://gitlab.com/hb9fxx/qrsspig 
  qrupdate-ng  2:1.2.0  A Library for Fast Updating of QR and Cholesky Decompositions.  https://github.com/mpimd-csc/qrupdate-ng 
  qrupdate-ng-static  2:1.2.0  Static libraries for qrupdate-ng  https://github.com/mpimd-csc/qrupdate-ng 
  quick-lint-js  3.2.0-1  Finds bugs in JavaScript programs  https://quick-lint-js.com/ 
@@ -2783,7 +2783,7 @@
  twolame  0.4.0-1  The frontend for libtwolame  https://www.twolame.org/ 
  txikijs  1:26.6.0  A small and powerful JavaScript runtime  https://github.com/saghul/txiki.js 
  txr  302  Data munging language and pattern matching tool  https://www.nongnu.org/txr/ 
- ty  0.0.83  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
+ ty  0.0.84  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
  typst  0.15.1  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
  typstfmt  0.2.10-1  basic formatter for the Typst language  https://github.com/astrale-sharp/typstfmt 
  uchardet  0.0.8-2  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 
@@ -2860,13 +2860,14 @@
  vlc-static  3.0.23-5  Static libraries for vlc  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-4  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3-1  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2026.07.30  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2026.09.25  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vulkan-extension-layer  1.4.363  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
  vulkan-headers  1.4.363  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
  vulkan-icd  0.1-1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  30  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
+ vulkan-loader-generic  1.4.363-1  Vulkan Loader  https://github.com/KhronosGroup/Vulkan-Loader 
  vulkan-tools  1.4.363  Vulkan Tools and Utilities  https://github.com/KhronosGroup/Vulkan-Tools 
  vulkan-utility-libraries  1.4.363  Utility Libraries for Vulkan  https://github.com/KhronosGroup/Vulkan-Utility-Libraries 
  vulkan-validation-layers  1.4.357  Vulkan Validation Layers  https://github.com/KhronosGroup/Vulkan-ValidationLayers 
@@ -2874,7 +2875,7 @@
  w3m  0.5.6-2  Text based Web browser and pager  https://git.sr.ht/~rkta/w3m 
  w3m-img  0.5.6-2  Inline image extension support utilities for w3m  https://git.sr.ht/~rkta/w3m 
  wabt  1.0.42  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  2.26.6  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  2.26.7  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  34+really33  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 

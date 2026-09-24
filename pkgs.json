@@ -1609,7 +1609,7 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.9.1",
+    "Version": "2026.9.3",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
@@ -2347,7 +2347,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.173.0",
+    "Version": "1.174.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -3505,7 +3505,7 @@
   },
   {
     "Package": "gatling",
-    "Version": "0.16-2",
+    "Version": "0.16-3",
     "Description": "A high performance http, ftp and smb server",
     "Homepage": "https://www.fefe.de/gatling/"
   },
@@ -3673,7 +3673,7 @@
   },
   {
     "Package": "gexiv2",
-    "Version": "0.14.6-1",
+    "Version": "0.14.7",
     "Description": "A GObject-based Exiv2 wrapper",
     "Homepage": "https://wiki.gnome.org/Projects/gexiv2"
   },
@@ -4189,7 +4189,7 @@
   },
   {
     "Package": "gopher",
-    "Version": "3.0.17.3-2",
+    "Version": "3.0.19",
     "Description": "University of Minnesota gopher",
     "Homepage": "gopher://gopher.quux.org/1/devel/gopher"
   },
@@ -4321,7 +4321,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:9.7.1-1",
+    "Version": "1:9.8.0",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -4597,7 +4597,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.68.0",
+    "Version": "1.69.0",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
@@ -5011,7 +5011,7 @@
   },
   {
     "Package": "inetutils",
-    "Version": "2.8",
+    "Version": "2.8-1",
     "Description": "Collection of common network programs",
     "Homepage": "https://www.gnu.org/software/inetutils/"
   },
@@ -5173,13 +5173,13 @@
   },
   {
     "Package": "jadx",
-    "Version": "1.5.5",
+    "Version": "1.5.6",
     "Description": "Dex to Java decompiler",
     "Homepage": "https://github.com/skylot/jadx"
   },
   {
     "Package": "jadx-x",
-    "Version": "1.5.5",
+    "Version": "1.5.6",
     "Description": "Dex to Java decompiler GUI",
     "Homepage": "https://github.com/skylot/jadx"
   },
@@ -5653,13 +5653,13 @@
   },
   {
     "Package": "lftp",
-    "Version": "4.9.2-7",
+    "Version": "4.9.3",
     "Description": "FTP/HTTP client and file transfer program",
     "Homepage": "https://lftp.tech/"
   },
   {
     "Package": "lftp-static",
-    "Version": "4.9.2-7",
+    "Version": "4.9.3",
     "Description": "Static libraries for lftp",
     "Homepage": "https://lftp.tech/"
   },
@@ -6565,13 +6565,13 @@
   },
   {
     "Package": "libdwarf",
-    "Version": "2.3.2",
+    "Version": "2.3.3",
     "Description": "Library for handling DWARF Debugging Information Format",
     "Homepage": "https://www.prevanders.net/dwarf.html"
   },
   {
     "Package": "libdwarf-static",
-    "Version": "2.3.2",
+    "Version": "2.3.3",
     "Description": "Static libraries for libdwarf",
     "Homepage": "https://www.prevanders.net/dwarf.html"
   },
@@ -8401,7 +8401,7 @@
   },
   {
     "Package": "libowfat",
-    "Version": "0.33-1",
+    "Version": "0.34",
     "Description": "GPL reimplementation of libdjb",
     "Homepage": "http://www.fefe.de/libowfat/"
   },
@@ -14089,7 +14089,7 @@
   },
   {
     "Package": "qrsspig",
-    "Version": "0.8.0-8",
+    "Version": "0.8.1",
     "Description": "Headless QRSS grabber for Raspberry Pis",
     "Homepage": "https://gitlab.com/hb9fxx/qrsspig"
   },
@@ -16711,7 +16711,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.83",
+    "Version": "0.0.84",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -17173,7 +17173,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.07.30",
+    "Version": "2026.09.25",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -17212,6 +17212,12 @@
     "Version": "30",
     "Description": "Vulkan Loader for Android",
     "Homepage": "https://source.android.com/devices/graphics/arch-vulkan"
+  },
+  {
+    "Package": "vulkan-loader-generic",
+    "Version": "1.4.363-1",
+    "Description": "Vulkan Loader",
+    "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
@@ -17257,7 +17263,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.26.6",
+    "Version": "2.26.7",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
