@@ -1033,13 +1033,13 @@
   },
   {
     "Package": "botan3",
-    "Version": "3.10.0-2",
+    "Version": "3.13.0",
     "Description": "Crypto and TLS for Modern C++",
     "Homepage": "https://botan.randombit.net/"
   },
   {
     "Package": "botan3-static",
-    "Version": "3.10.0-2",
+    "Version": "3.13.0",
     "Description": "Static libraries for botan3",
     "Homepage": "https://botan.randombit.net/"
   },
@@ -3769,7 +3769,7 @@
   },
   {
     "Package": "git-annex",
-    "Version": "10.20260901",
+    "Version": "10.20260901-1",
     "Description": "Manage large files with git, without storing the file contents in git",
     "Homepage": "https://git-annex.branchable.com"
   },
@@ -10381,19 +10381,19 @@
   },
   {
     "Package": "llama-cpp",
-    "Version": "0.4.1",
+    "Version": "0.5.0",
     "Description": "LLM inference in C/C++",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-opencl",
-    "Version": "0.4.1",
+    "Version": "0.5.0",
     "Description": "OpenCL Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
   {
     "Package": "llama-cpp-backend-vulkan",
-    "Version": "0.4.1",
+    "Version": "0.5.0",
     "Description": "Vulkan Backend for LLaMA.cpp",
     "Homepage": "https://github.com/ggml-org/llama.cpp"
   },
@@ -11311,7 +11311,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.12-1",
+    "Version": "2026.9.13",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -12978,6 +12978,12 @@
     "Homepage": "https://www.softsynth.com/pforth/"
   },
   {
+    "Package": "pgadmin4",
+    "Version": "9.18",
+    "Description": "Feature-rich web-based administration and development platform for PostgreSQL",
+    "Homepage": "https://www.pgadmin.org"
+  },
+  {
     "Package": "pgcli",
     "Version": "4.7.1",
     "Description": "Postgres CLI with autocompletion and syntax highlighting",
@@ -13561,19 +13567,19 @@
   },
   {
     "Package": "pypy3",
-    "Version": "7.3.23-2",
+    "Version": "8.0.0",
     "Description": "A fast, compliant alternative implementation of Python 3",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3-tests",
-    "Version": "7.3.23-2",
+    "Version": "8.0.0",
     "Description": "Test files for PyPy 3",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy3-tkinter",
-    "Version": "7.3.23-2",
+    "Version": "8.0.0",
     "Description": "Tkinter support for PyPy 3",
     "Homepage": "https://pypy.org"
   },

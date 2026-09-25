@@ -182,8 +182,8 @@
 | **boost-static** | 1:1.91.0 | Static libraries for boost | https://boost.org |
 | **bore** | 0.6.0-1 | Bore is a simple CLI tool for making tunnels to localhost | https://github.com/ekzhang/bore |
 | **borgbackup** | 1.4.5 | Deduplicating and compressing backup program | https://www.borgbackup.org/ |
-| **botan3** | 3.10.0-2 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
-| **botan3-static** | 3.10.0-2 | Static libraries for botan3 | https://botan.randombit.net/ |
+| **botan3** | 3.13.0 | Crypto and TLS for Modern C++ | https://botan.randombit.net/ |
+| **botan3-static** | 3.13.0 | Static libraries for botan3 | https://botan.randombit.net/ |
 | **boxes** | 2.3.2 | A command line filter program which draws ASCII art boxes around your input text | https://boxes.thomasjensen.com/ |
 | **brainfuck** | 1:2.7.3-1 | Brainfuck Interpreter written in C | https://github.com/fabianishere/brainfuck |
 | **brainfuck-static** | 1:2.7.3-1 | Static libraries for brainfuck | https://github.com/fabianishere/brainfuck |
@@ -638,7 +638,7 @@
 | **girara** | 2026.07.18 | Simple user interface library used by Zathura | https://pwmt.org/projects/girara |
 | **git** | 2.55.0 | Fast, scalable, distributed revision control system | https://git-scm.com/ |
 | **git-absorb** | 0.9.0 | git commit --fixup, but automatic | https://github.com/tummychow/git-absorb |
-| **git-annex** | 10.20260901 | Manage large files with git, without storing the file contents in git | https://git-annex.branchable.com |
+| **git-annex** | 10.20260901-1 | Manage large files with git, without storing the file contents in git | https://git-annex.branchable.com |
 | **git-cliff** | 2.14.2 | A highly customizable changelog generator that follows Conventional Commit specifications | https://git-cliff.org |
 | **git-credential-manager** | 2.9.1 | Cross-platform Git credential storage for multiple hosting providers | https://aka.ms/gcm |
 | **git-crypt** | 0.8.0 | Enables transparent encryption and decryption of files for a git repository | https://www.agwa.name/projects/git-crypt/ |
@@ -1740,9 +1740,9 @@
 | **littlecms** | 2.19.1 | Color management library | http://www.littlecms.com/ |
 | **littlecms-static** | 2.19.1 | Static libraries for littlecms | http://www.littlecms.com/ |
 | **littlecms-utils** | 2.19.1 | Color management utilities | http://www.littlecms.com/ |
-| **llama-cpp** | 0.4.1 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-opencl** | 0.4.1 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
-| **llama-cpp-backend-vulkan** | 0.4.1 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp** | 0.5.0 | LLM inference in C/C++ | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-opencl** | 0.5.0 | OpenCL Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
+| **llama-cpp-backend-vulkan** | 0.5.0 | Vulkan Backend for LLaMA.cpp | https://github.com/ggml-org/llama.cpp |
 | **llbuild** | 6.3.3 | A low-level build system, used by the Swift Package Manager | https://github.com/swiftlang/swift-llbuild |
 | **lld** | 21.1.8-3 | LLVM-based linker | https://clang.llvm.org/ |
 | **lldb** | 21.1.8-3 | LLVM-based debugger | https://clang.llvm.org/ |
@@ -1895,7 +1895,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.9.12-1 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.9.13 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -2173,6 +2173,7 @@
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
 | **pet** | 1.0.1-1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1-1 | Portable Forth in C | https://www.softsynth.com/pforth/ |
+| **pgadmin4** | 9.18 | Feature-rich web-based administration and development platform for PostgreSQL | https://www.pgadmin.org |
 | **pgcli** | 4.7.1 | Postgres CLI with autocompletion and syntax highlighting | https://www.pgcli.com |
 | **pgroonga** | 4.0.9 | A PostgreSQL extension to use Groonga as index | https://github.com/pgroonga/pgroonga |
 | **photon-rss** | 2023.02.02-3 | An RSS/Atom reader with the focus on speed, usability and a bit of unix philosophy | https://git.sr.ht/~ghost08/photon |
@@ -2270,9 +2271,9 @@
 | **pypy** | 8.0.0-1 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 8.0.0-1 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 8.0.0-1 | Tkinter support for PyPy | https://pypy.org |
-| **pypy3** | 7.3.23-2 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
-| **pypy3-tests** | 7.3.23-2 | Test files for PyPy 3 | https://pypy.org |
-| **pypy3-tkinter** | 7.3.23-2 | Tkinter support for PyPy 3 | https://pypy.org |
+| **pypy3** | 8.0.0 | A fast, compliant alternative implementation of Python 3 | https://pypy.org |
+| **pypy3-tests** | 8.0.0 | Test files for PyPy 3 | https://pypy.org |
+| **pypy3-tkinter** | 8.0.0 | Tkinter support for PyPy 3 | https://pypy.org |
 | **pyrefly** | 1.3.1 | A fast type checker and language server for Python | https://github.com/facebook/pyrefly.git |
 | **pystring** | 1.1.4-1 | C++ functions matching the interface and behavior of python string methods with std::string | https://github.com/imageworks/pystring |
 | **python** | 3.14.6-1 | Python 3 programming language intended to enable clear programs | https://python.org/ |
