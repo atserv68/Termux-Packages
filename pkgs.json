@@ -223,7 +223,7 @@
   },
   {
     "Package": "android-tools",
-    "Version": "37.0.0-1",
+    "Version": "37.0.0-2",
     "Description": "Android platform tools",
     "Homepage": "https://developer.android.com/"
   },
@@ -493,7 +493,7 @@
   },
   {
     "Package": "aspell-en",
-    "Version": "1:2020.12.07",
+    "Version": "1:2026.02.25",
     "Description": "English dictionary for aspell",
     "Homepage": "http://aspell.net/"
   },
@@ -679,7 +679,7 @@
   },
   {
     "Package": "automake",
-    "Version": "1.18.1",
+    "Version": "1.19",
     "Description": "Tool for automatically generating Makefile.in files",
     "Homepage": "https://www.gnu.org/software/automake/"
   },
@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.2",
+    "Version": "2.37.3",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1765,7 +1765,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.36.0",
+    "Version": "0.37.0",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -3025,7 +3025,7 @@
   },
   {
     "Package": "fastfetch",
-    "Version": "2.68.1",
+    "Version": "2.69.0",
     "Description": "A maintained, feature-rich and performance oriented, neofetch like system information tool",
     "Homepage": "https://github.com/fastfetch-cli/fastfetch"
   },
@@ -4549,7 +4549,7 @@
   },
   {
     "Package": "haproxy",
-    "Version": "3.4.4",
+    "Version": "3.4.5",
     "Description": "The Reliable, High Performance TCP/HTTP Load Balancer",
     "Homepage": "https://www.haproxy.org/"
   },
@@ -11887,7 +11887,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1708+gac1a06021d-0",
+    "Version": "0.13.0~dev-1721+g7dbca1c4e2-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -13225,7 +13225,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.6.0",
+    "Version": "12.7.0",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -15721,7 +15721,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "10.1.15",
+    "Version": "10.1.16",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
@@ -15961,7 +15961,7 @@
   },
   {
     "Package": "termux-am",
-    "Version": "0.8.0-2",
+    "Version": "0.8.1",
     "Description": "Android Oreo-compatible am command reimplementation",
     "Homepage": "https://github.com/termux/TermuxAm"
   },
@@ -16909,13 +16909,13 @@
   },
   {
     "Package": "utf8proc",
-    "Version": "2.11.3",
+    "Version": "2.12.0",
     "Description": "Library for processing UTF-8 Unicode data",
     "Homepage": "https://github.com/JuliaLang/utf8proc"
   },
   {
     "Package": "utf8proc-static",
-    "Version": "2.11.3",
+    "Version": "2.12.0",
     "Description": "Static libraries for utf8proc",
     "Homepage": "https://github.com/JuliaLang/utf8proc"
   },
@@ -16957,7 +16957,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.18",
+    "Version": "0.12.19",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -17215,7 +17215,7 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.363-1",
+    "Version": "1.4.364",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
@@ -17227,7 +17227,7 @@
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.363",
+    "Version": "1.4.364",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
@@ -17263,7 +17263,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.26.7",
+    "Version": "2.26.10",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
