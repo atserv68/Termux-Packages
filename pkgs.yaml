@@ -1563,7 +1563,7 @@
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doctl
-  Version: 1.174.0
+  Version: 1.175.0
   Description: The official command line interface for the DigitalOcean API
   Homepage: https://github.com/digitalocean/doctl
 - Package: doge
@@ -2571,7 +2571,7 @@
   Description: Detect secrets like passwords, API keys, and tokens in git repos and files
   Homepage: https://github.com/gitleaks/gitleaks
 - Package: gitoxide
-  Version: 0.58.0
+  Version: 0.59.0
   Description: Rust implementation of Git
   Homepage: https://github.com/GitoxideLabs/gitoxide
 - Package: gitui
@@ -5619,7 +5619,7 @@
   Description: Static libraries for libpagemaker
   Homepage: https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker
 - Package: libpagmo
-  Version: 2.19.1-6
+  Version: 2.20.0
   Description: Scientific library for massively parallel optimization
   Homepage: https://esa.github.io/pagmo2/index.html
 - Package: libpangomm-1.4
@@ -11483,7 +11483,7 @@
   Description: Vulkan Loader
   Homepage: https://github.com/KhronosGroup/Vulkan-Loader
 - Package: vulkan-tools
-  Version: 1.4.363
+  Version: 1.4.364
   Description: Vulkan Tools and Utilities
   Homepage: https://github.com/KhronosGroup/Vulkan-Tools
 - Package: vulkan-utility-libraries

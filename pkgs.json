@@ -2347,7 +2347,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.174.0",
+    "Version": "1.175.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -3859,7 +3859,7 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.58.0",
+    "Version": "0.59.0",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/GitoxideLabs/gitoxide"
   },
@@ -8431,7 +8431,7 @@
   },
   {
     "Package": "libpagmo",
-    "Version": "2.19.1-6",
+    "Version": "2.20.0",
     "Description": "Scientific library for massively parallel optimization",
     "Homepage": "https://esa.github.io/pagmo2/index.html"
   },
@@ -17227,7 +17227,7 @@
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.363",
+    "Version": "1.4.364",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
