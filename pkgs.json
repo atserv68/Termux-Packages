@@ -223,7 +223,7 @@
   },
   {
     "Package": "android-tools",
-    "Version": "37.0.0",
+    "Version": "37.0.0-1",
     "Description": "Android platform tools",
     "Homepage": "https://developer.android.com/"
   },
@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.1",
+    "Version": "2.37.2",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -3283,7 +3283,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.107",
+    "Version": "0.4.108",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3295,7 +3295,7 @@
   },
   {
     "Package": "fmt",
-    "Version": "1:11.2.0",
+    "Version": "1:11.2.0-1",
     "Description": "Open-source formatting library for C++",
     "Homepage": "https://fmt.dev/latest/index.html"
   },
@@ -4777,19 +4777,19 @@
   },
   {
     "Package": "httrack",
-    "Version": "3.50.3",
+    "Version": "3.50.4",
     "Description": "It allows you to download a World Wide Web site from the Internet",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-data",
-    "Version": "3.50.3",
+    "Version": "3.50.4",
     "Description": "Platform-independent data for httrack",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-static",
-    "Version": "3.50.3",
+    "Version": "3.50.4",
     "Description": "Static libraries for httrack",
     "Homepage": "http://www.httrack.com"
   },
@@ -8443,7 +8443,7 @@
   },
   {
     "Package": "libpangomm-2.48",
-    "Version": "2.56.2",
+    "Version": "2.58.0",
     "Description": "A C++ API for Pango",
     "Homepage": "https://www.gtkmm.org/"
   },
@@ -9655,13 +9655,13 @@
   },
   {
     "Package": "libuv",
-    "Version": "1.52.1",
+    "Version": "1.53.0",
     "Description": "Support library with a focus on asynchronous I/O",
     "Homepage": "https://libuv.org"
   },
   {
     "Package": "libuv-static",
-    "Version": "1.52.1",
+    "Version": "1.53.0",
     "Description": "Static libraries for libuv",
     "Homepage": "https://libuv.org"
   },
@@ -11737,7 +11737,7 @@
   },
   {
     "Package": "navidrome",
-    "Version": "0.64.1",
+    "Version": "0.64.2",
     "Description": "Modern Music Server and Streamer compatible with Subsonic/Airsonic",
     "Homepage": "https://www.navidrome.org/"
   },
@@ -12625,7 +12625,7 @@
   },
   {
     "Package": "orbiton",
-    "Version": "2.74.4-1",
+    "Version": "2.74.5",
     "Description": "Small, fast and limited text editor",
     "Homepage": "https://roboticoverlords.org/orbiton/"
   },
@@ -13405,7 +13405,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.94",
+    "Version": "5.1.107.95",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -13801,7 +13801,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.16.8",
+    "Version": "0.16.9",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14617,7 +14617,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.16.8",
+    "Version": "0.16.9",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -17191,7 +17191,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.363",
+    "Version": "1.4.364",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -17305,7 +17305,7 @@
   },
   {
     "Package": "wasmtime",
-    "Version": "49.0.0",
+    "Version": "49.0.1",
     "Description": "A standalone runtime for WebAssembly",
     "Homepage": "https://wasmtime.dev/"
   },

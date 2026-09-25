@@ -35,7 +35,7 @@
  alsa-utils-static  1.2.16  Static libraries for alsa-utils  https://www.alsa-project.org 
  amber  0.6.1  A code search / replace tool  https://github.com/dalance/amber 
  amfora  1.11.0-1  Aims to be the best looking Gemini client  https://github.com/makew0rld/amfora 
- android-tools  37.0.0  Android platform tools  https://developer.android.com/ 
+ android-tools  37.0.0-1  Android platform tools  https://developer.android.com/ 
  anewer  0.2.2  Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq)  https://github.com/ysf/anewer 
  angband  4.2.6  Dungeon exploration adventure game  https://rephial.org/ 
  angle-android  2.1.24923-f09a19ce-2  A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android  https://chromium.googlesource.com/angle/angle 
@@ -116,7 +116,7 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.7.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.37.1  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.37.2  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  azure-cli  2.90.0-1  Microsoft's command-line tool for managing Azure cloud resources  https://learn.microsoft.com/en-us/cli/azure/ 
  azure-dev-cli  1.34.2  Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)  https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ 
@@ -545,9 +545,9 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0-2  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.6.1  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.107  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.108  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
- fmt  1:11.2.0  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
+ fmt  1:11.2.0-1  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.3  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-static  2.18.3  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-utils  2.18.3  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -794,9 +794,9 @@
  htslib-static  1.24  Static libraries for htslib  https://github.com/samtools/htslib 
  httpie  3.2.4-1  Modern, user-friendly command-line HTTP client for the API era  https://httpie.io 
  httping  4.4.0-1  ping-like program for http-requests  https://github.com/folkertvanheusden/HTTPing 
- httrack  3.50.3  It allows you to download a World Wide Web site from the Internet  http://www.httrack.com 
- httrack-data  3.50.3  Platform-independent data for httrack  http://www.httrack.com 
- httrack-static  3.50.3  Static libraries for httrack  http://www.httrack.com 
+ httrack  3.50.4  It allows you to download a World Wide Web site from the Internet  http://www.httrack.com 
+ httrack-data  3.50.4  Platform-independent data for httrack  http://www.httrack.com 
+ httrack-static  3.50.4  Static libraries for httrack  http://www.httrack.com 
  hub  2.14.2-6  Command-line wrapper for git that makes you better at GitHub  https://hub.github.com/ 
  hugo  0.166.0  A fast and flexible static site generator  https://gohugo.io/ 
  hummin  2021.05.18-4  Command line client for the imperial library of trantor  https://trantor.is/ 
@@ -1405,7 +1405,7 @@
  libpagemaker-static  0.0.4-4  Static libraries for libpagemaker  https://wiki.documentfoundation.org/DLP/Libraries/libpagemaker 
  libpagmo  2.19.1-6  Scientific library for massively parallel optimization  https://esa.github.io/pagmo2/index.html 
  libpangomm-1.4  2.46.5  A C++ API for Pango  https://www.gtkmm.org/ 
- libpangomm-2.48  2.56.2  A C++ API for Pango  https://www.gtkmm.org/ 
+ libpangomm-2.48  2.58.0  A C++ API for Pango  https://www.gtkmm.org/ 
  libpano13  2.9.23-1  Part of the Panorama Tools by Helmut Dersch  https://panotools.sourceforge.net/ 
  libpano13-static  2.9.23-1  Static libraries for libpano13  https://panotools.sourceforge.net/ 
  libpaper  2.2.8  Library for handling paper characteristics (by @rrthomas)  https://github.com/rrthomas/psutils 
@@ -1607,8 +1607,8 @@
  libusbmuxd-static  2.1.1-2  Static libraries for libusbmuxd  https://libimobiledevice.org 
  libusbredir  0.13.0-1  network protocol for sending USB device traffic over a network connection  https://www.spice-space.org/ 
  libuuid  2.42.1-4  Library for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
- libuv  1.52.1  Support library with a focus on asynchronous I/O  https://libuv.org 
- libuv-static  1.52.1  Static libraries for libuv  https://libuv.org 
+ libuv  1.53.0  Support library with a focus on asynchronous I/O  https://libuv.org 
+ libuv-static  1.53.0  Static libraries for libuv  https://libuv.org 
  libv4l  1.24.1-2  Linux libraries to handle media devices  https://git.linuxtv.org/v4l-utils.git 
  libv4l-static  1.24.1-2  Static libraries for libv4l  https://git.linuxtv.org/v4l-utils.git 
  libvbisam  2.0-3  A replacement for IBM's C-ISAM  https://sourceforge.net/projects/vbisam/ 
@@ -1954,7 +1954,7 @@
  natpmpc  20230423-2  Portable and fully compliant implementation of NAT-PMP  https://miniupnp.tuxfamily.org/libnatpmp.html 
  natpmpc-static  20230423-2  Static libraries for natpmpc  https://miniupnp.tuxfamily.org/libnatpmp.html 
  navi  2.24.0-1  An interactive cheatsheet tool for the command-line  https://github.com/denisidoro/navi 
- navidrome  0.64.1  Modern Music Server and Streamer compatible with Subsonic/Airsonic  https://www.navidrome.org/ 
+ navidrome  0.64.2  Modern Music Server and Streamer compatible with Subsonic/Airsonic  https://www.navidrome.org/ 
  ncdc  1.25-1  Modern and lightweight direct connect client with a friendly ncurses interface  https://dev.yorhel.nl/ncdc 
  ncdu  1.22-1  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
  ncdu2  2.9.2-1  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
@@ -2102,7 +2102,7 @@
  opusfile  0.12-4  A high-level API for decoding and seeking within .opus files  https://www.opus-codec.org/ 
  opusfile-static  0.12-4  Static libraries for opusfile  https://www.opus-codec.org/ 
  opustags  1.10.1  Ogg Opus tags editor  https://github.com/fmang/opustags 
- orbiton  2.74.4-1  Small, fast and limited text editor  https://roboticoverlords.org/orbiton/ 
+ orbiton  2.74.5  Small, fast and limited text editor  https://roboticoverlords.org/orbiton/ 
  osm2pgsql  2.3.1-1  osm2pgsql imports OpenStreetMap (OSM) data into a PostgreSQL/PostGIS database  https://osm2pgsql.org/ 
  osmctools  0.9-4  Simple tools for OpenStreetMap processing  https://gitlab.com/osm-c-tools/osmctools 
  osmium-tool  1.19.0-1  A multipurpose command line tool based on the Osmium Library  https://osmcode.org/osmium-tool/ 
@@ -2232,7 +2232,7 @@
  profanity  0.18.2-1  Profanity is a console based XMPP client written in C using ncurses and libstrophe, inspired by Irssi  https://profanity-im.github.io 
  progress  0.17-1  Linux tool to show progress for cp, mv, dd and more  https://github.com/Xfennec/progress 
  proj  9.9.0  Generic coordinate transformation software  https://proj.org 
- proot  5.1.107.94  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
+ proot  5.1.107.95  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
  proot-distro  5.9.0  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
  protobuf  2:35.1  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
  proton-bridge  3.27.0  ProtonMail Bridge application  https://github.com/ProtonMail/proton-bridge 
@@ -2298,7 +2298,7 @@
  python-pynvim  0.6.0-3  Python client for Neovim  https://github.com/neovim/pynvim 
  python-pyppmd  1.3.1-1  PPM compression/decompression library  https://github.com/miurahr/pyppmd 
  python-rpds-py  2026.6.3  Python bindings to Rust's persistent data structures (rpds)  https://github.com/crate-py/rpds 
- python-ruff  0.16.8  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
+ python-ruff  0.16.9  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  9.7.1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-scipy  1.18.1  Fundamental algorithms for scientific computing in Python  https://scipy.org/ 
  python-skia-pathops  0.9.2-2  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
@@ -2434,7 +2434,7 @@
  rubiks-cube  1.2-1  A rubik's cube that runs in your terminal  https://github.com/been-jamming/rubiks_cube 
  ruby  4.0.6  Dynamic programming language with a focus on simplicity and productivity  https://www.ruby-lang.org/ 
  ruby-ri  4.0.6  Ruby documentation index  https://www.ruby-lang.org/ 
- ruff  0.16.8  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
+ ruff  0.16.9  An extremely fast Python linter, written in Rust  https://github.com/charliermarsh/ruff 
  runit  2.1.2-4  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.1.2-4  Static libraries for runit  http://smarden.org/runit 
  rush  0.11.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
@@ -2863,7 +2863,7 @@
  vtm  2026.09.25  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vulkan-extension-layer  1.4.363  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
- vulkan-headers  1.4.363  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
+ vulkan-headers  1.4.364  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
  vulkan-icd  0.1-1  A metapackage that provides Vulkan ICDs  https://github.com/termux/termux-packages 
  vulkan-loader  0.0.3  A metapackage that provides vulkan loader library  https://github.com/termux/termux-packages 
  vulkan-loader-android  30  Vulkan Loader for Android  https://source.android.com/devices/graphics/arch-vulkan 
@@ -2882,7 +2882,7 @@
  wasm-component-ld  0.5.30  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
  wasmedge  0.17.1  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
  wasmer  7.4.2  A fast and secure WebAssembly runtime  https://wasmer.io/ 
- wasmtime  49.0.0  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
+ wasmtime  49.0.1  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
  watchexec  2.7.3  Executes commands in response to file modifications  https://github.com/watchexec/watchexec 
  wavpack  5.9.0  WavPack command-line programs  https://www.wavpack.com/ 
  waypipe  0.11.2  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
