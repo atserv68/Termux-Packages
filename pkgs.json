@@ -745,7 +745,7 @@
   },
   {
     "Package": "bacon",
-    "Version": "3.25.0-1",
+    "Version": "3.26.0",
     "Description": "A background code checker for Rust, designed for minimal interaction",
     "Homepage": "https://dystroy.org/bacon"
   },
@@ -1591,7 +1591,7 @@
   },
   {
     "Package": "clinfo",
-    "Version": "3.0.25.02.14-1",
+    "Version": "3.1.26.09.26",
     "Description": "Print all known information about all available OpenCL platforms and devices in the system",
     "Homepage": "https://github.com/Oblomov/clinfo"
   },
@@ -9703,7 +9703,7 @@
   },
   {
     "Package": "libvips",
-    "Version": "8.18.6-1",
+    "Version": "8.18.7",
     "Description": "A fast image processing library with low memory needs",
     "Homepage": "https://libvips.github.io/libvips/"
   },
@@ -13240,6 +13240,12 @@
     "Version": "0.40.4",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
+  },
+  {
+    "Package": "podofo",
+    "Version": "1.1.2",
+    "Description": "A C++ library to work with the PDF file format",
+    "Homepage": "https://github.com/podofo/podofo"
   },
   {
     "Package": "poke",
