@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.3",
+    "Version": "2.37.4",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -859,7 +859,7 @@
   },
   {
     "Package": "bftpd",
-    "Version": "6.6",
+    "Version": "6.7",
     "Description": "Small, easy-to-configure FTP server",
     "Homepage": "https://bftpd.sourceforge.net/"
   },
@@ -1261,7 +1261,7 @@
   },
   {
     "Package": "carapace",
-    "Version": "1.7.3",
+    "Version": "1.8.0",
     "Description": "Multi-shell multi-command argument completer",
     "Homepage": "https://carapace.sh/"
   },
@@ -3559,7 +3559,7 @@
   },
   {
     "Package": "gdb",
-    "Version": "17.2",
+    "Version": "18.1",
     "Description": "The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -3577,7 +3577,7 @@
   },
   {
     "Package": "gdbserver",
-    "Version": "17.2",
+    "Version": "18.1",
     "Description": "The gdbserver program",
     "Homepage": "https://www.gnu.org/software/gdb/"
   },
@@ -5983,7 +5983,7 @@
   },
   {
     "Package": "libblocksruntime",
-    "Version": "1:6.3.3",
+    "Version": "1:6.4.0",
     "Description": "LLVM Blocks runtime library",
     "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
@@ -6451,7 +6451,7 @@
   },
   {
     "Package": "libdispatch",
-    "Version": "1:6.3.3",
+    "Version": "1:6.4.0",
     "Description": "The libdispatch project, for concurrency on multicore hardware",
     "Homepage": "https://github.com/swiftlang/swift-corelibs-libdispatch"
   },
@@ -10399,7 +10399,7 @@
   },
   {
     "Package": "llbuild",
-    "Version": "6.3.3",
+    "Version": "6.4.0",
     "Description": "A low-level build system, used by the Swift Package Manager",
     "Homepage": "https://github.com/swiftlang/swift-llbuild"
   },
@@ -10681,7 +10681,7 @@
   },
   {
     "Package": "luau",
-    "Version": "0.739",
+    "Version": "0.740",
     "Description": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
     "Homepage": "https://github.com/luau-lang/luau"
   },
@@ -11215,7 +11215,7 @@
   },
   {
     "Package": "miller",
-    "Version": "6.21.0",
+    "Version": "6.22.0",
     "Description": "Like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON",
     "Homepage": "https://miller.readthedocs.io/"
   },
@@ -11311,7 +11311,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.13",
+    "Version": "2026.9.14",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -15259,7 +15259,7 @@
   },
   {
     "Package": "sourcekit-lsp",
-    "Version": "6.3.3-1",
+    "Version": "6.4.0",
     "Description": "Language Server Protocol implementation for Swift and C-based languages",
     "Homepage": "https://swift.org/"
   },
@@ -15529,7 +15529,7 @@
   },
   {
     "Package": "step-cli",
-    "Version": "0.30.6-1",
+    "Version": "0.31.0",
     "Description": "An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows",
     "Homepage": "https://smallstep.com/cli"
   },
@@ -15733,43 +15733,43 @@
   },
   {
     "Package": "swift",
-    "Version": "6.3.3-1",
+    "Version": "6.4.0",
     "Description": "Swift is a high-performance system programming language",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-aarch64",
-    "Version": "6.3.3-1",
+    "Version": "6.4.0",
     "Description": "Swift runtime libraries for Android AArch64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-arm",
-    "Version": "6.3.3-1",
+    "Version": "6.4.0",
     "Description": "Swift runtime libraries for Android armv7",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-runtime-x86-64",
-    "Version": "6.3.3-1",
+    "Version": "6.4.0",
     "Description": "Swift runtime libraries for Android x86_64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-aarch64",
-    "Version": "6.3.3-1",
+    "Version": "6.4.0",
     "Description": "Swift SDK for Android AArch64",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-arm",
-    "Version": "6.3.3-1",
+    "Version": "6.4.0",
     "Description": "Swift SDK for Android armv7",
     "Homepage": "https://swift.org/"
   },
   {
     "Package": "swift-sdk-x86-64",
-    "Version": "6.3.3-1",
+    "Version": "6.4.0",
     "Description": "Swift SDK for Android x86_64",
     "Homepage": "https://swift.org/"
   },
@@ -17005,7 +17005,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.22.0",
+    "Version": "3.23.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
@@ -17179,7 +17179,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.09.25",
+    "Version": "2026.09.26",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -17269,7 +17269,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.26.10",
+    "Version": "2.26.11",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
