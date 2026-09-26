@@ -177,7 +177,7 @@
  brainfuck-static  1:2.7.3-1  Static libraries for brainfuck  https://github.com/fabianishere/brainfuck 
  brogue  1.15.1-1  Roguelike dungeon crawling game (community edition)  https://sites.google.com/site/broguegame/ 
  brook  20270101  A cross-platform strong encryption and not detectable proxy. Zero-Configuration.  https://github.com/txthinking/brook 
- broot  1.60.1  A better way to navigate directories  https://github.com/Canop/broot 
+ broot  1.60.2  A better way to navigate directories  https://github.com/Canop/broot 
  brotli  1.2.0  lossless compression algorithm and format (command line utility)  https://github.com/google/brotli 
  bsd-finger  0.17-3  User information lookup program  https://packages.debian.org/sid/source/bsd-finger 
  bsd-games  1:3.3-1  Classic text mode games from UNIX folklore  https://www.polyomino.org.uk/computer/software/bsd-games/ 
@@ -210,7 +210,7 @@
  capstone-static  5.0.9  Static libraries for capstone  https://www.capstone-engine.org/ 
  carapace  1.8.0  Multi-shell multi-command argument completer  https://carapace.sh/ 
  cargo-audit  0.22.2  Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database  https://rustsec.org 
- cargo-binstall  1.23.0  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
+ cargo-binstall  1.24.0  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
  cargo-c  0.10.25  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-cache  0.8.3  Tool to manage cargo cache  https://github.com/matthiaskrgr/cargo-cache 
  cargo-flamegraph  0.6.14  Simple cargo subcommand for generating flamegraphs, using inferno under the hood  https://github.com/flamegraph-rs/flamegraph 
@@ -637,7 +637,7 @@
  git-lfs  3.8.0  Git extension for versioning large files  https://git-lfs.github.com/ 
  git-sizer  1.5.0-5  Compute various size metrics for a Git repository  https://github.com/github/git-sizer 
  git-svn  2.55.0  Convert between Git and Subversion repositories  https://git-scm.com/ 
- git-town  24.0.0  Git branches made easy  https://www.git-town.com 
+ git-town  24.1.0  Git branches made easy  https://www.git-town.com 
  gitea  1.27.3  Git with a cup of tea, painless self-hosted git service  https://gitea.io 
  gitflow-avh  1.12.3-9  Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality.  https://github.com/petervanderdoes/gitflow/ 
  gitleaks  8.30.1-1  Detect secrets like passwords, API keys, and tokens in git repos and files  https://github.com/gitleaks/gitleaks 
@@ -2463,7 +2463,7 @@
  samefile  2.15-6  Finds files with identical contents, independent of file name  http://www.schweikhardt.net/samefile/ 
  samurai  1.3  ninja-compatible build tool written in C  https://github.com/michaelforney/samurai 
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
- sbcl  2.6.8  A high performance Common Lisp compiler  http://www.sbcl.org/ 
+ sbcl  2.6.9  A high performance Common Lisp compiler  http://www.sbcl.org/ 
  sc-im  0.8.5-4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
  scala  3.9.0  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  4.1.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
@@ -2718,7 +2718,7 @@
  tomcat  11.0.26  Open source implementation of the Jakarta Servlet, Pages and WebSocket technologies  https://tomcat.apache.org/ 
  tome2  2025.12.13-2  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
- topgrade  17.12.1  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
+ topgrade  17.12.2  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
  tor  0.4.9.13  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torsocks  2.5.0-1  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.5.0-1  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
@@ -2877,7 +2877,7 @@
  w3m  0.5.6-2  Text based Web browser and pager  https://git.sr.ht/~rkta/w3m 
  w3m-img  0.5.6-2  Inline image extension support utilities for w3m  https://git.sr.ht/~rkta/w3m 
  wabt  1.0.42  The WebAssembly Binary Toolkit  https://github.com/WebAssembly/wabt 
- wakatime-cli  2.26.11  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
+ wakatime-cli  2.26.13  Command line interface used by all WakaTime text editor plugins  https://wakatime.com/plugins/ 
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  34+really33  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
