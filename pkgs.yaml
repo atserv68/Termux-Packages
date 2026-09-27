@@ -907,7 +907,7 @@
   Description: A free compiler for 6502 based system
   Homepage: https://cc65.github.io/
 - Package: ccache
-  Version: "4.14"
+  Version: 4.14.1
   Description: Compiler cache for fast recompilation of C/C++ code
   Homepage: https://ccache.samba.org
 - Package: cccc
@@ -1111,7 +1111,7 @@
   Description: The post-quantum cryptography tool
   Homepage: http://e-x-a.org/codecrypt/
 - Package: codon
-  Version: 0.19.6
+  Version: 0.20.2
   Description: A high-performance, zero-overhead, extensible Python compiler using LLVM
   Homepage: https://github.com/exaloop/codon
 - Package: coinor-cbc
@@ -1419,7 +1419,7 @@
   Description: Static libraries for dialog
   Homepage: https://invisible-island.net/dialog/
 - Package: dictd
-  Version: 1.13.3-1
+  Version: 1.13.3-2
   Description: Online dictionary client and server
   Homepage: https://sourceforge.net/projects/dict/
 - Package: diff-so-fancy
@@ -1835,8 +1835,12 @@
   Description: Static libraries for editorconfig-core-c
   Homepage: https://editorconfig.org/
 - Package: eigen
-  Version: 3.4.0
+  Version: 5.0.1
   Description: 'Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms'
+  Homepage: http://eigen.tuxfamily.org
+- Package: eigen-static
+  Version: 5.0.1
+  Description: Static libraries for eigen
   Homepage: http://eigen.tuxfamily.org
 - Package: eja
   Version: 18.4.19-1
@@ -1943,7 +1947,7 @@
   Description: A remote shell that automatically reconnects without interrupting the session
   Homepage: https://eternalterminal.dev
 - Package: etsh
-  Version: 5.4.0-1
+  Version: 5.4.0-2
   Description: An enhanced, backward-compatible port of Thompson Shell
   Homepage: https://etsh.nl
 - Package: execline
@@ -2239,7 +2243,7 @@
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
-  Version: 3.5.0
+  Version: 3.6.0
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
@@ -2355,7 +2359,7 @@
   Description: A translator library for raster and vector geospatial data formats
   Homepage: https://gdal.org
 - Package: gdb
-  Version: "18.1"
+  Version: 18.1-1
   Description: The standard GNU Debugger that runs on many Unix-like systems and works for many programming languages
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdbm
@@ -2367,7 +2371,7 @@
   Description: Static libraries for gdbm
   Homepage: https://www.gnu.org.ua/software/gdbm/
 - Package: gdbserver
-  Version: "18.1"
+  Version: 18.1-1
   Description: The gdbserver program
   Homepage: https://www.gnu.org/software/gdb/
 - Package: gdk-pixbuf
@@ -3099,7 +3103,7 @@
   Description: Tool for manipulating HFS images
   Homepage: https://www.mars.org/home/rob/proj/hfs/
 - Package: hidapi
-  Version: 0.14.0-1
+  Version: 0.15.0
   Description: Simple cross-platform library for communicating with HID devices
   Homepage: https://libusb.info/hidapi
 - Package: highway
@@ -3295,7 +3299,7 @@
   Description: Static libraries for imagemagick
   Homepage: https://www.imagemagick.org/
 - Package: imath
-  Version: 3.2.2
+  Version: 3.2.3
   Description: Library for vector/matrix and math operations, plus the half type
   Homepage: https://imath.readthedocs.io/
 - Package: imlib2
@@ -3331,11 +3335,11 @@
   Description: A tool to unpack installers created by Inno Setup
   Homepage: https://constexpr.org/innoextract/
 - Package: inotify-tools
-  Version: 4.25.9.0
+  Version: 4.26.262
   Description: Programs providing a simple interface to inotify
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
 - Package: inotify-tools-static
-  Version: 4.25.9.0
+  Version: 4.26.262
   Description: Static libraries for inotify-tools
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
 - Package: inshellisense
@@ -3851,7 +3855,7 @@
   Description: Static libraries for libandroid-spawn
   Homepage: https://man7.org/linux/man-pages/man3/posix_spawn.3.html
 - Package: libandroid-stub
-  Version: "30"
+  Version: 30-1
   Description: Stub libandroid.so for non-Android certified environment
   Homepage: https://android.googlesource.com/platform/frameworks/base/+/main/native/android
 - Package: libandroid-support
@@ -4655,7 +4659,7 @@
   Description: An ncurses toolkit for creating text-mode graphical user interfaces in a fast and easy way
   Homepage: https://keep.imfreedom.org/libgnt/libgnt
 - Package: libgnustep-base
-  Version: 1.31.1-4
+  Version: 1.31.1-5
   Description: A library of general-purpose, non-graphical Objective C objects
   Homepage: https://www.gnustep.org
 - Package: libgnutls
@@ -4859,11 +4863,11 @@
   Description: Static libraries for libiniparser
   Homepage: https://github.com/ndevilla/iniparser
 - Package: libiodbc
-  Version: 3.52.16-1
+  Version: 3.52.16-2
   Description: Independent Open DataBase Connectivity for Linux, MacOS X and Unix systems
   Homepage: https://www.iodbc.org/
 - Package: libiodbc-static
-  Version: 3.52.16-1
+  Version: 3.52.16-2
   Description: Static libraries for libiodbc
   Homepage: https://www.iodbc.org/
 - Package: libiptcdata
@@ -5079,7 +5083,7 @@
   Description: Static libraries for liblzo
   Homepage: http://www.oberhumer.com/opensource/lzo
 - Package: libmaa
-  Version: 1.4.7-1
+  Version: 1.5.1
   Description: Provides many low-level data structures which are helpful for writing compilers
   Homepage: https://sourceforge.net/projects/dict/
 - Package: libmad
@@ -5979,7 +5983,7 @@
   Description: SkiaSharp is a cross-platform 2D graphics API for .NET platforms
   Homepage: https://github.com/mono/SkiaSharp
 - Package: libslirp
-  Version: 4.8.0-2
+  Version: 4.9.5
   Description: A general purpose TCP-IP emulator
   Homepage: https://gitlab.freedesktop.org/slirp/libslirp
 - Package: libsm
@@ -6019,11 +6023,11 @@
   Description: Static libraries for libsophia
   Homepage: http://sophia.systems/
 - Package: libsoundtouch
-  Version: 2.3.3-1
+  Version: 2.4.1
   Description: An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files
   Homepage: https://www.surina.net/soundtouch/
 - Package: libsoundtouch-static
-  Version: 2.3.3-1
+  Version: 2.4.1
   Description: Static libraries for libsoundtouch
   Homepage: https://www.surina.net/soundtouch/
 - Package: libsoup3
@@ -6539,7 +6543,7 @@
   Description: Lightweight C websockets library
   Homepage: https://libwebsockets.org
 - Package: libwolfssl
-  Version: 5.9.2
+  Version: 5.9.4
   Description: A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud
   Homepage: https://www.wolfssl.com/
 - Package: libwpd
@@ -7175,7 +7179,7 @@
   Description: Rust implementation of Magic Wormhole, with new features and enhancements
   Homepage: https://github.com/magic-wormhole/magic-wormhole.rs
 - Package: mailpit
-  Version: 1.31.2
+  Version: 1.31.3
   Description: An email and SMTP testing tool with API for developers
   Homepage: https://mailpit.axllent.org
 - Package: mailsync
@@ -7883,7 +7887,7 @@
   Description: Minimal, efficient, statically-typed and meta-programmable systems programming language
   Homepage: https://nelua.io
 - Package: neocmakelsp
-  Version: 0.11.1
+  Version: 0.11.2
   Description: a cmake lsp based on tower-lsp and treesitter
   Homepage: https://neocmakelsp.github.io/
 - Package: neofetch
@@ -8003,7 +8007,7 @@
   Description: Utility for network discovery and security auditing
   Homepage: https://nmap.org/
 - Package: nmh
-  Version: 1.8-2
+  Version: 1.8-3
   Description: Powerful electronic mail handling system
   Homepage: http://www.nongnu.org/nmh/
 - Package: nmon
@@ -8707,7 +8711,7 @@
   Description: pianobar is a free/open-source, console-based client for the personalized online radio Pandora.
   Homepage: https://6xq.net/pianobar/
 - Package: pick
-  Version: 4.0.0-3
+  Version: 4.0.0-4
   Description: Utility to choose one option from a set of choices with fuzzy search functionality
   Homepage: https://github.com/calleerlandsson/pick
 - Package: picocom
@@ -8867,7 +8871,7 @@
   Description: Static libraries for potrace
   Homepage: https://potrace.sourceforge.net
 - Package: pounce
-  Version: 3.1-1
+  Version: "3.2"
   Description: A multi-client, TLS-only IRC bouncer
   Homepage: https://git.causal.agency/pounce
 - Package: povray
@@ -8883,7 +8887,7 @@
   Description: A Satellite Tracking/Orbital Prediction Program
   Homepage: https://www.qsl.net/kd2bd/predict.html
 - Package: privoxy
-  Version: 4.0.0-1
+  Version: 4.2.0
   Description: Non-caching web proxy with advanced filtering capabilities
   Homepage: https://www.privoxy.org
 - Package: procps
@@ -9035,7 +9039,7 @@
   Description: A fast type checker and language server for Python
   Homepage: https://github.com/facebook/pyrefly.git
 - Package: pystring
-  Version: 1.1.4-1
+  Version: 1.2.0
   Description: C++ functions matching the interface and behavior of python string methods with std::string
   Homepage: https://github.com/imageworks/pystring
 - Package: python
@@ -9407,7 +9411,7 @@
   Description: Static libraries for racket
   Homepage: https://racket-lang.org
 - Package: radare2
-  Version: 6.2.0
+  Version: 6.2.2-1
   Description: UNIX-like reverse engineering framework and command-line toolset
   Homepage: https://www.radare.org/
 - Package: radarr
@@ -9431,7 +9435,7 @@
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
-  Version: 0.12.0
+  Version: 0.12.0-1
   Description: Range library for C++14/17/20, basis for C++20s std::ranges
   Homepage: https://github.com/ericniebler/range-v3
 - Package: ranger
@@ -10595,7 +10599,7 @@
   Description: Telegram Bot API server
   Homepage: https://github.com/tdlib/telegram-bot-api
 - Package: teleport-tsh
-  Version: 18.10.0
+  Version: 18.10.0-1
   Description: Secure Access for Developers that doesnt get in the way
   Homepage: https://github.com/gravitational/teleport
 - Package: television
@@ -10779,7 +10783,7 @@
   Description: MIDI-to-WAVE converter and player
   Homepage: https://timidity.sourceforge.net/
 - Package: tin-summer
-  Version: 1.21.14-1
+  Version: 1.21.14-2
   Description: Find build artifacts that are taking up disk space
   Homepage: https://github.com/vmchale/tin-summer
 - Package: tintin++
@@ -11187,11 +11191,11 @@
   Description: units_cur Python script
   Homepage: https://www.gnu.org/software/units/
 - Package: unixodbc
-  Version: 2.3.14
+  Version: 2.3.14-1
   Description: An Open Source ODBC sub-system and an ODBC SDK for Linux, Mac OSX, and UNIX
   Homepage: https://www.unixodbc.org/
 - Package: unixodbc-static
-  Version: 2.3.14
+  Version: 2.3.14-1
   Description: Static libraries for unixodbc
   Homepage: https://www.unixodbc.org/
 - Package: unpaper
@@ -11310,8 +11314,12 @@
   Version: 3.23.0
   Description: A syntax-aware linter for prose built with speed and extensibility in mind
   Homepage: https://vale.sh
+- Package: valkey
+  Version: 9.1.2-2
+  Description: In-memory data structure store used as a database, cache and message broker
+  Homepage: https://valkey.io/
 - Package: valkey-static
-  Version: 9.1.2
+  Version: 9.1.2-2
   Description: Static libraries for valkey
   Homepage: https://valkey.io/
 - Package: vamp-plugin-sdk
@@ -11335,11 +11343,11 @@
   Description: Config manager based on Git
   Homepage: https://github.com/RichiH/vcsh
 - Package: vde2
-  Version: 2.3.3-6
+  Version: 2.3.3-7
   Description: Virtual Distributed Ethernet for emulators like qemu
   Homepage: https://github.com/virtualsquare/vde-2
 - Package: vde2-static
-  Version: 2.3.3-6
+  Version: 2.3.3-7
   Description: Static libraries for vde2
   Homepage: https://github.com/virtualsquare/vde-2
 - Package: vegeta
@@ -11619,7 +11627,7 @@
   Description: An intelligent Whois client
   Homepage: https://github.com/rfc1036/whois
 - Package: wireguard-tools
-  Version: 1.0.20210914-3
+  Version: 1.0.20260223
   Description: Tools for the WireGuard secure network tunnel
   Homepage: https://www.wireguard.com
 - Package: wireproxy
