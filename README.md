@@ -127,7 +127,7 @@
 | **autossh** | 1.4g-4 | Automatically restart SSH sessions and tunnels | https://www.harding.motd.ca/autossh/ |
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
-| **await** | 2.7.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
+| **await** | 2.10.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
 | **awscli** | 2.37.4 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **azure-cli** | 2.90.0-1 | Microsoft's command-line tool for managing Azure cloud resources | https://learn.microsoft.com/en-us/cli/azure/ |
@@ -1581,7 +1581,7 @@
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.6.2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
 | **libtorrent** | 0.16.24 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
-| **libtorrent-rasterbar** | 2.1.1 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
+| **libtorrent-rasterbar** | 2.1.2 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
 | **libtorrent-static** | 0.16.24 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
@@ -2996,7 +2996,7 @@
 | **zpaq** | 7.15-1 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
 | **zrok** | 1.1.11 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
 | **zrok2** | 2.0.4 | An open source sharing solution built on OpenZiti | https://zrok.io/ |
-| **zsh** | 5.9.2-1 | Shell with lots of features | https://www.zsh.org |
+| **zsh** | 5.9.2-2 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.36.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-2 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | https://zssh.sourceforge.net/ |
 | **zstd** | 1.5.7-1 | Zstandard compression | https://github.com/facebook/zstd |

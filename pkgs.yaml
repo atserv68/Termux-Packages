@@ -467,7 +467,7 @@
   Description: Assember for the Atmel AVR microcontroller family
   Homepage: https://github.com/Ro5bert/avra
 - Package: await
-  Version: 2.7.0
+  Version: 2.10.0
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
@@ -6283,7 +6283,7 @@
   Description: Libtorrent BitTorrent library
   Homepage: https://github.com/rakshasa/rtorrent/wiki
 - Package: libtorrent-rasterbar
-  Version: 2.1.1
+  Version: 2.1.2
   Description: A feature complete C++ bittorrent implementation focusing on efficiency and scalability
   Homepage: https://libtorrent.org/
 - Package: libtorrent-static
@@ -11943,7 +11943,7 @@
   Description: An open source sharing solution built on OpenZiti
   Homepage: https://zrok.io/
 - Package: zsh
-  Version: 5.9.2-1
+  Version: 5.9.2-2
   Description: Shell with lots of features
   Homepage: https://www.zsh.org
 - Package: zsh-completions
