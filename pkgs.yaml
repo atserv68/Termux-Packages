@@ -502,14 +502,6 @@
   Version: 17.0.0
   Description: Bacula backup software
   Homepage: https://www.bacula.org
-- Package: bacula-fd
-  Version: 15.0.3-2
-  Description: Bacula backup software
-  Homepage: https://www.bacula.org
-- Package: bacula-fd-static
-  Version: 15.0.3-2
-  Description: Static libraries for bacula-fd
-  Homepage: https://www.bacula.org
 - Package: barcode
   Version: 0.99-5
   Description: Tool to convert text strings to printed bars
@@ -863,7 +855,7 @@
   Description: Simple cargo subcommand for generating flamegraphs, using inferno under the hood
   Homepage: https://github.com/flamegraph-rs/flamegraph
 - Package: cargo-leptos
-  Version: 0.3.9
+  Version: 0.3.10
   Description: Build tool for the Rust framework Leptos
   Homepage: https://github.com/leptos-rs/cargo-leptos
 - Package: cargo-machete
@@ -1075,7 +1067,7 @@
   Description: A tunneling daemon that proxies traffic from the Cloudflare network to your origins
   Homepage: https://github.com/cloudflare/cloudflared
 - Package: clpeak
-  Version: 1.1.7
+  Version: 2.1.4
   Description: A tool which profiles OpenCL devices to find their peak capacities
   Homepage: https://github.com/krrishnarraj/clpeak
 - Package: clucene
@@ -1097,10 +1089,6 @@
 - Package: cmark
   Version: 0.31.2-1
   Description: CommonMark parsing and rendering program
-  Homepage: https://github.com/commonmark/cmark
-- Package: cmark-static
-  Version: 0.31.2
-  Description: Static libraries for cmark
   Homepage: https://github.com/commonmark/cmark
 - Package: cmatrix
   Version: 2.0-1
@@ -1159,7 +1147,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 3.5.0-12
+  Version: 3.5.0-13
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -1235,7 +1223,7 @@
   Description: Roguelike adventure through dungeons filled with dangerous monsters
   Homepage: https://crawl.develz.org/
 - Package: croc
-  Version: 1:11.5.3
+  Version: 1:11.5.4
   Description: Easily and securely send things from one computer to another
   Homepage: https://github.com/schollz/croc
 - Package: cronie
@@ -2130,10 +2118,6 @@
   Version: 5.48-3
   Description: Command-line tool that tells you in words what kind of data a file contains
   Homepage: https://darwinsys.com/file/
-- Package: file-static
-  Version: 5.48-1
-  Description: Static libraries for file
-  Homepage: https://darwinsys.com/file/
 - Package: finch
   Version: 2.14.14-2
   Description: Text-based multi-protocol instant messaging client
@@ -2401,10 +2385,6 @@
 - Package: gecode
   Version: 6.4.0
   Description: Generic Constraint Development Environment
-  Homepage: https://www.gecode.dev/
-- Package: gecode-static
-  Version: 6.3.0
-  Description: Static libraries for gecode
   Homepage: https://www.gecode.dev/
 - Package: gegl
   Version: 0.4.72
@@ -2679,7 +2659,7 @@
   Description: A framework for secure peer-to-peer networking
   Homepage: https://gnunet.org
 - Package: gnupg
-  Version: 2.5.17
+  Version: 2.5.24
   Description: Implementation of the OpenPGP standard for encrypting and signing data and communication
   Homepage: https://www.gnupg.org/
 - Package: gnuplot
@@ -2867,7 +2847,7 @@
   Description: C++ bindings for GPGME
   Homepage: https://www.gnupg.org/related_software/gpgme/
 - Package: gpgv
-  Version: 2.5.17
+  Version: 2.5.24
   Description: GNU privacy guard - signature verification tool
   Homepage: https://www.gnupg.org/
 - Package: gping
@@ -4583,11 +4563,11 @@
   Description: Static libraries for libgc
   Homepage: https://www.hboehm.info/gc/
 - Package: libgcrypt
-  Version: 1.12.3
+  Version: 1.12.4
   Description: General purpose cryptographic library based on the code from GnuPG
   Homepage: https://www.gnu.org/software/libgcrypt/
 - Package: libgcrypt-static
-  Version: 1.12.3
+  Version: 1.12.4
   Description: Static libraries for libgcrypt
   Homepage: https://www.gnu.org/software/libgcrypt/
 - Package: libgd
@@ -5739,11 +5719,11 @@
   Description: Static libraries for libpopt
   Homepage: https://www.linuxfromscratch.org/blfs/view/svn/general/popt.html
 - Package: libpq
-  Version: 18.2-1
+  Version: "18.6"
   Description: PostgreSQL client library (libpq) without the server
   Homepage: https://www.postgresql.org
 - Package: libpq-static
-  Version: 18.2-1
+  Version: "18.6"
   Description: Static library for libpq
   Homepage: https://www.postgresql.org
 - Package: libprotobuf
@@ -5983,11 +5963,11 @@
   Description: Signal Protocol C Library
   Homepage: https://github.com/signalapp/libsignal-protocol-c
 - Package: libsigsegv
-  Version: 2.14-1
+  Version: "2.15"
   Description: GNU libsigsegv is a library for handling page faults in user mode
   Homepage: https://www.gnu.org/software/libsigsegv/
 - Package: libsigsegv-static
-  Version: 2.14-1
+  Version: "2.15"
   Description: Static libraries for libsigsegv
   Homepage: https://www.gnu.org/software/libsigsegv/
 - Package: libsixel
@@ -6251,7 +6231,7 @@
   Description: A powerful engine for storing and accessing dense and sparse multi-dimensional arrays
   Homepage: https://tiledb.com/
 - Package: libtins
-  Version: 4.5-5
+  Version: "4.6"
   Description: High-level, multiplatform C++ network packet sniffing and crafting library.
   Homepage: https://libtins.github.io
 - Package: libtinyxml
@@ -7191,7 +7171,7 @@
   Description: A system information fetcher, with an emphasis on performance and minimalism.
   Homepage: https://github.com/Macchina-CLI/macchina
 - Package: magic-wormhole-rs
-  Version: 0.7.6-1
+  Version: 0.8.1
   Description: Rust implementation of Magic Wormhole, with new features and enhancements
   Homepage: https://github.com/magic-wormhole/magic-wormhole.rs
 - Package: mailpit
@@ -7750,10 +7730,6 @@
   Version: 1.28.2-1
   Description: Lightweight PDF and XPS viewer (library)
   Homepage: https://mupdf.com/
-- Package: mupdf-static
-  Version: 1.24.10-2
-  Description: Static libraries for mupdf
-  Homepage: https://mupdf.com/
 - Package: mupdf-tools
   Version: 1.28.2-1
   Description: Lightweight PDF and XPS viewer (utilities)
@@ -7767,7 +7743,7 @@
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: mycli
-  Version: 2.25.3
+  Version: 2.26.0
   Description: CLI for MySQL/MariaDB with auto-completion and syntax highlighting
   Homepage: https://mycli.net
 - Package: myman
@@ -8099,7 +8075,7 @@
   Description: A statically typed programming language for scientific computations with first class support for physical dimensions and units
   Homepage: https://numbat.dev/
 - Package: nushell
-  Version: 0.115.1
+  Version: 0.116.0
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat
@@ -8462,10 +8438,6 @@
   Version: 0.26.5
   Description: Provides a way to load and enumerate PKCS#11 modules
   Homepage: https://p11-glue.github.io/p11-glue/p11-kit.html
-- Package: p7zip
-  Version: 17.06-1
-  Description: Command-line version of the 7zip compressed file archiver
-  Homepage: https://github.com/p7zip-project/p7zip
 - Package: pacman
   Version: 7.1.0-9
   Description: A library-based package manager with dependency support
@@ -8879,11 +8851,11 @@
   Description: Spatial database extender for PostgreSQL object-relational database
   Homepage: https://postgis.net
 - Package: postgresql
-  Version: 18.2-1
+  Version: "18.6"
   Description: Object-relational SQL database
   Homepage: https://www.postgresql.org
 - Package: postgresql-static
-  Version: 18.2-1
+  Version: "18.6"
   Description: Static libraries for postgresql
   Homepage: https://www.postgresql.org
 - Package: potrace
@@ -9395,7 +9367,7 @@
   Description: Static libraries for qhull
   Homepage: http://www.qhull.org
 - Package: qpdf
-  Version: 12.4.1
+  Version: 12.4.2
   Description: Content-Preserving PDF Transformation System
   Homepage: http://qpdf.sourceforge.net
 - Package: qrsspig
@@ -9743,11 +9715,11 @@
   Description: A rubiks cube that runs in your terminal
   Homepage: https://github.com/been-jamming/rubiks_cube
 - Package: ruby
-  Version: 4.0.6
+  Version: 4.0.7
   Description: Dynamic programming language with a focus on simplicity and productivity
   Homepage: https://www.ruby-lang.org/
 - Package: ruby-ri
-  Version: 4.0.6
+  Version: 4.0.7
   Description: Ruby documentation index
   Homepage: https://www.ruby-lang.org/
 - Package: ruff
@@ -9755,11 +9727,11 @@
   Description: An extremely fast Python linter, written in Rust
   Homepage: https://github.com/charliermarsh/ruff
 - Package: runit
-  Version: 2.1.2-4
+  Version: 2.3.1
   Description: Tools to provide service supervision and to manage services
   Homepage: http://smarden.org/runit
 - Package: runit-static
-  Version: 2.1.2-4
+  Version: 2.3.1
   Description: Static libraries for runit
   Homepage: http://smarden.org/runit
 - Package: rush
@@ -9879,7 +9851,7 @@
   Description: sccache is ccache with cloud storage
   Homepage: https://github.com/mozilla/sccache
 - Package: scdaemon
-  Version: 2.5.17
+  Version: 2.5.24
   Description: Daemon invoked by gpg to manage smartcards
   Homepage: https://www.gnupg.org/
 - Package: scdoc
@@ -10850,10 +10822,6 @@
   Version: 8.6.14-1
   Description: A windowing toolkit for use with tcl
   Homepage: https://tcl.sourceforge.net/
-- Package: tmate
-  Version: 2.4.0-3
-  Description: Terminal multiplexer with instant terminal sharing
-  Homepage: https://tmate.io
 - Package: tmux
   Version: 3.7c-1
   Description: Terminal multiplexer
@@ -11442,10 +11410,6 @@
   Version: 3.0.24
   Description: A popular libre and open source media player and multimedia engine
   Homepage: https://www.videolan.org/
-- Package: vlc-static
-  Version: 3.0.23-5
-  Description: Static libraries for vlc
-  Homepage: https://www.videolan.org/
 - Package: vobsub2srt
   Version: 2017.12.18-4
   Description: A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR
@@ -11455,7 +11419,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.09.26
+  Version: 2026.09.27
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest

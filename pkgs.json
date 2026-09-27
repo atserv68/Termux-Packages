@@ -756,18 +756,6 @@
     "Homepage": "https://www.bacula.org"
   },
   {
-    "Package": "bacula-fd",
-    "Version": "15.0.3-2",
-    "Description": "Bacula backup software",
-    "Homepage": "https://www.bacula.org"
-  },
-  {
-    "Package": "bacula-fd-static",
-    "Version": "15.0.3-2",
-    "Description": "Static libraries for bacula-fd",
-    "Homepage": "https://www.bacula.org"
-  },
-  {
     "Package": "barcode",
     "Version": "0.99-5",
     "Description": "Tool to convert text strings to printed bars",
@@ -1297,7 +1285,7 @@
   },
   {
     "Package": "cargo-leptos",
-    "Version": "0.3.9",
+    "Version": "0.3.10",
     "Description": "Build tool for the Rust framework Leptos",
     "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
@@ -1615,7 +1603,7 @@
   },
   {
     "Package": "clpeak",
-    "Version": "1.1.7",
+    "Version": "2.1.4",
     "Description": "A tool which profiles OpenCL devices to find their peak capacities",
     "Homepage": "https://github.com/krrishnarraj/clpeak"
   },
@@ -1647,12 +1635,6 @@
     "Package": "cmark",
     "Version": "0.31.2-1",
     "Description": "CommonMark parsing and rendering program",
-    "Homepage": "https://github.com/commonmark/cmark"
-  },
-  {
-    "Package": "cmark-static",
-    "Version": "0.31.2",
-    "Description": "Static libraries for cmark",
     "Homepage": "https://github.com/commonmark/cmark"
   },
   {
@@ -1741,7 +1723,7 @@
   },
   {
     "Package": "command-not-found",
-    "Version": "3.5.0-12",
+    "Version": "3.5.0-13",
     "Description": "Suggest installation of packages in interactive shell sessions",
     "Homepage": "https://github.com/termux/command-not-found"
   },
@@ -1855,7 +1837,7 @@
   },
   {
     "Package": "croc",
-    "Version": "1:11.5.3",
+    "Version": "1:11.5.4",
     "Description": "Easily and securely send things from one computer to another",
     "Homepage": "https://github.com/schollz/croc"
   },
@@ -3198,12 +3180,6 @@
     "Homepage": "https://darwinsys.com/file/"
   },
   {
-    "Package": "file-static",
-    "Version": "5.48-1",
-    "Description": "Static libraries for file",
-    "Homepage": "https://darwinsys.com/file/"
-  },
-  {
     "Package": "finch",
     "Version": "2.14.14-2",
     "Description": "Text-based multi-protocol instant messaging client",
@@ -3603,12 +3579,6 @@
     "Package": "gecode",
     "Version": "6.4.0",
     "Description": "Generic Constraint Development Environment",
-    "Homepage": "https://www.gecode.dev/"
-  },
-  {
-    "Package": "gecode-static",
-    "Version": "6.3.0",
-    "Description": "Static libraries for gecode",
     "Homepage": "https://www.gecode.dev/"
   },
   {
@@ -4021,7 +3991,7 @@
   },
   {
     "Package": "gnupg",
-    "Version": "2.5.17",
+    "Version": "2.5.24",
     "Description": "Implementation of the OpenPGP standard for encrypting and signing data and communication",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -4303,7 +4273,7 @@
   },
   {
     "Package": "gpgv",
-    "Version": "2.5.17",
+    "Version": "2.5.24",
     "Description": "GNU privacy guard - signature verification tool",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -6877,13 +6847,13 @@
   },
   {
     "Package": "libgcrypt",
-    "Version": "1.12.3",
+    "Version": "1.12.4",
     "Description": "General purpose cryptographic library based on the code from GnuPG",
     "Homepage": "https://www.gnu.org/software/libgcrypt/"
   },
   {
     "Package": "libgcrypt-static",
-    "Version": "1.12.3",
+    "Version": "1.12.4",
     "Description": "Static libraries for libgcrypt",
     "Homepage": "https://www.gnu.org/software/libgcrypt/"
   },
@@ -8611,13 +8581,13 @@
   },
   {
     "Package": "libpq",
-    "Version": "18.2-1",
+    "Version": "18.6",
     "Description": "PostgreSQL client library (libpq) without the server",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "libpq-static",
-    "Version": "18.2-1",
+    "Version": "18.6",
     "Description": "Static library for libpq",
     "Homepage": "https://www.postgresql.org"
   },
@@ -8977,13 +8947,13 @@
   },
   {
     "Package": "libsigsegv",
-    "Version": "2.14-1",
+    "Version": "2.15",
     "Description": "GNU libsigsegv is a library for handling page faults in user mode",
     "Homepage": "https://www.gnu.org/software/libsigsegv/"
   },
   {
     "Package": "libsigsegv-static",
-    "Version": "2.14-1",
+    "Version": "2.15",
     "Description": "Static libraries for libsigsegv",
     "Homepage": "https://www.gnu.org/software/libsigsegv/"
   },
@@ -9379,7 +9349,7 @@
   },
   {
     "Package": "libtins",
-    "Version": "4.5-5",
+    "Version": "4.6",
     "Description": "High-level, multiplatform C++ network packet sniffing and crafting library.",
     "Homepage": "https://libtins.github.io"
   },
@@ -10789,7 +10759,7 @@
   },
   {
     "Package": "magic-wormhole-rs",
-    "Version": "0.7.6-1",
+    "Version": "0.8.1",
     "Description": "Rust implementation of Magic Wormhole, with new features and enhancements",
     "Homepage": "https://github.com/magic-wormhole/magic-wormhole.rs"
   },
@@ -11628,12 +11598,6 @@
     "Homepage": "https://mupdf.com/"
   },
   {
-    "Package": "mupdf-static",
-    "Version": "1.24.10-2",
-    "Description": "Static libraries for mupdf",
-    "Homepage": "https://mupdf.com/"
-  },
-  {
     "Package": "mupdf-tools",
     "Version": "1.28.2-1",
     "Description": "Lightweight PDF and XPS viewer (utilities)",
@@ -11653,7 +11617,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.25.3",
+    "Version": "2.26.0",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -12151,7 +12115,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.115.1",
+    "Version": "0.116.0",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -12694,12 +12658,6 @@
     "Version": "0.26.5",
     "Description": "Provides a way to load and enumerate PKCS#11 modules",
     "Homepage": "https://p11-glue.github.io/p11-glue/p11-kit.html"
-  },
-  {
-    "Package": "p7zip",
-    "Version": "17.06-1",
-    "Description": "Command-line version of the 7zip compressed file archiver",
-    "Homepage": "https://github.com/p7zip-project/p7zip"
   },
   {
     "Package": "pacman",
@@ -13321,13 +13279,13 @@
   },
   {
     "Package": "postgresql",
-    "Version": "18.2-1",
+    "Version": "18.6",
     "Description": "Object-relational SQL database",
     "Homepage": "https://www.postgresql.org"
   },
   {
     "Package": "postgresql-static",
-    "Version": "18.2-1",
+    "Version": "18.6",
     "Description": "Static libraries for postgresql",
     "Homepage": "https://www.postgresql.org"
   },
@@ -14095,7 +14053,7 @@
   },
   {
     "Package": "qpdf",
-    "Version": "12.4.1",
+    "Version": "12.4.2",
     "Description": "Content-Preserving PDF Transformation System",
     "Homepage": "http://qpdf.sourceforge.net"
   },
@@ -14617,13 +14575,13 @@
   },
   {
     "Package": "ruby",
-    "Version": "4.0.6",
+    "Version": "4.0.7",
     "Description": "Dynamic programming language with a focus on simplicity and productivity",
     "Homepage": "https://www.ruby-lang.org/"
   },
   {
     "Package": "ruby-ri",
-    "Version": "4.0.6",
+    "Version": "4.0.7",
     "Description": "Ruby documentation index",
     "Homepage": "https://www.ruby-lang.org/"
   },
@@ -14635,13 +14593,13 @@
   },
   {
     "Package": "runit",
-    "Version": "2.1.2-4",
+    "Version": "2.3.1",
     "Description": "Tools to provide service supervision and to manage services",
     "Homepage": "http://smarden.org/runit"
   },
   {
     "Package": "runit-static",
-    "Version": "2.1.2-4",
+    "Version": "2.3.1",
     "Description": "Static libraries for runit",
     "Homepage": "http://smarden.org/runit"
   },
@@ -14821,7 +14779,7 @@
   },
   {
     "Package": "scdaemon",
-    "Version": "2.5.17",
+    "Version": "2.5.24",
     "Description": "Daemon invoked by gpg to manage smartcards",
     "Homepage": "https://www.gnupg.org/"
   },
@@ -16278,12 +16236,6 @@
     "Homepage": "https://tcl.sourceforge.net/"
   },
   {
-    "Package": "tmate",
-    "Version": "2.4.0-3",
-    "Description": "Terminal multiplexer with instant terminal sharing",
-    "Homepage": "https://tmate.io"
-  },
-  {
     "Package": "tmux",
     "Version": "3.7c-1",
     "Description": "Terminal multiplexer",
@@ -17166,12 +17118,6 @@
     "Homepage": "https://www.videolan.org/"
   },
   {
-    "Package": "vlc-static",
-    "Version": "3.0.23-5",
-    "Description": "Static libraries for vlc",
-    "Homepage": "https://www.videolan.org/"
-  },
-  {
     "Package": "vobsub2srt",
     "Version": "2017.12.18-4",
     "Description": "A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR",
@@ -17185,7 +17131,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.09.26",
+    "Version": "2026.09.27",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
