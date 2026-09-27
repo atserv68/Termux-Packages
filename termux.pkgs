@@ -340,7 +340,7 @@
 | **dateutils** | 0.4.12 | Command line date and time utilities | https://www.fresse.org/dateutils/ |
 | **db** | 18.1.40-6 | The Berkeley DB embedded database system | https://www.oracle.com/database/berkeley-db |
 | **dbus** | 1.16.2-3 | Freedesktop.org message bus system | https://dbus.freedesktop.org |
-| **dbus-python** | 1.4.0-3 | Python bindings for D-Bus | https://dbus.freedesktop.org/doc/dbus-python/ |
+| **dbus-python** | 1.5.0 | Python bindings for D-Bus | https://dbus.freedesktop.org/doc/dbus-python/ |
 | **dcmtk** | 3.7.0 | A collection of libraries and applications implementing large parts the DICOM standard | https://dicom.offis.de/dcmtk |
 | **dcraw** | 9.28.0-7 | Raw digital camera images decoding utility | https://www.dechifro.org/dcraw/ |
 | **ddrescue** | 1.30 | GNU data recovery tool | https://www.gnu.org/software/ddrescue/ |
@@ -750,7 +750,7 @@
 | **gumbo-parser-static** | 0.10.1-1 | Static libraries for gumbo-parser | https://github.com/google/gumbo-parser |
 | **gurk** | 0.10.1 | Signal messenger client for terminal | https://github.com/boxdot/gurk-rs |
 | **gweather-locations** | 2026.2 | The GWeather locations database | https://gitlab.gnome.org/GNOME/gweather-locations |
-| **gzip** | 1.14-1 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
+| **gzip** | 1.15 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **half** | 2.2.1 | C++ header-only library for IEEE 754 half-precision floating-point format | https://half.sourceforge.net/ |
 | **haproxy** | 3.4.5 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 14.5.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -796,13 +796,13 @@
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
 | **hugo** | 0.166.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
-| **hunspell** | 1.7.3 | Spell checker | https://hunspell.github.io |
+| **hunspell** | 1.7.4 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-fr** | 20221031 | French dictionary for hunspell | https://hunspell.github.io |
 | **hunspell-hu** | 2024.03.28 | Hungarian dictionary for hunspell | https://magyarispell.sourceforge.net/ |
 | **hunspell-nl** | 2013.07.22 | Dutch dictionary for hunspell | https://www.opentaal.org/ |
 | **hunspell-ru** | 20210731 | Russian dictionary for hunspell | https://hunspell.github.io |
-| **hunspell-static** | 1.7.3 | Static libraries for hunspell | https://hunspell.github.io |
+| **hunspell-static** | 1.7.4 | Static libraries for hunspell | https://hunspell.github.io |
 | **hurl** | 8.0.1 | Command line tool that runs and tests HTTP requests defined in a plain text format | https://hurl.dev |
 | **hut** | 0.8.0-1 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
 | **hwdata** | 0.411 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
@@ -821,8 +821,8 @@
 | **id3lib** | 3.8.3-4 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | https://id3lib.sourceforge.net/ |
 | **id3lib-static** | 3.8.3-4 | Static libraries for id3lib | https://id3lib.sourceforge.net/ |
 | **id3v2** | 0.1.12-2 | A command line id3v2 tag editor | https://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.2.31 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.2.31 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.2.32 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.2.32 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.2.3 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imlib2** | 1.12.7 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
 | **imlib2-static** | 1.12.7 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
@@ -899,7 +899,7 @@
 | **kakoune** | 2026.05.21-1 | Code editor heavily inspired by Vim | https://kakoune.org/ |
 | **kakoune-lsp** | 21.0.2 | Language Server Protocol Client for the Kakoune editor | https://github.com/kakoune-lsp/kakoune-lsp |
 | **kbd** | 2.10.0 | KBD's showkey utility for examining keycodes | https://kbd-project.org/ |
-| **kew** | 4.3.6 | Music for the Shell | https://kewplayer.com |
+| **kew** | 4.3.8 | Music for the Shell | https://kewplayer.com |
 | **keybase** | 6.6.3 | Key directory that maps social media identities to encryption keys | https://keybase.io |
 | **keychain** | 3.0.5 | Keychain manager for ssh-agent and gpg-agent | https://kernel-seeds.org/projects/keychain/ |
 | **kibi** | 0.3.3-1 | A tiny terminal text editor, written in Rust | https://github.com/ilai-deutel/kibi |
@@ -2470,7 +2470,7 @@
 | **scrypt** | 1.3.3-1 | scrypt KDF library and file encryption tool | https://www.tarsnap.com/scrypt.html |
 | **sd** | 1.1.0 | An intuitive find & replace CLI | https://github.com/chmln/sd |
 | **sdcv** | 0.5.5-2 | StarDict Console Version | http://dushistov.github.io/sdcv/ |
-| **sea-orm-cli** | 2.0.3 | Command line utility for SeaORM, an async & dynamic ORM for Rust | https://github.com/SeaQL/sea-orm |
+| **sea-orm-cli** | 2.0.4 | Command line utility for SeaORM, an async & dynamic ORM for Rust | https://github.com/SeaQL/sea-orm |
 | **seafile-client** | 9.0.21 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.21 | Static libraries for seafile-client | https://seafile.com |
 | **seanime** | 3.10.3 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
@@ -2982,8 +2982,8 @@
 | **zopfli** | 1.0.3-5 | New zlib compatible compressor tools | https://github.com/google/zopfli |
 | **zoxide** | 0.10.0 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15-1 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
-| **zrok** | 1.1.11 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
-| **zrok2** | 2.0.4 | An open source sharing solution built on OpenZiti | https://zrok.io/ |
+| **zrok** | 1.1.12 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
+| **zrok2** | 2.0.5 | An open source sharing solution built on OpenZiti | https://zrok.io/ |
 | **zsh** | 5.9.2-2 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.36.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-2 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | https://zssh.sourceforge.net/ |

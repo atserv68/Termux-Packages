@@ -2053,7 +2053,7 @@
   },
   {
     "Package": "dbus-python",
-    "Version": "1.4.0-3",
+    "Version": "1.5.0",
     "Description": "Python bindings for D-Bus",
     "Homepage": "https://dbus.freedesktop.org/doc/dbus-python/"
   },
@@ -4513,7 +4513,7 @@
   },
   {
     "Package": "gzip",
-    "Version": "1.14-1",
+    "Version": "1.15",
     "Description": "Standard GNU file compression utilities",
     "Homepage": "https://www.gnu.org/software/gzip/"
   },
@@ -4789,7 +4789,7 @@
   },
   {
     "Package": "hunspell",
-    "Version": "1.7.3",
+    "Version": "1.7.4",
     "Description": "Spell checker",
     "Homepage": "https://hunspell.github.io"
   },
@@ -4825,7 +4825,7 @@
   },
   {
     "Package": "hunspell-static",
-    "Version": "1.7.3",
+    "Version": "1.7.4",
     "Description": "Static libraries for hunspell",
     "Homepage": "https://hunspell.github.io"
   },
@@ -4939,13 +4939,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.31",
+    "Version": "7.1.2.32",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.31",
+    "Version": "7.1.2.32",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -5407,7 +5407,7 @@
   },
   {
     "Package": "kew",
-    "Version": "4.3.6",
+    "Version": "4.3.8",
     "Description": "Music for the Shell",
     "Homepage": "https://kewplayer.com"
   },
@@ -14833,7 +14833,7 @@
   },
   {
     "Package": "sea-orm-cli",
-    "Version": "2.0.3",
+    "Version": "2.0.4",
     "Description": "Command line utility for SeaORM, an async & dynamic ORM for Rust",
     "Homepage": "https://github.com/SeaQL/sea-orm"
   },
@@ -17905,13 +17905,13 @@
   },
   {
     "Package": "zrok",
-    "Version": "1.1.11",
+    "Version": "1.1.12",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },
   {
     "Package": "zrok2",
-    "Version": "2.0.4",
+    "Version": "2.0.5",
     "Description": "An open source sharing solution built on OpenZiti",
     "Homepage": "https://zrok.io/"
   },
