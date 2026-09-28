@@ -53,7 +53,7 @@
 | **apkeep** | 1.0.0 | A command-line tool for downloading APK files from various sources | https://github.com/EFForg/apkeep |
 | **apksigner** | 37.0.0 | APK signing tool from Android SDK | https://developer.android.com/studio/command-line/apksigner |
 | **apktool** | 3.0.3 | A tool for reverse engineering Android apps (decoding, rebuilding, and smali debugging). | https://apktool.org/ |
-| **appstream** | 1.2.0 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
+| **appstream** | 1.2.1 | Provides a standard for creating app stores across distributions | https://www.freedesktop.org/wiki/Distributions/AppStream/ |
 | **apr** | 1.7.6-2 | Apache Portable Runtime Library | https://apr.apache.org/ |
 | **apr-static** | 1.7.6-2 | Static libraries for apr | https://apr.apache.org/ |
 | **apr-util** | 1.6.5 | Apache Portable Runtime Utility Library | https://apr.apache.org/ |
@@ -193,8 +193,8 @@
 | **c-ares** | 1.34.8 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-toxcore** | 0.2.23 | Backend library for the Tox protocol | https://tox.chat |
 | **c-toxcore-static** | 0.2.23 | Static libraries for c-toxcore | https://tox.chat |
-| **ca-certificates** | 1:2026.08.13 | Common CA certificates | https://curl.se/docs/caextract.html |
-| **ca-certificates-java** | 1:2026.08.13 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
+| **ca-certificates** | 1:2026.09.25 | Common CA certificates | https://curl.se/docs/caextract.html |
+| **ca-certificates-java** | 1:2026.09.25 | Common CA certificates (java keystore format) | https://curl.se/docs/caextract.html |
 | **cabal-install** | 3.16.1.0-1 | The command-line interface for Haskell-Cabal and Hackage | https://www.haskell.org/cabal/ |
 | **cabextract** | 1.11-1 | A program to extract Microsoft cabinet (.CAB) files | https://www.cabextract.org.uk/ |
 | **cabin** | 0.17.0 | A package manager and build system for C/C++ | https://cabinpkg.com/ |
@@ -439,7 +439,7 @@
 | **dte** | 1.11.1-2 | A small, configurable console text editor | https://craigbarnes.gitlab.io/dte/ |
 | **dua** | 2.45.0 | View disk space usage and delete unwanted data, fast | https://github.com/Byron/dua-cli |
 | **duc** | 1.4.6 | High-performance disk usage analyzer | http://duc.zevv.nl/ |
-| **duckdb** | 1.5.5 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
+| **duckdb** | 1.5.6 | DuckDB Command Line Interface (CLI) shell | https://duckdb.org/ |
 | **duf** | 0.9.1 | Disk usage/free utility | https://github.com/muesli/duf |
 | **dufs** | 0.46.0 | A file server that supports static serving, uploading, searching, accessing control, webdav... | https://github.com/sigoden/dufs |
 | **duktape** | 2.7.0-2 | Simple REPL for Duktape | https://www.duktape.org/ |
@@ -752,7 +752,7 @@
 | **gweather-locations** | 2026.2 | The GWeather locations database | https://gitlab.gnome.org/GNOME/gweather-locations |
 | **gzip** | 1.15 | Standard GNU file compression utilities | https://www.gnu.org/software/gzip/ |
 | **half** | 2.2.1 | C++ header-only library for IEEE 754 half-precision floating-point format | https://half.sourceforge.net/ |
-| **haproxy** | 3.4.5 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
+| **haproxy** | 3.4.6 | The Reliable, High Performance TCP/HTTP Load Balancer | https://www.haproxy.org/ |
 | **harfbuzz** | 14.5.0 | OpenType text shaping engine | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-icu** | 14.5.0 | OpenType text shaping engine ICU backend | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
 | **harfbuzz-utils** | 14.5.0 | Tools using the harfbuzz library | https://www.freedesktop.org/wiki/Software/HarfBuzz/ |
@@ -794,7 +794,7 @@
 | **httrack-data** | 3.50.4 | Platform-independent data for httrack | http://www.httrack.com |
 | **httrack-static** | 3.50.4 | Static libraries for httrack | http://www.httrack.com |
 | **hub** | 2.14.2-6 | Command-line wrapper for git that makes you better at GitHub | https://hub.github.com/ |
-| **hugo** | 0.166.0 | A fast and flexible static site generator | https://gohugo.io/ |
+| **hugo** | 0.167.0 | A fast and flexible static site generator | https://gohugo.io/ |
 | **hummin** | 2021.05.18-4 | Command line client for the imperial library of trantor | https://trantor.is/ |
 | **hunspell** | 1.7.4 | Spell checker | https://hunspell.github.io |
 | **hunspell-en-us** | 20240129 | American english dictionary for hunspell | https://hunspell.github.io |
@@ -1012,7 +1012,7 @@
 | **libc-client-static** | 2007f-4 | Static libraries for libc-client | https://www.washington.edu/imap/ |
 | **libcaca** | 0.99.beta20-3 | Graphics library that outputs text instead of pixels | http://caca.zoy.org/wiki/libcaca |
 | **libcaca-static** | 0.99.beta20-3 | Static libraries for libcaca | http://caca.zoy.org/wiki/libcaca |
-| **libcairo** | 1.18.4-2 | Cairo 2D vector graphics library | https://cairographics.org |
+| **libcairo** | 1.18.6 | Cairo 2D vector graphics library | https://cairographics.org |
 | **libcairomm-1.0** | 1.14.6 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcairomm-1.16** | 1.18.1 | Provides a C++ interface to cairo | https://www.cairographics.org/cairomm/ |
 | **libcap** | 2.78 | POSIX 1003.1e capabilities | https://sites.google.com/site/fullycapable/ |
@@ -1075,8 +1075,8 @@
 | **libdmtx** | 0.7.8-1 | A software library that enables programs to read and write Data Matrix barcodes | https://github.com/dmtx/libdmtx |
 | **libdmtx-static** | 0.7.8-1 | Static libraries for libdmtx | https://github.com/dmtx/libdmtx |
 | **libdrm** | 2.4.134 | Userspace interface to kernel DRM services | https://dri.freedesktop.org/wiki/ |
-| **libduckdb** | 1.5.5 | An in-process SQL OLAP database management system | https://duckdb.org/ |
-| **libduckdb-static** | 1.5.5 | Static libraries for libduckdb | https://duckdb.org/ |
+| **libduckdb** | 1.5.6 | An in-process SQL OLAP database management system | https://duckdb.org/ |
+| **libduckdb-static** | 1.5.6 | Static libraries for libduckdb | https://duckdb.org/ |
 | **libduktape** | 2.7.0-2 | An embeddable Javascript engine with a focus on portability and compact footprint | https://www.duktape.org/ |
 | **libdvbcsa** | 1.1.0-4 | An implementation of the DVB Common Scrambling Algorithm - DVB/CSA - with encryption and decryption capabilities | https://www.videolan.org/developers/libdvbcsa.html |
 | **libdvbcsa-static** | 1.1.0-4 | Static libraries for libdvbcsa | https://www.videolan.org/developers/libdvbcsa.html |
@@ -2119,8 +2119,8 @@
 | **paperkey** | 1.6-1 | Archive OpenPGP keys on paper | http://www.jabberwocky.com/software/paperkey/ |
 | **par2** | 1.4.0 | par2cmdline is a PAR 2.0 compatible file verification and repair tool | https://github.com/Parchive/par2cmdline |
 | **parallel** | 20260922 | GNU Parallel is a shell tool for executing jobs in parallel using one or more machines | https://www.gnu.org/software/parallel/ |
-| **pari** | 2.17.4 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
-| **pari-static** | 2.17.4 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
+| **pari** | 2.19.0 | A computer algebra system designed for fast computations in number theory | https://pari.math.u-bordeaux.fr/ |
+| **pari-static** | 2.19.0 | Static libraries for pari | https://pari.math.u-bordeaux.fr/ |
 | **parted** | 3.8 | Versatile partition editor | https://www.gnu.org/software/parted/ |
 | **parted-static** | 3.8 | Static libraries for parted | https://www.gnu.org/software/parted/ |
 | **pass** | 1.7.4-5 | Lightweight directory-based password manager | https://www.passwordstore.org |
@@ -2140,9 +2140,9 @@
 | **pcaudiolib-static** | 1.3-1 | Static libraries for pcaudiolib | https://github.com/espeak-ng/pcaudiolib |
 | **pcre** | 8.45-2 | Library implementing regular expression pattern matching using the same syntax and semantics as Perl 5 | https://www.pcre.org |
 | **pcre-static** | 8.45-2 | Static libraries for pcre | https://www.pcre.org |
-| **pcre2** | 10.47 | Perl 5 compatible regular expression library | https://pcre2project.github.io/pcre2/ |
-| **pcre2-static** | 10.47 | Static libraries for pcre2 | https://pcre2project.github.io/pcre2/ |
-| **pcre2grep** | 10.47 | A grep with Perl-compatible regular expressions | https://pcre2project.github.io/pcre2/ |
+| **pcre2** | 10.49 | Perl 5 compatible regular expression library | https://pcre2project.github.io/pcre2/ |
+| **pcre2-static** | 10.49 | Static libraries for pcre2 | https://pcre2project.github.io/pcre2/ |
+| **pcre2grep** | 10.49 | A grep with Perl-compatible regular expressions | https://pcre2project.github.io/pcre2/ |
 | **pcregrep** | 8.45-2 | A grep with Perl-compatible regular expressions | https://www.pcre.org |
 | **pcscd** | 2.5.2 | Middleware to access a smart card using SCard API (PC/SC). (daemon side) | https://pcsclite.apdu.fr/ |
 | **pdf2svg** | 0.2.4-2 | A PDF to SVG converter | http://www.cityinthesky.co.uk/opensource/pdf2svg/ |
@@ -2197,7 +2197,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pnpm** | 12.8.0 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
+| **pnpm** | 12.8.1 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
 | **pocketbase** | 0.40.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **podofo** | 1.1.2 | A C++ library to work with the PDF file format | https://github.com/podofo/podofo |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
@@ -2303,11 +2303,11 @@
 | **python-tflite-runtime** | 2.20.0-4 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
 | **python-tkinter** | 3.14.6-1 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-8 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
-| **python-torch** | 2.11.0-2 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
-| **python-torch-static** | 2.11.0-2 | Static libraries for python-torch | https://pytorch.org/ |
-| **python-torchaudio** | 2.11.0-2 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
-| **python-torchcodec** | 0.11.0-2 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
-| **python-torchvision** | 0.28.0 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
+| **python-torch** | 2.14.0 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
+| **python-torch-static** | 2.14.0 | Static libraries for python-torch | https://pytorch.org/ |
+| **python-torchaudio** | 2.11.0-3 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
+| **python-torchcodec** | 0.16.0 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
+| **python-torchvision** | 0.29.0 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-trash-cli** | 0.26.9.14 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
 | **python-xcbgen** | 1.17.0-3 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-4 | The Python X Library | https://github.com/python-xlib/python-xlib |
@@ -2356,7 +2356,7 @@
 | **rage** | 0.12.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.62.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.63.1 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0-1 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2505,13 +2505,13 @@
 | **silicon** | 0.5.3-1 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-6 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
 | **simde** | 0.8.2 | Implementations of SIMD instructions for all systems | https://simd-everywhere.github.io/ |
-| **simdjson** | 4.6.11 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
+| **simdjson** | 5.0.1 | A C++ library to see how fast we can parse JSON with complete validation | https://simdjson.org/ |
 | **simh** | 1:3.12.5-1 | A collection of simulators for computer hardware and software from the past | http://simh.trailing-edge.com/ |
 | **simulavr** | 1:1.1.0-3 | Simulator for Microchip AVR (formerly Atmel) microcontrollers | https://www.nongnu.org/simulavr |
 | **sing-box** | 1.14.2 | The universal proxy platform | https://sing-box.sagernet.org |
 | **skalibs** | 2.15.1.0 | A set of general-purpose C programming libraries | https://skarnet.org/software/skalibs/ |
 | **skalibs-static** | 2.15.1.0 | Static libraries for skalibs | https://skarnet.org/software/skalibs/ |
-| **skate** | 1.0.1-1 | A personal key-value store | https://github.com/charmbracelet/skate |
+| **skate** | 1.1.0 | A personal key-value store | https://github.com/charmbracelet/skate |
 | **sl** | 5.05-1 | Tool curing your bad habit of mistyping | https://github.com/mtoyoda/sl |
 | **slang** | 2.3.3-2 | S-Lang is a powerful interpreted language | https://www.jedsoft.org/slang/ |
 | **slashtime** | 2023.01.04-1 | A small program which displays the time in various places | https://github.com/istathar/slashtime |
@@ -2961,8 +2961,8 @@
 | **yt-dlp-ejs** | 0.8.0-1 | External JavaScript for yt-dlp supporting many runtimes | https://github.com/yt-dlp/ejs |
 | **ytfzf** | 2.6.2 | A POSIX script that helps you find Youtube videos (without API) | https://github.com/pystardust/ytfzf |
 | **ytui-music** | 2.0.0-beta-5 | Youtube client in terminal for music | https://github.com/sudipghimire533/ytui-music |
-| **yuma123** | 2.13-4 | Provides an opensource YANG API in C | https://yuma123.org/ |
-| **yuma123-static** | 2.13-4 | Static libraries for yuma123 | https://yuma123.org/ |
+| **yuma123** | 2.13-5 | Provides an opensource YANG API in C | https://yuma123.org/ |
+| **yuma123-static** | 2.13-5 | Static libraries for yuma123 | https://yuma123.org/ |
 | **z-push** | 2.7.6-1 | An open-source application to synchronize ActiveSync compatible devices and Outlook | https://z-push.org/ |
 | **z3** | 5.1.0 | Z3 is a theorem prover from Microsoft Research | https://github.com/Z3Prover/z3 |
 | **zbar** | 0.23.93-2 | Software suite for reading bar codes from various sources | https://github.com/mchehab/zbar |
