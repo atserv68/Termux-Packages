@@ -5143,7 +5143,7 @@
   },
   {
     "Package": "jackett",
-    "Version": "0.24.2627",
+    "Version": "0.24.2685",
     "Description": "API Support for your favorite torrent trackers",
     "Homepage": "https://github.com/jackett/jackett"
   },
@@ -11857,7 +11857,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1738+g521eddec7c-0",
+    "Version": "0.13.0~dev-1749+g6512282c55-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12205,7 +12205,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "31.3.0",
+    "Version": "31.4.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -12643,7 +12643,7 @@
   },
   {
     "Package": "oxfmt",
-    "Version": "1.85.0",
+    "Version": "1.86.0",
     "Description": "Oxc JavaScript formatter",
     "Homepage": "https://oxc.rs/"
   },
@@ -12655,7 +12655,7 @@
   },
   {
     "Package": "oxlint",
-    "Version": "1.85.0",
+    "Version": "1.86.0",
     "Description": "Oxc JavaScript linter",
     "Homepage": "https://oxc.rs/"
   },
@@ -13195,7 +13195,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.7.0",
+    "Version": "12.8.0",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -14623,7 +14623,7 @@
   },
   {
     "Package": "rust-analyzer",
-    "Version": "20260921",
+    "Version": "20260928",
     "Description": "A Rust compiler front-end for IDEs",
     "Homepage": "https://rust-analyzer.github.io/"
   },
@@ -15193,7 +15193,7 @@
   },
   {
     "Package": "soju",
-    "Version": "0.11.0",
+    "Version": "0.11.1",
     "Description": "A user-friendly IRC bouncer",
     "Homepage": "https://codeberg.org/emersion/soju"
   },

@@ -855,7 +855,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.2627 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.2685 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.6 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.6 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.42.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1974,7 +1974,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1738+g521eddec7c-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1749+g6512282c55-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2032,7 +2032,7 @@
 | **octomap** | 1.10.1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 31.3.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 31.4.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oha** | 1.16.0 | HTTP load generator with realtime tui, inspired by rakyll/hey | https://github.com/hatoo/oha |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **oils-for-unix** | 0.38.0-1 | Bash-compatible Unix shell with more consistent syntax and semantics | https://oils.pub/ |
@@ -2105,9 +2105,9 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxfmt** | 1.85.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxfmt** | 1.86.0 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxipng** | 10.2.1 | Multithreaded PNG optimizer written in Rust | https://github.com/oxipng/oxipng |
-| **oxlint** | 1.85.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxlint** | 1.86.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.5 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **pacman** | 7.1.0-9 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-6 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
@@ -2197,7 +2197,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pnpm** | 12.7.0 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
+| **pnpm** | 12.8.0 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
 | **pocketbase** | 0.40.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **podofo** | 1.1.2 | A C++ library to work with the PDF file format | https://github.com/podofo/podofo |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
@@ -2435,7 +2435,7 @@
 | **runit-static** | 2.3.1 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.11.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.98.1-1 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20260921 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20260928 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.73.2 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.98.1-1 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.98.1-1 | Rust source code files | https://www.rust-lang.org/ |
@@ -2530,7 +2530,7 @@
 | **socat** | 1.8.1.3 | Relay for bidirectional data transfer between two independent data channels | http://www.dest-unreach.org/socat/ |
 | **softether-vpn** | 5.2.5188-1 | An open-source cross-platform multi-protocol VPN program | https://www.softether.org/ |
 | **softether-vpn-static** | 5.2.5188-1 | Static libraries for softether-vpn | https://www.softether.org/ |
-| **soju** | 0.11.0 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
+| **soju** | 0.11.1 | A user-friendly IRC bouncer | https://codeberg.org/emersion/soju |
 | **solidity** | 0.8.37 | An Ethereum smart contract-oriented language | https://www.soliditylang.org/ |
 | **sonarr** | 4.0.20.3014-1 | A PVR for Usenet and BitTorrent users (server) | https://sonarr.tv |
 | **sops** | 3.13.3 | Simple and flexible tool for managing secrets | https://github.com/getsops/sops |
