@@ -703,7 +703,7 @@
   },
   {
     "Package": "await",
-    "Version": "2.10.0",
+    "Version": "2.11.0",
     "Description": "Runs list of commands in parallel and waits for their termination",
     "Homepage": "https://github.com/slavaGanzin/await"
   },
@@ -6055,7 +6055,7 @@
   },
   {
     "Package": "libc++utilities",
-    "Version": "5.36.0",
+    "Version": "5.37.0",
     "Description": "Useful C++ classes and routines such as argument parser, IO and conversion utilities",
     "Homepage": "https://github.com/Martchus/cpp-utilities"
   },
@@ -14875,7 +14875,7 @@
   },
   {
     "Package": "seerr",
-    "Version": "3.4.1-1",
+    "Version": "3.5.0",
     "Description": "A fork of Overseerr with focus on adding support for Jellyfin/Emby",
     "Homepage": "https://github.com/seerr-team/seerr"
   },
