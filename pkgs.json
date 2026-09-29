@@ -1375,7 +1375,7 @@
   },
   {
     "Package": "ccextractor",
-    "Version": "0.94-6",
+    "Version": "0.96.6",
     "Description": "A tool used to produce subtitles for TV recordings",
     "Homepage": "https://ccextractor.org/"
   },
@@ -3691,7 +3691,7 @@
   },
   {
     "Package": "ghq",
-    "Version": "1.11.0",
+    "Version": "1.11.2",
     "Description": "Manage remote repository clones, like go get does",
     "Homepage": "https://github.com/x-motemen/ghq"
   },
@@ -11623,7 +11623,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.26.0",
+    "Version": "2.27.0",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -12301,7 +12301,7 @@
   },
   {
     "Package": "oorexx",
-    "Version": "4.2.0-4",
+    "Version": "5.2.0",
     "Description": "Open Object Rexx",
     "Homepage": "https://www.oorexx.org/"
   },
@@ -16603,9 +16603,9 @@
   },
   {
     "Package": "ttyrec",
-    "Version": "1.0.8-8",
+    "Version": "1.0.8-9",
     "Description": "Terminal recorder and player",
-    "Homepage": "http://0xcc.net/ttyrec/"
+    "Homepage": "https://0xcc.net/ttyrec/"
   },
   {
     "Package": "tudo",
@@ -17491,7 +17491,7 @@
   },
   {
     "Package": "wtfutil",
-    "Version": "0.50.0",
+    "Version": "0.51.0",
     "Description": "The personal information dashboard for your terminal",
     "Homepage": "https://wtfutil.com/"
   },

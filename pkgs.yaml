@@ -915,7 +915,7 @@
   Description: Source code counter and metrics tool for C++, C, and Java
   Homepage: https://sarnold.github.io/cccc/
 - Package: ccextractor
-  Version: 0.94-6
+  Version: 0.96.6
   Description: A tool used to produce subtitles for TV recordings
   Homepage: https://ccextractor.org/
 - Package: ccls
@@ -2459,7 +2459,7 @@
   Description: Interpreter for the PostScript language and for PDF
   Homepage: https://www.ghostscript.com/
 - Package: ghq
-  Version: 1.11.0
+  Version: 1.11.2
   Description: Manage remote repository clones, like go get does
   Homepage: https://github.com/x-motemen/ghq
 - Package: giflib
@@ -7747,7 +7747,7 @@
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: mycli
-  Version: 2.26.0
+  Version: 2.27.0
   Description: CLI for MySQL/MariaDB with auto-completion and syntax highlighting
   Homepage: https://mycli.net
 - Package: myman
@@ -8199,7 +8199,7 @@
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: oorexx
-  Version: 4.2.0-4
+  Version: 5.2.0
   Description: Open Object Rexx
   Homepage: https://www.oorexx.org/
 - Package: oorexx-static
@@ -11067,9 +11067,9 @@
   Description: A realtime plotting utility for terminal with data input from stdin
   Homepage: https://github.com/tenox7/ttyplot
 - Package: ttyrec
-  Version: 1.0.8-8
+  Version: 1.0.8-9
   Description: Terminal recorder and player
-  Homepage: http://0xcc.net/ttyrec/
+  Homepage: https://0xcc.net/ttyrec/
 - Package: tudo
   Version: 1.2.0
   Description: A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the Termux app (u<userid>_a<appid>) user in the Termux app
@@ -11659,7 +11659,7 @@
   Description: Modern HTTP benchmarking tool
   Homepage: https://github.com/wg/wrk
 - Package: wtfutil
-  Version: 0.50.0
+  Version: 0.51.0
   Description: The personal information dashboard for your terminal
   Homepage: https://wtfutil.com/
 - Package: wuzz
