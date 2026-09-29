@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.4",
+    "Version": "2.37.5",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -949,7 +949,7 @@
   },
   {
     "Package": "blk-utils",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Utilities for handling block device attributes",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -1471,7 +1471,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.72.2",
+    "Version": "2.73.0",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -3085,7 +3085,7 @@
   },
   {
     "Package": "fdisk",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Utilities to manipulate disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -3265,7 +3265,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.108",
+    "Version": "0.4.109",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3373,7 +3373,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.5.1",
+    "Version": "0.5.2",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -4129,7 +4129,7 @@
   },
   {
     "Package": "gomp",
-    "Version": "2023.02.02-3",
+    "Version": "2024.07.01",
     "Description": "MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration",
     "Homepage": "https://aditya-k2.github.io/gomp/"
   },
@@ -4375,7 +4375,7 @@
   },
   {
     "Package": "groonga",
-    "Version": "16.1.1",
+    "Version": "16.1.2",
     "Description": "An embeddable fulltext search engine",
     "Homepage": "https://github.com/groonga/groonga/"
   },
@@ -5953,7 +5953,7 @@
   },
   {
     "Package": "libblkid",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Block device identification library",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -6733,7 +6733,7 @@
   },
   {
     "Package": "libfdisk",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Library for manipulating disk partition tables",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -7825,7 +7825,7 @@
   },
   {
     "Package": "libmount",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Library for (un)mounting filesystems",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -8449,13 +8449,13 @@
   },
   {
     "Package": "libpcap",
-    "Version": "1.10.5-1",
+    "Version": "1.11.0",
     "Description": "Library for network traffic capture",
     "Homepage": "https://www.tcpdump.org"
   },
   {
     "Package": "libpcap-static",
-    "Version": "1.10.5-1",
+    "Version": "1.11.0",
     "Description": "Static libraries for libpcap",
     "Homepage": "https://www.tcpdump.org"
   },
@@ -8989,7 +8989,7 @@
   },
   {
     "Package": "libsmartcols",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Library for smart adaptive formatting of tabular data",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -9625,7 +9625,7 @@
   },
   {
     "Package": "libuuid",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Library for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -9643,7 +9643,7 @@
   },
   {
     "Package": "libv4l",
-    "Version": "1.24.1-2",
+    "Version": "1.32.0",
     "Description": "Linux libraries to handle media devices",
     "Homepage": "https://git.linuxtv.org/v4l-utils.git"
   },
@@ -10537,7 +10537,7 @@
   },
   {
     "Package": "lua-lgi",
-    "Version": "0.9.2+p20251219-2",
+    "Version": "0.9.2+p20260728",
     "Description": "Dynamic Lua binding to GObject libraries using GObject-Introspection",
     "Homepage": "https://github.com/lgi-devs/lgi"
   },
@@ -10639,7 +10639,7 @@
   },
   {
     "Package": "luajit-lgi",
-    "Version": "0.9.2+p20251219-3",
+    "Version": "0.9.2+p20260728",
     "Description": "Dynamic Lua binding to GObject libraries using GObject-Introspection",
     "Homepage": "https://github.com/lgi-devs/lgi"
   },
@@ -11401,7 +11401,7 @@
   },
   {
     "Package": "mop",
-    "Version": "2025.03.17-1",
+    "Version": "2025.12.28",
     "Description": "Stock market tracker",
     "Homepage": "https://github.com/mop-tracker/mop"
   },
@@ -11449,7 +11449,7 @@
   },
   {
     "Package": "mount-utils",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Utilities for (un)mounting filesystems",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -11857,7 +11857,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1749+g6512282c55-0",
+    "Version": "0.13.0~dev-1755+geddadd7ab3-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12889,7 +12889,7 @@
   },
   {
     "Package": "pdfcpu",
-    "Version": "0.15.0",
+    "Version": "0.16.0",
     "Description": "A PDF processor written in Go",
     "Homepage": "https://pdfcpu.io"
   },
@@ -13555,7 +13555,7 @@
   },
   {
     "Package": "pyrefly",
-    "Version": "1.3.1",
+    "Version": "1.3.2",
     "Description": "A fast type checker and language server for Python",
     "Homepage": "https://github.com/facebook/pyrefly.git"
   },
@@ -14329,7 +14329,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:06.03.04",
+    "Version": "1:06.03.05",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -15313,7 +15313,7 @@
   },
   {
     "Package": "spirv-headers",
-    "Version": "1.4.357.0",
+    "Version": "1.4.363.0",
     "Description": "SPIR-V Headers",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Headers"
   },
@@ -15325,7 +15325,7 @@
   },
   {
     "Package": "spirv-tools",
-    "Version": "1.4.357.0",
+    "Version": "1.4.363.0",
     "Description": "SPIR-V Tools",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-Tools"
   },
@@ -16897,13 +16897,13 @@
   },
   {
     "Package": "util-linux",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Miscellaneous system utilities",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
   {
     "Package": "util-linux-static",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Static libraries for util-linux",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -16915,7 +16915,7 @@
   },
   {
     "Package": "uuid-utils",
-    "Version": "2.42.1-4",
+    "Version": "2.42.4",
     "Description": "Utilities for handling universally unique identifiers",
     "Homepage": "https://en.wikipedia.org/wiki/Util-linux"
   },
@@ -16927,7 +16927,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.19",
+    "Version": "0.12.20",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -17203,7 +17203,7 @@
   },
   {
     "Package": "vulkan-validation-layers",
-    "Version": "1.4.357",
+    "Version": "1.4.363",
     "Description": "Vulkan Validation Layers",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-ValidationLayers"
   },
@@ -17233,7 +17233,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.26.13",
+    "Version": "2.26.14",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
@@ -17539,13 +17539,13 @@
   },
   {
     "Package": "xdelta3",
-    "Version": "3.2.0",
+    "Version": "3.2.1",
     "Description": "xdelta3 - VCDIFF (RFC 3284) binary diff tool",
     "Homepage": "https://github.com/jmacd/xdelta"
   },
   {
     "Package": "xdelta3-static",
-    "Version": "3.2.0",
+    "Version": "3.2.1",
     "Description": "Static libraries for xdelta3",
     "Homepage": "https://github.com/jmacd/xdelta"
   },
@@ -17755,7 +17755,7 @@
   },
   {
     "Package": "yq",
-    "Version": "4.53.6",
+    "Version": "4.54.1",
     "Description": "A lightweight and portable command-line YAML, JSON and XML processor",
     "Homepage": "https://mikefarah.gitbook.io/yq/"
   },
@@ -17905,7 +17905,7 @@
   },
   {
     "Package": "zrok",
-    "Version": "1.1.12",
+    "Version": "1.1.13",
     "Description": "An open source sharing solution built on OpenZiti.",
     "Homepage": "https://zrok.io/"
   },

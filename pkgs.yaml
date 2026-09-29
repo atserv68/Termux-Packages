@@ -471,7 +471,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.37.4
+  Version: 2.37.5
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -631,7 +631,7 @@
   Description: Tiny x86-64 Linux emulator
   Homepage: https://justine.lol/blinkenlights/
 - Package: blk-utils
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Utilities for handling block device attributes
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: blogc
@@ -979,7 +979,7 @@
   Description: Static libraries for check
   Homepage: https://libcheck.github.io/check
 - Package: chezmoi
-  Version: 2.72.2
+  Version: 2.73.0
   Description: Manage your dotfiles across multiple machines
   Homepage: https://chezmoi.io
 - Package: chicken
@@ -2055,7 +2055,7 @@
   Description: Simple, fast and user-friendly alternative to find
   Homepage: https://github.com/sharkdp/fd
 - Package: fdisk
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Utilities to manipulate disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: fdkaac
@@ -2175,7 +2175,7 @@
   Description: Software synthesizer based on the SoundFont 2 specifications
   Homepage: https://github.com/FluidSynth/fluidsynth
 - Package: flyctl
-  Version: 0.4.108
+  Version: 0.4.109
   Description: Command line tools for fly.io services
   Homepage: https://fly.io
 - Package: fm
@@ -2247,7 +2247,7 @@
   Description: Minimalistic plugin API for video effects
   Homepage: https://www.dyne.org/software/frei0r/
 - Package: fresh-editor
-  Version: 0.5.1
+  Version: 0.5.2
   Description: 'Text editor for your terminal: easy, powerful and fast'
   Homepage: https://getfresh.dev/
 - Package: fribidi
@@ -2751,7 +2751,7 @@
   Description: Fast linters runner for Go, aggregating many Go linters into one tool
   Homepage: https://golangci-lint.run/
 - Package: gomp
-  Version: 2023.02.02-3
+  Version: 2024.07.01
   Description: MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration
   Homepage: https://aditya-k2.github.io/gomp/
 - Package: gomuks
@@ -2915,7 +2915,7 @@
   Description: Transforms JSON into discrete assignments
   Homepage: https://github.com/tomnomnom/gron
 - Package: groonga
-  Version: 16.1.1
+  Version: 16.1.2
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
@@ -3967,7 +3967,7 @@
   Description: A lightweight cryptography API for Java
   Homepage: https://www.bouncycastle.org/java.html
 - Package: libblkid
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Block device identification library
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libblocksruntime
@@ -4487,7 +4487,7 @@
   Description: Flexible collision library
   Homepage: https://github.com/flexible-collision-library/fcl
 - Package: libfdisk
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Library for manipulating disk partition tables
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libfdk-aac
@@ -5215,7 +5215,7 @@
   Description: MQTT library
   Homepage: https://mosquitto.org/
 - Package: libmount
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Library for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libmp3lame
@@ -5631,11 +5631,11 @@
   Description: Static libraries for libpaper
   Homepage: https://github.com/rrthomas/psutils
 - Package: libpcap
-  Version: 1.10.5-1
+  Version: 1.11.0
   Description: Library for network traffic capture
   Homepage: https://www.tcpdump.org
 - Package: libpcap-static
-  Version: 1.10.5-1
+  Version: 1.11.0
   Description: Static libraries for libpcap
   Homepage: https://www.tcpdump.org
 - Package: libpcreposix
@@ -5991,7 +5991,7 @@
   Description: X11 Session Management library
   Homepage: https://xorg.freedesktop.org/
 - Package: libsmartcols
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Library for smart adaptive formatting of tabular data
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libsnappy
@@ -6415,7 +6415,7 @@
   Description: network protocol for sending USB device traffic over a network connection
   Homepage: https://www.spice-space.org/
 - Package: libuuid
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Library for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: libuv
@@ -6427,7 +6427,7 @@
   Description: Static libraries for libuv
   Homepage: https://libuv.org
 - Package: libv4l
-  Version: 1.24.1-2
+  Version: 1.32.0
   Description: Linux libraries to handle media devices
   Homepage: https://git.linuxtv.org/v4l-utils.git
 - Package: libv4l-static
@@ -7023,7 +7023,7 @@
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
-  Version: 0.9.2+p20251219-2
+  Version: 0.9.2+p20260728
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: lua-lpeg
@@ -7091,7 +7091,7 @@
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
-  Version: 0.9.2+p20251219-3
+  Version: 0.9.2+p20260728
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
@@ -7599,7 +7599,7 @@
   Description: A pager designed to just do the right thing without any configuration
   Homepage: https://github.com/walles/moor
 - Package: mop
-  Version: 2025.03.17-1
+  Version: 2025.12.28
   Description: Stock market tracker
   Homepage: https://github.com/mop-tracker/mop
 - Package: moreutils
@@ -7631,7 +7631,7 @@
   Description: A terminal pager similar to more and less
   Homepage: http://www.jedsoft.org/most/index.html
 - Package: mount-utils
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Utilities for (un)mounting filesystems
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: mp3cat
@@ -7903,7 +7903,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1749+g6512282c55-0
+  Version: 0.13.0~dev-1755+geddadd7ab3-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8591,7 +8591,7 @@
   Description: A PDF to SVG converter
   Homepage: http://www.cityinthesky.co.uk/opensource/pdf2svg/
 - Package: pdfcpu
-  Version: 0.15.0
+  Version: 0.16.0
   Description: A PDF processor written in Go
   Homepage: https://pdfcpu.io
 - Package: pdfgrep
@@ -9035,7 +9035,7 @@
   Description: Tkinter support for PyPy 3
   Homepage: https://pypy.org
 - Package: pyrefly
-  Version: 1.3.1
+  Version: 1.3.2
   Description: A fast type checker and language server for Python
   Homepage: https://github.com/facebook/pyrefly.git
 - Package: pystring
@@ -9551,7 +9551,7 @@
   Description: Library that provides a high-level interface to RDF data
   Homepage: http://librdf.org/
 - Package: remind
-  Version: 1:06.03.04
+  Version: 1:06.03.05
   Description: Sophisticated calendar and alarm program
   Homepage: https://dianne.skoll.ca/projects/remind/
 - Package: renameutils
@@ -10207,7 +10207,7 @@
   Description: a utility for creating symmetrically encrypted and authenticated pipes between socket addresses
   Homepage: https://www.tarsnap.com/spiped.html
 - Package: spirv-headers
-  Version: 1.4.357.0
+  Version: 1.4.363.0
   Description: SPIR-V Headers
   Homepage: https://github.com/KhronosGroup/SPIRV-Headers
 - Package: spirv-llvm-translator
@@ -10215,7 +10215,7 @@
   Description: SPIR-V LLVM Translator
   Homepage: https://github.com/KhronosGroup/SPIRV-LLVM-Translator
 - Package: spirv-tools
-  Version: 1.4.357.0
+  Version: 1.4.363.0
   Description: SPIR-V Tools
   Homepage: https://github.com/KhronosGroup/SPIRV-Tools
 - Package: sqlc
@@ -11263,11 +11263,11 @@
   Description: C preprocessor implementations of a hash table and a linked list
   Homepage: https://troydhanson.github.io/uthash/
 - Package: util-linux
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Miscellaneous system utilities
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: util-linux-static
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Static libraries for util-linux
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uucp
@@ -11275,7 +11275,7 @@
   Description: The standard UUCP package of the Free Software Foundation
   Homepage: https://www.airs.com/ian/uucp.html
 - Package: uuid-utils
-  Version: 2.42.1-4
+  Version: 2.42.4
   Description: Utilities for handling universally unique identifiers
   Homepage: https://en.wikipedia.org/wiki/Util-linux
 - Package: uutils-coreutils
@@ -11283,7 +11283,7 @@
   Description: Cross-platform Rust rewrite of the GNU coreutils
   Homepage: https://uutils.org/
 - Package: uv
-  Version: 0.12.19
+  Version: 0.12.20
   Description: An extremely fast Python package installer and resolver, written in Rust.
   Homepage: https://docs.astral.sh/uv/
 - Package: uwsgi
@@ -11467,7 +11467,7 @@
   Description: Utility Libraries for Vulkan
   Homepage: https://github.com/KhronosGroup/Vulkan-Utility-Libraries
 - Package: vulkan-validation-layers
-  Version: 1.4.357
+  Version: 1.4.363
   Description: Vulkan Validation Layers
   Homepage: https://github.com/KhronosGroup/Vulkan-ValidationLayers
 - Package: vulkan-volk
@@ -11487,7 +11487,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.26.13
+  Version: 2.26.14
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
@@ -11691,11 +11691,11 @@
   Description: XML-XCB protocol descriptions
   Homepage: https://xcb.freedesktop.org/
 - Package: xdelta3
-  Version: 3.2.0
+  Version: 3.2.1
   Description: xdelta3 - VCDIFF (RFC 3284) binary diff tool
   Homepage: https://github.com/jmacd/xdelta
 - Package: xdelta3-static
-  Version: 3.2.0
+  Version: 3.2.1
   Description: Static libraries for xdelta3
   Homepage: https://github.com/jmacd/xdelta
 - Package: xdg-user-dirs
@@ -11835,7 +11835,7 @@
   Description: Download youtube video in Golang
   Homepage: https://github.com/kkdai/youtube
 - Package: yq
-  Version: 4.53.6
+  Version: 4.54.1
   Description: A lightweight and portable command-line YAML, JSON and XML processor
   Homepage: https://mikefarah.gitbook.io/yq/
 - Package: yt-dlp-ejs
@@ -11935,7 +11935,7 @@
   Description: Programmable file compressor, library and utilities. Based on the PAQ compression algorithm
   Homepage: http://mattmahoney.net/dc/zpaq.html
 - Package: zrok
-  Version: 1.1.12
+  Version: 1.1.13
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zrok2
