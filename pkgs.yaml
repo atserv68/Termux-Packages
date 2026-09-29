@@ -759,7 +759,7 @@
   Description: byacc is generally conceded to be the best yacc variant available
   Homepage: https://invisible-island.net/byacc/
 - Package: byobu
-  Version: "7.19"
+  Version: "7.20"
   Description: Byobu is a GPLv3 open source text-based window manager and terminal multiplexer
   Homepage: https://www.byobu.org/
 - Package: bzip2
@@ -807,7 +807,7 @@
   Description: Fast, cross-platform HTTP/2 web server
   Homepage: https://caddyserver.com/
 - Package: calc
-  Version: 2.17.0.0
+  Version: 2.17.0.1
   Description: Arbitrary precision console calculator
   Homepage: http://www.isthe.com/chongo/tech/comp/calc/
 - Package: calcurse
@@ -1335,7 +1335,7 @@
   Description: A simple webserver, implemented in a single .c file.
   Homepage: https://unix4lyfe.org/darkhttpd
 - Package: dart
-  Version: 3.13.4
+  Version: 3.13.5
   Description: Dart is a general-purpose programming language
   Homepage: https://dart.dev/
 - Package: dasel
@@ -2459,7 +2459,7 @@
   Description: Interpreter for the PostScript language and for PDF
   Homepage: https://www.ghostscript.com/
 - Package: ghq
-  Version: 1.10.1
+  Version: 1.11.0
   Description: Manage remote repository clones, like go get does
   Homepage: https://github.com/x-motemen/ghq
 - Package: giflib
@@ -2567,7 +2567,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.119.0
+  Version: 1.120.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -7255,7 +7255,7 @@
   Description: A simple chat bridge
   Homepage: https://github.com/42wim/matterbridge
 - Package: matterircd
-  Version: 0.32.0
+  Version: 0.33.0
   Description: Connect to your mattermost or slack using your IRC-client of choice
   Homepage: https://github.com/42wim/matterircd
 - Package: matugen
@@ -8099,7 +8099,7 @@
   Description: Static libraries for oathtool
   Homepage: http://www.nongnu.org/oath-toolkit/
 - Package: oci-cli
-  Version: 3.94.0-1
+  Version: 3.94.1
   Description: Command line interface for Oracle Cloud Infrastructure
   Homepage: https://github.com/oracle/oci-cli
 - Package: ocl-icd
@@ -9119,7 +9119,7 @@
   Description: Binding for Pango, to use with Manim.
   Homepage: https://github.com/ManimCommunity/ManimPango
 - Package: python-msgpack
-  Version: 1.2.2
+  Version: 1.2.3
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-mupdf
@@ -9239,7 +9239,7 @@
   Description: Datasets, Transforms and Models specific to Computer Vision
   Homepage: https://github.com/pytorch/vision
 - Package: python-trash-cli
-  Version: 0.26.9.14
+  Version: 0.26.9.29
   Description: Command line trashcan (recycle bin) interface
   Homepage: https://github.com/andreafrancia/trash-cli
 - Package: python-xcbgen
@@ -10007,7 +10007,7 @@
   Description: compilation of small but very stable and portable shell scripts into a single shell tool
   Homepage: http://www.gnu.org/software/shtool/
 - Package: sideloader
-  Version: 1.0~pre4.2025.8.25
+  Version: 1.0~pre4.2026.9.18
   Description: Open-source cross-platform iOS app sideloader. Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…
   Homepage: https://github.com/Dadoum/Sideloader
 - Package: signify
@@ -11087,7 +11087,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.3.6
+  Version: 16.3.7
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut

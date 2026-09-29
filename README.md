@@ -200,7 +200,7 @@
 | **busybox** | 1.38.0-1 | Tiny versions of many common UNIX utilities into a single small executable | https://busybox.net/ |
 | **bvi** | 1.5.0-1 | Binary file editor based on vi | https://bvi.sourceforge.net/ |
 | **byacc** | 20260126 | byacc is generally conceded to be the best yacc variant available | https://invisible-island.net/byacc/ |
-| **byobu** | 7.19 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
+| **byobu** | 7.20 | Byobu is a GPLv3 open source text-based window manager and terminal multiplexer | https://www.byobu.org/ |
 | **bzip2** | 1.0.8-8 | Tools for working with bzip2 compression | http://www.bzip.org/ |
 | **c-ares** | 1.34.8 | Library for asynchronous DNS requests (including name resolves) | https://c-ares.org/ |
 | **c-toxcore** | 0.2.23 | Backend library for the Tox protocol | https://tox.chat |
@@ -212,7 +212,7 @@
 | **cabin** | 0.17.0 | A package manager and build system for C/C++ | https://cabinpkg.com/ |
 | **cadaver** | 0.28 | A command-line WebDAV client for Unix | https://notroj.github.io/cadaver/ |
 | **caddy** | 2.11.4 | Fast, cross-platform HTTP/2 web server | https://caddyserver.com/ |
-| **calc** | 2.17.0.0 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
+| **calc** | 2.17.0.1 | Arbitrary precision console calculator | http://www.isthe.com/chongo/tech/comp/calc/ |
 | **calcurse** | 4.8.2-2 | calcurse is a calendar and scheduling application for the command line | https://calcurse.org/ |
 | **calcurse-caldav** | 4.8.2-2 | Sync calcurse with remote caldav calendar | https://calcurse.org/ |
 | **capnproto** | 1.5.0 | Data interchange format and capability-based RPC system | https://capnproto.org/ |
@@ -344,7 +344,7 @@
 | **dar-static** | 2.8.6 | Static libraries for dar | http://dar.linux.free.fr/ |
 | **darcs** | 2.18.5 | A distributed, interactive, smart revision control system | https://darcs.net/ |
 | **darkhttpd** | 1.17-1 | A simple webserver, implemented in a single .c file. | https://unix4lyfe.org/darkhttpd |
-| **dart** | 3.13.4 | Dart is a general-purpose programming language | https://dart.dev/ |
+| **dart** | 3.13.5 | Dart is a general-purpose programming language | https://dart.dev/ |
 | **dasel** | 3.11.2 | Select, put and delete data from JSON, TOML, YAML, XML and CSV files with a single utility | https://github.com/TomWright/dasel |
 | **dash** | 0.5.12-2 | Small POSIX-compliant implementation of /bin/sh | http://gondor.apana.org.au/~herbert/dash/ |
 | **dasm** | 2.20.17 | Macro assembler with support for several 8-bit microprocessors | https://dasm-dillon.sourceforge.io/ |
@@ -625,7 +625,7 @@
 | **gh** | 2.101.0 | GitHub’s official command line tool | https://cli.github.com/ |
 | **ghc** | 9.12.2-5 | The Glasgow Haskell Compiler | https://www.haskell.org/ghc/ |
 | **ghostscript** | 10.07.1-2 | Interpreter for the PostScript language and for PDF | https://www.ghostscript.com/ |
-| **ghq** | 1.10.1 | Manage remote repository clones, like go get does | https://github.com/x-motemen/ghq |
+| **ghq** | 1.11.0 | Manage remote repository clones, like go get does | https://github.com/x-motemen/ghq |
 | **giflib** | 6.1.3 | A library for reading and writing gif images | https://giflib.sourceforge.net/ |
 | **giflib-static** | 6.1.3 | Static libraries for giflib | https://giflib.sourceforge.net/ |
 | **giflib-utils** | 6.1.3 | A set of utilities that comes with giflib package | https://giflib.sourceforge.net/ |
@@ -652,7 +652,7 @@
 | **gitoxide** | 0.59.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
-| **glab-cli** | 1.119.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
+| **glab-cli** | 1.120.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.18.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
 | **glib** | 2.90.0 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
 | **glib-cross** | 2.90.0 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
@@ -1824,7 +1824,7 @@
 | **mathomatic** | 16.0.5-7 | Simple CAS and symbolic calculator | https://en.wikipedia.org/wiki/Mathomatic |
 | **matplotlib** | 3.11.2 | A comprehensive library for creating static, animated, and interactive visualizations in Python | https://matplotlib.org/ |
 | **matterbridge** | 1.26.0-4 | A simple chat bridge | https://github.com/42wim/matterbridge |
-| **matterircd** | 0.32.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
+| **matterircd** | 0.33.0 | Connect to your mattermost or slack using your IRC-client of choice | https://github.com/42wim/matterircd |
 | **matugen** | 4.2.0 | A material you color generation tool with templates | https://github.com/InioX/matugen |
 | **mautrix-whatsapp** | 26.09 | A Matrix-WhatsApp puppeting bridge | https://maunium.net/go/mautrix-whatsapp/ |
 | **maven** | 3.9.16 | A Java software project management and comprehension tool | https://maven.apache.org/ |
@@ -2035,7 +2035,7 @@
 | **nzbget** | 26.3 | The most efficient usenet downloader | https://nzbget.com/ |
 | **oathtool** | 2.6.14 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
 | **oathtool-static** | 2.6.14 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
-| **oci-cli** | 3.94.0-1 | Command line interface for Oracle Cloud Infrastructure | https://github.com/oracle/oci-cli |
+| **oci-cli** | 3.94.1 | Command line interface for Oracle Cloud Infrastructure | https://github.com/oracle/oci-cli |
 | **ocl-icd** | 2.3.5 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.29-1 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
 | **ocrad-static** | 0.29-1 | Static libraries for ocrad | https://www.gnu.org/software/ocrad/ocrad.html |
@@ -2290,7 +2290,7 @@
 | **python-llvmlite** | 0.49.0-3 | A lightweight LLVM python binding for writing JIT compilers | https://llvmlite.pydata.org/ |
 | **python-lxml** | 6.1.3 | Python binding for the libxml2 and libxslt libraries | https://github.com/lxml/lxml |
 | **python-manimpango** | 0.6.1 | Binding for Pango, to use with Manim. | https://github.com/ManimCommunity/ManimPango |
-| **python-msgpack** | 1.2.2 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
+| **python-msgpack** | 1.2.3 | MessagePack serializer implementation for Python | https://github.com/msgpack/msgpack-python |
 | **python-mupdf** | 1.28.2-1 | Lightweight PDF and XPS viewer (Python bindings) | https://mupdf.com/ |
 | **python-numpy** | 2.4.4-1 | The fundamental package for scientific computing with Python | https://numpy.org/ |
 | **python-numpy-static** | 2.4.4-1 | Static libraries for python-numpy | https://numpy.org/ |
@@ -2320,7 +2320,7 @@
 | **python-torchaudio** | 2.11.0-3 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
 | **python-torchcodec** | 0.16.0 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
 | **python-torchvision** | 0.29.0 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
-| **python-trash-cli** | 0.26.9.14 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
+| **python-trash-cli** | 0.26.9.29 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
 | **python-xcbgen** | 1.17.0-3 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-4 | The Python X Library | https://github.com/python-xlib/python-xlib |
 | **python-yt-dlp** | 2026.08.19 | A youtube-dl fork with additional features and fixes | https://github.com/yt-dlp/yt-dlp |
@@ -2512,7 +2512,7 @@
 | **shiori** | 1.8.0 | Simple bookmark manager built with Go | https://github.com/go-shiori/shiori |
 | **shntool** | 3.0.10-1 | A multi-purpose WAVE data processing and reporting utility | http://shnutils.freeshell.org/shntool/ |
 | **shtool** | 2.0.8-9 | compilation of small but very stable and portable shell scripts into a single shell tool | http://www.gnu.org/software/shtool/ |
-| **sideloader** | 1.0~pre4.2025.8.25 | Open-source cross-platform iOS app sideloader. Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer… | https://github.com/Dadoum/Sideloader |
+| **sideloader** | 1.0~pre4.2026.9.18 | Open-source cross-platform iOS app sideloader. Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer… | https://github.com/Dadoum/Sideloader |
 | **signify** | 32-2 | Lightweight cryptographic signing and verifying tool | https://github.com/aperezdc/signify |
 | **silicon** | 0.5.3-1 | Silicon is an alternative to Carbon implemented in Rust | https://github.com/Aloxaf/silicon |
 | **silversearcher-ag** | 2.2.0-6 | Fast grep-like program, alternative to ack-grep | https://geoff.greer.fm/ag/ |
@@ -2782,7 +2782,7 @@
 | **tuicr** | 0.27.0 | A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard | https://github.com/agavra/tuicr |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **turbo** | 2.10.0 | High-performance build system for JS/TS | https://turborepo.dev/ |
-| **turbopack** | 16.3.6 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
+| **turbopack** | 16.3.7 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
 | **tut** | 2.0.1-3 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
 | **tvheadend** | 4.2.8-13 | TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats. | https://tvheadend.org/ |
 | **tvheadend-data** | 4.2.8-13 | Platform-independent data for tvheadend | https://tvheadend.org/ |
