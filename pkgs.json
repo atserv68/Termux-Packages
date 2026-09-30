@@ -577,7 +577,7 @@
   },
   {
     "Package": "astyle",
-    "Version": "3.6.18-1",
+    "Version": "3.6.19",
     "Description": "Source code formatter for C-like programming languages",
     "Homepage": "https://astyle.sourceforge.net/"
   },
@@ -811,7 +811,7 @@
   },
   {
     "Package": "bcal",
-    "Version": "2.5",
+    "Version": "2.6",
     "Description": "Command-line utility for storage conversions and calculations",
     "Homepage": "https://github.com/jarun/bcal"
   },
@@ -1213,7 +1213,7 @@
   },
   {
     "Package": "calc",
-    "Version": "2.17.0.1",
+    "Version": "2.17.0.2",
     "Description": "Arbitrary precision console calculator",
     "Homepage": "http://www.isthe.com/chongo/tech/comp/calc/"
   },
@@ -1501,7 +1501,7 @@
   },
   {
     "Package": "chroma-visualizer",
-    "Version": "0.0.0+g3c32e7d",
+    "Version": "0.0.0.20260922+g1b98379",
     "Description": "Shader-based audio visualizer for the terminal",
     "Homepage": "https://github.com/yuri-xyz/chroma.git"
   },
@@ -1597,13 +1597,13 @@
   },
   {
     "Package": "cloudflared",
-    "Version": "2026.9.3",
+    "Version": "2026.9.3-1",
     "Description": "A tunneling daemon that proxies traffic from the Cloudflare network to your origins",
     "Homepage": "https://github.com/cloudflare/cloudflared"
   },
   {
     "Package": "clpeak",
-    "Version": "2.1.4",
+    "Version": "3.0.0",
     "Description": "A tool which profiles OpenCL devices to find their peak capacities",
     "Homepage": "https://github.com/krrishnarraj/clpeak"
   },
@@ -2635,7 +2635,7 @@
   },
   {
     "Package": "dua",
-    "Version": "2.45.0",
+    "Version": "2.45.1",
     "Description": "View disk space usage and delete unwanted data, fast",
     "Homepage": "https://github.com/Byron/dua-cli"
   },
@@ -3625,13 +3625,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.17.6",
+    "Version": "1.17.7",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.17.6",
+    "Version": "1.17.7",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -3673,7 +3673,7 @@
   },
   {
     "Package": "gh",
-    "Version": "2.101.0",
+    "Version": "2.102.0",
     "Description": "GitHub’s official command line tool",
     "Homepage": "https://cli.github.com/"
   },
@@ -3733,7 +3733,7 @@
   },
   {
     "Package": "git",
-    "Version": "2.55.0",
+    "Version": "2.56.0",
     "Description": "Fast, scalable, distributed revision control system",
     "Homepage": "https://git-scm.com/"
   },
@@ -3781,13 +3781,13 @@
   },
   {
     "Package": "git-gitk",
-    "Version": "2.55.0",
+    "Version": "2.56.0",
     "Description": "Git repository browser",
     "Homepage": "https://git-scm.com/"
   },
   {
     "Package": "git-gui",
-    "Version": "2.55.0",
+    "Version": "2.56.0",
     "Description": "A graphical interface to Git",
     "Homepage": "https://git-scm.com/"
   },
@@ -3805,7 +3805,7 @@
   },
   {
     "Package": "git-svn",
-    "Version": "2.55.0",
+    "Version": "2.56.0",
     "Description": "Convert between Git and Subversion repositories",
     "Homepage": "https://git-scm.com/"
   },
@@ -4399,7 +4399,7 @@
   },
   {
     "Package": "gsf-tools",
-    "Version": "1.14.59",
+    "Version": "1.14.60",
     "Description": "Command-line tools for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -5419,7 +5419,7 @@
   },
   {
     "Package": "keychain",
-    "Version": "3.0.5",
+    "Version": "3.0.6",
     "Description": "Keychain manager for ssh-agent and gpg-agent",
     "Homepage": "https://kernel-seeds.org/projects/keychain/"
   },
@@ -7045,13 +7045,13 @@
   },
   {
     "Package": "libgsf",
-    "Version": "1.14.59",
+    "Version": "1.14.60",
     "Description": "The G Structured File Library",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
   {
     "Package": "libgsf-static",
-    "Version": "1.14.59",
+    "Version": "1.14.60",
     "Description": "Static libraries for libgsf",
     "Homepage": "https://gitlab.gnome.org/GNOME/libgsf"
   },
@@ -8539,13 +8539,13 @@
   },
   {
     "Package": "libpng",
-    "Version": "1.6.58",
+    "Version": "1.6.59",
     "Description": "Official PNG reference library",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
   {
     "Package": "libpng-static",
-    "Version": "1.6.58",
+    "Version": "1.6.59",
     "Description": "Static libraries for libpng",
     "Homepage": "http://www.libpng.org/pub/png/libpng.html"
   },
@@ -8815,7 +8815,7 @@
   },
   {
     "Package": "librtmidi",
-    "Version": "5.0.0-3",
+    "Version": "6.0.0",
     "Description": "A set of C++ classes that provides a common API for realtime MIDI input/output",
     "Homepage": "https://www.music.mcgill.ca/~gary/rtmidi/"
   },
@@ -10321,7 +10321,7 @@
   },
   {
     "Package": "lit",
-    "Version": "3.8.5-3",
+    "Version": "3.9.0",
     "Description": "Toolkit for developing, sharing, and running luvit/lua programs and libraries.",
     "Homepage": "https://luvit.io"
   },
@@ -11287,7 +11287,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.14",
+    "Version": "2026.9.15",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11857,7 +11857,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1755+geddadd7ab3-0",
+    "Version": "0.13.0~dev-1761+gd5e7c7e55c-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11905,7 +11905,7 @@
   },
   {
     "Package": "nethack",
-    "Version": "3.6.7-2",
+    "Version": "5.0.0",
     "Description": "Dungeon crawl game",
     "Homepage": "http://www.nethack.org/"
   },
@@ -12373,7 +12373,7 @@
   },
   {
     "Package": "openfoam",
-    "Version": "2606",
+    "Version": "2606-1",
     "Description": "OpenFOAM is a CFD software written in C++",
     "Homepage": "https://www.openfoam.com"
   },
@@ -12475,13 +12475,13 @@
   },
   {
     "Package": "openmpi",
-    "Version": "4.1.5-1",
+    "Version": "5.0.11",
     "Description": "Open source Message Passing Interface implementation",
     "Homepage": "https://www.open-mpi.org"
   },
   {
     "Package": "openmpi-static",
-    "Version": "4.1.5-1",
+    "Version": "5.0.11",
     "Description": "Static libraries for openmpi",
     "Homepage": "https://www.open-mpi.org"
   },
@@ -13615,7 +13615,7 @@
   },
   {
     "Package": "python-cryptography",
-    "Version": "50.0.1",
+    "Version": "50.0.2",
     "Description": "Provides cryptographic recipes and primitives to Python developers",
     "Homepage": "https://github.com/pyca/cryptography"
   },
@@ -14491,7 +14491,7 @@
   },
   {
     "Package": "rpm",
-    "Version": "4.18.1-3",
+    "Version": "6.1.0",
     "Description": "RPM Package Manager",
     "Homepage": "https://rpm.org/"
   },
@@ -16225,7 +16225,7 @@
   },
   {
     "Package": "tinysparql",
-    "Version": "3.10.1-1",
+    "Version": "3.12.0",
     "Description": "Desktop-neutral metadata-based search framework",
     "Homepage": "https://gnome.pages.gitlab.gnome.org/tinysparql"
   },
@@ -17251,7 +17251,7 @@
   },
   {
     "Package": "wasi-libc",
-    "Version": "34+really33",
+    "Version": "34+really34",
     "Description": "Libc for WebAssembly programs built on top of WASI system calls",
     "Homepage": "https://wasi.dev/"
   },
