@@ -158,7 +158,7 @@
 | **binutils** | 2.47 | A GNU collection of binary utilities | https://www.gnu.org/software/binutils/ |
 | **binutils-cross** | 2.47 | GNU Binutils for cross build on the host (NOT for Termux) | https://www.gnu.org/software/binutils/ |
 | **binwalk** | 3.1.0 | An Binwalk firmware analysis tool. | https://github.com/ReFirmLabs/binwalk |
-| **biome2** | 2.5.14 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://biomejs.dev/ |
+| **biome2** | 2.5.15 | A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP | https://biomejs.dev/ |
 | **bison** | 3.8.2-4 | General-purpose parser generator | https://www.gnu.org/software/bison/ |
 | **bison-static** | 3.8.2-4 | Static libraries for bison | https://www.gnu.org/software/bison/ |
 | **bitcoin** | 31.1-1 | Bitcoin Core | https://bitcoincore.org/ |
@@ -1891,7 +1891,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.9.15 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.9.18 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -2782,7 +2782,7 @@
 | **tuicr** | 0.27.0 | A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard | https://github.com/agavra/tuicr |
 | **tur-repo** | 1.0.1 | A single and trusted place for all unofficial/less popular termux packages | https://github.com/termux-user-repository/tur |
 | **turbo** | 2.10.0 | High-performance build system for JS/TS | https://turborepo.dev/ |
-| **turbopack** | 16.3.7 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
+| **turbopack** | 16.3.8 | Rust-based incremental compilation engine and bundler for Next.js | https://nextjs.org/ |
 | **tut** | 2.0.1-3 | A TUI for Mastodon with vim inspired keys | https://github.com/RasmusLindroth/tut |
 | **tvheadend** | 4.2.8-13 | TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats. | https://tvheadend.org/ |
 | **tvheadend-data** | 4.2.8-13 | Platform-independent data for tvheadend | https://tvheadend.org/ |

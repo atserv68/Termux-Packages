@@ -889,7 +889,7 @@
   },
   {
     "Package": "biome2",
-    "Version": "2.5.14",
+    "Version": "2.5.15",
     "Description": "A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP",
     "Homepage": "https://biomejs.dev/"
   },
@@ -11287,7 +11287,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.15",
+    "Version": "2026.9.18",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -16633,7 +16633,7 @@
   },
   {
     "Package": "turbopack",
-    "Version": "16.3.7",
+    "Version": "16.3.8",
     "Description": "Rust-based incremental compilation engine and bundler for Next.js",
     "Homepage": "https://nextjs.org/"
   },
