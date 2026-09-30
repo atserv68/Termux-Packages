@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.5",
+    "Version": "2.37.6",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -3265,7 +3265,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.109",
+    "Version": "0.4.110",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3817,7 +3817,7 @@
   },
   {
     "Package": "gitea",
-    "Version": "1.27.3",
+    "Version": "28.0.0",
     "Description": "Git with a cup of tea, painless self-hosted git service",
     "Homepage": "https://gitea.io"
   },
@@ -13195,7 +13195,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.8.1",
+    "Version": "12.8.2",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -16927,7 +16927,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.20",
+    "Version": "0.12.21",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -17077,7 +17077,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.1100",
+    "Version": "9.2.1150",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -17143,7 +17143,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.09.27",
+    "Version": "2026.09.28",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -17659,7 +17659,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.1100",
+    "Version": "9.2.1150",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
@@ -17911,7 +17911,7 @@
   },
   {
     "Package": "zrok2",
-    "Version": "2.0.5",
+    "Version": "2.0.6",
     "Description": "An open source sharing solution built on OpenZiti",
     "Homepage": "https://zrok.io/"
   },
