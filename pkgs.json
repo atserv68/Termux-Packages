@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.6",
+    "Version": "2.37.7",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -727,7 +727,7 @@
   },
   {
     "Package": "azure-dev-cli",
-    "Version": "1.34.2",
+    "Version": "1.35.0",
     "Description": "Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)",
     "Homepage": "https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/"
   },
@@ -2257,7 +2257,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "5.2.0",
+    "Version": "5.3.0",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://dnscontrol.org/"
   },
@@ -3265,7 +3265,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.110",
+    "Version": "0.4.111",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -4531,19 +4531,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "14.5.0",
+    "Version": "14.5.1",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "14.5.0",
+    "Version": "14.5.1",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "14.5.0",
+    "Version": "14.5.1",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -12529,19 +12529,19 @@
   },
   {
     "Package": "openssl",
-    "Version": "1:3.6.3",
+    "Version": "1:3.6.5",
     "Description": "Library implementing the SSL and TLS protocols as well as general purpose cryptography functions",
     "Homepage": "https://www.openssl.org/"
   },
   {
     "Package": "openssl-static",
-    "Version": "1:3.6.3",
+    "Version": "1:3.6.5",
     "Description": "Static libraries for openssl",
     "Homepage": "https://www.openssl.org/"
   },
   {
     "Package": "openssl-tool",
-    "Version": "1:3.6.3",
+    "Version": "1:3.6.5",
     "Description": "The openssl command line cryptographic tool",
     "Homepage": "https://www.openssl.org/"
   },
@@ -13771,7 +13771,7 @@
   },
   {
     "Package": "python-rpds-py",
-    "Version": "2026.6.3",
+    "Version": "2026.9.1",
     "Description": "Python bindings to Rusts persistent data structures (rpds)",
     "Homepage": "https://github.com/crate-py/rpds"
   },
@@ -13813,7 +13813,7 @@
   },
   {
     "Package": "python-tflite-runtime",
-    "Version": "2.20.0-4",
+    "Version": "2.21.0",
     "Description": "TensorFlow Lite Python bindings",
     "Homepage": "https://www.tensorflow.org/lite"
   },
@@ -15505,13 +15505,13 @@
   },
   {
     "Package": "stfl",
-    "Version": "0.24-7",
+    "Version": "0.24-8",
     "Description": "Structured Terminal Forms Language/Library",
     "Homepage": "http://www.clifford.at/stfl"
   },
   {
     "Package": "stfl-static",
-    "Version": "0.24-7",
+    "Version": "0.24-8",
     "Description": "Static libraries for stfl",
     "Homepage": "http://www.clifford.at/stfl"
   },
@@ -17143,7 +17143,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.09.28",
+    "Version": "2026.09.29",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },

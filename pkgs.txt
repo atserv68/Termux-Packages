@@ -116,10 +116,10 @@
  aview  1.3.0rc1-6  High quality ascii-art image browser and animation player  https://aa-project.sourceforge.net/aview/ 
  avra  1.4.2-1  Assember for the Atmel AVR microcontroller family  https://github.com/Ro5bert/avra 
  await  2.11.0  Runs list of commands in parallel and waits for their termination  https://github.com/slavaGanzin/await 
- awscli  2.37.6  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
+ awscli  2.37.7  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  azure-cli  2.90.0-1  Microsoft's command-line tool for managing Azure cloud resources  https://learn.microsoft.com/en-us/cli/azure/ 
- azure-dev-cli  1.34.2  Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)  https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ 
+ azure-dev-cli  1.35.0  Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)  https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ 
  b3sum  1.8.7  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.128  Dynamic pixel format translation library  https://gegl.org/babl/ 
  bacon  3.26.0  A background code checker for Rust, designed for minimal interaction  https://dystroy.org/bacon 
@@ -374,7 +374,7 @@
  dnote  1:0.16.0  A simple command line notebook for programmers  https://www.getdnote.com/ 
  dnote-server  3.0.0  This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs.  https://www.getdnote.com/ 
  dns2tcp  0.5.2-2  dns2tcp is a tool for relaying TCP connections over DNS  https://github.com/alex-sector/dns2tcp 
- dnscontrol  5.2.0  Infrastructure as code for DNS!  https://dnscontrol.org/ 
+ dnscontrol  5.3.0  Infrastructure as code for DNS!  https://dnscontrol.org/ 
  dnslookup  1.12.0  Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt.  https://github.com/ameshkov/dnslookup 
  dnsmap  0.36-3  Subdomain Bruteforcing Tool  https://github.com/resurrecting-open-source-projects/dnsmap 
  dnstop  2022.10.19-1  A libpcap application that displays various tables of DNS traffic on your network  https://github.com/measurement-factory/dnstop 
@@ -542,7 +542,7 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0-2  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.6.1  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.110  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.111  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0-1  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.3  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -753,9 +753,9 @@
  gzip  1.15  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
  half  2.2.1  C++ header-only library for IEEE 754 half-precision floating-point format  https://half.sourceforge.net/ 
  haproxy  3.4.6  The Reliable, High Performance TCP/HTTP Load Balancer  https://www.haproxy.org/ 
- harfbuzz  14.5.0  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-icu  14.5.0  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
- harfbuzz-utils  14.5.0  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz  14.5.1  OpenType text shaping engine  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-icu  14.5.1  OpenType text shaping engine ICU backend  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
+ harfbuzz-utils  14.5.1  Tools using the harfbuzz library  https://www.freedesktop.org/wiki/Software/HarfBuzz/ 
  harper  2.11.0  Offline, privacy-first grammar checker. Fast, open-source, Rust-powered  https://writewithharper.com/ 
  hash-slinger  3.6  Various tools to generate special DNS records  https://github.com/letoams/hash-slinger 
  hashdeep  4.4-9  Programs to compute hashsums of arbitrary number of files recursively  https://md5deep.sourceforge.net/ 
@@ -2086,9 +2086,9 @@
  openscad  2021.01-7  The programmers solid 3D CAD modeller (headless build)  https://openscad.org/ 
  openssh  10.5p1  Secure shell for logging into a remote machine  https://www.openssh.com/ 
  openssh-sftp-server  10.5p1  OpenSSH SFTP server subsystem  https://www.openssh.com/ 
- openssl  1:3.6.3  Library implementing the SSL and TLS protocols as well as general purpose cryptography functions  https://www.openssl.org/ 
- openssl-static  1:3.6.3  Static libraries for openssl  https://www.openssl.org/ 
- openssl-tool  1:3.6.3  The openssl command line cryptographic tool  https://www.openssl.org/ 
+ openssl  1:3.6.5  Library implementing the SSL and TLS protocols as well as general purpose cryptography functions  https://www.openssl.org/ 
+ openssl-static  1:3.6.5  Static libraries for openssl  https://www.openssl.org/ 
+ openssl-tool  1:3.6.5  The openssl command line cryptographic tool  https://www.openssl.org/ 
  opentimelineio  0.18.1  Open Source API and interchange format for editorial timeline information.  http://opentimeline.io/ 
  openxr  1.1.63  Open standard that provides a common set of APIs for developing XR applications  https://www.khronos.org/openxr/ 
  opkssh  0.16.0  Enables SSH to be used with OpenID Connect  https://github.com/openpubkey/opkssh 
@@ -2293,14 +2293,14 @@
  python-pynacl  1.6.2  Python binding to the Networking and Cryptography (NaCl) library  https://github.com/pyca/pynacl 
  python-pynvim  0.6.0-3  Python client for Neovim  https://github.com/neovim/pynvim 
  python-pyppmd  1.3.1-1  PPM compression/decompression library  https://github.com/miurahr/pyppmd 
- python-rpds-py  2026.6.3  Python bindings to Rust's persistent data structures (rpds)  https://github.com/crate-py/rpds 
+ python-rpds-py  2026.9.1  Python bindings to Rust's persistent data structures (rpds)  https://github.com/crate-py/rpds 
  python-ruff  0.16.9  An extremely fast Python linter, written in Rust (Python bindings)  https://github.com/charliermarsh/ruff 
  python-sabyenc3  9.7.1  C implementations of functions for use within SABnzbd  https://github.com/sabnzbd/sabctools 
  python-scipy  1.18.1  Fundamental algorithms for scientific computing in Python  https://scipy.org/ 
  python-skia-pathops  0.9.2-2  Python bindings for the Skia library's Path Ops  https://github.com/fonttools/skia-pathops 
  python-soxr  1.1.0-1  Fast and high quality sample-rate conversion library for Python  https://github.com/dofuuz/python-soxr 
  python-static  3.14.6-1  Static libraries for python  https://python.org/ 
- python-tflite-runtime  2.20.0-4  TensorFlow Lite Python bindings  https://www.tensorflow.org/lite 
+ python-tflite-runtime  2.21.0  TensorFlow Lite Python bindings  https://www.tensorflow.org/lite 
  python-tkinter  3.14.6-1  Tkinter support for Python 3  https://python.org/ 
  python-tldp  0.7.5-8  Tools for publishing from TLDP sources  https://github.com/tLDP/python-tldp 
  python-torch  2.14.0  Tensors and Dynamic neural networks in Python  https://pytorch.org/ 
@@ -2582,8 +2582,8 @@
  steghide  0.5.1-8  Embeds a message in a file by replacing some of the least significant bits  https://steghide.sourceforge.net/ 
  stemwords  3.1.1  A command-line tool which uses libstemmer  https://snowballstem.org/ 
  step-cli  0.31.0  An easy-to-use CLI tool for building, operating, and automating Public Key Infrastructure (PKI) systems and workflows  https://smallstep.com/cli 
- stfl  0.24-7  Structured Terminal Forms Language/Library  http://www.clifford.at/stfl 
- stfl-static  0.24-7  Static libraries for stfl  http://www.clifford.at/stfl 
+ stfl  0.24-8  Structured Terminal Forms Language/Library  http://www.clifford.at/stfl 
+ stfl-static  0.24-8  Static libraries for stfl  http://www.clifford.at/stfl 
  stockfish  19  Free and strong UCI chess engine  https://stockfishchess.org/ 
  stoken  0.93-3  Software Token for Linux/UNIX  https://github.com/cernekee/stoken 
  stoken-static  0.93-3  Static libraries for stoken  https://github.com/cernekee/stoken 
@@ -2855,7 +2855,7 @@
  vlc  3.0.24  A popular libre and open source media player and multimedia engine  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-4  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3-1  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2026.09.28  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2026.09.29  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vulkan-extension-layer  1.4.363  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
  vulkan-headers  1.4.364  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
