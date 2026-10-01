@@ -259,7 +259,7 @@
   },
   {
     "Package": "ansifilter",
-    "Version": "2.23",
+    "Version": "2.24",
     "Description": "Strip or convert ANSI codes into HTML, (La)Tex, RTF, or BBCode",
     "Homepage": "http://www.andre-simon.de/doku/ansifilter/en/ansifilter.php"
   },
@@ -1375,7 +1375,7 @@
   },
   {
     "Package": "ccextractor",
-    "Version": "0.96.6",
+    "Version": "0.96.6-1",
     "Description": "A tool used to produce subtitles for TV recordings",
     "Homepage": "https://ccextractor.org/"
   },
@@ -2329,7 +2329,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.175.0",
+    "Version": "1.176.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -2766,6 +2766,12 @@
     "Homepage": "http://eigen.tuxfamily.org"
   },
   {
+    "Package": "eigen3",
+    "Version": "3.4.1",
+    "Description": "Eigen is a C++ template library for linear algebra: matrices, vectors, numerical solvers, and related algorithms (Version 3)",
+    "Homepage": "http://eigen.tuxfamily.org"
+  },
+  {
     "Package": "eja",
     "Version": "18.4.19-1",
     "Description": "eja micro web server",
@@ -2983,7 +2989,7 @@
   },
   {
     "Package": "faad2",
-    "Version": "2.11.3",
+    "Version": "2.11.4",
     "Description": "Freeware Advanced Audio (AAC) Decoder",
     "Homepage": "https://github.com/knik0/faad2"
   },
@@ -4243,13 +4249,13 @@
   },
   {
     "Package": "gpac",
-    "Version": "2.4.0-5",
+    "Version": "26.07.0",
     "Description": "An open-source multimedia framework focused on modularity and standards compliance",
     "Homepage": "https://gpac.wp.imt.fr/"
   },
   {
     "Package": "gpac-static",
-    "Version": "2.4.0-5",
+    "Version": "26.07.0",
     "Description": "Static libraries for gpac",
     "Homepage": "https://gpac.wp.imt.fr/"
   },
@@ -5107,13 +5113,13 @@
   },
   {
     "Package": "iverilog",
-    "Version": "12.0-1",
+    "Version": "13.0",
     "Description": "Icarus Verilog compiler and simulation tool",
     "Homepage": "http://iverilog.icarus.com/"
   },
   {
     "Package": "iverilog-static",
-    "Version": "12.0-1",
+    "Version": "13.0",
     "Description": "Static libraries for iverilog",
     "Homepage": "http://iverilog.icarus.com/"
   },
@@ -8749,13 +8755,13 @@
   },
   {
     "Package": "librevenge",
-    "Version": "0.0.5-4",
+    "Version": "0.0.6",
     "Description": "library for REVerses ENGineered formats filters",
     "Homepage": "https://sf.net/p/libwpd/librevenge/"
   },
   {
     "Package": "librevenge-static",
-    "Version": "0.0.5-4",
+    "Version": "0.0.6",
     "Description": "Static libraries for librevenge",
     "Homepage": "https://sf.net/p/libwpd/librevenge/"
   },
@@ -9049,7 +9055,7 @@
   },
   {
     "Package": "libsoup3",
-    "Version": "3.6.6",
+    "Version": "3.8.0",
     "Description": "HTTP client and server library",
     "Homepage": "https://libsoup.gnome.org/libsoup-3.0/"
   },
@@ -10669,7 +10675,7 @@
   },
   {
     "Package": "luv",
-    "Version": "1.52.1-0-0",
+    "Version": "1.53.0-0-0",
     "Description": "Bare libuv bindings for lua",
     "Homepage": "https://github.com/luvit/luv"
   },
@@ -11137,31 +11143,31 @@
   },
   {
     "Package": "mesa",
-    "Version": "26.2.3",
+    "Version": "26.2.3-1",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "26.2.3",
+    "Version": "26.2.3-1",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "26.2.3",
+    "Version": "26.2.3-1",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "26.2.3",
+    "Version": "26.2.3-1",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-virtio",
-    "Version": "26.2.3",
+    "Version": "26.2.3-1",
     "Description": "Mesas VirtIO Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -11857,7 +11863,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1761+gd5e7c7e55c-0",
+    "Version": "0.13.0~dev-1782+gdce927183c-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12361,7 +12367,7 @@
   },
   {
     "Package": "opencolorio",
-    "Version": "2.5.2",
+    "Version": "2.6.0",
     "Description": "A color management framework for visual effects and animation",
     "Homepage": "https://opencolorio.org"
   },
@@ -16117,7 +16123,7 @@
   },
   {
     "Package": "thrift",
-    "Version": "0.24.0-1",
+    "Version": "0.25.0",
     "Description": "Scalable cross-language services framework for IPC/RPC",
     "Homepage": "https://thrift.apache.org"
   },
