@@ -1207,7 +1207,7 @@
   },
   {
     "Package": "caddy",
-    "Version": "2.11.4",
+    "Version": "2.11.6",
     "Description": "Fast, cross-platform HTTP/2 web server",
     "Homepage": "https://caddyserver.com/"
   },
@@ -2329,7 +2329,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.176.0",
+    "Version": "1.177.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -3943,13 +3943,13 @@
   },
   {
     "Package": "gmic",
-    "Version": "3.7.2",
+    "Version": "4.0.5",
     "Description": "Full-featured framework for image processing",
     "Homepage": "https://gmic.eu"
   },
   {
     "Package": "gmic-gm",
-    "Version": "3.7.2",
+    "Version": "4.0.5",
     "Description": "Full-featured framework for image processing (GraphicsMagick variant)",
     "Homepage": "https://gmic.eu"
   },
@@ -4987,7 +4987,7 @@
   },
   {
     "Package": "indi",
-    "Version": "2.2.4.2",
+    "Version": "2.2.5",
     "Description": "Astronomical instrumentation control",
     "Homepage": "https://www.indilib.org"
   },
@@ -6175,7 +6175,7 @@
   },
   {
     "Package": "libceres-solver",
-    "Version": "2.2.0-4",
+    "Version": "2.2.0-5",
     "Description": "C++ library for modeling and solving large, complicated optimization problems",
     "Homepage": "http://ceres-solver.org"
   },
@@ -10609,7 +10609,7 @@
   },
   {
     "Package": "lua54",
-    "Version": "5.4.8-10",
+    "Version": "5.4.9",
     "Description": "Lua scripting language 5.4.x",
     "Homepage": "https://www.lua.org/"
   },
@@ -10621,7 +10621,7 @@
   },
   {
     "Package": "lua54-static",
-    "Version": "5.4.8-10",
+    "Version": "5.4.9",
     "Description": "Static libraries for lua54",
     "Homepage": "https://www.lua.org/"
   },
@@ -11065,7 +11065,7 @@
   },
   {
     "Package": "mdcat",
-    "Version": "2.17.0",
+    "Version": "2.18.0",
     "Description": "Fancy cat for Markdown: syntax highlighting, images, math, and Mermaid diagrams in your terminal",
     "Homepage": "https://github.com/BIRSAx2/mdcat"
   },
@@ -12799,7 +12799,7 @@
   },
   {
     "Package": "patchelf",
-    "Version": "0.19.1",
+    "Version": "0.19.2",
     "Description": "Utility to modify the dynamic linker and RPATH of ELF executables",
     "Homepage": "https://nixos.org/patchelf.html"
   },
@@ -13387,7 +13387,7 @@
   },
   {
     "Package": "proot",
-    "Version": "5.1.107.95",
+    "Version": "5.1.107.96",
     "Description": "Emulate chroot, bind mount and binfmt_misc for non-root users",
     "Homepage": "https://proot-me.github.io/"
   },
@@ -13681,7 +13681,7 @@
   },
   {
     "Package": "python-manimpango",
-    "Version": "0.6.1",
+    "Version": "0.7.0",
     "Description": "Binding for Pango, to use with Manim.",
     "Homepage": "https://github.com/ManimCommunity/ManimPango"
   },
@@ -13783,7 +13783,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.16.9",
+    "Version": "0.16.10",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14599,7 +14599,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.16.9",
+    "Version": "0.16.10",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -15547,7 +15547,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.163.6",
+    "Version": "1.164.1",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -17275,7 +17275,7 @@
   },
   {
     "Package": "wasmer",
-    "Version": "7.4.2",
+    "Version": "7.5.0",
     "Description": "A fast and secure WebAssembly runtime",
     "Homepage": "https://wasmer.io/"
   },
