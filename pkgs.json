@@ -307,13 +307,13 @@
   },
   {
     "Package": "apache2",
-    "Version": "1:2.4.68",
+    "Version": "1:2.4.69",
     "Description": "Apache Web Server",
     "Homepage": "https://httpd.apache.org"
   },
   {
     "Package": "apkeep",
-    "Version": "1.0.0",
+    "Version": "1.1.0",
     "Description": "A command-line tool for downloading APK files from various sources",
     "Homepage": "https://github.com/EFForg/apkeep"
   },
@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.7",
+    "Version": "2.37.8",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -4063,7 +4063,7 @@
   },
   {
     "Package": "go-task",
-    "Version": "3.53.1-1",
+    "Version": "3.54.0",
     "Description": "A task runner / simpler Make alternative written in Go",
     "Homepage": "https://github.com/go-task/task"
   },
@@ -4555,7 +4555,7 @@
   },
   {
     "Package": "harper",
-    "Version": "2.11.0",
+    "Version": "2.12.0",
     "Description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
     "Homepage": "https://writewithharper.com/"
   },
@@ -10795,7 +10795,7 @@
   },
   {
     "Package": "maintainerr",
-    "Version": "3.29.0",
+    "Version": "3.30.0",
     "Description": "An automation rule engine for your media server",
     "Homepage": "https://github.com/maintainerr/Maintainerr"
   },
@@ -11143,31 +11143,31 @@
   },
   {
     "Package": "mesa",
-    "Version": "26.2.3-1",
+    "Version": "26.2.4",
     "Description": "An open-source implementation of the OpenGL specification",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-dev",
-    "Version": "26.2.3-1",
+    "Version": "26.2.4",
     "Description": "Mesas OpenGL headers",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-opencl-icd-rusticl",
-    "Version": "26.2.3-1",
+    "Version": "26.2.4",
     "Description": "Mesas Rusticl OpenCL ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-swrast",
-    "Version": "26.2.3-1",
+    "Version": "26.2.4",
     "Description": "Mesas Swrast Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
   {
     "Package": "mesa-vulkan-icd-virtio",
-    "Version": "26.2.3-1",
+    "Version": "26.2.4",
     "Description": "Mesas VirtIO Vulkan ICD",
     "Homepage": "https://www.mesa3d.org"
   },
@@ -11767,7 +11767,7 @@
   },
   {
     "Package": "ncspot",
-    "Version": "1.4.0",
+    "Version": "1.5.0",
     "Description": "An ncurses Spotify client written in Rust",
     "Homepage": "https://github.com/hrkfdn/ncspot"
   },
@@ -14887,7 +14887,7 @@
   },
   {
     "Package": "selene",
-    "Version": "0.31.0",
+    "Version": "0.32.0",
     "Description": "A blazing-fast modern Lua linter written in Rust",
     "Homepage": "https://kampfkarren.github.io/selene/"
   },
@@ -16975,7 +16975,7 @@
   },
   {
     "Package": "vale",
-    "Version": "3.23.0",
+    "Version": "3.24.0",
     "Description": "A syntax-aware linter for prose built with speed and extensibility in mind",
     "Homepage": "https://vale.sh"
   },
@@ -17149,7 +17149,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.09.29",
+    "Version": "2026.09.30",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
