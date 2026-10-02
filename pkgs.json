@@ -2305,7 +2305,7 @@
   },
   {
     "Package": "docker-compose",
-    "Version": "5.5.1",
+    "Version": "5.6.0",
     "Description": "Compose is a tool for defining and running multi-container Docker applications.",
     "Homepage": "https://github.com/docker/compose"
   },
@@ -4759,19 +4759,19 @@
   },
   {
     "Package": "httrack",
-    "Version": "3.50.4",
+    "Version": "3.50.5",
     "Description": "It allows you to download a World Wide Web site from the Internet",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-data",
-    "Version": "3.50.4",
+    "Version": "3.50.5",
     "Description": "Platform-independent data for httrack",
     "Homepage": "http://www.httrack.com"
   },
   {
     "Package": "httrack-static",
-    "Version": "3.50.4",
+    "Version": "3.50.5",
     "Description": "Static libraries for httrack",
     "Homepage": "http://www.httrack.com"
   },
@@ -11629,7 +11629,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.27.0",
+    "Version": "2.28.0",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -17149,7 +17149,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.09.30",
+    "Version": "2026.10.01",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -17269,7 +17269,7 @@
   },
   {
     "Package": "wasmedge",
-    "Version": "0.17.1",
+    "Version": "0.17.2",
     "Description": "A lightweight, high-performance, and extensible WebAssembly runtime",
     "Homepage": "https://wasmedge.org/"
   },
@@ -17281,13 +17281,13 @@
   },
   {
     "Package": "wasmtime",
-    "Version": "49.0.1",
+    "Version": "49.0.2",
     "Description": "A standalone runtime for WebAssembly",
     "Homepage": "https://wasmtime.dev/"
   },
   {
     "Package": "watchexec",
-    "Version": "2.7.3",
+    "Version": "2.7.4",
     "Description": "Executes commands in response to file modifications",
     "Homepage": "https://github.com/watchexec/watchexec"
   },
