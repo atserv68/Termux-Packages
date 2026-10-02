@@ -479,7 +479,7 @@
 | **enchant** | 2.8.21 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
 | **enchant-static** | 2.8.21 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
 | **enscript** | 1.6.6-13 | Enscript converts ASCII text files to PostScript, HTML, RTF, ANSI and overstrikes | https://www.gnu.org/software/enscript/ |
-| **entr** | 5.8 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
+| **entr** | 5.9 | Event Notify Test Runner - run arbitrary commands when files change | https://eradman.com/entrproject/ |
 | **erlang** | 29.1.1 | General-purpose concurrent functional programming language | https://www.erlang.org/ |
 | **erlang-doc** | 29.1.1 | Erlang HTML documentation | https://www.erlang.org/ |
 | **esbuild** | 0.28.2 | An extremely fast JavaScript bundler | https://esbuild.github.io/ |
@@ -806,7 +806,7 @@
 | **hunspell-static** | 1.7.4 | Static libraries for hunspell | https://hunspell.github.io |
 | **hurl** | 8.0.1 | Command line tool that runs and tests HTTP requests defined in a plain text format | https://hurl.dev |
 | **hut** | 0.8.0-1 | A CLI tool for sr.ht | https://git.sr.ht/~xenrox/hut |
-| **hwdata** | 0.411 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
+| **hwdata** | 0.412 | Database of hardware identification and configuration data | https://github.com/vcrhonek/hwdata |
 | **hydroxide** | 0.2.32 | A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge | https://github.com/emersion/hydroxide |
 | **hyperfine** | 1.20.0 | A command-line benchmarking tool | https://github.com/sharkdp/hyperfine |
 | **hz** | 0.10.6 | A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices | https://www.cloudwego.io |
@@ -1285,7 +1285,7 @@
 | **libmcrypt-static** | 2.5.8-6 | Static libraries for libmcrypt | https://mcrypt.sourceforge.net/ |
 | **libmd** | 1.2.0 | Message Digest functions from BSD systems | https://www.hadrons.org/software/libmd/ |
 | **libmd-static** | 1.2.0 | Static libraries for libmd | https://www.hadrons.org/software/libmd/ |
-| **libmdbx** | 0.12.10-1 | An extremely fast, compact, powerful, embedded, transactional key-value database | https://libmdbx.dqdkfa.ru/ |
+| **libmdbx** | 0.14.4 | An extremely fast, compact, powerful, embedded, transactional key-value database | https://libmdbx.dqdkfa.ru/ |
 | **libmediainfo** | 26.05 | Library for reading information from media files | https://mediaarea.net/en/MediaInfo |
 | **libmediainfo-static** | 26.05 | Static libraries for libmediainfo | https://mediaarea.net/en/MediaInfo |
 | **libmesode** | 0.10.1-5 | Minimal XMPP library written for use with Profanity XMPP client | https://github.com/boothj5/libmesode |
@@ -1454,7 +1454,7 @@
 | **libraw-static** | 0.22.2-1 | Static libraries for libraw | https://www.libraw.org/ |
 | **libre2** | 2025-11-05-2 | A regular expression library | https://github.com/google/re2 |
 | **libregexp-assemble-perl** | 0.38-9 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
-| **libresolv-wrapper** | 1.1.7-6 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
+| **libresolv-wrapper** | 1.1.8 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
 | **libretls** | 3.8.1-1 | libtls for OpenSSL | https://git.causal.agency/libretls/about/ |
 | **libretls-static** | 3.8.1-1 | Static libraries for libretls | https://git.causal.agency/libretls/about/ |
 | **librevenge** | 0.0.6 | library for REVerses ENGineered formats filters | https://sf.net/p/libwpd/librevenge/ |
@@ -1477,8 +1477,8 @@
 | **libsasl-static** | 2.1.28-3 | Static libraries for libsasl | https://www.cyrusimap.org/sasl/ |
 | **libsass** | 3.6.6-1 | Sass compiler written in C++ | https://github.com/sass/libsass |
 | **libsass-static** | 3.6.6-1 | Static libraries for libsass | https://github.com/sass/libsass |
-| **libsearpc** | 1:3.2.0-9 | A simple C language RPC framework (mainly for seafile) | https://github.com/haiwen/libsearpc |
-| **libsearpc-static** | 1:3.2.0-9 | Static libraries for libsearpc | https://github.com/haiwen/libsearpc |
+| **libsearpc** | 1:3.3.0 | A simple C language RPC framework (mainly for seafile) | https://github.com/haiwen/libsearpc |
+| **libsearpc-static** | 1:3.3.0 | Static libraries for libsearpc | https://github.com/haiwen/libsearpc |
 | **libseat** | 0.9.3 | Reference implementation of a wayland compositor | https://sr.ht/~kennylevinsen/seatd/ |
 | **libseccomp** | 2.6.0 | Enhanced seccomp library | https://github.com/seccomp/libseccomp |
 | **libseccomp-static** | 2.6.0 | Static libraries for libseccomp | https://github.com/seccomp/libseccomp |
@@ -1489,7 +1489,7 @@
 | **libshout** | 2.4.6-2 | Library which can be used to write a source client like ices. | https://icecast.org/ |
 | **libshout-static** | 2.4.6-2 | Static libraries for libshout | https://icecast.org/ |
 | **libsigc++-2.0** | 2.12.1-1 | Implements a typesafe callback system for standard C++ | https://libsigcplusplus.github.io/libsigcplusplus/ |
-| **libsigc++-3.0** | 3.6.0-2 | Implements a typesafe callback system for standard C++ | https://libsigcplusplus.github.io/libsigcplusplus/ |
+| **libsigc++-3.0** | 3.8.1 | Implements a typesafe callback system for standard C++ | https://libsigcplusplus.github.io/libsigcplusplus/ |
 | **libsignal-protocol-c** | 2.3.3-3 | Signal Protocol C Library | https://github.com/signalapp/libsignal-protocol-c |
 | **libsigsegv** | 2.15 | GNU libsigsegv is a library for handling page faults in user mode | https://www.gnu.org/software/libsigsegv/ |
 | **libsigsegv-static** | 2.15 | Static libraries for libsigsegv | https://www.gnu.org/software/libsigsegv/ |
@@ -1540,8 +1540,8 @@
 | **libt3key** | 0.2.11-1 | A library and database with escape sequence to key symbol mappings | https://os.ghalkes.nl/t3/libt3key.html |
 | **libt3widget** | 1.2.2-3 | A library of widgets and dialogs to facilitate construction of easy-to-use terminal-based programs | https://os.ghalkes.nl/t3/libt3widget.html |
 | **libt3window** | 0.4.2-1 | A library providing a windowing abstraction on terminals | https://os.ghalkes.nl/t3/libt3window.html |
-| **libtalloc** | 2.4.3 | Hierarchical, reference counted memory pool system with destructors | https://talloc.samba.org/talloc/doc/html/index.html |
-| **libtalloc-static** | 2.4.3 | Static libraries for libtalloc | https://talloc.samba.org/talloc/doc/html/index.html |
+| **libtalloc** | 2.5.0 | Hierarchical, reference counted memory pool system with destructors | https://talloc.samba.org/talloc/doc/html/index.html |
+| **libtalloc-static** | 2.5.0 | Static libraries for libtalloc | https://talloc.samba.org/talloc/doc/html/index.html |
 | **libtasn1** | 4.21.0 | This is GNU Libtasn1, a small ASN.1 library | https://www.gnu.org/software/libtasn1/ |
 | **libtasn1-static** | 4.21.0 | Static libraries for libtasn1 | https://www.gnu.org/software/libtasn1/ |
 | **libtatsu** | 1.0.5-1 | Library handling the communication with Apple's Tatsu Signing Server (TSS) | https://libimobiledevice.org/ |
@@ -1602,7 +1602,7 @@
 | **libusb-static** | 1.0.30 | Static libraries for libusb | https://libusb.info/ |
 | **libusbmuxd** | 2.1.1-2 | A client library for applications to handle usbmux protocol connections with iOS devices | https://libimobiledevice.org |
 | **libusbmuxd-static** | 2.1.1-2 | Static libraries for libusbmuxd | https://libimobiledevice.org |
-| **libusbredir** | 0.13.0-1 | network protocol for sending USB device traffic over a network connection | https://www.spice-space.org/ |
+| **libusbredir** | 0.15.0 | network protocol for sending USB device traffic over a network connection | https://www.spice-space.org/ |
 | **libuuid** | 2.42.4 | Library for handling universally unique identifiers | https://en.wikipedia.org/wiki/Util-linux |
 | **libuv** | 1.53.0 | Support library with a focus on asynchronous I/O | https://libuv.org |
 | **libuv-static** | 1.53.0 | Static libraries for libuv | https://libuv.org |
@@ -1613,8 +1613,8 @@
 | **libvidstab** | 1.1.2 | video stabilization library | https://github.com/georgmartius/vid.stab |
 | **libvigra** | 1.12.4-1 | Computer vision library | https://ukoethe.github.io/vigra/ |
 | **libvips** | 8.18.7 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
-| **libvisio** | 0.1.10-1 | Library providing ability to interpret and import visio diagrams | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
-| **libvisio-static** | 0.1.10-1 | Static libraries for libvisio | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
+| **libvisio** | 0.1.11 | Library providing ability to interpret and import visio diagrams | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
+| **libvisio-static** | 0.1.11 | Static libraries for libvisio | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvmaf** | 3.2.1 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
 | **libvmaf-static** | 3.2.1 | Static libraries for libvmaf | https://github.com/Netflix/vmaf |
 | **libvo-amrwbenc** | 0.1.3-2 | VisualOn AMR-WB encoder library | https://sourceforge.net/projects/opencore-amr/ |
@@ -1880,7 +1880,7 @@
 | **miniz** | 3.1.2 | Single C source file zlib-replacement library | https://github.com/richgel999/miniz |
 | **minizinc** | 2.10.1 | A medium-level constraint modelling language | https://github.com/MiniZinc/libminizinc |
 | **minizinc-static** | 2.10.1 | Static libraries for minizinc | https://github.com/MiniZinc/libminizinc |
-| **mise** | 2026.9.18 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
+| **mise** | 2026.10.0 | dev tools, env vars, task runner | https://mise.jdx.dev/ |
 | **mkbootimg** | 2022.11.09-1 | Maintained fork with android's mkbootimg and unpackbootimg | https://github.com/osm0sis/mkbootimg |
 | **mkcert** | 1.4.4 | A simple zero-config tool to make locally trusted development certificates | https://github.com/FiloSottile/mkcert |
 | **mkp224o** | 1.7.0-1 | Generate vanity ed25519 (hidden service version 3) onion addresses | https://github.com/cathugger/mkp224o |
@@ -1975,7 +1975,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1782+gdce927183c-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1788+g09e4491a53-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -1991,7 +1991,7 @@
 | **netstandard-targeting-pack-2.1-9.0** | 9.0.20 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
 | **newsboat** | 2.44 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
-| **newsraft** | 0.37 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
+| **newsraft** | 0.38 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
 | **nginx** | 1.31.6 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 28 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
 | **ngspice** | 47 | A mixed-level/mixed-signal circuit simulator | https://ngspice.sourceforge.net/ |
@@ -2859,13 +2859,13 @@
 | **vtm** | 2026.09.30 | Terminal multiplexer with TUI window manager and multi-party session sharing | https://github.com/directvt/vtm |
 | **vttest** | 20251205 | Program for testing the VT100 compatibility of terminal emulators | https://invisible-island.net/vttest/ |
 | **vulkan-extension-layer** | 1.4.363 | Vulkan Extension Layer | https://github.com/KhronosGroup/Vulkan-ExtensionLayer |
-| **vulkan-headers** | 1.4.364 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
+| **vulkan-headers** | 1.4.365 | Vulkan Header files and API registry | https://github.com/KhronosGroup/Vulkan-Headers |
 | **vulkan-icd** | 0.1-1 | A metapackage that provides Vulkan ICDs | https://github.com/termux/termux-packages |
 | **vulkan-loader** | 0.0.3 | A metapackage that provides vulkan loader library | https://github.com/termux/termux-packages |
 | **vulkan-loader-android** | 30 | Vulkan Loader for Android | https://source.android.com/devices/graphics/arch-vulkan |
-| **vulkan-loader-generic** | 1.4.364 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
-| **vulkan-tools** | 1.4.364 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
-| **vulkan-utility-libraries** | 1.4.364 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
+| **vulkan-loader-generic** | 1.4.365 | Vulkan Loader | https://github.com/KhronosGroup/Vulkan-Loader |
+| **vulkan-tools** | 1.4.365 | Vulkan Tools and Utilities | https://github.com/KhronosGroup/Vulkan-Tools |
+| **vulkan-utility-libraries** | 1.4.365 | Utility Libraries for Vulkan | https://github.com/KhronosGroup/Vulkan-Utility-Libraries |
 | **vulkan-validation-layers** | 1.4.363 | Vulkan Validation Layers | https://github.com/KhronosGroup/Vulkan-ValidationLayers |
 | **vulkan-volk** | 1.4.350 | Meta loader for Vulkan API | https://github.com/zeux/volk |
 | **w3m** | 0.5.6-2 | Text based Web browser and pager | https://git.sr.ht/~rkta/w3m |

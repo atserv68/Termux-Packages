@@ -2887,7 +2887,7 @@
   },
   {
     "Package": "entr",
-    "Version": "5.8",
+    "Version": "5.9",
     "Description": "Event Notify Test Runner - run arbitrary commands when files change",
     "Homepage": "https://eradman.com/entrproject/"
   },
@@ -4849,7 +4849,7 @@
   },
   {
     "Package": "hwdata",
-    "Version": "0.411",
+    "Version": "0.412",
     "Description": "Database of hardware identification and configuration data",
     "Homepage": "https://github.com/vcrhonek/hwdata"
   },
@@ -7723,7 +7723,7 @@
   },
   {
     "Package": "libmdbx",
-    "Version": "0.12.10-1",
+    "Version": "0.14.4",
     "Description": "An extremely fast, compact, powerful, embedded, transactional key-value database",
     "Homepage": "https://libmdbx.dqdkfa.ru/"
   },
@@ -8737,7 +8737,7 @@
   },
   {
     "Package": "libresolv-wrapper",
-    "Version": "1.1.7-6",
+    "Version": "1.1.8",
     "Description": "A wrapper for DNS name resolving or DNS faking",
     "Homepage": "https://cwrap.org/resolv_wrapper.html"
   },
@@ -8875,13 +8875,13 @@
   },
   {
     "Package": "libsearpc",
-    "Version": "1:3.2.0-9",
+    "Version": "1:3.3.0",
     "Description": "A simple C language RPC framework (mainly for seafile)",
     "Homepage": "https://github.com/haiwen/libsearpc"
   },
   {
     "Package": "libsearpc-static",
-    "Version": "1:3.2.0-9",
+    "Version": "1:3.3.0",
     "Description": "Static libraries for libsearpc",
     "Homepage": "https://github.com/haiwen/libsearpc"
   },
@@ -8947,7 +8947,7 @@
   },
   {
     "Package": "libsigc++-3.0",
-    "Version": "3.6.0-2",
+    "Version": "3.8.1",
     "Description": "Implements a typesafe callback system for standard C++",
     "Homepage": "https://libsigcplusplus.github.io/libsigcplusplus/"
   },
@@ -9253,13 +9253,13 @@
   },
   {
     "Package": "libtalloc",
-    "Version": "2.4.3",
+    "Version": "2.5.0",
     "Description": "Hierarchical, reference counted memory pool system with destructors",
     "Homepage": "https://talloc.samba.org/talloc/doc/html/index.html"
   },
   {
     "Package": "libtalloc-static",
-    "Version": "2.4.3",
+    "Version": "2.5.0",
     "Description": "Static libraries for libtalloc",
     "Homepage": "https://talloc.samba.org/talloc/doc/html/index.html"
   },
@@ -9625,7 +9625,7 @@
   },
   {
     "Package": "libusbredir",
-    "Version": "0.13.0-1",
+    "Version": "0.15.0",
     "Description": "network protocol for sending USB device traffic over a network connection",
     "Homepage": "https://www.spice-space.org/"
   },
@@ -9691,13 +9691,13 @@
   },
   {
     "Package": "libvisio",
-    "Version": "0.1.10-1",
+    "Version": "0.1.11",
     "Description": "Library providing ability to interpret and import visio diagrams",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libvisio"
   },
   {
     "Package": "libvisio-static",
-    "Version": "0.1.10-1",
+    "Version": "0.1.11",
     "Description": "Static libraries for libvisio",
     "Homepage": "https://wiki.documentfoundation.org/DLP/Libraries/libvisio"
   },
@@ -11293,7 +11293,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.9.18",
+    "Version": "2026.10.0",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11863,7 +11863,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1782+gdce927183c-0",
+    "Version": "0.13.0~dev-1788+g09e4491a53-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -11959,7 +11959,7 @@
   },
   {
     "Package": "newsraft",
-    "Version": "0.37",
+    "Version": "0.38",
     "Description": "Newsraft is a feed reader with text-based user interface",
     "Homepage": "https://codeberg.org/newsraft/newsraft"
   },
@@ -17167,7 +17167,7 @@
   },
   {
     "Package": "vulkan-headers",
-    "Version": "1.4.364",
+    "Version": "1.4.365",
     "Description": "Vulkan Header files and API registry",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Headers"
   },
@@ -17191,19 +17191,19 @@
   },
   {
     "Package": "vulkan-loader-generic",
-    "Version": "1.4.364",
+    "Version": "1.4.365",
     "Description": "Vulkan Loader",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Loader"
   },
   {
     "Package": "vulkan-tools",
-    "Version": "1.4.364",
+    "Version": "1.4.365",
     "Description": "Vulkan Tools and Utilities",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Tools"
   },
   {
     "Package": "vulkan-utility-libraries",
-    "Version": "1.4.364",
+    "Version": "1.4.365",
     "Description": "Utility Libraries for Vulkan",
     "Homepage": "https://github.com/KhronosGroup/Vulkan-Utility-Libraries"
   },
