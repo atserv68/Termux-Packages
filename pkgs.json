@@ -1207,7 +1207,7 @@
   },
   {
     "Package": "caddy",
-    "Version": "2.11.6",
+    "Version": "2.11.7",
     "Description": "Fast, cross-platform HTTP/2 web server",
     "Homepage": "https://caddyserver.com/"
   },
@@ -1261,7 +1261,7 @@
   },
   {
     "Package": "cargo-binstall",
-    "Version": "1.24.0",
+    "Version": "1.25.0",
     "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
     "Homepage": "https://github.com/cargo-bins/cargo-binstall"
   },
@@ -10777,7 +10777,7 @@
   },
   {
     "Package": "mailpit",
-    "Version": "1.31.3",
+    "Version": "1.31.4",
     "Description": "An email and SMTP testing tool with API for developers",
     "Homepage": "https://mailpit.axllent.org"
   },
@@ -11863,7 +11863,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1788+g09e4491a53-0",
+    "Version": "0.13.0~dev-1793+g1dc9728dbd-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -17917,7 +17917,7 @@
   },
   {
     "Package": "zrok2",
-    "Version": "2.0.6",
+    "Version": "2.0.7",
     "Description": "An open source sharing solution built on OpenZiti",
     "Homepage": "https://zrok.io/"
   },
