@@ -1261,7 +1261,7 @@
   },
   {
     "Package": "cargo-binstall",
-    "Version": "1.25.0",
+    "Version": "1.25.1",
     "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
     "Homepage": "https://github.com/cargo-bins/cargo-binstall"
   },
@@ -5071,7 +5071,7 @@
   },
   {
     "Package": "ipv6calc",
-    "Version": "4.4.0",
+    "Version": "4.4.1",
     "Description": "Does some format changes and calculations of IPv6 addresses",
     "Homepage": "https://www.deepspace6.net/projects/ipv6calc.html"
   },
@@ -12211,7 +12211,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "31.4.0",
+    "Version": "31.4.1",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
