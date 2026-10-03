@@ -471,7 +471,7 @@
   Description: Runs list of commands in parallel and waits for their termination
   Homepage: https://github.com/slavaGanzin/await
 - Package: awscli
-  Version: 2.37.8
+  Version: 2.37.9
   Description: Universal Command Line Interface for Amazon Web Services
   Homepage: https://aws.amazon.com/cli
 - Package: axel
@@ -855,7 +855,7 @@
   Description: Simple cargo subcommand for generating flamegraphs, using inferno under the hood
   Homepage: https://github.com/flamegraph-rs/flamegraph
 - Package: cargo-leptos
-  Version: 0.3.10
+  Version: 0.3.11
   Description: Build tool for the Rust framework Leptos
   Homepage: https://github.com/leptos-rs/cargo-leptos
 - Package: cargo-machete
@@ -1079,11 +1079,11 @@
   Description: Experimental implementation of OpenCL on Vulkan
   Homepage: https://github.com/kpet/clvk
 - Package: cmake
-  Version: 4.4.3
+  Version: 4.4.4
   Description: Family of tools designed to build, test and package software
   Homepage: https://cmake.org/
 - Package: cmake-curses-gui
-  Version: 4.4.3
+  Version: 4.4.4
   Description: Curses based user interface for CMake (ccmake)
   Homepage: https://cmake.org/
 - Package: cmark
@@ -2731,7 +2731,7 @@
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
 - Package: goimports
-  Version: 0.50.0
+  Version: 0.51.0
   Description: Updates Go import lines, adding missing ones and removing unreferenced ones
   Homepage: https://pkg.go.dev/golang.org/x/tools/cmd/goimports
 - Package: gojq
@@ -7107,7 +7107,7 @@
   Description: Deployment and management system for Lua modules
   Homepage: https://luarocks.org/
 - Package: luau
-  Version: "0.740"
+  Version: "0.741"
   Description: A small, fast, and embeddable programming language based on Lua with a gradual type system.
   Homepage: https://github.com/luau-lang/luau
 - Package: lunasvg
@@ -7563,7 +7563,7 @@
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
-  Version: 0.18.5.1-2
+  Version: 0.18.5.3
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: monetdb
@@ -8799,7 +8799,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.8.2
+  Version: 12.9.0
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -10855,7 +10855,7 @@
   Description: toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library
   Homepage: https://github.com/ToruNiina/toml11
 - Package: topgrade
-  Version: 17.12.2
+  Version: 17.12.3
   Description: Upgrade all the things
   Homepage: https://github.com/topgrade-rs/topgrade/
 - Package: tor

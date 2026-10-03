@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.8",
+    "Version": "2.37.9",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1285,7 +1285,7 @@
   },
   {
     "Package": "cargo-leptos",
-    "Version": "0.3.10",
+    "Version": "0.3.11",
     "Description": "Build tool for the Rust framework Leptos",
     "Homepage": "https://github.com/leptos-rs/cargo-leptos"
   },
@@ -1621,13 +1621,13 @@
   },
   {
     "Package": "cmake",
-    "Version": "4.4.3",
+    "Version": "4.4.4",
     "Description": "Family of tools designed to build, test and package software",
     "Homepage": "https://cmake.org/"
   },
   {
     "Package": "cmake-curses-gui",
-    "Version": "4.4.3",
+    "Version": "4.4.4",
     "Description": "Curses based user interface for CMake (ccmake)",
     "Homepage": "https://cmake.org/"
   },
@@ -4099,7 +4099,7 @@
   },
   {
     "Package": "goimports",
-    "Version": "0.50.0",
+    "Version": "0.51.0",
     "Description": "Updates Go import lines, adding missing ones and removing unreferenced ones",
     "Homepage": "https://pkg.go.dev/golang.org/x/tools/cmd/goimports"
   },
@@ -10663,7 +10663,7 @@
   },
   {
     "Package": "luau",
-    "Version": "0.740",
+    "Version": "0.741",
     "Description": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
     "Homepage": "https://github.com/luau-lang/luau"
   },
@@ -11347,7 +11347,7 @@
   },
   {
     "Package": "monero",
-    "Version": "0.18.5.1-2",
+    "Version": "0.18.5.3",
     "Description": "A private, secure, untraceable, decentralised digital currency",
     "Homepage": "https://getmonero.org/"
   },
@@ -13201,7 +13201,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.8.2",
+    "Version": "12.9.0",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -16285,7 +16285,7 @@
   },
   {
     "Package": "topgrade",
-    "Version": "17.12.2",
+    "Version": "17.12.3",
     "Description": "Upgrade all the things",
     "Homepage": "https://github.com/topgrade-rs/topgrade/"
   },

@@ -128,7 +128,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.11.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.37.8 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.37.9 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **azure-cli** | 2.90.0-1 | Microsoft's command-line tool for managing Azure cloud resources | https://learn.microsoft.com/en-us/cli/azure/ |
 | **azure-dev-cli** | 1.35.0 | Developer-centric CLI for creating, provisioning and deploying Azure applications (azd) | https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ |
@@ -224,7 +224,7 @@
 | **cargo-c** | 0.10.25 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-flamegraph** | 0.6.14 | Simple cargo subcommand for generating flamegraphs, using inferno under the hood | https://github.com/flamegraph-rs/flamegraph |
-| **cargo-leptos** | 0.3.10 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
+| **cargo-leptos** | 0.3.11 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **cargo-machete** | 0.9.2 | Find unused dependencies in Rust projects | https://github.com/bnjbvr/cargo-machete |
 | **catch2** | 3.16.0 | A modern, C++-native, header-only, framework for unit-tests, TDD and BDD | https://github.com/catchorg/catch2 |
 | **catch2-static** | 3.16.0 | Static libraries for catch2 | https://github.com/catchorg/catch2 |
@@ -280,8 +280,8 @@
 | **clpeak** | 3.0.0 | A tool which profiles OpenCL devices to find their peak capacities | https://github.com/krrishnarraj/clpeak |
 | **clucene** | 2.3.3.4-8 | C++ port of the high-performance text search engine Lucene | http://clucene.sourceforge.net/ |
 | **clvk** | 0.0.20260707.165306 | Experimental implementation of OpenCL on Vulkan | https://github.com/kpet/clvk |
-| **cmake** | 4.4.3 | Family of tools designed to build, test and package software | https://cmake.org/ |
-| **cmake-curses-gui** | 4.4.3 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
+| **cmake** | 4.4.4 | Family of tools designed to build, test and package software | https://cmake.org/ |
+| **cmake-curses-gui** | 4.4.4 | Curses based user interface for CMake (ccmake) | https://cmake.org/ |
 | **cmark** | 0.31.2-1 | CommonMark parsing and rendering program | https://github.com/commonmark/cmark |
 | **cmatrix** | 2.0-1 | Command producing a Matrix-style animation | https://github.com/abishekvashok/cmatrix |
 | **cmocka** | 2.0.2 | cmocka is an unit testing framework for C | https://cmocka.org/ |
@@ -693,7 +693,7 @@
 | **gobject-introspection** | 1.86.0-2 | Uniform machine readable API | https://gi.readthedocs.io/ |
 | **gofumpt** | 0.12.0 | A stricter gofmt, backwards compatible drop-in replacement | https://github.com/mvdan/gofumpt |
 | **gogs** | 0.14.3 | A painless self-hosted Git service | https://gogs.io |
-| **goimports** | 0.50.0 | Updates Go import lines, adding missing ones and removing unreferenced ones | https://pkg.go.dev/golang.org/x/tools/cmd/goimports |
+| **goimports** | 0.51.0 | Updates Go import lines, adding missing ones and removing unreferenced ones | https://pkg.go.dev/golang.org/x/tools/cmd/goimports |
 | **gojq** | 0.12.19 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
 | **golang** | 3:1.27.1 | Go programming language compiler | https://go.dev/ |
 | **golang-doc** | 3:1.27.1 | Go programming language - documentation | https://go.dev/ |
@@ -1787,7 +1787,7 @@
 | **luajit-lgi** | 0.9.2+p20260728 | Dynamic Lua binding to GObject libraries using GObject-Introspection | https://github.com/lgi-devs/lgi |
 | **luajit-static** | 1:2.1.1788856981+gc6ffc14 | Static libraries for luajit | https://luajit.org/ |
 | **luarocks** | 3.13.0-1 | Deployment and management system for Lua modules | https://luarocks.org/ |
-| **luau** | 0.740 | A small, fast, and embeddable programming language based on Lua with a gradual type system. | https://github.com/luau-lang/luau |
+| **luau** | 0.741 | A small, fast, and embeddable programming language based on Lua with a gradual type system. | https://github.com/luau-lang/luau |
 | **lunasvg** | 3.5.0-1 | SVG rendering and manipulation library in C++ | https://github.com/sammycage/lunasvg |
 | **luv** | 1.53.0-0-0 | Bare libuv bindings for lua | https://github.com/luvit/luv |
 | **luvi** | 1:2.15.0-2 | A project in-between luv and luvit | https://luvit.io |
@@ -1901,7 +1901,7 @@
 | **mlir** | 21.1.8-3 | A Multi-Level Intermediate Representation for compilers from LLVM | https://clang.llvm.org/ |
 | **mlocate** | 0.26-6 | Tool to find files anywhere in the filesystem based on their name | https://pagure.io/mlocate |
 | **mold** | 2.42.1 | mold: A Modern Linker | https://github.com/rui314/mold |
-| **monero** | 0.18.5.1-2 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
+| **monero** | 0.18.5.3 | A private, secure, untraceable, decentralised digital currency | https://getmonero.org/ |
 | **monetdb** | 11.55.5-1 | A high-performance database kernel for query-intensive applications | https://www.monetdb.org/ |
 | **mongosh** | 2.12.0 | The MongoDB Shell | https://github.com/mongodb-js/mongosh |
 | **monit** | 6.0.0 | Utility for managing and monitoring processes, programs, files, directories and filesystems | https://mmonit.com/monit/ |
@@ -2210,7 +2210,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pnpm** | 12.8.2 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
+| **pnpm** | 12.9.0 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
 | **pocketbase** | 0.40.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **podofo** | 1.1.2 | A C++ library to work with the PDF file format | https://github.com/podofo/podofo |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
@@ -2724,7 +2724,7 @@
 | **tomcat** | 11.0.26 | Open source implementation of the Jakarta Servlet, Pages and WebSocket technologies | https://tomcat.apache.org/ |
 | **tome2** | 2025.12.13-2 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
-| **topgrade** | 17.12.2 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
+| **topgrade** | 17.12.3 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
 | **tor** | 0.4.9.13 | The Onion Router anonymizing overlay network | https://www.torproject.org |
 | **torsocks** | 2.5.0-1 | Wrapper to safely torify applications | https://gitlab.torproject.org/tpo/core/torsocks |
 | **torsocks-static** | 2.5.0-1 | Static libraries for torsocks | https://gitlab.torproject.org/tpo/core/torsocks |
