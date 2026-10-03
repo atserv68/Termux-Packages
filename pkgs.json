@@ -367,7 +367,7 @@
   },
   {
     "Package": "apt-file",
-    "Version": "3.3",
+    "Version": "3.4",
     "Description": "search for files within packages",
     "Homepage": "https://wiki.debian.org/apt-file"
   },
@@ -1063,7 +1063,7 @@
   },
   {
     "Package": "broot",
-    "Version": "1.60.2",
+    "Version": "1.61.0",
     "Description": "A better way to navigate directories",
     "Homepage": "https://github.com/Canop/broot"
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "Package": "clvk",
-    "Version": "0.0.20260707.165306",
+    "Version": "0.0.20260920.101658",
     "Description": "Experimental implementation of OpenCL on Vulkan",
     "Homepage": "https://github.com/kpet/clvk"
   },
@@ -2179,7 +2179,7 @@
   },
   {
     "Package": "discordo",
-    "Version": "2026.09.12+ge87645a1",
+    "Version": "2026.10.02+g1e42e778",
     "Description": "A lightweight, secure, and feature-rich Discord terminal client",
     "Homepage": "https://github.com/ayn2op/discordo"
   },
@@ -3133,13 +3133,13 @@
   },
   {
     "Package": "fetchmail",
-    "Version": "6.6.8",
+    "Version": "6.6.9",
     "Description": "A remote-mail retrieval utility",
     "Homepage": "https://www.fetchmail.info/"
   },
   {
     "Package": "fetchmailconf",
-    "Version": "6.6.8",
+    "Version": "6.6.9",
     "Description": "A GUI configurator for generating fetchmail configuration files",
     "Homepage": "https://www.fetchmail.info/"
   },
@@ -3211,7 +3211,7 @@
   },
   {
     "Package": "findutils",
-    "Version": "4.10.0-1",
+    "Version": "4.11.0",
     "Description": "Utilities to find files meeting specified criteria and perform various actions on the files which are found",
     "Homepage": "https://www.gnu.org/software/findutils/"
   },
@@ -3601,7 +3601,7 @@
   },
   {
     "Package": "gengetopt",
-    "Version": "2.23-4",
+    "Version": "2.23.1",
     "Description": "gengetopt is a tool to write command line option parsing code for C programs",
     "Homepage": "https://www.gnu.org/software/gengetopt/"
   },
@@ -4699,7 +4699,7 @@
   },
   {
     "Package": "hollywood",
-    "Version": "1.22-1",
+    "Version": "1.25",
     "Description": "Fill your console with Hollywood melodrama technobabble",
     "Homepage": "https://launchpad.net/hollywood"
   },
@@ -5047,13 +5047,13 @@
   },
   {
     "Package": "iperf3",
-    "Version": "3.21",
+    "Version": "3.22",
     "Description": "TCP, UDP, and SCTP network bandwidth measurement tool",
     "Homepage": "https://github.com/esnet/iperf"
   },
   {
     "Package": "iperf3-static",
-    "Version": "3.21",
+    "Version": "3.22",
     "Description": "Static libraries for iperf3",
     "Homepage": "https://github.com/esnet/iperf"
   },
@@ -5449,7 +5449,7 @@
   },
   {
     "Package": "knot-utils",
-    "Version": "3.5.5",
+    "Version": "3.6.0",
     "Description": "Knot DNS utilities",
     "Homepage": "https://www.knot-dns.cz/"
   },
@@ -5605,7 +5605,7 @@
   },
   {
     "Package": "lexbor",
-    "Version": "3.0.0",
+    "Version": "3.0.1",
     "Description": "Fast embeddable web browser engine written in C with no dependencies",
     "Homepage": "https://lexbor.com"
   },
@@ -7291,13 +7291,13 @@
   },
   {
     "Package": "libiniparser",
-    "Version": "4.3.0",
+    "Version": "4.3.2",
     "Description": "Offers parsing of ini files from the C level",
     "Homepage": "https://github.com/ndevilla/iniparser"
   },
   {
     "Package": "libiniparser-static",
-    "Version": "4.3.0",
+    "Version": "4.3.2",
     "Description": "Static libraries for libiniparser",
     "Homepage": "https://github.com/ndevilla/iniparser"
   },
@@ -7447,13 +7447,13 @@
   },
   {
     "Package": "libknot",
-    "Version": "3.5.5",
+    "Version": "3.6.0",
     "Description": "Knot DNS libraries",
     "Homepage": "https://www.knot-dns.cz/"
   },
   {
     "Package": "libknot-static",
-    "Version": "3.5.5",
+    "Version": "3.6.0",
     "Description": "Static libraries for libknot",
     "Homepage": "https://www.knot-dns.cz/"
   },
@@ -9517,13 +9517,13 @@
   },
   {
     "Package": "libucontext",
-    "Version": "1.5",
+    "Version": "1.5.2",
     "Description": "A library which provides the ucontext.h C API",
     "Homepage": "https://github.com/kaniini/libucontext"
   },
   {
     "Package": "libucontext-static",
-    "Version": "1.5",
+    "Version": "1.5.2",
     "Description": "Static libraries for libucontext",
     "Homepage": "https://github.com/kaniini/libucontext"
   },
@@ -12091,13 +12091,13 @@
   },
   {
     "Package": "nsis",
-    "Version": "3.12",
+    "Version": "3.13",
     "Description": "A professional open source system to create Windows installers",
     "Homepage": "https://sourceforge.net/projects/nsis/"
   },
   {
     "Package": "nsis-stubs",
-    "Version": "3.12",
+    "Version": "3.13",
     "Description": "NSIS Stubs",
     "Homepage": "https://sourceforge.net/projects/nsis/"
   },
@@ -12619,7 +12619,7 @@
   },
   {
     "Package": "osmium-tool",
-    "Version": "1.19.0-1",
+    "Version": "1.19.1",
     "Description": "A multipurpose command line tool based on the Osmium Library",
     "Homepage": "https://osmcode.org/osmium-tool/"
   },
@@ -13753,7 +13753,7 @@
   },
   {
     "Package": "python-pymupdf",
-    "Version": "1.28.0-1",
+    "Version": "1.28.2",
     "Description": "Python bindings for MuPDFs rendering library",
     "Homepage": "https://github.com/pymupdf/PyMuPDF"
   },
@@ -13861,7 +13861,7 @@
   },
   {
     "Package": "python-torchvision",
-    "Version": "0.29.0",
+    "Version": "0.29.1",
     "Description": "Datasets, Transforms and Models specific to Computer Vision",
     "Homepage": "https://github.com/pytorch/vision"
   },
@@ -14737,7 +14737,7 @@
   },
   {
     "Package": "samba",
-    "Version": "4.24.6",
+    "Version": "4.25.0",
     "Description": "SMB/CIFS fileserver",
     "Homepage": "https://www.samba.org/"
   },
@@ -15025,7 +15025,7 @@
   },
   {
     "Package": "signify",
-    "Version": "32-2",
+    "Version": "33",
     "Description": "Lightweight cryptographic signing and verifying tool",
     "Homepage": "https://github.com/aperezdc/signify"
   },
@@ -17737,7 +17737,7 @@
   },
   {
     "Package": "yazi",
-    "Version": "26.9.1",
+    "Version": "26.9.1-1",
     "Description": "Blazing fast terminal file manager written in Rust, based on async I/O",
     "Homepage": "https://yazi-rs.github.io/"
   },
