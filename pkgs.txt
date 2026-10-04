@@ -265,7 +265,7 @@
  clipp  1.2.3-1  Command line interfaces for modern C++  https://github.com/muellan/clipp 
  cloneit  20250722  A cli tool to download specific GitHub directories or files  https://github.com/alok8bb/cloneit 
  cloudflared  2026.9.3-1  A tunneling daemon that proxies traffic from the Cloudflare network to your origins  https://github.com/cloudflare/cloudflared 
- clpeak  3.0.0  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
+ clpeak  3.0.1  A tool which profiles OpenCL devices to find their peak capacities  https://github.com/krrishnarraj/clpeak 
  clucene  2.3.3.4-8  C++ port of the high-performance text search engine Lucene  http://clucene.sourceforge.net/ 
  clvk  0.0.20260920.101658  Experimental implementation of OpenCL on Vulkan  https://github.com/kpet/clvk 
  cmake  4.4.4  Family of tools designed to build, test and package software  https://cmake.org/ 
@@ -276,7 +276,7 @@
  cmus  2.12.0-7  Small, fast and powerful console music player  https://cmus.github.io/ 
  cmusfm  0.5.0-1  Last.fm standalone scrobbler for the cmus music player  https://github.com/Arkq/cmusfm 
  codecrypt  1.8-10  The post-quantum cryptography tool  http://e-x-a.org/codecrypt/ 
- codon  0.20.2  A high-performance, zero-overhead, extensible Python compiler using LLVM  https://github.com/exaloop/codon 
+ codon  0.20.2-1  A high-performance, zero-overhead, extensible Python compiler using LLVM  https://github.com/exaloop/codon 
  coinor-cbc  2.10.13  An open-source mixed integer linear programming solver  https://github.com/coin-or/Cbc 
  coinor-cbc-static  2.10.13  Static libraries for coinor-cbc  https://github.com/coin-or/Cbc 
  coinor-clp  1:1.17.11  An open-source linear programming solver  https://github.com/coin-or/Clp 
@@ -354,7 +354,7 @@
  dialog  1.3-20260721-0  Application used in shell scripts which displays text user interface widgets  https://invisible-island.net/dialog/ 
  dialog-static  1.3-20260721-0  Static libraries for dialog  https://invisible-island.net/dialog/ 
  dictd  1.13.3-2  Online dictionary client and server  https://sourceforge.net/projects/dict/ 
- diff-so-fancy  1.4.14  Good-lookin' diffs. Actually... nah... The best-lookin' diffs  https://github.com/so-fancy/diff-so-fancy 
+ diff-so-fancy  1.4.14-1  Good-lookin' diffs. Actually... nah... The best-lookin' diffs  https://github.com/so-fancy/diff-so-fancy 
  diffstat  1.69  Displays a histogram of changes to a file  https://invisible-island.net/diffstat/diffstat.html 
  difftastic  0.71.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
  diffutils  3.12-2  Programs (cmp, diff, diff3 and sdiff) related to finding differences between files  https://www.gnu.org/software/diffutils/ 
@@ -726,7 +726,7 @@
  greed  5.2  Game where you try to eat as much as possible of the board before munching yourself into a corner  http://www.catb.org/~esr/greed/ 
  grep  3.12-3  Command which searches one or more input files for lines containing a match to a specified pattern  https://www.gnu.org/software/grep/ 
  grex  1.4.6-1  Simplifies the task of creating regular expressions  https://github.com/pemistahl/grex 
- groff  1.24.1  typesetting system that reads plain text mixed with formatting commands and produces formatted output  https://www.gnu.org/software/groff/ 
+ groff  1.24.2  typesetting system that reads plain text mixed with formatting commands and produces formatted output  https://www.gnu.org/software/groff/ 
  gron  0.7.1-4  Transforms JSON into discrete assignments  https://github.com/tomnomnom/gron 
  groonga  16.1.2  An embeddable fulltext search engine  https://github.com/groonga/groonga/ 
  groovy  4.0.26-4  A powerful multi-faceted programming language for the JVM platform  https://groovy-lang.org/ 
@@ -880,7 +880,7 @@
  jp2a  1.3.3  A simple JPEG to ASCII converter  https://github.com/Talinx/jp2a/ 
  jpegoptim  1.5.6  JPEG optimizer that recompresses image files to a smaller size, without losing any information  https://www.kokkonen.net/tjko/projects.html 
  jq  1.8.2  Command-line JSON processor  https://jqlang.org/ 
- jq-lsp  0.1.18  jq language server  https://github.com/wader/jq-lsp 
+ jq-lsp  0.1.19  jq language server  https://github.com/wader/jq-lsp 
  jq-static  1.8.2  Static libraries for jq  https://jqlang.org/ 
  jql  9.0.3  A JSON Query Language CLI tool  https://github.com/yamafaktory/jql 
  json-c  0.19  A JSON implementation in C  https://github.com/json-c/json-c/wiki 
@@ -902,7 +902,7 @@
  kbd  2.10.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
  kew  4.3.8  Music for the Shell  https://kewplayer.com 
  keybase  6.6.3  Key directory that maps social media identities to encryption keys  https://keybase.io 
- keychain  3.0.6  Keychain manager for ssh-agent and gpg-agent  https://kernel-seeds.org/projects/keychain/ 
+ keychain  3.0.7  Keychain manager for ssh-agent and gpg-agent  https://kernel-seeds.org/projects/keychain/ 
  kibi  0.3.3-1  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
  kiwix-tools  3.8.2  A collection of Kiwix related command line tools  https://github.com/kiwix/kiwix-tools 
  knockd  0.8.2-2  A port-knocking daemon  https://zeroflux.org/projects/knock 
@@ -1283,8 +1283,8 @@
  libmaxminddb-tools  1.14.1  A geoip lookup utility for MaxMind DB  https://dev.maxmind.com/geoip/geoip2/ 
  libmcrypt  2.5.8-6  A library which provides a uniform interface to several symmetric encryption algorithms  https://mcrypt.sourceforge.net/ 
  libmcrypt-static  2.5.8-6  Static libraries for libmcrypt  https://mcrypt.sourceforge.net/ 
- libmd  1.2.0  Message Digest functions from BSD systems  https://www.hadrons.org/software/libmd/ 
- libmd-static  1.2.0  Static libraries for libmd  https://www.hadrons.org/software/libmd/ 
+ libmd  1.3.0  Message Digest functions from BSD systems  https://www.hadrons.org/software/libmd/ 
+ libmd-static  1.3.0  Static libraries for libmd  https://www.hadrons.org/software/libmd/ 
  libmdbx  0.14.4  An extremely fast, compact, powerful, embedded, transactional key-value database  https://libmdbx.dqdkfa.ru/ 
  libmediainfo  26.05  Library for reading information from media files  https://mediaarea.net/en/MediaInfo 
  libmediainfo-static  26.05  Static libraries for libmediainfo  https://mediaarea.net/en/MediaInfo 
@@ -1480,8 +1480,8 @@
  libsearpc  1:3.3.0  A simple C language RPC framework (mainly for seafile)  https://github.com/haiwen/libsearpc 
  libsearpc-static  1:3.3.0  Static libraries for libsearpc  https://github.com/haiwen/libsearpc 
  libseat  0.9.3  Reference implementation of a wayland compositor  https://sr.ht/~kennylevinsen/seatd/ 
- libseccomp  2.6.0  Enhanced seccomp library  https://github.com/seccomp/libseccomp 
- libseccomp-static  2.6.0  Static libraries for libseccomp  https://github.com/seccomp/libseccomp 
+ libseccomp  2.6.1  Enhanced seccomp library  https://github.com/seccomp/libseccomp 
+ libseccomp-static  2.6.1  Static libraries for libseccomp  https://github.com/seccomp/libseccomp 
  libsecp256k1  1:0.8.0  Optimized c library for ECDSA signatures and seret/public key operations on curve secp256k1  https://github.com/bitcoin-core/secp256k1 
  libsecp256k1-static  1:0.8.0  Static libraries for libsecp256k1  https://github.com/bitcoin-core/secp256k1 
  libsecret  0.21.8.2  A GObject-based library for accessing the Secret Service API  https://gitlab.gnome.org/GNOME/libsecret 
@@ -1955,7 +1955,7 @@
  ncdu  1.22-1  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
  ncdu2  2.9.2-1  Disk usage analyzer  https://dev.yorhel.nl/ncdu 
  ncftp  3.3.0-1  A free set of programs that use the File Transfer Protocol  https://www.ncftp.com/ 
- nchat  5.18.20-1  TUI for Telegram and WhatsApp  https://github.com/d99kris/nchat 
+ nchat  5.19.18  TUI for Telegram and WhatsApp  https://github.com/d99kris/nchat 
  ncmpcpp  0.10.1-9  NCurses Music Player Client (Plus Plus)  https://rybczak.net/ncmpcpp/ 
  ncompress  5.0-1  The classic unix compression utility which can handle the ancient .Z archive  https://github.com/vapier/ncompress 
  ncpamixer  1.3.11  An ncurses mixer for PulseAudio  https://github.com/fulhax/ncpamixer 
@@ -1975,7 +1975,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.5-1  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1793+g1dc9728dbd-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1804+gfb1f321b0e-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2115,7 +2115,7 @@
  panda3d  1.10.16-1  A framework for 3D rendering and game development for Python and C++ programs  https://www.panda3d.org/ 
  panda3d-samples  1.10.16-1  Python sample programs that use Panda3D  https://www.panda3d.org/ 
  panda3d-static  1.10.16-1  Static libraries for panda3d  https://www.panda3d.org/ 
- pandoc  3.11  Universal markup converter  https://pandoc.org/ 
+ pandoc  3.12  Universal markup converter  https://pandoc.org/ 
  pango  1.58.2  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
  paperkey  1.6-1  Archive OpenPGP keys on paper  http://www.jabberwocky.com/software/paperkey/ 
  par2  1.4.0  par2cmdline is a PAR 2.0 compatible file verification and repair tool  https://github.com/Parchive/par2cmdline 
@@ -2552,7 +2552,7 @@
  spidermonkey  128.10.0-2  Mozilla's JavaScript engine  https://spidermonkey.dev 
  spiped  1.6.4-1  a utility for creating symmetrically encrypted and authenticated pipes between socket addresses  https://www.tarsnap.com/spiped.html 
  spirv-headers  1.4.363.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
- spirv-llvm-translator  21.1.10  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
+ spirv-llvm-translator  21.1.12  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
  spirv-tools  1.4.363.0  SPIR-V Tools  https://github.com/KhronosGroup/SPIRV-Tools 
  sqlc  1.31.1-1  Generate type-safe code from SQL  https://sqlc.dev 
  sqlcipher  4.19.0  SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files  https://github.com/sqlcipher/sqlcipher 
@@ -2883,8 +2883,8 @@
  wavpack  5.9.0  WavPack command-line programs  https://www.wavpack.com/ 
  waypipe  0.11.2  A proxy for Wayland clients  https://gitlab.freedesktop.org/mstoeckl/waypipe 
  wcalc  2.5-6  Capable calculator  https://w-calc.sourceforge.net 
- wcslib  8.9  a C library that implements the 'World Coordinate System' (WCS) standard in FITS  https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/ 
- wcslib-static  8.9  Static libraries for wcslib  https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/ 
+ wcslib  8.10  a C library that implements the 'World Coordinate System' (WCS) standard in FITS  https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/ 
+ wcslib-static  8.10  Static libraries for wcslib  https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/ 
  wdiff  1.2.3  Display word differences between text files  https://www.gnu.org/software/wdiff/ 
  webp-pixbuf-loader  0.2.7-1  WebM GDK Pixbuf Loader library  https://github.com/aruiz/webp-pixbuf-loader 
  websocat  1.14.1  Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions  https://github.com/vi/websocat 

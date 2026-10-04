@@ -1603,7 +1603,7 @@
   },
   {
     "Package": "clpeak",
-    "Version": "3.0.0",
+    "Version": "3.0.1",
     "Description": "A tool which profiles OpenCL devices to find their peak capacities",
     "Homepage": "https://github.com/krrishnarraj/clpeak"
   },
@@ -1669,7 +1669,7 @@
   },
   {
     "Package": "codon",
-    "Version": "0.20.2",
+    "Version": "0.20.2-1",
     "Description": "A high-performance, zero-overhead, extensible Python compiler using LLVM",
     "Homepage": "https://github.com/exaloop/codon"
   },
@@ -2137,7 +2137,7 @@
   },
   {
     "Package": "diff-so-fancy",
-    "Version": "1.4.14",
+    "Version": "1.4.14-1",
     "Description": "Good-lookin diffs. Actually... nah... The best-lookin diffs",
     "Homepage": "https://github.com/so-fancy/diff-so-fancy"
   },
@@ -4369,7 +4369,7 @@
   },
   {
     "Package": "groff",
-    "Version": "1.24.1",
+    "Version": "1.24.2",
     "Description": "typesetting system that reads plain text mixed with formatting commands and produces formatted output",
     "Homepage": "https://www.gnu.org/software/groff/"
   },
@@ -5293,7 +5293,7 @@
   },
   {
     "Package": "jq-lsp",
-    "Version": "0.1.18",
+    "Version": "0.1.19",
     "Description": "jq language server",
     "Homepage": "https://github.com/wader/jq-lsp"
   },
@@ -5425,7 +5425,7 @@
   },
   {
     "Package": "keychain",
-    "Version": "3.0.6",
+    "Version": "3.0.7",
     "Description": "Keychain manager for ssh-agent and gpg-agent",
     "Homepage": "https://kernel-seeds.org/projects/keychain/"
   },
@@ -7711,13 +7711,13 @@
   },
   {
     "Package": "libmd",
-    "Version": "1.2.0",
+    "Version": "1.3.0",
     "Description": "Message Digest functions from BSD systems",
     "Homepage": "https://www.hadrons.org/software/libmd/"
   },
   {
     "Package": "libmd-static",
-    "Version": "1.2.0",
+    "Version": "1.3.0",
     "Description": "Static libraries for libmd",
     "Homepage": "https://www.hadrons.org/software/libmd/"
   },
@@ -8893,13 +8893,13 @@
   },
   {
     "Package": "libseccomp",
-    "Version": "2.6.0",
+    "Version": "2.6.1",
     "Description": "Enhanced seccomp library",
     "Homepage": "https://github.com/seccomp/libseccomp"
   },
   {
     "Package": "libseccomp-static",
-    "Version": "2.6.0",
+    "Version": "2.6.1",
     "Description": "Static libraries for libseccomp",
     "Homepage": "https://github.com/seccomp/libseccomp"
   },
@@ -11743,7 +11743,7 @@
   },
   {
     "Package": "nchat",
-    "Version": "5.18.20-1",
+    "Version": "5.19.18",
     "Description": "TUI for Telegram and WhatsApp",
     "Homepage": "https://github.com/d99kris/nchat"
   },
@@ -11863,7 +11863,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1793+g1dc9728dbd-0",
+    "Version": "0.13.0~dev-1804+gfb1f321b0e-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -12703,7 +12703,7 @@
   },
   {
     "Package": "pandoc",
-    "Version": "3.11",
+    "Version": "3.12",
     "Description": "Universal markup converter",
     "Homepage": "https://pandoc.org/"
   },
@@ -15325,7 +15325,7 @@
   },
   {
     "Package": "spirv-llvm-translator",
-    "Version": "21.1.10",
+    "Version": "21.1.12",
     "Description": "SPIR-V LLVM Translator",
     "Homepage": "https://github.com/KhronosGroup/SPIRV-LLVM-Translator"
   },
@@ -17311,13 +17311,13 @@
   },
   {
     "Package": "wcslib",
-    "Version": "8.9",
+    "Version": "8.10",
     "Description": "a C library that implements the World Coordinate System (WCS) standard in FITS",
     "Homepage": "https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/"
   },
   {
     "Package": "wcslib-static",
-    "Version": "8.9",
+    "Version": "8.10",
     "Description": "Static libraries for wcslib",
     "Homepage": "https://www.atnf.csiro.au/people/Mark.Calabretta/WCS/"
   },
