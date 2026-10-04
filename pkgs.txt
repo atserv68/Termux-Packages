@@ -2019,7 +2019,7 @@
  nss-utils  3.130  Tools for NSS  https://firefox-source-docs.mozilla.org/security/nss/ 
  nudoku  8.0.1  ncurses based sudoku game  http://jubalh.github.io/nudoku/ 
  numbat  1.24.0  A statically typed programming language for scientific computations with first class support for physical dimensions and units  https://numbat.dev/ 
- nushell  0.116.0  A new type of shell operating on structured data  https://www.nushell.sh 
+ nushell  0.116.1  A new type of shell operating on structured data  https://www.nushell.sh 
  nyancat  1.5.2-1  Nyancat in your terminal, rendered through ANSI escape sequences.  http://nyancat.dakko.us 
  nzbget  26.3  The most efficient usenet downloader  https://nzbget.com/ 
  oathtool  2.6.14  One-time password components  http://www.nongnu.org/oath-toolkit/ 
@@ -2147,7 +2147,7 @@
  pcregrep  8.45-2  A grep with Perl-compatible regular expressions  https://www.pcre.org 
  pcscd  2.5.2  Middleware to access a smart card using SCard API (PC/SC). (daemon side)  https://pcsclite.apdu.fr/ 
  pdf2svg  0.2.4-2  A PDF to SVG converter  http://www.cityinthesky.co.uk/opensource/pdf2svg/ 
- pdfcpu  0.16.0  A PDF processor written in Go  https://pdfcpu.io 
+ pdfcpu  0.16.1  A PDF processor written in Go  https://pdfcpu.io 
  pdfgrep  2.2.0-5  Command line utility to search text in PDF files  https://pdfgrep.org/ 
  pdftk  3.3.3-3  A simple tool for doing everyday things with PDF documents  https://gitlab.com/pdftk-java/pdftk 
  peaclock  0.4.3-9  A responsive and customizable clock, timer, and stopwatch for the terminal.  https://github.com/octobanana/peaclock 
@@ -2289,7 +2289,7 @@
  python-pipcl  12  Python packaging operations for use by python-mupdf and python-pymupdf  https://github.com/ArtifexSoftware/pipcl 
  python-psutil  7.2.2-2  Cross-platform process and system utilities module for Python  https://github.com/giampaolo/psutil 
  python-pyarrow  25.0.1  Python bindings for Apache Arrow  https://github.com/apache/arrow 
- python-pycryptodomex  3.23.0-4  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
+ python-pycryptodomex  3.24.0  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
  python-pymupdf  1.28.2  Python bindings for MuPDF's rendering library  https://github.com/pymupdf/PyMuPDF 
  python-pynacl  1.6.2  Python binding to the Networking and Cryptography (NaCl) library  https://github.com/pyca/pynacl 
  python-pynvim  0.6.0-3  Python client for Neovim  https://github.com/neovim/pynvim 

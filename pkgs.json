@@ -12127,7 +12127,7 @@
   },
   {
     "Package": "nushell",
-    "Version": "0.116.0",
+    "Version": "0.116.1",
     "Description": "A new type of shell operating on structured data",
     "Homepage": "https://www.nushell.sh"
   },
@@ -12895,7 +12895,7 @@
   },
   {
     "Package": "pdfcpu",
-    "Version": "0.16.0",
+    "Version": "0.16.1",
     "Description": "A PDF processor written in Go",
     "Homepage": "https://pdfcpu.io"
   },
@@ -13747,7 +13747,7 @@
   },
   {
     "Package": "python-pycryptodomex",
-    "Version": "3.23.0-4",
+    "Version": "3.24.0",
     "Description": "A self-contained Python package of low-level cryptographic primitives",
     "Homepage": "https://www.pycryptodome.org/"
   },

@@ -8083,7 +8083,7 @@
   Description: A statically typed programming language for scientific computations with first class support for physical dimensions and units
   Homepage: https://numbat.dev/
 - Package: nushell
-  Version: 0.116.0
+  Version: 0.116.1
   Description: A new type of shell operating on structured data
   Homepage: https://www.nushell.sh
 - Package: nyancat
@@ -8595,7 +8595,7 @@
   Description: A PDF to SVG converter
   Homepage: http://www.cityinthesky.co.uk/opensource/pdf2svg/
 - Package: pdfcpu
-  Version: 0.16.0
+  Version: 0.16.1
   Description: A PDF processor written in Go
   Homepage: https://pdfcpu.io
 - Package: pdfgrep
@@ -9163,7 +9163,7 @@
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
-  Version: 3.23.0-4
+  Version: 3.24.0
   Description: A self-contained Python package of low-level cryptographic primitives
   Homepage: https://www.pycryptodome.org/
 - Package: python-pymupdf
