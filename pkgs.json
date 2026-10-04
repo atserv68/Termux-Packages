@@ -2017,7 +2017,7 @@
   },
   {
     "Package": "dash",
-    "Version": "0.5.12-2",
+    "Version": "0.5.13.5",
     "Description": "Small POSIX-compliant implementation of /bin/sh",
     "Homepage": "http://gondor.apana.org.au/~herbert/dash/"
   },
@@ -3775,7 +3775,7 @@
   },
   {
     "Package": "git-delta",
-    "Version": "0.19.2",
+    "Version": "0.20.0",
     "Description": "A syntax-highlighter for git and diff output",
     "Homepage": "https://dandavison.github.io/delta/"
   },
@@ -4795,7 +4795,7 @@
   },
   {
     "Package": "hunspell",
-    "Version": "1.7.4",
+    "Version": "1.7.5",
     "Description": "Spell checker",
     "Homepage": "https://hunspell.github.io"
   },
@@ -4831,7 +4831,7 @@
   },
   {
     "Package": "hunspell-static",
-    "Version": "1.7.4",
+    "Version": "1.7.5",
     "Description": "Static libraries for hunspell",
     "Homepage": "https://hunspell.github.io"
   },
@@ -11293,7 +11293,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.10.1",
+    "Version": "2026.10.2",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -12253,13 +12253,13 @@
   },
   {
     "Package": "ollama",
-    "Version": "0.31.1",
+    "Version": "0.35.1",
     "Description": "Get up and running with large language models",
     "Homepage": "https://ollama.com/"
   },
   {
     "Package": "ollama-backend-vulkan",
-    "Version": "0.31.1",
+    "Version": "0.35.1",
     "Description": "Vulkan Backend for Ollama",
     "Homepage": "https://ollama.com/"
   },
@@ -13603,7 +13603,7 @@
   },
   {
     "Package": "python-cmake",
-    "Version": "4.4.3",
+    "Version": "4.4.4",
     "Description": "Python wrapper for CMake",
     "Homepage": "https://cmake-python-distributions.readthedocs.io/"
   },
@@ -15049,7 +15049,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "5.0.1",
+    "Version": "5.0.2",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -15703,7 +15703,7 @@
   },
   {
     "Package": "swi-prolog",
-    "Version": "10.1.16",
+    "Version": "10.1.17",
     "Description": "Most popular and complete prolog implementation",
     "Homepage": "https://swi-prolog.org/"
   },
