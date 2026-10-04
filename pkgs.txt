@@ -285,7 +285,7 @@
  colm  0.14.7-2  COmputer Language Machinery  https://www.colm.net/open-source/colm/ 
  colm-static  0.14.7-2  Static libraries for colm  https://www.colm.net/open-source/colm/ 
  colordiff  1.0.22  Tool to colorize 'diff' output  https://www.colordiff.org/ 
- command-not-found  3.5.0-13  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
+ command-not-found  3.5.0-14  Suggest installation of packages in interactive shell sessions  https://github.com/termux/command-not-found 
  composer  2.10.3  Dependency Manager for PHP  https://getcomposer.org/ 
  console-bridge  1.0.2-1  A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages  https://github.com/ros/console_bridge 
  convertlit  1.8-2  An extractor/converter for .LIT eBooks  http://www.convertlit.com/ 
@@ -354,14 +354,14 @@
  dialog  1.3-20260721-0  Application used in shell scripts which displays text user interface widgets  https://invisible-island.net/dialog/ 
  dialog-static  1.3-20260721-0  Static libraries for dialog  https://invisible-island.net/dialog/ 
  dictd  1.13.3-2  Online dictionary client and server  https://sourceforge.net/projects/dict/ 
- diff-so-fancy  1.4.12  Good-lookin' diffs. Actually... nah... The best-lookin' diffs  https://github.com/so-fancy/diff-so-fancy 
+ diff-so-fancy  1.4.14  Good-lookin' diffs. Actually... nah... The best-lookin' diffs  https://github.com/so-fancy/diff-so-fancy 
  diffstat  1.69  Displays a histogram of changes to a file  https://invisible-island.net/diffstat/diffstat.html 
  difftastic  0.71.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
  diffutils  3.12-2  Programs (cmp, diff, diff3 and sdiff) related to finding differences between files  https://www.gnu.org/software/diffutils/ 
  dirb  2.22-5  Web Directory Fuzzer  https://dirb.sourceforge.net/ 
  direnv  2.37.1-1  Environment switcher for shell  https://github.com/direnv/direnv 
  direvent  5.5  Monitor of events in file system directories  https://www.gnu.org.ua/software/direvent/ 
- discordo  2026.10.02+g1e42e778  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayn2op/discordo 
+ discordo  2026.10.03+gf7180f87  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayn2op/discordo 
  discount  3.0.2.0  Markdown implementation written in C  https://www.pell.portland.or.us/~orc/Code/discount/ 
  diskus  0.9.0  A minimal, fast alternative to 'du -sh'  https://github.com/sharkdp/diskus 
  distant  1:0.20.0-3  Library and tooling that supports remote filesystem and process  https://github.com/chipsenkbeil/distant 
@@ -1680,8 +1680,8 @@
  libxml2-python  2.15.4-1  Python bindings for libxml2  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
  libxml2-utils  2.15.4-1  XML utilities  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
  libxmlb  0.3.29  Library to help create and query binary XML blobs  https://github.com/hughsie/libxmlb 
- libxmlrpc  1.64.03-1  XML-RPC for C and C++  https://xmlrpc-c.sourceforge.io/ 
- libxmlrpc-static  1.64.03-1  Static libraries for libxmlrpc  https://xmlrpc-c.sourceforge.io/ 
+ libxmlrpc  1.64.04  XML-RPC for C and C++  https://xmlrpc-c.sourceforge.io/ 
+ libxmlrpc-static  1.64.04  Static libraries for libxmlrpc  https://xmlrpc-c.sourceforge.io/ 
  libxmp  4.7.3  Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)  https://github.com/libxmp/libxmp 
  libxmp-static  4.7.3  Static libraries for libxmp  https://github.com/libxmp/libxmp 
  libxrandr  1.5.5  X11 RandR extension library  https://xorg.freedesktop.org/ 
@@ -1797,7 +1797,7 @@
  mailpit  1.31.4  An email and SMTP testing tool with API for developers  https://mailpit.axllent.org 
  mailsync  5.2.7-2  A way of synchronizing a collection of mailboxes  https://mailsync.sourceforge.net/ 
  mailutils  3.21  Mailutils is a swiss army knife of electronic mail handling.   https://mailutils.org/ 
- maintainerr  3.30.0  An automation rule engine for your media server  https://github.com/maintainerr/Maintainerr 
+ maintainerr  3.30.1  An automation rule engine for your media server  https://github.com/maintainerr/Maintainerr 
  make  4.4.1-1  Tool to control the generation of non-source files from source files  https://www.gnu.org/software/make/ 
  make-guile  4.4.1-2  Tool to control the generation of non-source files from source files  https://www.gnu.org/software/make/ 
  mandoc  1.14.6-8  Man page viewer from the mandoc toolset  https://mdocml.bsd.lv/ 
@@ -1936,7 +1936,7 @@
  mupdf-tools  1.28.2-1  Lightweight PDF and XPS viewer (utilities)  https://mupdf.com/ 
  music-file-organizer  1.0.4-10  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
  mutt  2.4.2  Mail client with patches from neomutt  http://www.mutt.org/ 
- mycli  2.28.0  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
+ mycli  2.28.1  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
  mympd  26.0.0  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
  mypaint-brushes  2.0.2  MyPaint brushes  https://github.com/mypaint/mypaint-brushes 
@@ -2198,7 +2198,7 @@
  plzip  1.13  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-2  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-2  PNG image optimising utility  https://pngquant.org 
- pnpm  12.9.0  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
+ pnpm  12.9.1  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
  pocketbase  0.40.4  An open source Go backend  https://github.com/pocketbase/pocketbase 
  podofo  1.1.2  A C++ library to work with the PDF file format  https://github.com/podofo/podofo 
  poke  5.0  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
@@ -2935,7 +2935,7 @@
  xmlto  0.0.29-2  Convert xml to many other formats  https://pagure.io/xmlto/ 
  xmppc  0.1.2-4  Command Line Interface Tool for XMPP  https://codeberg.org/Anoxinon_e.V./xmppc 
  xorg-util-macros  1.20.2  X.Org Autotools macros  https://xorg.freedesktop.org/ 
- xorgproto  2025.1  X.Org X11 Protocol headers  https://xorg.freedesktop.org/ 
+ xorgproto  2026.1  X.Org X11 Protocol headers  https://xorg.freedesktop.org/ 
  xorriso  1:1.5.8.pl02  Tool for creating ISO files  https://www.gnu.org/software/xorriso 
  xsimd  14.3.0-1  C++ wrappers for SIMD intrinsics  https://github.com/xtensor-stack/xsimd 
  xsltproc  1.1.45-1  XSLT command line processor  http://xmlsoft.org/libxslt/ 
