@@ -9787,13 +9787,13 @@
   },
   {
     "Package": "libwayland",
-    "Version": "1.25.0-1",
+    "Version": "1.26.0",
     "Description": "Wayland protocol library",
     "Homepage": "https://wayland.freedesktop.org/"
   },
   {
     "Package": "libwayland-cross-scanner",
-    "Version": "1.25.0-1",
+    "Version": "1.26.0",
     "Description": "wayland-scanner for host (NOT for Termux)",
     "Homepage": "https://wayland.freedesktop.org/"
   },
@@ -11293,7 +11293,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.10.0",
+    "Version": "2026.10.1",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -13417,7 +13417,7 @@
   },
   {
     "Package": "proton-pass-cli",
-    "Version": "2.4.1",
+    "Version": "2.4.2",
     "Description": "Proton Pass Command Line Interface (CLI)",
     "Homepage": "https://protonpass.github.io/pass-cli/"
   },
@@ -14623,7 +14623,7 @@
   },
   {
     "Package": "rust",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Systems programming language focused on safety, speed and concurrency",
     "Homepage": "https://www.rust-lang.org/"
   },
@@ -14641,79 +14641,79 @@
   },
   {
     "Package": "rust-docs",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Rust documentation",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-src",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Rust source code files",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-aarch64-linux-android",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Component files for target aarch64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-armv7-linux-androideabi",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Component files for target armv7-linux-androideabi",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-i686-linux-android",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Component files for target i686-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-unknown-unknown",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Component files for target wasm32-unknown-unknown",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip1",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Component files for target wasm32-wasip1",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip2",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Component files for target wasm32-wasip2",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32-wasip3",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Component files for target wasm32-wasip3",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-wasm32v1-none",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Component files for target wasm32v1-none",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rust-std-x86-64-linux-android",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Component files for target x86_64-linux-android",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-dev",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Rust compiler development libs",
     "Homepage": "https://www.rust-lang.org/"
   },
   {
     "Package": "rustc-src",
-    "Version": "1.98.1-1",
+    "Version": "1.99.0",
     "Description": "Rust compiler source code files",
     "Homepage": "https://www.rust-lang.org/"
   },

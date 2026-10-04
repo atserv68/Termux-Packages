@@ -1629,8 +1629,8 @@
  libvxl  3.5.0-5  A multi-platform collection of C++ software libraries for Computer Vision and Image Understanding  https://vxl.github.io 
  libwavpack  5.9.0  A completely open audio compression format providing lossless, high-quality lossy, and a unique hybrid compression mode  https://www.wavpack.com/ 
  libwavpack-static  5.9.0  Static libraries for libwavpack  https://www.wavpack.com/ 
- libwayland  1.25.0-1  Wayland protocol library  https://wayland.freedesktop.org/ 
- libwayland-cross-scanner  1.25.0-1  wayland-scanner for host (NOT for Termux)  https://wayland.freedesktop.org/ 
+ libwayland  1.26.0  Wayland protocol library  https://wayland.freedesktop.org/ 
+ libwayland-cross-scanner  1.26.0  wayland-scanner for host (NOT for Termux)  https://wayland.freedesktop.org/ 
  libwayland-protocols  1.49  Wayland protocols library  https://wayland.freedesktop.org/ 
  libwebp  1.6.0-rc1-0  Library to encode and decode images in WebP format  https://github.com/webmproject/libwebp 
  libwebrtc-audio-processing  1.3-5  A library containing the AudioProcessing module from the WebRTC project  https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ 
@@ -1880,7 +1880,7 @@
  miniz  3.1.2  Single C source file zlib-replacement library  https://github.com/richgel999/miniz 
  minizinc  2.10.1  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.10.1  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
- mise  2026.10.0  dev tools, env vars, task runner  https://mise.jdx.dev/ 
+ mise  2026.10.1  dev tools, env vars, task runner  https://mise.jdx.dev/ 
  mkbootimg  2022.11.09-1  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkcert  1.4.4  A simple zero-config tool to make locally trusted development certificates  https://github.com/FiloSottile/mkcert 
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
@@ -2234,7 +2234,7 @@
  protobuf  2:35.1  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
  proton-bridge  3.27.0  ProtonMail Bridge application  https://github.com/ProtonMail/proton-bridge 
  proton-drive-cli  0.8.0  Official command-line client for Proton Drive  https://github.com/ProtonDriveApps/sdk 
- proton-pass-cli  2.4.1  Proton Pass Command Line Interface (CLI)  https://protonpass.github.io/pass-cli/ 
+ proton-pass-cli  2.4.2  Proton Pass Command Line Interface (CLI)  https://protonpass.github.io/pass-cli/ 
  prover9  2009-11A-2  An automated theorem prover for first-order and equational logic  https://www.cs.unm.edu/~mccune/prover9/ 
  prowlarr  2.6.5.5623  An indexer manager/proxy built on the popular arr stack (server)  https://prowlarr.com 
  proxychains-ng  4.17-1  A hook preloader that allows to redirect TCP traffic of existing dynamically linked programs through one or more SOCKS or HTTP proxies  https://github.com/rofl0r/proxychains-ng 
@@ -2435,22 +2435,22 @@
  runit  2.3.1  Tools to provide service supervision and to manage services  http://smarden.org/runit 
  runit-static  2.3.1  Static libraries for runit  http://smarden.org/runit 
  rush  0.11.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
- rust  1.98.1-1  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
+ rust  1.99.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
  rust-analyzer  20260928  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.73.2  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
- rust-docs  1.98.1-1  Rust documentation  https://www.rust-lang.org/ 
- rust-src  1.98.1-1  Rust source code files  https://www.rust-lang.org/ 
- rust-std-aarch64-linux-android  1.98.1-1  Component files for target aarch64-linux-android  https://www.rust-lang.org/ 
- rust-std-armv7-linux-androideabi  1.98.1-1  Component files for target armv7-linux-androideabi  https://www.rust-lang.org/ 
- rust-std-i686-linux-android  1.98.1-1  Component files for target i686-linux-android  https://www.rust-lang.org/ 
- rust-std-wasm32-unknown-unknown  1.98.1-1  Component files for target wasm32-unknown-unknown  https://www.rust-lang.org/ 
- rust-std-wasm32-wasip1  1.98.1-1  Component files for target wasm32-wasip1  https://www.rust-lang.org/ 
- rust-std-wasm32-wasip2  1.98.1-1  Component files for target wasm32-wasip2  https://www.rust-lang.org/ 
- rust-std-wasm32-wasip3  1.98.1-1  Component files for target wasm32-wasip3  https://www.rust-lang.org/ 
- rust-std-wasm32v1-none  1.98.1-1  Component files for target wasm32v1-none  https://www.rust-lang.org/ 
- rust-std-x86-64-linux-android  1.98.1-1  Component files for target x86_64-linux-android  https://www.rust-lang.org/ 
- rustc-dev  1.98.1-1  Rust compiler development libs  https://www.rust-lang.org/ 
- rustc-src  1.98.1-1  Rust compiler source code files  https://www.rust-lang.org/ 
+ rust-docs  1.99.0  Rust documentation  https://www.rust-lang.org/ 
+ rust-src  1.99.0  Rust source code files  https://www.rust-lang.org/ 
+ rust-std-aarch64-linux-android  1.99.0  Component files for target aarch64-linux-android  https://www.rust-lang.org/ 
+ rust-std-armv7-linux-androideabi  1.99.0  Component files for target armv7-linux-androideabi  https://www.rust-lang.org/ 
+ rust-std-i686-linux-android  1.99.0  Component files for target i686-linux-android  https://www.rust-lang.org/ 
+ rust-std-wasm32-unknown-unknown  1.99.0  Component files for target wasm32-unknown-unknown  https://www.rust-lang.org/ 
+ rust-std-wasm32-wasip1  1.99.0  Component files for target wasm32-wasip1  https://www.rust-lang.org/ 
+ rust-std-wasm32-wasip2  1.99.0  Component files for target wasm32-wasip2  https://www.rust-lang.org/ 
+ rust-std-wasm32-wasip3  1.99.0  Component files for target wasm32-wasip3  https://www.rust-lang.org/ 
+ rust-std-wasm32v1-none  1.99.0  Component files for target wasm32v1-none  https://www.rust-lang.org/ 
+ rust-std-x86-64-linux-android  1.99.0  Component files for target x86_64-linux-android  https://www.rust-lang.org/ 
+ rustc-dev  1.99.0  Rust compiler development libs  https://www.rust-lang.org/ 
+ rustc-src  1.99.0  Rust compiler source code files  https://www.rust-lang.org/ 
  rustscan  2.4.1-1  The modern,fast,smart and effective port scanner  https://rustscan.github.io/RustScan 
  rxfetch  2023.01.07  A custom system info fetching tool  https://github.com/Mangeshrex/rxfetch 
  sabnzbd  5.1.3  Fully automated Usenet Binary Downloader  https://sabnzbd.org/ 
