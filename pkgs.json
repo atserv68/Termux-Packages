@@ -3775,7 +3775,7 @@
   },
   {
     "Package": "git-delta",
-    "Version": "0.20.0",
+    "Version": "0.20.1",
     "Description": "A syntax-highlighter for git and diff output",
     "Homepage": "https://dandavison.github.io/delta/"
   },
@@ -5011,13 +5011,13 @@
   },
   {
     "Package": "inotify-tools",
-    "Version": "4.26.262",
+    "Version": "4.26.268",
     "Description": "Programs providing a simple interface to inotify",
     "Homepage": "https://github.com/rvoicilas/inotify-tools/wiki"
   },
   {
     "Package": "inotify-tools-static",
-    "Version": "4.26.262",
+    "Version": "4.26.268",
     "Description": "Static libraries for inotify-tools",
     "Homepage": "https://github.com/rvoicilas/inotify-tools/wiki"
   },
@@ -6265,7 +6265,7 @@
   },
   {
     "Package": "libcommons-lang3-java",
-    "Version": "3.20.0",
+    "Version": "3.21.0",
     "Description": "A host of helper utilities for the java.lang API",
     "Homepage": "https://commons.apache.org/proper/commons-lang/"
   },
@@ -11113,7 +11113,7 @@
   },
   {
     "Package": "megacmd",
-    "Version": "2.6.0",
+    "Version": "2.6.0-1",
     "Description": "Provides non UI access to MEGA services",
     "Homepage": "https://mega.io/"
   },
@@ -13513,7 +13513,7 @@
   },
   {
     "Package": "pycairo",
-    "Version": "1.29.1",
+    "Version": "1.29.2",
     "Description": "Python bindings for the cairo graphics library",
     "Homepage": "https://www.cairographics.org/pycairo/"
   },
@@ -14407,7 +14407,7 @@
   },
   {
     "Package": "rip2",
-    "Version": "0.9.6",
+    "Version": "0.9.7",
     "Description": "A safe and ergonomic alternative to rm",
     "Homepage": "https://github.com/MilesCranmer/rip2"
   },
@@ -16933,7 +16933,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.21",
+    "Version": "0.12.23",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
@@ -17005,7 +17005,7 @@
   },
   {
     "Package": "vapoursynth",
-    "Version": "80",
+    "Version": "81",
     "Description": "Video processing framework with simplicity in mind",
     "Homepage": "https://www.vapoursynth.com/"
   },
