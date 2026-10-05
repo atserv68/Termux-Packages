@@ -475,7 +475,7 @@
 | **eja** | 18.4.19-1 | eja micro web server | https://github.com/eja/eja |
 | **electric-fence** | 2.2.7-1 | Electric Fence (eFence) malloc memory debugger | https://elinux.org/Electric_Fence |
 | **electric-fence-static** | 2.2.7-1 | Static libraries for electric-fence | https://elinux.org/Electric_Fence |
-| **electrum** | 4.7.1-1 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
+| **electrum** | 4.8.2 | Electrum is a lightweight Bitcoin wallet | https://electrum.org |
 | **elfutils** | 0.196 | A collection of utilities to read, create and modify ELF binary files | https://sourceware.org/elfutils/ |
 | **elinks** | 0.20.0 | Full-Featured Text WWW Browser | https://github.com/rkd77/elinks |
 | **elixir** | 1.20.4 | Elixir is a dynamic, functional language designed for building scalable and maintainable applications | https://elixir-lang.org/ |
@@ -606,7 +606,7 @@
 | **gdbm-static** | 1.26-1 | Static libraries for gdbm | https://www.gnu.org.ua/software/gdbm/ |
 | **gdbserver** | 18.1-1 | The gdbserver program | https://www.gnu.org/software/gdb/ |
 | **gdk-pixbuf** | 2.44.8 | Library for image loading and manipulation | https://wiki.gnome.org/Projects/GdkPixbuf |
-| **gdu** | 5.37.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
+| **gdu** | 5.38.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.37.1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.4.0 | Generic Constraint Development Environment | https://www.gecode.dev/ |
 | **gegl** | 0.4.72 | Data flow based image processing framework | https://gegl.org/ |
@@ -868,7 +868,7 @@
 | **jack** | 0.0.1 | A metapackage that provides JACK Audio Connection Kit | https://github.com/termux/termux-packages |
 | **jack-example-tools** | 4-1 | Official JACK example clients and tools | https://jackaudio.org/ |
 | **jack2** | 1.9.22-2 | The JACK low-latency audio server | https://jackaudio.org/ |
-| **jackett** | 0.24.2685 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
+| **jackett** | 0.24.2793 | API Support for your favorite torrent trackers | https://github.com/jackett/jackett |
 | **jadx** | 1.5.6 | Dex to Java decompiler | https://github.com/skylot/jadx |
 | **jadx-x** | 1.5.6 | Dex to Java decompiler GUI | https://github.com/skylot/jadx |
 | **janet** | 1.42.1 | Janet is a dialect of Lisp intended for embedding into programs and such | https://janet-lang.org |
@@ -1220,8 +1220,8 @@
 | **libimagequant** | 4.4.1 | Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images | https://pngquant.org/lib/ |
 | **libimagequant-static** | 4.4.1 | Static libraries for libimagequant | https://pngquant.org/lib/ |
 | **libimobiledevice** | 1.4.0 | A library to communicate with services on iOS devices using native protocols | https://libimobiledevice.org/ |
-| **libimobiledevice-glue** | 1.3.2-1 | Library with common code used by the libraries and tools around the libimobiledevice project | https://libimobiledevice.org/ |
-| **libimobiledevice-glue-static** | 1.3.2-1 | Static libraries for libimobiledevice-glue | https://libimobiledevice.org/ |
+| **libimobiledevice-glue** | 1.3.3 | Library with common code used by the libraries and tools around the libimobiledevice project | https://libimobiledevice.org/ |
+| **libimobiledevice-glue-static** | 1.3.3 | Static libraries for libimobiledevice-glue | https://libimobiledevice.org/ |
 | **libimobiledevice-static** | 1.4.0 | Static libraries for libimobiledevice | https://libimobiledevice.org/ |
 | **libimtui** | 1.0.5-2 | An immediate mode text-based user interface library | https://github.com/ggerganov/imtui |
 | **libinih** | 62 | A simple .INI file parser written in C | https://github.com/benhoyt/inih |
@@ -1581,9 +1581,9 @@
 | **libtommath** | 1.3.0 | A free open source portable number theoretic multiple-precision integer library | https://www.libtom.net/LibTomMath/ |
 | **libtommath-static** | 1.3.0 | Static libraries for libtommath | https://www.libtom.net/LibTomMath/ |
 | **libtool** | 2.6.2 | Generic library support script hiding the complexity of using shared libraries behind a consistent, portable interface | https://www.gnu.org/software/libtool/ |
-| **libtorrent** | 0.16.24 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent** | 0.16.25 | Libtorrent BitTorrent library | https://github.com/rakshasa/rtorrent/wiki |
 | **libtorrent-rasterbar** | 2.1.2 | A feature complete C++ bittorrent implementation focusing on efficiency and scalability | https://libtorrent.org/ |
-| **libtorrent-static** | 0.16.24 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
+| **libtorrent-static** | 0.16.25 | Static libraries for libtorrent | https://github.com/rakshasa/rtorrent/wiki |
 | **libtpms** | 0.10.2 | Provides software emulation of a Trusted Platform Module (TPM 1.2 and TPM 2.0) | https://github.com/stefanberger/libtpms |
 | **libtpms-static** | 0.10.2 | Static libraries for libtpms | https://github.com/stefanberger/libtpms |
 | **libtranscript** | 0.3.4-1 | A character-set conversion library | https://os.ghalkes.nl/libtranscript.html |
@@ -1816,7 +1816,7 @@
 | **mangal** | 4.0.6-3 | Cli manga downloader | https://github.com/metafates/mangal |
 | **manim** | 0.21.0-1 | A community-maintained Python framework for creating mathematical animations | https://manim.community |
 | **manpages** | 6.19 | Man pages for linux kernel and C library interfaces | https://www.kernel.org/doc/man-pages/ |
-| **mapserver** | 8.2.2-4 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
+| **mapserver** | 8.6.6 | MapServer is CGI-based platform for publishing spatial data and interactive mapping applications to the web | https://mapserver.org/ |
 | **mariadb** | 2:13.0.2 | A drop-in replacement for mysql server | https://mariadb.org |
 | **mariadb-static** | 2:13.0.2 | Static libraries for mariadb | https://mariadb.org |
 | **marisa** | 0.3.1-1 | Matching Algorithm with Recursively Implemented StorAge | https://github.com/s-yata/marisa-trie |
@@ -1965,7 +1965,7 @@
 | **navidrome** | 0.64.2 | Modern Music Server and Streamer compatible with Subsonic/Airsonic | https://www.navidrome.org/ |
 | **ncdc** | 1.25-1 | Modern and lightweight direct connect client with a friendly ncurses interface | https://dev.yorhel.nl/ncdc |
 | **ncdu** | 1.22-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
-| **ncdu2** | 2.9.2-1 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
+| **ncdu2** | 2.9.2-2 | Disk usage analyzer | https://dev.yorhel.nl/ncdu |
 | **ncftp** | 3.3.0-1 | A free set of programs that use the File Transfer Protocol | https://www.ncftp.com/ |
 | **nchat** | 5.19.18 | TUI for Telegram and WhatsApp | https://github.com/d99kris/nchat |
 | **ncmpcpp** | 0.10.1-9 | NCurses Music Player Client (Plus Plus) | https://rybczak.net/ncmpcpp/ |
@@ -1987,7 +1987,7 @@
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
 | **neovim** | 0.12.5-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
-| **neovim-nightly** | 0.13.0~dev-1804+gfb1f321b0e-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
+| **neovim-nightly** | 0.13.0~dev-1808+g561857c4a8-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
 | **net-snmp-static** | 5.9.5.2 | Static libraries for net-snmp | http://www.net-snmp.org/ |
@@ -2118,9 +2118,9 @@
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
-| **oxfmt** | 1.86.0 | Oxc JavaScript formatter | https://oxc.rs/ |
+| **oxfmt** | 1.87.0 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxipng** | 10.2.1 | Multithreaded PNG optimizer written in Rust | https://github.com/oxipng/oxipng |
-| **oxlint** | 1.86.0 | Oxc JavaScript linter | https://oxc.rs/ |
+| **oxlint** | 1.87.0 | Oxc JavaScript linter | https://oxc.rs/ |
 | **p11-kit** | 0.26.5 | Provides a way to load and enumerate PKCS#11 modules | https://p11-glue.github.io/p11-glue/p11-kit.html |
 | **pacman** | 7.1.0-9 | A library-based package manager with dependency support | https://archlinux.org/pacman/ |
 | **pacman4console** | 1.3-6 | A 9 level ncurses pacman game with editor | https://sites.google.com/site/doctormike/pacman.html |
@@ -2316,11 +2316,11 @@
 | **python-tflite-runtime** | 2.21.0 | TensorFlow Lite Python bindings | https://www.tensorflow.org/lite |
 | **python-tkinter** | 3.14.6-1 | Tkinter support for Python 3 | https://python.org/ |
 | **python-tldp** | 0.7.5-8 | Tools for publishing from TLDP sources | https://github.com/tLDP/python-tldp |
-| **python-torch** | 2.14.0 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
-| **python-torch-static** | 2.14.0 | Static libraries for python-torch | https://pytorch.org/ |
-| **python-torchaudio** | 2.11.0-3 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
-| **python-torchcodec** | 0.16.0 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
-| **python-torchvision** | 0.29.1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
+| **python-torch** | 2.14.1 | Tensors and Dynamic neural networks in Python | https://pytorch.org/ |
+| **python-torch-static** | 2.14.1 | Static libraries for python-torch | https://pytorch.org/ |
+| **python-torchaudio** | 2.11.0-4 | Data manipulation and transformation for audio signal processing, powered by PyTorch | https://github.com/pytorch/audio |
+| **python-torchcodec** | 0.17.0 | PyTorch media decoding and encoding | https://github.com/pytorch/torchcodec |
+| **python-torchvision** | 0.29.1-1 | Datasets, Transforms and Models specific to Computer Vision | https://github.com/pytorch/vision |
 | **python-trash-cli** | 0.26.9.29 | Command line trashcan (recycle bin) interface | https://github.com/andreafrancia/trash-cli |
 | **python-xcbgen** | 1.17.0-3 | The xcbgen Python module | https://xcb.freedesktop.org/ |
 | **python-xlib** | 0.33-4 | The Python X Library | https://github.com/python-xlib/python-xlib |
@@ -2434,7 +2434,7 @@
 | **rsync** | 3.5.1 | Fast incremental file transfer utility | https://rsync.samba.org/ |
 | **rtmpdump** | 2.6-1 | Small dumper for media content streamed over the RTMP protocol | https://rtmpdump.mplayerhq.hu/ |
 | **rtmpdump-static** | 2.6-1 | Static libraries for rtmpdump | https://rtmpdump.mplayerhq.hu/ |
-| **rtorrent** | 0.16.24 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
+| **rtorrent** | 0.16.25 | Ncurses BitTorrent client based on libTorrent | https://rakshasa.github.io/rtorrent/ |
 | **rubberband** | 4.0.0-1 | An audio time-stretching and pitch-shifting library and utility program | https://breakfastquay.com/rubberband/ |
 | **rubberband-ladspa** | 4.0.0-1 | LADSPA plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
 | **rubberband-lv2** | 4.0.0-1 | LV2 plugin for Rubber Band | https://breakfastquay.com/rubberband/ |
@@ -2448,7 +2448,7 @@
 | **runit-static** | 2.3.1 | Static libraries for runit | http://smarden.org/runit |
 | **rush** | 0.11.0 | A cross-platform command-line tool for executing jobs in parallel | https://github.com/shenwei356/rush |
 | **rust** | 1.99.0 | Systems programming language focused on safety, speed and concurrency | https://www.rust-lang.org/ |
-| **rust-analyzer** | 20260928 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
+| **rust-analyzer** | 20261005 | A Rust compiler front-end for IDEs | https://rust-analyzer.github.io/ |
 | **rust-bindgen** | 0.73.2 | Automatically generates Rust FFI bindings to C (and some C++) libraries | https://github.com/rust-lang/rust-bindgen |
 | **rust-docs** | 1.99.0 | Rust documentation | https://www.rust-lang.org/ |
 | **rust-src** | 1.99.0 | Rust source code files | https://www.rust-lang.org/ |
@@ -2817,7 +2817,7 @@
 | **unzip** | 6.0-10 | Tools for working with zip files | https://sourceforge.net/projects/infozip/ |
 | **up** | 0.4-4 | Helps interactively and incrementally explore textual data in Linux | https://github.com/akavel/up |
 | **update-info-dir** | 7.3 | Update or create index file from all installed info files in directory | https://www.gnu.org/software/texinfo/ |
-| **upower** | 1.91.4 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
+| **upower** | 1.91.5 | Power management support for DeviceKit | https://upower.freedesktop.org/ |
 | **upx** | 5.2.1 | the Ultimate Packer for eXecutables | https://upx.github.io/ |
 | **urdfdom** | 6.0.1 | Unified Robot Description Format (URDF) parser library and tools | https://github.com/ros/urdfdom |
 | **urdfdom-headers** | 3.0.1 | Headers for URDF parsers | https://github.com/ros/urdfdom_headers |
@@ -2888,7 +2888,7 @@
 | **wallust** | 3.5.2 | Generate colors from an image | https://explosion-mental.codeberg.page/wallust |
 | **wasi-libc** | 34+really34 | Libc for WebAssembly programs built on top of WASI system calls | https://wasi.dev/ |
 | **wasm-component-ld** | 0.5.30 | Command line linker for creating WebAssembly components | https://github.com/bytecodealliance/wasm-component-ld |
-| **wasmedge** | 0.17.2 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
+| **wasmedge** | 0.18.0 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.5.0 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
 | **wasmtime** | 49.0.2 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
 | **watchexec** | 2.7.4 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
