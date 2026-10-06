@@ -2329,7 +2329,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.177.0",
+    "Version": "1.178.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -3271,7 +3271,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.111",
+    "Version": "0.4.112",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3865,7 +3865,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.18.1",
+    "Version": "1.19.0",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -4201,9 +4201,9 @@
   },
   {
     "Package": "gost",
-    "Version": "2.12.0",
+    "Version": "3.3.0",
     "Description": "GO Simple Tunnel - a simple tunnel written in golang",
-    "Homepage": "https://github.com/ginuerzh/gost"
+    "Homepage": "https://github.com/go-gost/gost"
   },
   {
     "Package": "gotests",
@@ -4537,19 +4537,19 @@
   },
   {
     "Package": "harfbuzz",
-    "Version": "14.5.1",
+    "Version": "14.6.0",
     "Description": "OpenType text shaping engine",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-icu",
-    "Version": "14.5.1",
+    "Version": "14.6.0",
     "Description": "OpenType text shaping engine ICU backend",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
   {
     "Package": "harfbuzz-utils",
-    "Version": "14.5.1",
+    "Version": "14.6.0",
     "Description": "Tools using the harfbuzz library",
     "Homepage": "https://www.freedesktop.org/wiki/Software/HarfBuzz/"
   },
@@ -4861,7 +4861,7 @@
   },
   {
     "Package": "hyperfine",
-    "Version": "1.20.0",
+    "Version": "1.21.0",
     "Description": "A command-line benchmarking tool",
     "Homepage": "https://github.com/sharkdp/hyperfine"
   },
@@ -5521,7 +5521,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.65.1",
+    "Version": "0.66.0",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -6379,7 +6379,7 @@
   },
   {
     "Package": "libdart",
-    "Version": "6.19.4",
+    "Version": "6.19.5",
     "Description": "Dynamic Animation and Robotics Toolkit",
     "Homepage": "https://dartsim.github.io/"
   },
@@ -10699,7 +10699,7 @@
   },
   {
     "Package": "lux-cli",
-    "Version": "0.46.0",
+    "Version": "0.47.0",
     "Description": "A package manager for Lua, similar to luarocks",
     "Homepage": "https://lux.lumen-labs.org"
   },
@@ -14125,7 +14125,7 @@
   },
   {
     "Package": "radare2",
-    "Version": "6.2.2-1",
+    "Version": "6.2.4",
     "Description": "UNIX-like reverse engineering framework and command-line toolset",
     "Homepage": "https://www.radare.org/"
   },
@@ -14335,7 +14335,7 @@
   },
   {
     "Package": "remind",
-    "Version": "1:06.03.05",
+    "Version": "1:06.03.06",
     "Description": "Sophisticated calendar and alarm program",
     "Homepage": "https://dianne.skoll.ca/projects/remind/"
   },
@@ -17149,7 +17149,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.10.01",
+    "Version": "2026.10.02",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -17239,7 +17239,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.26.14",
+    "Version": "2.26.15",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
