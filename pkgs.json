@@ -25,7 +25,7 @@
   },
   {
     "Package": "7zip",
-    "Version": "26.03",
+    "Version": "26.04",
     "Description": "7-Zip file archiver with a high compression ratio",
     "Homepage": "https://www.7-zip.org"
   },
@@ -1615,7 +1615,7 @@
   },
   {
     "Package": "clvk",
-    "Version": "0.0.20260920.101658",
+    "Version": "0.0.20261005.162530",
     "Description": "Experimental implementation of OpenCL on Vulkan",
     "Homepage": "https://github.com/kpet/clvk"
   },
@@ -3859,7 +3859,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.120.0",
+    "Version": "1.121.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -4579,7 +4579,7 @@
   },
   {
     "Package": "hcloud",
-    "Version": "1.70.0",
+    "Version": "1.70.1",
     "Description": "Hetzner Cloud command line client",
     "Homepage": "https://github.com/hetznercloud/cli"
   },
@@ -5401,7 +5401,7 @@
   },
   {
     "Package": "kakoune-lsp",
-    "Version": "21.0.2",
+    "Version": "22.0.0",
     "Description": "Language Server Protocol Client for the Kakoune editor",
     "Homepage": "https://github.com/kakoune-lsp/kakoune-lsp"
   },
@@ -7729,13 +7729,13 @@
   },
   {
     "Package": "libmediainfo",
-    "Version": "26.05",
+    "Version": "26.10",
     "Description": "Library for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
   {
     "Package": "libmediainfo-static",
-    "Version": "26.05",
+    "Version": "26.10",
     "Description": "Static libraries for libmediainfo",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -11101,7 +11101,7 @@
   },
   {
     "Package": "mediainfo",
-    "Version": "26.05",
+    "Version": "26.10",
     "Description": "Command-line utility for reading information from media files",
     "Homepage": "https://mediaarea.net/en/MediaInfo"
   },
@@ -12157,7 +12157,7 @@
   },
   {
     "Package": "oci-cli",
-    "Version": "3.94.1",
+    "Version": "3.94.2",
     "Description": "Command line interface for Oracle Cloud Infrastructure",
     "Homepage": "https://github.com/oracle/oci-cli"
   },
@@ -12565,7 +12565,7 @@
   },
   {
     "Package": "opkssh",
-    "Version": "0.16.0",
+    "Version": "0.17.0",
     "Description": "Enables SSH to be used with OpenID Connect",
     "Homepage": "https://github.com/openpubkey/opkssh"
   },
@@ -13057,7 +13057,7 @@
   },
   {
     "Package": "php-zephir-parser",
-    "Version": "2.8.0",
+    "Version": "2.9.0",
     "Description": "The Zephir Parser delivered as a C extension for the PHP language",
     "Homepage": "https://github.com/phalcon/php-zephir-parser"
   },
@@ -13921,13 +13921,13 @@
   },
   {
     "Package": "qalc",
-    "Version": "5.13.0",
+    "Version": "5.13.1",
     "Description": "Powerful and easy to use command line calculator",
     "Homepage": "https://qalculate.github.io/"
   },
   {
     "Package": "qalc-static",
-    "Version": "5.13.0",
+    "Version": "5.13.1",
     "Description": "Static libraries for qalc",
     "Homepage": "https://qalculate.github.io/"
   },
@@ -14155,7 +14155,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.63.1",
+    "Version": "5.63.3",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -14893,7 +14893,7 @@
   },
   {
     "Package": "sendme",
-    "Version": "0.36.0-1",
+    "Version": "0.36.1",
     "Description": "A tool to send files and directories, based on iroh",
     "Homepage": "https://github.com/n0-computer/sendme"
   },
@@ -15547,7 +15547,7 @@
   },
   {
     "Package": "storj-uplink",
-    "Version": "1.164.1",
+    "Version": "1.164.2",
     "Description": "Storj DCS Uplink CLI",
     "Homepage": "https://www.storj.io/integrations/uplink-cli"
   },
@@ -15775,7 +15775,7 @@
   },
   {
     "Package": "syncthing",
-    "Version": "2.1.5",
+    "Version": "2.1.6",
     "Description": "Decentralized file synchronization",
     "Homepage": "https://syncthing.net/"
   },
