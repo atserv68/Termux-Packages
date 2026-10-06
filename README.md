@@ -331,9 +331,9 @@
 | **ctre** | 3.11.0 | Compile Time Regular Expression in C++ | https://github.com/hanickadot/compile-time-regular-expressions |
 | **ctypes-sh** | 1.3 | A foreign function interface for bash | https://github.com/taviso/ctypes.sh |
 | **cuetools** | 1.4.1-1 | A set of utilities for working with Cue Sheet (cue) and Table of Contents (toc) files | https://github.com/svend/cuetools |
-| **cups** | 2.4.19 | Common UNIX Printing System | https://www.cups.org/ |
+| **cups** | 2.4.20 | Common UNIX Printing System | https://www.cups.org/ |
 | **cups-pdf** | 3.0.3 | CUPS PDF backend | https://www.cups-pdf.de/ |
-| **cups-static** | 2.4.19 | Static libraries for cups | https://www.cups.org/ |
+| **cups-static** | 2.4.20 | Static libraries for cups | https://www.cups.org/ |
 | **curl** | 8.22.0 | Command line tool for transferring data with URL syntax | https://curl.se/ |
 | **curlie** | 1.8.2 | The power of curl, the ease of use of httpie | https://curlie.io/ |
 | **curseofwar** | 1.3.0-5 | Fast-paced action strategy game focusing on high-level strategic planning | http://a-nikolaev.github.io/curseofwar/ |
@@ -483,10 +483,10 @@
 | **elvish** | 0.21.0-1 | A friendly and expressive Unix shell | https://github.com/elves/elvish |
 | **emacs** | 31.1-3 | Extensible, customizable text editor-and more | https://www.gnu.org/software/emacs/ |
 | **emmylua-ls** | 0.25.1 | Emmy Lua Language Server coded in Rust | https://github.com/EmmyLuaLs/emmylua-analyzer-rust |
-| **emscripten** | 6.0.10 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
-| **emscripten-binaryen** | 6.0.10 | Emscripten-compatible Binaryen | https://emscripten.org |
-| **emscripten-llvm** | 6.0.10 | Emscripten-compatible LLVM | https://emscripten.org |
-| **emscripten-tests-third-party** | 6.0.10 | Emscripten third party test suite files | https://emscripten.org |
+| **emscripten** | 6.0.11 | Emscripten: An LLVM-to-WebAssembly Compiler | https://emscripten.org |
+| **emscripten-binaryen** | 6.0.11 | Emscripten-compatible Binaryen | https://emscripten.org |
+| **emscripten-llvm** | 6.0.11 | Emscripten-compatible LLVM | https://emscripten.org |
+| **emscripten-tests-third-party** | 6.0.11 | Emscripten third party test suite files | https://emscripten.org |
 | **enblend** | 4.2.0p20161007-9 | A tool for compositing images using a Burt&Adelson multiresolution spline | https://enblend.sourceforge.net/ |
 | **enchant** | 2.8.21 | Wraps a number of different spelling libraries and programs with a consistent interface | https://rrthomas.github.io/enchant/ |
 | **enchant-static** | 2.8.21 | Static libraries for enchant | https://rrthomas.github.io/enchant/ |
@@ -879,7 +879,7 @@
 | **jcal-static** | 0.5.1-1 | Static libraries for jcal | http://nongnu.org/jcal |
 | **jellyfin-ffmpeg** | 12.1-1 | FFmpeg for Jellyfin with custom extensions and enhancements | https://jellyfin.org |
 | **jellyfin-server** | 12.1-1 | A free media system for organizing and streaming media (server) | https://jellyfin.org |
-| **jfrog-cli** | 2.124.0 | A CLI for JFrog products | https://jfrog.com/getcli |
+| **jfrog-cli** | 2.126.0 | A CLI for JFrog products | https://jfrog.com/getcli |
 | **jftui** | 0.7.6 | jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server. | https://github.com/Aanok/jftui |
 | **jhead** | 3.08-1 | Exif Jpeg header manipulation tool | http://www.sentex.net/~mwandel/jhead/ |
 | **jigdo** | 0.8.2-1 | Distribute large images by sending and receiving the files that make them up | http://atterer.org/jigdo/ |
@@ -1906,7 +1906,7 @@
 | **mono** | 6.14.1-2 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.1-2 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
-| **monolith** | 2.10.1-1 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
+| **monolith** | 2.11.0 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.1.0 | Simple game where you drive a car across the moon's surface | https://www.seehuhn.de/programs/moon-buggy |
 | **moor** | 2.19.2 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.12.28 | Stock market tracker | https://github.com/mop-tracker/mop |
@@ -2000,7 +2000,7 @@
 | **netstandard-targeting-pack-2.1-8.0** | 8.0.31 | NETStandard.Library 2.1 Targeting Pack (.NET 8.0) | https://dotnet.microsoft.com/en-us/ |
 | **netstandard-targeting-pack-2.1-9.0** | 9.0.20 | NETStandard.Library 2.1 Targeting Pack (.NET 9.0) | https://dotnet.microsoft.com/en-us/ |
 | **nettle** | 4.0+really3.10.2 | Low level cryptographic tools | https://www.lysator.liu.se/~nisse/nettle/ |
-| **newsboat** | 2.44 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
+| **newsboat** | 2.45 | RSS/Atom feed reader for the text console | https://newsboat.org/ |
 | **newsraft** | 0.38 | Newsraft is a feed reader with text-based user interface | https://codeberg.org/newsraft/newsraft |
 | **nginx** | 1.31.6 | Lightweight HTTP server | https://www.nginx.org |
 | **ngircd** | 28 | Free, portable and lightweight Internet Relay Chat server | https://ngircd.barton.de/ |
@@ -2043,7 +2043,7 @@
 | **octomap** | 1.10.1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 31.4.1 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 31.5.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oha** | 1.16.0 | HTTP load generator with realtime tui, inspired by rakyll/hey | https://github.com/hatoo/oha |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **oils-for-unix** | 0.38.0-1 | Bash-compatible Unix shell with more consistent syntax and semantics | https://oils.pub/ |
@@ -2353,8 +2353,8 @@
 | **qhull-static** | 8.1-alpha3-2 | Static libraries for qhull | http://www.qhull.org |
 | **qpdf** | 12.4.2 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.1 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
-| **qrupdate-ng** | 2:1.2.0 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
-| **qrupdate-ng-static** | 2:1.2.0 | Static libraries for qrupdate-ng | https://github.com/mpimd-csc/qrupdate-ng |
+| **qrupdate-ng** | 2:1.3.0 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
+| **qrupdate-ng-static** | 2:1.3.0 | Static libraries for qrupdate-ng | https://github.com/mpimd-csc/qrupdate-ng |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs-ng** | 0.17.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
@@ -2366,7 +2366,7 @@
 | **rage** | 0.12.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.63.3 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.63.4 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0-1 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2888,7 +2888,7 @@
 | **wasmedge** | 0.18.0 | A lightweight, high-performance, and extensible WebAssembly runtime | https://wasmedge.org/ |
 | **wasmer** | 7.5.0 | A fast and secure WebAssembly runtime | https://wasmer.io/ |
 | **wasmtime** | 49.0.2 | A standalone runtime for WebAssembly | https://wasmtime.dev/ |
-| **watchexec** | 2.7.4 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
+| **watchexec** | 2.8.0 | Executes commands in response to file modifications | https://github.com/watchexec/watchexec |
 | **wavpack** | 5.9.0 | WavPack command-line programs | https://www.wavpack.com/ |
 | **waypipe** | 0.11.2 | A proxy for Wayland clients | https://gitlab.freedesktop.org/mstoeckl/waypipe |
 | **wcalc** | 2.5-6 | Capable calculator | https://w-calc.sourceforge.net |

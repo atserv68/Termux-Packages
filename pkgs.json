@@ -1927,7 +1927,7 @@
   },
   {
     "Package": "cups",
-    "Version": "2.4.19",
+    "Version": "2.4.20",
     "Description": "Common UNIX Printing System",
     "Homepage": "https://www.cups.org/"
   },
@@ -1939,7 +1939,7 @@
   },
   {
     "Package": "cups-static",
-    "Version": "2.4.19",
+    "Version": "2.4.20",
     "Description": "Static libraries for cups",
     "Homepage": "https://www.cups.org/"
   },
@@ -2839,25 +2839,25 @@
   },
   {
     "Package": "emscripten",
-    "Version": "6.0.10",
+    "Version": "6.0.11",
     "Description": "Emscripten: An LLVM-to-WebAssembly Compiler",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-binaryen",
-    "Version": "6.0.10",
+    "Version": "6.0.11",
     "Description": "Emscripten-compatible Binaryen",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-llvm",
-    "Version": "6.0.10",
+    "Version": "6.0.11",
     "Description": "Emscripten-compatible LLVM",
     "Homepage": "https://emscripten.org"
   },
   {
     "Package": "emscripten-tests-third-party",
-    "Version": "6.0.10",
+    "Version": "6.0.11",
     "Description": "Emscripten third party test suite files",
     "Homepage": "https://emscripten.org"
   },
@@ -5215,7 +5215,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.124.0",
+    "Version": "2.126.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -11377,7 +11377,7 @@
   },
   {
     "Package": "monolith",
-    "Version": "2.10.1-1",
+    "Version": "2.11.0",
     "Description": "CLI tool for saving complete web pages as a single HTML file",
     "Homepage": "https://github.com/Y2Z/monolith"
   },
@@ -11941,7 +11941,7 @@
   },
   {
     "Package": "newsboat",
-    "Version": "2.44",
+    "Version": "2.45",
     "Description": "RSS/Atom feed reader for the text console",
     "Homepage": "https://newsboat.org/"
   },
@@ -12199,7 +12199,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "31.4.1",
+    "Version": "31.5.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -14059,13 +14059,13 @@
   },
   {
     "Package": "qrupdate-ng",
-    "Version": "2:1.2.0",
+    "Version": "2:1.3.0",
     "Description": "A Library for Fast Updating of QR and Cholesky Decompositions.",
     "Homepage": "https://github.com/mpimd-csc/qrupdate-ng"
   },
   {
     "Package": "qrupdate-ng-static",
-    "Version": "2:1.2.0",
+    "Version": "2:1.3.0",
     "Description": "Static libraries for qrupdate-ng",
     "Homepage": "https://github.com/mpimd-csc/qrupdate-ng"
   },
@@ -14137,7 +14137,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.63.3",
+    "Version": "5.63.4",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -17269,7 +17269,7 @@
   },
   {
     "Package": "watchexec",
-    "Version": "2.7.4",
+    "Version": "2.8.0",
     "Description": "Executes commands in response to file modifications",
     "Homepage": "https://github.com/watchexec/watchexec"
   },
