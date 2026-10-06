@@ -479,7 +479,7 @@
   Description: light command line download accelerator
   Homepage: https://github.com/axel-download-accelerator/axel
 - Package: azure-cli
-  Version: 2.90.0-1
+  Version: 2.91.0
   Description: Microsofts command-line tool for managing Azure cloud resources
   Homepage: https://learn.microsoft.com/en-us/cli/azure/
 - Package: azure-dev-cli
@@ -2618,10 +2618,6 @@
   Version: 16.6.0
   Description: OpenGL and OpenGL ES shader front end and validator
   Homepage: https://github.com/KhronosGroup/glslang
-- Package: gluelang
-  Version: 0.2.0-2
-  Description: A programming language that has a strong nature to be a glue of commands
-  Homepage: https://ryuichiueda.github.io/GlueLang/
 - Package: glulxe
   Version: 0.6.1-1
   Description: Interpreter for the Glulx portable VM for interactive fiction (IF) games
@@ -2923,7 +2919,7 @@
   Description: An embeddable fulltext search engine
   Homepage: https://github.com/groonga/groonga/
 - Package: groovy
-  Version: 4.0.26-4
+  Version: 6.0.0
   Description: A powerful multi-faceted programming language for the JVM platform
   Homepage: https://groovy-lang.org/
 - Package: grpcurl
@@ -6434,10 +6430,6 @@
   Version: 1.32.0
   Description: Linux libraries to handle media devices
   Homepage: https://git.linuxtv.org/v4l-utils.git
-- Package: libv4l-static
-  Version: 1.24.1-2
-  Description: Static libraries for libv4l
-  Homepage: https://git.linuxtv.org/v4l-utils.git
 - Package: libvbisam
   Version: 2.0-3
   Description: A replacement for IBMs C-ISAM
@@ -6907,15 +6899,15 @@
   Description: Color management utilities
   Homepage: http://www.littlecms.com/
 - Package: llama-cpp
-  Version: 0.5.0
+  Version: 0.6.0
   Description: LLM inference in C/C++
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-opencl
-  Version: 0.5.0
+  Version: 0.6.0
   Description: OpenCL Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llama-cpp-backend-vulkan
-  Version: 0.5.0
+  Version: 0.6.0
   Description: Vulkan Backend for LLaMA.cpp
   Homepage: https://github.com/ggml-org/llama.cpp
 - Package: llbuild
@@ -7271,7 +7263,7 @@
   Description: A Matrix-WhatsApp puppeting bridge
   Homepage: https://maunium.net/go/mautrix-whatsapp/
 - Package: maven
-  Version: 3.9.16
+  Version: 3.10.0
   Description: A Java software project management and comprehension tool
   Homepage: https://maven.apache.org/
 - Package: maxcso
@@ -8206,10 +8198,6 @@
   Version: 5.2.0
   Description: Open Object Rexx
   Homepage: https://www.oorexx.org/
-- Package: oorexx-static
-  Version: 4.2.0-4
-  Description: Static libraries for oorexx
-  Homepage: https://www.oorexx.org/
 - Package: open-adventure
   Version: "1.22"
   Description: Forward-port of the original Colossal Cave Adventure from 1976-77
@@ -8939,7 +8927,7 @@
   Description: ProtonMail Bridge application
   Homepage: https://github.com/ProtonMail/proton-bridge
 - Package: proton-drive-cli
-  Version: 0.8.0
+  Version: 0.9.0
   Description: Official command-line client for Proton Drive
   Homepage: https://github.com/ProtonDriveApps/sdk
 - Package: proton-pass-cli
