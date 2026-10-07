@@ -1,5 +1,5 @@
 | **0verkill** | 1:0.16-1 | Bloody 2D action deathmatch-like game in ASCII-ART | https://github.com/hackndev/0verkill |
-| **2048-c** | 1:1.0.3-1 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
+| **2048-c** | 1:1.0.4 | Console version of the game '2048' for GNU/Linux | https://github.com/mevdschee/2048.c |
 | **2ping** | 4.6.1-1 | A bi-directional ping utility | https://www.finnie.org/software/2ping/ |
 | **6tunnel** | 0.14 | Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa | https://github.com/wojtekka/6tunnel |
 | **7zip** | 26.04 | 7-Zip file archiver with a high compression ratio | https://www.7-zip.org |
@@ -116,7 +116,7 @@
 | **aview** | 1.3.0rc1-6 | High quality ascii-art image browser and animation player | https://aa-project.sourceforge.net/aview/ |
 | **avra** | 1.4.2-1 | Assember for the Atmel AVR microcontroller family | https://github.com/Ro5bert/avra |
 | **await** | 2.11.0 | Runs list of commands in parallel and waits for their termination | https://github.com/slavaGanzin/await |
-| **awscli** | 2.37.9 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
+| **awscli** | 2.37.10 | Universal Command Line Interface for Amazon Web Services | https://aws.amazon.com/cli |
 | **axel** | 2.17.14-1 | light command line download accelerator | https://github.com/axel-download-accelerator/axel |
 | **azure-cli** | 2.91.0 | Microsoft's command-line tool for managing Azure cloud resources | https://learn.microsoft.com/en-us/cli/azure/ |
 | **azure-dev-cli** | 1.35.0 | Developer-centric CLI for creating, provisioning and deploying Azure applications (azd) | https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ |
@@ -543,7 +543,7 @@
 | **flex-static** | 2.6.4-5 | Static libraries for flex | https://github.com/westes/flex |
 | **flint** | 3.6.0-2 | C library for doing number theory | http://www.flintlib.org |
 | **fluidsynth** | 2.6.1 | Software synthesizer based on the SoundFont 2 specifications | https://github.com/FluidSynth/fluidsynth |
-| **flyctl** | 0.4.112 | Command line tools for fly.io services | https://fly.io |
+| **flyctl** | 0.4.113 | Command line tools for fly.io services | https://fly.io |
 | **fm** | 1.2.0 | A terminal based file manager | https://github.com/knipferrc/fm |
 | **fmt** | 1:11.2.0-1 | Open-source formatting library for C++ | https://fmt.dev/latest/index.html |
 | **fontconfig** | 2.18.3 | Library for configuring and customizing font access | https://www.freedesktop.org/wiki/Software/fontconfig/ |
@@ -635,7 +635,7 @@
 | **git-sizer** | 1.5.0-5 | Compute various size metrics for a Git repository | https://github.com/github/git-sizer |
 | **git-svn** | 2.56.0 | Convert between Git and Subversion repositories | https://git-scm.com/ |
 | **git-town** | 24.1.0 | Git branches made easy | https://www.git-town.com |
-| **gitea** | 28.0.0 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
+| **gitea** | 28.1.0 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitleaks** | 8.30.1-1 | Detect secrets like passwords, API keys, and tokens in git repos and files | https://github.com/gitleaks/gitleaks |
 | **gitoxide** | 0.59.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
@@ -1361,7 +1361,7 @@
 | **libnpth-static** | 1.8 | Static libraries for libnpth | https://www.gnupg.org/related_software/npth/ |
 | **libnspr** | 4.40 | Netscape Portable Runtime (NSPR) | https://hg.mozilla.org/projects/nspr |
 | **libnspr-static** | 4.40 | Static libraries for libnspr | https://hg.mozilla.org/projects/nspr |
-| **libnss** | 3.130 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **libnss** | 3.131 | Network Security Services (NSS) | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **libntl** | 11.6.0 | A Library for doing Number Theory | https://libntl.org |
 | **libntl-static** | 11.6.0 | Static libraries for libntl | https://libntl.org |
 | **libnumbertext** | 1.0.11-1 | Number to number name and money text conversion library | https://github.com/Numbertext/libnumbertext |
@@ -1894,7 +1894,7 @@
 | **mono** | 6.14.1-2 | Framework Mono | https://gitlab.winehq.org/mono/mono |
 | **mono-libs** | 6.14.1-2 | Platform-independent libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
-| **monolith** | 2.11.0 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
+| **monolith** | 2.11.2 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.1.0 | Simple game where you drive a car across the moon's surface | https://www.seehuhn.de/programs/moon-buggy |
 | **moor** | 2.19.2 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.12.28 | Stock market tracker | https://github.com/mop-tracker/mop |
@@ -2014,7 +2014,7 @@
 | **nsis** | 3.13 | A professional open source system to create Windows installers | https://sourceforge.net/projects/nsis/ |
 | **nsis-stubs** | 3.13 | NSIS Stubs | https://sourceforge.net/projects/nsis/ |
 | **nsnake** | 3.0.1-7 | The classic snake game with textual interface | https://github.com/alexdantas/nSnake |
-| **nss-utils** | 3.130 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
+| **nss-utils** | 3.131 | Tools for NSS | https://firefox-source-docs.mozilla.org/security/nss/ |
 | **nudoku** | 8.0.1 | ncurses based sudoku game | http://jubalh.github.io/nudoku/ |
 | **numbat** | 1.24.0 | A statically typed programming language for scientific computations with first class support for physical dimensions and units | https://numbat.dev/ |
 | **nushell** | 0.116.1 | A new type of shell operating on structured data | https://www.nushell.sh |
@@ -2041,7 +2041,7 @@
 | **ollama** | 0.35.1 | Get up and running with large language models | https://ollama.com/ |
 | **ollama-backend-vulkan** | 0.35.1 | Vulkan Backend for Ollama | https://ollama.com/ |
 | **oma** | 1.27.9 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
-| **onefetch** | 2.28.1 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
+| **onefetch** | 3.0.0 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
 | **oniguruma** | 6.9.10-1 | Regular expressions library | https://github.com/kkos/oniguruma |
@@ -2102,6 +2102,7 @@
 | **osslsigncode** | 2.14 | OpenSSL based Authenticode signing for PE/MSI/Java CAB files | https://github.com/mtrojnar/osslsigncode |
 | **ossp-uuid** | 1.6.2-4 | ISO-C:1999 uuid generator supporting DCE 1.1, ISO/IEC 11578:1996 and RFC 4122. | http://www.ossp.org/pkg/lib/uuid/ |
 | **ossp-uuid-static** | 1.6.2-4 | Static libraries for ossp-uuid | http://www.ossp.org/pkg/lib/uuid/ |
+| **ouch** | 0.8.3 | Painless compression and decompression for your terminal | https://github.com/ouch-org/ouch |
 | **ovmf** | 20231122-16.fc40-0 | Open Virtual Machine Firmware | https://www.tianocore.org/ |
 | **oxfmt** | 1.87.0 | Oxc JavaScript formatter | https://oxc.rs/ |
 | **oxipng** | 10.2.1 | Multithreaded PNG optimizer written in Rust | https://github.com/oxipng/oxipng |
@@ -2706,7 +2707,7 @@
 | **tmux** | 3.7c-1 | Terminal multiplexer | https://tmux.github.io/ |
 | **toilet** | 0.3-3 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
 | **tokei** | 15.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
-| **tomcat** | 11.0.26 | Open source implementation of the Jakarta Servlet, Pages and WebSocket technologies | https://tomcat.apache.org/ |
+| **tomcat** | 11.0.27-1 | Open source implementation of the Jakarta Servlet, Pages and WebSocket technologies | https://tomcat.apache.org/ |
 | **tome2** | 2025.12.13-2 | An open world roguelike adventure set in middle earth | https://github.com/tome2/tome2 |
 | **toml11** | 4.4.0 | toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library | https://github.com/ToruNiina/toml11 |
 | **topgrade** | 17.12.3 | Upgrade all the things | https://github.com/topgrade-rs/topgrade/ |
