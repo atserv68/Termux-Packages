@@ -527,7 +527,7 @@
   Description: A cat(1) clone with wings
   Homepage: https://github.com/sharkdp/bat
 - Package: bazel
-  Version: 9.2.0-1
+  Version: 9.3.0
   Description: Correct, reproducible, and fast builds for everyone
   Homepage: https://bazel.build/
 - Package: bc
@@ -1503,7 +1503,7 @@
   Description: dns2tcp is a tool for relaying TCP connections over DNS
   Homepage: https://github.com/alex-sector/dns2tcp
 - Package: dnscontrol
-  Version: 5.3.0
+  Version: 5.3.1
   Description: Infrastructure as code for DNS!
   Homepage: https://dnscontrol.org/
 - Package: dnslookup
@@ -1551,7 +1551,7 @@
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doctl
-  Version: 1.178.0
+  Version: 1.179.0
   Description: The official command line interface for the DigitalOcean API
   Homepage: https://github.com/digitalocean/doctl
 - Package: doge
@@ -2507,7 +2507,7 @@
   Description: A highly customizable changelog generator that follows Conventional Commit specifications
   Homepage: https://git-cliff.org
 - Package: git-credential-manager
-  Version: 2.9.1
+  Version: 3.0.1
   Description: Cross-platform Git credential storage for multiple hosting providers
   Homepage: https://aka.ms/gcm
 - Package: git-crypt
@@ -6427,7 +6427,7 @@
   Description: Static libraries for libuv
   Homepage: https://libuv.org
 - Package: libv4l
-  Version: 1.32.0
+  Version: 1.32.0-1
   Description: Linux libraries to handle media devices
   Homepage: https://git.linuxtv.org/v4l-utils.git
 - Package: libvbisam
@@ -6819,7 +6819,7 @@
   Description: Static libraries for libzimg
   Homepage: https://github.com/sekrit-twc/zimg
 - Package: libzip
-  Version: 1.11.4-1
+  Version: "1.12"
   Description: Library for reading, creating, and modifying zip archives
   Homepage: https://libzip.org/
 - Package: libzita-convolver
@@ -7747,7 +7747,7 @@
   Description: Mail client with patches from neomutt
   Homepage: http://www.mutt.org/
 - Package: mycli
-  Version: 2.28.1
+  Version: 2.28.2
   Description: CLI for MySQL/MariaDB with auto-completion and syntax highlighting
   Homepage: https://mycli.net
 - Package: myman
@@ -8339,11 +8339,11 @@
   Description: The programmers solid 3D CAD modeller (headless build)
   Homepage: https://openscad.org/
 - Package: openssh
-  Version: 10.5p1
+  Version: 10.6p1
   Description: Secure shell for logging into a remote machine
   Homepage: https://www.openssh.com/
 - Package: openssh-sftp-server
-  Version: 10.5p1
+  Version: 10.6p1
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl
@@ -9515,11 +9515,11 @@
   Description: Static libraries for readline
   Homepage: https://tiswww.case.edu/php/chet/readline/rltop.html
 - Package: recode
-  Version: 3.7.16
+  Version: 3.7.17
   Description: Charset converter tool and library
   Homepage: https://github.com/pinard/Recode
 - Package: recode-static
-  Version: 3.7.16
+  Version: 3.7.17
   Description: Static libraries for recode
   Homepage: https://github.com/pinard/Recode
 - Package: recoll
@@ -10103,15 +10103,15 @@
   Description: SNMP trap translator
   Homepage: http://www.snmptt.org/
 - Package: snowflake
-  Version: 2.14.1
+  Version: 2.15.1
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy
   Homepage: https://snowflake.torproject.org/
 - Package: snowflake-client
-  Version: 2.14.1
+  Version: 2.15.1
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Client)
   Homepage: https://snowflake.torproject.org/
 - Package: snowflake-proxy
-  Version: 2.14.1
+  Version: 2.15.1
   Description: Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)
   Homepage: https://snowflake.torproject.org/
 - Package: socat

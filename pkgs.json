@@ -793,7 +793,7 @@
   },
   {
     "Package": "bazel",
-    "Version": "9.2.0-1",
+    "Version": "9.3.0",
     "Description": "Correct, reproducible, and fast builds for everyone",
     "Homepage": "https://bazel.build/"
   },
@@ -2257,7 +2257,7 @@
   },
   {
     "Package": "dnscontrol",
-    "Version": "5.3.0",
+    "Version": "5.3.1",
     "Description": "Infrastructure as code for DNS!",
     "Homepage": "https://dnscontrol.org/"
   },
@@ -2329,7 +2329,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.178.0",
+    "Version": "1.179.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -3763,7 +3763,7 @@
   },
   {
     "Package": "git-credential-manager",
-    "Version": "2.9.1",
+    "Version": "3.0.1",
     "Description": "Cross-platform Git credential storage for multiple hosting providers",
     "Homepage": "https://aka.ms/gcm"
   },
@@ -9643,7 +9643,7 @@
   },
   {
     "Package": "libv4l",
-    "Version": "1.32.0",
+    "Version": "1.32.0-1",
     "Description": "Linux libraries to handle media devices",
     "Homepage": "https://git.linuxtv.org/v4l-utils.git"
   },
@@ -10231,7 +10231,7 @@
   },
   {
     "Package": "libzip",
-    "Version": "1.11.4-1",
+    "Version": "1.12",
     "Description": "Library for reading, creating, and modifying zip archives",
     "Homepage": "https://libzip.org/"
   },
@@ -11623,7 +11623,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.28.1",
+    "Version": "2.28.2",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -12511,13 +12511,13 @@
   },
   {
     "Package": "openssh",
-    "Version": "10.5p1",
+    "Version": "10.6p1",
     "Description": "Secure shell for logging into a remote machine",
     "Homepage": "https://www.openssh.com/"
   },
   {
     "Package": "openssh-sftp-server",
-    "Version": "10.5p1",
+    "Version": "10.6p1",
     "Description": "OpenSSH SFTP server subsystem",
     "Homepage": "https://www.openssh.com/"
   },
@@ -14275,13 +14275,13 @@
   },
   {
     "Package": "recode",
-    "Version": "3.7.16",
+    "Version": "3.7.17",
     "Description": "Charset converter tool and library",
     "Homepage": "https://github.com/pinard/Recode"
   },
   {
     "Package": "recode-static",
-    "Version": "3.7.16",
+    "Version": "3.7.17",
     "Description": "Static libraries for recode",
     "Homepage": "https://github.com/pinard/Recode"
   },
@@ -15157,19 +15157,19 @@
   },
   {
     "Package": "snowflake",
-    "Version": "2.14.1",
+    "Version": "2.15.1",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy",
     "Homepage": "https://snowflake.torproject.org/"
   },
   {
     "Package": "snowflake-client",
-    "Version": "2.14.1",
+    "Version": "2.15.1",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy (Client)",
     "Homepage": "https://snowflake.torproject.org/"
   },
   {
     "Package": "snowflake-proxy",
-    "Version": "2.14.1",
+    "Version": "2.15.1",
     "Description": "Pluggable Transport using WebRTC, inspired by Flashproxy (Proxy)",
     "Homepage": "https://snowflake.torproject.org/"
   },
