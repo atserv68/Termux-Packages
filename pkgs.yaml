@@ -3,7 +3,7 @@
   Description: Bloody 2D action deathmatch-like game in ASCII-ART
   Homepage: https://github.com/hackndev/0verkill
 - Package: 2048-c
-  Version: 1:1.0.4
+  Version: 1:1.0.5
   Description: Console version of the game 2048 for GNU/Linux
   Homepage: https://github.com/mevdschee/2048.c
 - Package: 2ping
@@ -839,7 +839,7 @@
   Description: Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database
   Homepage: https://rustsec.org
 - Package: cargo-binstall
-  Version: 1.25.1
+  Version: 1.25.2
   Description: Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem
   Homepage: https://github.com/cargo-bins/cargo-binstall
 - Package: cargo-c
@@ -1443,7 +1443,7 @@
   Description: Web Directory Fuzzer
   Homepage: https://dirb.sourceforge.net/
 - Package: direnv
-  Version: 2.37.1-1
+  Version: 2.38.1
   Description: Environment switcher for shell
   Homepage: https://github.com/direnv/direnv
 - Package: direvent
@@ -3335,11 +3335,11 @@
   Description: A tool to unpack installers created by Inno Setup
   Homepage: https://constexpr.org/innoextract/
 - Package: inotify-tools
-  Version: 4.26.268
+  Version: 4.26.270
   Description: Programs providing a simple interface to inotify
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
 - Package: inotify-tools-static
-  Version: 4.26.268
+  Version: 4.26.270
   Description: Static libraries for inotify-tools
   Homepage: https://github.com/rvoicilas/inotify-tools/wiki
 - Package: inshellisense
@@ -3743,11 +3743,11 @@
   Description: Terminal file manager
   Homepage: https://github.com/gokcehan/lf
 - Package: lfortran
-  Version: 0.66.0
+  Version: 0.67.0
   Description: A modern open-source interactive Fortran compiler
   Homepage: https://lfortran.org/
 - Package: lfortran-static
-  Version: 0.66.0
+  Version: 0.67.0
   Description: Static libraries for lfortran
   Homepage: https://lfortran.org/
 - Package: lftp
@@ -7139,7 +7139,7 @@
   Description: The text web browser
   Homepage: http://lynx.browser.org/
 - Package: lyrebird
-  Version: 0.8.1
+  Version: 0.9.0
   Description: A pluggable transport plugin for Tor
   Homepage: https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports
 - Package: lz4
@@ -7258,6 +7258,10 @@
   Version: 4.2.0
   Description: A material you color generation tool with templates
   Homepage: https://github.com/InioX/matugen
+- Package: maturin
+  Version: 1.15.0
+  Description: Build and publish Rust crates (pyo3, cffi, uniffi bindings) as Python packages
+  Homepage: https://maturin.rs/
 - Package: mautrix-whatsapp
   Version: "26.09"
   Description: A Matrix-WhatsApp puppeting bridge
@@ -7899,7 +7903,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1808+g561857c4a8-0
+  Version: 0.13.0~dev-1823+g898e6f884e-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8791,7 +8795,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.9.1
+  Version: 12.10.1
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -11115,7 +11119,7 @@
   Description: Data munging language and pattern matching tool
   Homepage: https://www.nongnu.org/txr/
 - Package: ty
-  Version: 0.0.84
+  Version: 0.0.85
   Description: An extremely fast Python type checker and language server, written in Rust
   Homepage: https://github.com/astral-sh/ty
 - Package: typst

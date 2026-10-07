@@ -1,5 +1,5 @@
  0verkill  1:0.16-1  Bloody 2D action deathmatch-like game in ASCII-ART  https://github.com/hackndev/0verkill 
- 2048-c  1:1.0.4  Console version of the game '2048' for GNU/Linux  https://github.com/mevdschee/2048.c 
+ 2048-c  1:1.0.5  Console version of the game '2048' for GNU/Linux  https://github.com/mevdschee/2048.c 
  2ping  4.6.1-1  A bi-directional ping utility  https://www.finnie.org/software/2ping/ 
  6tunnel  0.14  Allows you to use services provided by IPv6 hosts with IPv4-only applications and vice-versa  https://github.com/wojtekka/6tunnel 
  7zip  26.04  7-Zip file archiver with a high compression ratio  https://www.7-zip.org 
@@ -208,7 +208,7 @@
  capstone-static  5.0.9  Static libraries for capstone  https://www.capstone-engine.org/ 
  carapace  1.8.0  Multi-shell multi-command argument completer  https://carapace.sh/ 
  cargo-audit  0.22.2  Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database  https://rustsec.org 
- cargo-binstall  1.25.1  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
+ cargo-binstall  1.25.2  Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem  https://github.com/cargo-bins/cargo-binstall 
  cargo-c  0.10.25  Cargo C-ABI helpers  https://github.com/lu-zero/cargo-c 
  cargo-cache  0.8.3  Tool to manage cargo cache  https://github.com/matthiaskrgr/cargo-cache 
  cargo-flamegraph  0.6.14  Simple cargo subcommand for generating flamegraphs, using inferno under the hood  https://github.com/flamegraph-rs/flamegraph 
@@ -359,7 +359,7 @@
  difftastic  0.71.0  difft: A structural diff that understands syntax  https://github.com/Wilfred/difftastic 
  diffutils  3.12-2  Programs (cmp, diff, diff3 and sdiff) related to finding differences between files  https://www.gnu.org/software/diffutils/ 
  dirb  2.22-5  Web Directory Fuzzer  https://dirb.sourceforge.net/ 
- direnv  2.37.1-1  Environment switcher for shell  https://github.com/direnv/direnv 
+ direnv  2.38.1  Environment switcher for shell  https://github.com/direnv/direnv 
  direvent  5.5  Monitor of events in file system directories  https://www.gnu.org.ua/software/direvent/ 
  discordo  2026.10.03+gf7180f87  A lightweight, secure, and feature-rich Discord terminal client  https://github.com/ayn2op/discordo 
  discount  3.0.2.0  Markdown implementation written in C  https://www.pell.portland.or.us/~orc/Code/discount/ 
@@ -832,8 +832,8 @@
  inetutils  2.8-1  Collection of common network programs  https://www.gnu.org/software/inetutils/ 
  influxdb  1.8.10-4  An open source time series database with no external dependencies  https://www.influxdata.com/ 
  innoextract  1.9-11  A tool to unpack installers created by Inno Setup  https://constexpr.org/innoextract/ 
- inotify-tools  4.26.268  Programs providing a simple interface to inotify  https://github.com/rvoicilas/inotify-tools/wiki 
- inotify-tools-static  4.26.268  Static libraries for inotify-tools  https://github.com/rvoicilas/inotify-tools/wiki 
+ inotify-tools  4.26.270  Programs providing a simple interface to inotify  https://github.com/rvoicilas/inotify-tools/wiki 
+ inotify-tools-static  4.26.270  Static libraries for inotify-tools  https://github.com/rvoicilas/inotify-tools/wiki 
  inshellisense  0.0.4  IDE style command line auto complete  https://github.com/microsoft/inshellisense 
  intltool  0.51.0-4  The internationalization tool collection  https://launchpad.net/intltool 
  inxi  3.3.41-1-0  Full featured CLI system information tool  https://smxi.org/site/about.htm#inxi 
@@ -934,8 +934,8 @@
  lexbor  3.0.1  Fast embeddable web browser engine written in C with no dependencies  https://lexbor.com 
  lexter  1.0.3-5  A real-time word puzzle for text terminals  https://www.kyne.au/~mark/software/lexter.php 
  lf  42  Terminal file manager  https://github.com/gokcehan/lf 
- lfortran  0.66.0  A modern open-source interactive Fortran compiler  https://lfortran.org/ 
- lfortran-static  0.66.0  Static libraries for lfortran  https://lfortran.org/ 
+ lfortran  0.67.0  A modern open-source interactive Fortran compiler  https://lfortran.org/ 
+ lfortran-static  0.67.0  Static libraries for lfortran  https://lfortran.org/ 
  lftp  4.9.3  FTP/HTTP client and file transfer program  https://lftp.tech/ 
  lftp-static  4.9.3  Static libraries for lftp  https://lftp.tech/ 
  lgogdownloader  3.19  Open source downloader to GOG.com for Linux users using the same API as the official GOGDownloader  https://sites.google.com/site/gogdownloader/ 
@@ -1783,7 +1783,7 @@
  lv2  1.18.10-7  A plugin standard for audio systems  https://lv2plug.in/ 
  lychee  0.24.2  A fast, async, resource-friendly link checker written in Rust  https://github.com/lycheeverse/lychee 
  lynx  2.9.3  The text web browser  http://lynx.browser.org/ 
- lyrebird  0.8.1  A pluggable transport plugin for Tor  https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports 
+ lyrebird  0.9.0  A pluggable transport plugin for Tor  https://gitlab.torproject.org/tpo/anti-censorship/pluggable-transports 
  lz4  1.10.0-1  Fast LZ compression algorithm tool  https://lz4.github.io/lz4/ 
  lzip  1.26  Lossless data compressor similar to gzip and bzip2  https://www.nongnu.org/lzip/ 
  lzlib  1.16  A library providing in-memory LZMA compression and decompression functions  http://www.nongnu.org/lzip/lzlib.html 
@@ -1813,6 +1813,7 @@
  matterbridge  1.26.0-4  A simple chat bridge  https://github.com/42wim/matterbridge 
  matterircd  0.33.0  Connect to your mattermost or slack using your IRC-client of choice  https://github.com/42wim/matterircd 
  matugen  4.2.0  A material you color generation tool with templates  https://github.com/InioX/matugen 
+ maturin  1.15.0  Build and publish Rust crates (pyo3, cffi, uniffi bindings) as Python packages  https://maturin.rs/ 
  mautrix-whatsapp  26.09  A Matrix-WhatsApp puppeting bridge  https://maunium.net/go/mautrix-whatsapp/ 
  maven  3.10.0  A Java software project management and comprehension tool  https://maven.apache.org/ 
  maxcso  1.13.0-1  A fast ISO to CSO compression program for use with PSP and PS2 emulators  https://github.com/unknownbrackets/maxcso 
@@ -1973,7 +1974,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.5-1  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1808+g561857c4a8-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1823+g898e6f884e-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2196,7 +2197,7 @@
  plzip  1.13  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-2  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-2  PNG image optimising utility  https://pngquant.org 
- pnpm  12.9.1  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
+ pnpm  12.10.1  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
  pocketbase  0.40.4  An open source Go backend  https://github.com/pocketbase/pocketbase 
  podofo  1.1.2  A C++ library to work with the PDF file format  https://github.com/podofo/podofo 
  poke  5.0  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
@@ -2777,7 +2778,7 @@
  twolame  0.4.0-1  The frontend for libtwolame  https://www.twolame.org/ 
  txikijs  1:26.6.0  A small and powerful JavaScript runtime  https://github.com/saghul/txiki.js 
  txr  302  Data munging language and pattern matching tool  https://www.nongnu.org/txr/ 
- ty  0.0.84  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
+ ty  0.0.85  An extremely fast Python type checker and language server, written in Rust  https://github.com/astral-sh/ty 
  typst  0.15.1  A new markup-based typesetting system that is powerful and easy to learn  https://typst.app/ 
  typstfmt  0.2.10-1  basic formatter for the Typst language  https://github.com/astrale-sharp/typstfmt 
  uchardet  0.0.8-2  An encoding detector utility  https://www.freedesktop.org/wiki/Software/uchardet/ 
