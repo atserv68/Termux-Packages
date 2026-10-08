@@ -47,7 +47,7 @@
 | **alsa-utils-static** | 1.2.16 | Static libraries for alsa-utils | https://www.alsa-project.org |
 | **amber** | 0.6.1 | A code search / replace tool | https://github.com/dalance/amber |
 | **amfora** | 1.11.0-1 | Aims to be the best looking Gemini client | https://github.com/makew0rld/amfora |
-| **android-tools** | 37.0.0-2 | Android platform tools | https://developer.android.com/ |
+| **android-tools** | 37.0.0p1 | Android platform tools | https://developer.android.com/ |
 | **anewer** | 0.2.2 | Append lines from stdin to a file if these lines do not present in that file (aHash-based uniq) | https://github.com/ysf/anewer |
 | **angband** | 4.2.6 | Dungeon exploration adventure game | https://rephial.org/ |
 | **angle-android** | 2.1.24923-f09a19ce-2 | A conformant OpenGL ES implementation for Windows, Mac, Linux, iOS and Android | https://chromium.googlesource.com/angle/angle |
@@ -288,7 +288,7 @@
 | **cmus** | 2.12.0-7 | Small, fast and powerful console music player | https://cmus.github.io/ |
 | **cmusfm** | 0.5.0-1 | Last.fm standalone scrobbler for the cmus music player | https://github.com/Arkq/cmusfm |
 | **codecrypt** | 1.8-10 | The post-quantum cryptography tool | http://e-x-a.org/codecrypt/ |
-| **codex** | 0.159.3 | Lightweight coding agent that runs in your terminal | https://github.com/openai/codex |
+| **codex** | 0.161.0 | Lightweight coding agent that runs in your terminal | https://github.com/openai/codex |
 | **codon** | 0.20.2-1 | A high-performance, zero-overhead, extensible Python compiler using LLVM | https://github.com/exaloop/codon |
 | **coinor-cbc** | 2.10.13 | An open-source mixed integer linear programming solver | https://github.com/coin-or/Cbc |
 | **coinor-cbc-static** | 2.10.13 | Static libraries for coinor-cbc | https://github.com/coin-or/Cbc |
@@ -302,7 +302,7 @@
 | **composer** | 2.10.3 | Dependency Manager for PHP | https://getcomposer.org/ |
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
-| **cookcli** | 0.37.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
+| **cookcli** | 0.38.0 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
 | **coreutils** | 9.11-1 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-6 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
@@ -656,8 +656,8 @@
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.121.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
 | **gleam** | 1.19.1 | A friendly language for building type-safe, scalable systems! | https://gleam.run |
-| **glib** | 2.90.0 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
-| **glib-cross** | 2.90.0 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
+| **glib** | 2.90.1 | Library providing core building blocks for libraries and applications written in C | https://developer.gnome.org/glib/ |
+| **glib-cross** | 2.90.1 | glib for host (NOT for Termux) | https://developer.gnome.org/glib/ |
 | **glib-networking** | 2.90.0 | Network-related giomodules for glib | https://gitlab.gnome.org/GNOME/glib-networking |
 | **glibc-repo** | 1.0 | A package repository containing glibc-based programs and libraries | https://github.com/termux/glibc-packages |
 | **glm** | 1.0.3 | C++ mathematics library for graphics programming | https://glm.g-truc.net/ |
@@ -740,7 +740,7 @@
 | **grex** | 1.4.6-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.24.2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 16.1.2 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 16.1.3 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 6.0.0 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **grpcurl** | 1.9.4 | Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers | https://github.com/fullstorydev/grpcurl |
 | **gsasl** | 2.2.4 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
@@ -920,7 +920,7 @@
 | **knockd** | 0.8.2-2 | A port-knocking daemon | https://zeroflux.org/projects/knock |
 | **knot-utils** | 3.6.0 | Knot DNS utilities | https://www.knot-dns.cz/ |
 | **kona** | 20211225-1 | Open-source implementation of the APL-like K programming language | https://github.com/kevinlawler/kona |
-| **kotlin** | 2.4.20 | The Kotlin Programming Language | https://kotlinlang.org/ |
+| **kotlin** | 2.4.21 | The Kotlin Programming Language | https://kotlinlang.org/ |
 | **krb5** | 1.22.2 | The Kerberos network authentication system | https://web.mit.edu/kerberos |
 | **kubecolor** | 0.8.0 | Colorize your kubectl output | https://github.com/kubecolor/kubecolor |
 | **kubectl** | 1.37.1 | Kubernetes.io client binary | https://kubernetes.io/ |
@@ -2064,8 +2064,8 @@
 | **oorexx** | 5.2.0 | Open Object Rexx | https://www.oorexx.org/ |
 | **open-adventure** | 1.22 | Forward-port of the original Colossal Cave Adventure from 1976-77 | http://www.catb.org/~esr/open-adventure/ |
 | **openal-soft** | 1.25.2-1 | Software implementation of the OpenAL API | https://openal-soft.org/ |
-| **openbabel** | 3.2.0-3 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
-| **openbabel-static** | 3.2.0-3 | Static libraries for openbabel | http://openbabel.org/wiki/Main_Page |
+| **openbabel** | 3.2.1 | Open Babel is a chemical toolbox designed to speak the many languages of chemical data | http://openbabel.org/wiki/Main_Page |
+| **openbabel-static** | 3.2.1 | Static libraries for openbabel | http://openbabel.org/wiki/Main_Page |
 | **opencc-tools** | 1.4.2 | Command-line tools for OpenCC | https://github.com/BYVoid/OpenCC |
 | **opencl-clhpp** | 2026.05.29 | Khronos OpenCL C++ Headers | https://github.com/KhronosGroup/OpenCL-CLHPP |
 | **opencl-headers** | 2026.05.29 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
@@ -2244,7 +2244,7 @@
 | **proot** | 5.1.107.96 | Emulate chroot, bind mount and binfmt_misc for non-root users | https://proot-me.github.io/ |
 | **proot-distro** | 5.9.0 | Termux official utility for managing proot'ed Linux distributions | https://github.com/termux/proot-distro |
 | **protobuf** | 2:35.1 | Compiler for protocol buffer definition files | https://github.com/protocolbuffers/protobuf |
-| **proton-bridge** | 3.27.0 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
+| **proton-bridge** | 3.27.1 | ProtonMail Bridge application | https://github.com/ProtonMail/proton-bridge |
 | **proton-drive-cli** | 0.9.0 | Official command-line client for Proton Drive | https://github.com/ProtonDriveApps/sdk |
 | **proton-pass-cli** | 2.4.2 | Proton Pass Command Line Interface (CLI) | https://protonpass.github.io/pass-cli/ |
 | **prover9** | 2009-11A-2 | An automated theorem prover for first-order and equational logic | https://www.cs.unm.edu/~mccune/prover9/ |
@@ -2369,7 +2369,7 @@
 | **rage** | 0.12.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.63.4 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.64.0 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0-1 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2610,10 +2610,10 @@
 | **stuntman** | 1.2.16-8 | An open source STUN server | https://www.stunprotocol.org/ |
 | **stylua** | 2.5.2 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4-1 | DVD subtitle ripper for Linux | https://subtitleripper.sourceforge.net/ |
-| **subversion** | 1.14.5-3 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
-| **subversion-perl** | 1.14.5-3 | Perl interface to Subversion | https://subversion.apache.org |
-| **subversion-perl-static** | 1.14.5-3 | Static libraries for subversion-perl | https://subversion.apache.org |
-| **subversion-static** | 1.14.5-3 | Static libraries for subversion | https://subversion.apache.org |
+| **subversion** | 1.15.0 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
+| **subversion-perl** | 1.15.0 | Perl interface to Subversion | https://subversion.apache.org |
+| **subversion-perl-static** | 1.15.0 | Static libraries for subversion-perl | https://subversion.apache.org |
+| **subversion-static** | 1.15.0 | Static libraries for subversion | https://subversion.apache.org |
 | **sudo** | 1.2.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app | https://github.com/agnostic-apollo/sudo |
 | **suil** | 0.10.26 | A library for loading and wrapping LV2 plugin UIs | https://drobilla.net/software/suil.html |
 | **suite3270** | 4.1ga11-2 | A family of IBM 3270 terminal emulators and related tools | https://x3270.bgp.nu/ |
@@ -2718,7 +2718,7 @@
 | **tinysparql** | 3.12.0 | Desktop-neutral metadata-based search framework | https://gnome.pages.gitlab.gnome.org/tinysparql |
 | **tizonia** | 0.22.0-26 | A command-line streaming music client/server for Linux | https://github.com/tizonia/ |
 | **tk** | 8.6.14-1 | A windowing toolkit for use with tcl | https://tcl.sourceforge.net/ |
-| **tmux** | 3.7c-1 | Terminal multiplexer | https://tmux.github.io/ |
+| **tmux** | 3.8 | Terminal multiplexer | https://tmux.github.io/ |
 | **toilet** | 0.3-3 | FIGlet-compatible display of large colourful characters in text mode | http://caca.zoy.org/wiki/toilet |
 | **tokei** | 15.0.0 | A blazingly fast CLOC (Count Lines Of Code) program | https://github.com/XAMPPRocky/tokei |
 | **tomcat** | 11.0.27-1 | Open source implementation of the Jakarta Servlet, Pages and WebSocket technologies | https://tomcat.apache.org/ |
