@@ -1297,13 +1297,13 @@
   },
   {
     "Package": "catch2",
-    "Version": "3.16.0",
+    "Version": "3.16.1",
     "Description": "A modern, C++-native, header-only, framework for unit-tests, TDD and BDD",
     "Homepage": "https://github.com/catchorg/catch2"
   },
   {
     "Package": "catch2-static",
-    "Version": "3.16.0",
+    "Version": "3.16.1",
     "Description": "Static libraries for catch2",
     "Homepage": "https://github.com/catchorg/catch2"
   },
@@ -3637,13 +3637,13 @@
   },
   {
     "Package": "geth",
-    "Version": "1.17.7",
+    "Version": "1.17.8",
     "Description": "Go implementation of the Ethereum protocol",
     "Homepage": "https://geth.ethereum.org/"
   },
   {
     "Package": "geth-utils",
-    "Version": "1.17.7",
+    "Version": "1.17.8",
     "Description": "Additional utilities for Geth (like abigen, bootnode, evm, puppeth)",
     "Homepage": "https://geth.ethereum.org/"
   },
@@ -3847,7 +3847,7 @@
   },
   {
     "Package": "gitoxide",
-    "Version": "0.59.0",
+    "Version": "0.60.0",
     "Description": "Rust implementation of Git",
     "Homepage": "https://github.com/GitoxideLabs/gitoxide"
   },
@@ -4237,7 +4237,7 @@
   },
   {
     "Package": "gotty",
-    "Version": "1.8.0",
+    "Version": "1.9.0",
     "Description": "Share your terminal as a web application",
     "Homepage": "https://github.com/sorenisanerd/gotty"
   },
@@ -7165,7 +7165,7 @@
   },
   {
     "Package": "libical",
-    "Version": "4.0.5",
+    "Version": "4.0.6",
     "Description": "Libical is an Open Source implementation of the iCalendar protocols and protocol data units",
     "Homepage": "https://libical.github.io/libical/"
   },
@@ -12211,7 +12211,7 @@
   },
   {
     "Package": "oh-my-posh",
-    "Version": "31.5.0",
+    "Version": "31.6.0",
     "Description": "A prompt theme engine for any shell.",
     "Homepage": "https://ohmyposh.dev"
   },
@@ -13207,7 +13207,7 @@
   },
   {
     "Package": "pocketbase",
-    "Version": "0.40.4",
+    "Version": "0.40.5",
     "Description": "An open source Go backend",
     "Homepage": "https://github.com/pocketbase/pocketbase"
   },
@@ -17917,7 +17917,7 @@
   },
   {
     "Package": "zrok2",
-    "Version": "2.0.7",
+    "Version": "2.0.8",
     "Description": "An open source sharing solution built on OpenZiti",
     "Homepage": "https://zrok.io/"
   },

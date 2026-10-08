@@ -863,11 +863,11 @@
   Description: Find unused dependencies in Rust projects
   Homepage: https://github.com/bnjbvr/cargo-machete
 - Package: catch2
-  Version: 3.16.0
+  Version: 3.16.1
   Description: A modern, C++-native, header-only, framework for unit-tests, TDD and BDD
   Homepage: https://github.com/catchorg/catch2
 - Package: catch2-static
-  Version: 3.16.0
+  Version: 3.16.1
   Description: Static libraries for catch2
   Homepage: https://github.com/catchorg/catch2
 - Package: catdoc
@@ -2423,11 +2423,11 @@
   Description: Utility to print configuration values
   Homepage: https://github.com/termux/getconf
 - Package: geth
-  Version: 1.17.7
+  Version: 1.17.8
   Description: Go implementation of the Ethereum protocol
   Homepage: https://geth.ethereum.org/
 - Package: geth-utils
-  Version: 1.17.7
+  Version: 1.17.8
   Description: Additional utilities for Geth (like abigen, bootnode, evm, puppeth)
   Homepage: https://geth.ethereum.org/
 - Package: gettext
@@ -2563,7 +2563,7 @@
   Description: Detect secrets like passwords, API keys, and tokens in git repos and files
   Homepage: https://github.com/gitleaks/gitleaks
 - Package: gitoxide
-  Version: 0.59.0
+  Version: 0.60.0
   Description: Rust implementation of Git
   Homepage: https://github.com/GitoxideLabs/gitoxide
 - Package: gitui
@@ -2823,7 +2823,7 @@
   Description: TUI for searching torrents
   Homepage: https://github.com/ismaelpadilla/gotorrent
 - Package: gotty
-  Version: 1.8.0
+  Version: 1.9.0
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
 - Package: govulncheck
@@ -4775,7 +4775,7 @@
   Description: Static libraries for libhyphen
   Homepage: https://github.com/hunspell/hyphen
 - Package: libical
-  Version: 4.0.5
+  Version: 4.0.6
   Description: Libical is an Open Source implementation of the iCalendar protocols and protocol data units
   Homepage: https://libical.github.io/libical/
 - Package: libice
@@ -8139,7 +8139,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 31.5.0
+  Version: 31.6.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oha
@@ -8803,7 +8803,7 @@
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
-  Version: 0.40.4
+  Version: 0.40.5
   Description: An open source Go backend
   Homepage: https://github.com/pocketbase/pocketbase
 - Package: podofo
@@ -11943,7 +11943,7 @@
   Description: An open source sharing solution built on OpenZiti.
   Homepage: https://zrok.io/
 - Package: zrok2
-  Version: 2.0.7
+  Version: 2.0.8
   Description: An open source sharing solution built on OpenZiti
   Homepage: https://zrok.io/
 - Package: zsh

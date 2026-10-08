@@ -226,8 +226,8 @@
 | **cargo-flamegraph** | 0.6.14 | Simple cargo subcommand for generating flamegraphs, using inferno under the hood | https://github.com/flamegraph-rs/flamegraph |
 | **cargo-leptos** | 0.3.11 | Build tool for the Rust framework Leptos | https://github.com/leptos-rs/cargo-leptos |
 | **cargo-machete** | 0.9.2 | Find unused dependencies in Rust projects | https://github.com/bnjbvr/cargo-machete |
-| **catch2** | 3.16.0 | A modern, C++-native, header-only, framework for unit-tests, TDD and BDD | https://github.com/catchorg/catch2 |
-| **catch2-static** | 3.16.0 | Static libraries for catch2 | https://github.com/catchorg/catch2 |
+| **catch2** | 3.16.1 | A modern, C++-native, header-only, framework for unit-tests, TDD and BDD | https://github.com/catchorg/catch2 |
+| **catch2-static** | 3.16.1 | Static libraries for catch2 | https://github.com/catchorg/catch2 |
 | **catdoc** | 0.95-2 | Program which reads MS-Word file and prints readable ASCII text to stdout | http://www.wagner.pp.ru/~vitus/software/catdoc/ |
 | **catgirl** | 2.2a-1 | A TLS-only terminal IRC client | https://git.causal.agency/catgirl |
 | **catimg** | 2.8.0 | Renders images in the terminal | https://posva.net/shell/retro/bash/2013/05/27/catimg |
@@ -616,8 +616,8 @@
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
 | **germanium** | 1.2.3-3 | Generate image from source code | https://github.com/matsuyoshi30/germanium |
 | **getconf** | 0.6-1 | Utility to print configuration values | https://github.com/termux/getconf |
-| **geth** | 1.17.7 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
-| **geth-utils** | 1.17.7 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
+| **geth** | 1.17.8 | Go implementation of the Ethereum protocol | https://geth.ethereum.org/ |
+| **geth-utils** | 1.17.8 | Additional utilities for Geth (like abigen, bootnode, evm, puppeth) | https://geth.ethereum.org/ |
 | **gettext** | 1.0 | GNU Internationalization utilities | https://www.gnu.org/software/gettext/ |
 | **gettext-static** | 1.0 | Static libraries for gettext | https://www.gnu.org/software/gettext/ |
 | **gexiv2** | 0.14.7 | A GObject-based Exiv2 wrapper | https://wiki.gnome.org/Projects/gexiv2 |
@@ -651,7 +651,7 @@
 | **gitea** | 28.1.0 | Git with a cup of tea, painless self-hosted git service | https://gitea.io |
 | **gitflow-avh** | 1.12.3-9 | Extend git with Vincent Driessen's branching model. The AVH Edition adds more functionality. | https://github.com/petervanderdoes/gitflow/ |
 | **gitleaks** | 8.30.1-1 | Detect secrets like passwords, API keys, and tokens in git repos and files | https://github.com/gitleaks/gitleaks |
-| **gitoxide** | 0.59.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
+| **gitoxide** | 0.60.0 | Rust implementation of Git | https://github.com/GitoxideLabs/gitoxide |
 | **gitui** | 0.28.1 | Blazing fast terminal-ui for git written in rust | https://github.com/gitui-org/gitui |
 | **gkermit** | 2.01-1 | Simple, Portable, Free File Transfer Software for UNIX | http://www.columbia.edu/kermit/gkermit.html |
 | **glab-cli** | 1.121.0 | A GitLab CLI tool bringing GitLab to your command line | https://gitlab.com/gitlab-org/cli |
@@ -716,7 +716,7 @@
 | **gotify** | 3.1.1 | A simple server for sending and receiving messages in real-time per WebSocket. | https://github.com/gotify/server |
 | **gotop** | 4.2.0-4 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
 | **gotorrent** | 0.1.2-1 | TUI for searching torrents | https://github.com/ismaelpadilla/gotorrent |
-| **gotty** | 1.8.0 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
+| **gotty** | 1.9.0 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
 | **govulncheck** | 1.8.0 | Reports known vulnerabilities affecting Go code | https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck |
 | **gpac** | 26.07.0 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
 | **gpac-static** | 26.07.0 | Static libraries for gpac | https://gpac.wp.imt.fr/ |
@@ -1204,7 +1204,7 @@
 | **libhtmlcxx-static** | 0.87-5 | Static libraries for libhtmlcxx | https://htmlcxx.sourceforge.net/ |
 | **libhyphen** | 2.8.9 | hyphenation library to use converted TeX hyphenation patterns | https://github.com/hunspell/hyphen |
 | **libhyphen-static** | 2.8.9 | Static libraries for libhyphen | https://github.com/hunspell/hyphen |
-| **libical** | 4.0.5 | Libical is an Open Source implementation of the iCalendar protocols and protocol data units | https://libical.github.io/libical/ |
+| **libical** | 4.0.6 | Libical is an Open Source implementation of the iCalendar protocols and protocol data units | https://libical.github.io/libical/ |
 | **libice** | 1.1.2-1 | X11 Inter-Client Exchange library | https://xorg.freedesktop.org/ |
 | **libiconv** | 1.19 | An implementation of iconv() | https://www.gnu.org/software/libiconv/ |
 | **libiconv-static** | 1.19 | Static libraries for libiconv | https://www.gnu.org/software/libiconv/ |
@@ -2045,7 +2045,7 @@
 | **octomap** | 1.10.1 | An efficient probabilistic 3D mapping framework based on octrees | https://github.com/OctoMap/octomap |
 | **octomap-static** | 1.10.1 | Static libraries for octomap | https://github.com/OctoMap/octomap |
 | **odt2txt** | 0.5-5 | Simple converter from OpenDocument Text to plain text | https://github.com/dstosberg/odt2txt |
-| **oh-my-posh** | 31.5.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
+| **oh-my-posh** | 31.6.0 | A prompt theme engine for any shell. | https://ohmyposh.dev |
 | **oha** | 1.16.0 | HTTP load generator with realtime tui, inspired by rakyll/hey | https://github.com/hatoo/oha |
 | **oidn** | 2.4.1 | Intel® Open Image Denoise library | https://www.openimagedenoise.org |
 | **oils-for-unix** | 0.38.0-1 | Bash-compatible Unix shell with more consistent syntax and semantics | https://oils.pub/ |
@@ -2211,7 +2211,7 @@
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
 | **pnpm** | 12.10.1 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
-| **pocketbase** | 0.40.4 | An open source Go backend | https://github.com/pocketbase/pocketbase |
+| **pocketbase** | 0.40.5 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **podofo** | 1.1.2 | A C++ library to work with the PDF file format | https://github.com/podofo/podofo |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
 | **poke-static** | 5.0 | Static libraries for poke | http://www.jemarch.net/poke.html |
@@ -2996,7 +2996,7 @@
 | **zoxide** | 0.10.0 | A faster way to navigate your filesystem | https://github.com/ajeetdsouza/zoxide |
 | **zpaq** | 7.15-1 | Programmable file compressor, library and utilities. Based on the PAQ compression algorithm | http://mattmahoney.net/dc/zpaq.html |
 | **zrok** | 1.1.13 | An open source sharing solution built on OpenZiti. | https://zrok.io/ |
-| **zrok2** | 2.0.7 | An open source sharing solution built on OpenZiti | https://zrok.io/ |
+| **zrok2** | 2.0.8 | An open source sharing solution built on OpenZiti | https://zrok.io/ |
 | **zsh** | 5.9.2-2 | Shell with lots of features | https://www.zsh.org |
 | **zsh-completions** | 0.36.0 | Additional completion definitions for Zsh | https://github.com/zsh-users/zsh-completions |
 | **zssh** | 1.5c-2 | A program for interactively transferring files to a remote machine while using the secure shell (ssh) | https://zssh.sourceforge.net/ |
