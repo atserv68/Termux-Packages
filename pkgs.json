@@ -727,7 +727,7 @@
   },
   {
     "Package": "azure-dev-cli",
-    "Version": "1.35.0",
+    "Version": "1.35.1",
     "Description": "Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)",
     "Homepage": "https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/"
   },
@@ -1666,6 +1666,12 @@
     "Version": "1.8-10",
     "Description": "The post-quantum cryptography tool",
     "Homepage": "http://e-x-a.org/codecrypt/"
+  },
+  {
+    "Package": "codex",
+    "Version": "0.159.3",
+    "Description": "Lightweight coding agent that runs in your terminal",
+    "Homepage": "https://github.com/openai/codex"
   },
   {
     "Package": "codon",
@@ -3271,7 +3277,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.113",
+    "Version": "0.4.114",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3331,7 +3337,7 @@
   },
   {
     "Package": "foundry",
-    "Version": "1.8.3-1",
+    "Version": "1.8.5",
     "Description": "A blazing fast, portable and modular toolkit for Ethereum application development",
     "Homepage": "https://github.com/foundry-rs/foundry"
   },
@@ -3511,13 +3517,13 @@
   },
   {
     "Package": "gawk",
-    "Version": "5.3.2",
+    "Version": "5.4.1",
     "Description": "Programming language designed for text processing",
     "Homepage": "https://www.gnu.org/software/gawk/"
   },
   {
     "Package": "gawk-static",
-    "Version": "5.3.2",
+    "Version": "5.4.1",
     "Description": "Static libraries for gawk",
     "Homepage": "https://www.gnu.org/software/gawk/"
   },
@@ -3865,7 +3871,7 @@
   },
   {
     "Package": "gleam",
-    "Version": "1.19.0",
+    "Version": "1.19.1",
     "Description": "A friendly language for building type-safe, scalable systems!",
     "Homepage": "https://gleam.run"
   },
@@ -4297,7 +4303,7 @@
   },
   {
     "Package": "gradle",
-    "Version": "1:9.8.0",
+    "Version": "1:9.8.1",
     "Description": "Powerful build system for the JVM",
     "Homepage": "https://gradle.org/"
   },
@@ -5335,7 +5341,7 @@
   },
   {
     "Package": "jujutsu",
-    "Version": "0.45.1",
+    "Version": "0.46.0",
     "Description": "A Git-compatible VCS that is both simple and powerful",
     "Homepage": "https://jj-vcs.github.io/jj/"
   },
@@ -9793,7 +9799,7 @@
   },
   {
     "Package": "libwebp",
-    "Version": "1.6.0-rc1+really1.6.0-0",
+    "Version": "1.6.0-rc1-0",
     "Description": "Library to encode and decode images in WebP format",
     "Homepage": "https://github.com/webmproject/libwebp"
   },
@@ -11683,7 +11689,7 @@
   },
   {
     "Package": "nasm",
-    "Version": "2.16.03-1",
+    "Version": "3.02",
     "Description": "A cross-platform x86 assembler with an Intel-like syntax",
     "Homepage": "https://nasm.us"
   },
@@ -11857,7 +11863,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1823+g898e6f884e-0",
+    "Version": "0.13.0~dev-1824+g27ee55c09d-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -15043,7 +15049,7 @@
   },
   {
     "Package": "simdjson",
-    "Version": "5.0.2",
+    "Version": "5.0.3",
     "Description": "A C++ library to see how fast we can parse JSON with complete validation",
     "Homepage": "https://simdjson.org/"
   },
@@ -16285,7 +16291,7 @@
   },
   {
     "Package": "tor",
-    "Version": "0.4.9.13",
+    "Version": "0.4.9.14",
     "Description": "The Onion Router anonymizing overlay network",
     "Homepage": "https://www.torproject.org"
   },
@@ -17143,7 +17149,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.10.02",
+    "Version": "2026.10.03",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -17257,7 +17263,7 @@
   },
   {
     "Package": "wasm-component-ld",
-    "Version": "0.5.30",
+    "Version": "0.5.31",
     "Description": "Command line linker for creating WebAssembly components",
     "Homepage": "https://github.com/bytecodealliance/wasm-component-ld"
   },

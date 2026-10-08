@@ -119,7 +119,7 @@
  awscli  2.37.10  Universal Command Line Interface for Amazon Web Services  https://aws.amazon.com/cli 
  axel  2.17.14-1  light command line download accelerator  https://github.com/axel-download-accelerator/axel 
  azure-cli  2.91.0  Microsoft's command-line tool for managing Azure cloud resources  https://learn.microsoft.com/en-us/cli/azure/ 
- azure-dev-cli  1.35.0  Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)  https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ 
+ azure-dev-cli  1.35.1  Developer-centric CLI for creating, provisioning and deploying Azure applications (azd)  https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/ 
  b3sum  1.8.7  A command line utility for calculating BLAKE3 hashes, similar to Coreutils tools like b2sum or md5sum  https://github.com/BLAKE3-team/BLAKE3/tree/master/b3sum 
  babl  0.1.128  Dynamic pixel format translation library  https://gegl.org/babl/ 
  bacon  3.26.0  A background code checker for Rust, designed for minimal interaction  https://dystroy.org/bacon 
@@ -276,6 +276,7 @@
  cmus  2.12.0-7  Small, fast and powerful console music player  https://cmus.github.io/ 
  cmusfm  0.5.0-1  Last.fm standalone scrobbler for the cmus music player  https://github.com/Arkq/cmusfm 
  codecrypt  1.8-10  The post-quantum cryptography tool  http://e-x-a.org/codecrypt/ 
+ codex  0.159.3  Lightweight coding agent that runs in your terminal  https://github.com/openai/codex 
  codon  0.20.2-1  A high-performance, zero-overhead, extensible Python compiler using LLVM  https://github.com/exaloop/codon 
  coinor-cbc  2.10.13  An open-source mixed integer linear programming solver  https://github.com/coin-or/Cbc 
  coinor-cbc-static  2.10.13  Static libraries for coinor-cbc  https://github.com/coin-or/Cbc 
@@ -543,7 +544,7 @@
  flex-static  2.6.4-5  Static libraries for flex  https://github.com/westes/flex 
  flint  3.6.0-2  C library for doing number theory  http://www.flintlib.org 
  fluidsynth  2.6.1  Software synthesizer based on the SoundFont 2 specifications  https://github.com/FluidSynth/fluidsynth 
- flyctl  0.4.113  Command line tools for fly.io services  https://fly.io 
+ flyctl  0.4.114  Command line tools for fly.io services  https://fly.io 
  fm  1.2.0  A terminal based file manager  https://github.com/knipferrc/fm 
  fmt  1:11.2.0-1  Open-source formatting library for C++  https://fmt.dev/latest/index.html 
  fontconfig  2.18.3  Library for configuring and customizing font access  https://www.freedesktop.org/wiki/Software/fontconfig/ 
@@ -553,7 +554,7 @@
  forgejo  16.0.5  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
  fortune  1.2-2  Revealer of fortunes  https://www.fefe.de/fortune/ 
  fossil  2.28  DSCM with built-in wiki, http interface and server, tickets database  https://www.fossil-scm.org 
- foundry  1.8.3-1  A blazing fast, portable and modular toolkit for Ethereum application development  https://github.com/foundry-rs/foundry 
+ foundry  1.8.5  A blazing fast, portable and modular toolkit for Ethereum application development  https://github.com/foundry-rs/foundry 
  freecell-solver  6.16.0-2  Freecell Solver is an open source library for automatically solving several variants of Solitaire/Patience card games, including Freecell.  https://fc-solve.shlomifish.org/ 
  freecolor  0.9.3-1  Freecolor is a replacement for Linux that displays free memory graphically  http://rkeene.org/oss/freecolor/ 
  freeimage  3.18.0-7  The library project for developers who would like to support popular graphics image formats  https://freeimage.sourceforge.io 
@@ -583,8 +584,8 @@
  gatling  0.16-3  A high performance http, ftp and smb server  https://www.fefe.de/gatling/ 
  gauche  0.9.15-3  An R7RS Scheme implementation developed to be a handy script interpreter  https://practical-scheme.net/gauche/ 
  gauche-static  0.9.15-3  Static libraries for gauche  https://practical-scheme.net/gauche/ 
- gawk  5.3.2  Programming language designed for text processing  https://www.gnu.org/software/gawk/ 
- gawk-static  5.3.2  Static libraries for gawk  https://www.gnu.org/software/gawk/ 
+ gawk  5.4.1  Programming language designed for text processing  https://www.gnu.org/software/gawk/ 
+ gawk-static  5.4.1  Static libraries for gawk  https://www.gnu.org/software/gawk/ 
  gbt  2.0.0-6  Highly configurable prompt builder for Bash and ZSH written in Go  https://github.com/jtyr/gbt 
  gcab  1.6-1  GObject library to create cabinet files  https://gitlab.gnome.org/GNOME/gcab 
  gcal  4.1-4  Program for calculating and printing calendars  https://www.gnu.org/software/gcal/ 
@@ -642,7 +643,7 @@
  gitui  0.28.1  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.121.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
- gleam  1.19.0  A friendly language for building type-safe, scalable systems!  https://gleam.run 
+ gleam  1.19.1  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.90.0  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.90.0  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
  glib-networking  2.90.0  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
@@ -714,7 +715,7 @@
  gpgv  2.5.24  GNU privacy guard - signature verification tool  https://www.gnupg.org/ 
  gping  1.21.0  Ping, but with a graph  https://github.com/orf/gping 
  gpsbabel  1.4.4-3  GPS file conversion plus transfer to/from GPS units  https://www.gpsbabel.org/ 
- gradle  1:9.8.0  Powerful build system for the JVM  https://gradle.org/ 
+ gradle  1:9.8.1  Powerful build system for the JVM  https://gradle.org/ 
  grafana  1:12.3.3-1  The open-source platform for monitoring and observability  https://grafana.com/ 
  grap  1.49  Language for typesetting graphs  https://www.lunabase.org/~faber/Vault/software/grap/ 
  graphene  1.10.8-3  A thin layer of graphic data types  https://ebassi.github.io/graphene/ 
@@ -887,7 +888,7 @@
  json-glib  1.10.8  GLib JSON manipulation library  https://wiki.gnome.org/Projects/JsonGlib 
  jsoncpp  1.9.8  C++ library for interacting with JSON  https://github.com/open-source-parsers/jsoncpp 
  jsoncpp-static  1.9.8  Static libraries for jsoncpp  https://github.com/open-source-parsers/jsoncpp 
- jujutsu  0.45.1  A Git-compatible VCS that is both simple and powerful  https://jj-vcs.github.io/jj/ 
+ jujutsu  0.46.0  A Git-compatible VCS that is both simple and powerful  https://jj-vcs.github.io/jj/ 
  jump  0.69.0  Jump helps you navigate in shell faster by learning your habits  https://github.com/gsamokovarov/jump 
  jupp  3.1jupp41-4  User friendly full screen text editor  http://www.mirbsd.org/jupp.htm 
  just  1.58.0  A handy way to save and run project-specific commands  https://just.systems 
@@ -1630,7 +1631,7 @@
  libwayland  1.26.0  Wayland protocol library  https://wayland.freedesktop.org/ 
  libwayland-cross-scanner  1.26.0  wayland-scanner for host (NOT for Termux)  https://wayland.freedesktop.org/ 
  libwayland-protocols  1.49  Wayland protocols library  https://wayland.freedesktop.org/ 
- libwebp  1.6.0-rc1+really1.6.0-0  Library to encode and decode images in WebP format  https://github.com/webmproject/libwebp 
+ libwebp  1.6.0-rc1-0  Library to encode and decode images in WebP format  https://github.com/webmproject/libwebp 
  libwebrtc-audio-processing  1.3-5  A library containing the AudioProcessing module from the WebRTC project  https://www.freedesktop.org/software/pulseaudio/webrtc-audio-processing/ 
  libwebsockets  5.0.0-1  Lightweight C websockets library  https://libwebsockets.org 
  libwolfssl  5.9.4  A small, fast, portable implementation of TLS/SSL for embedded devices to the cloud  https://www.wolfssl.com/ 
@@ -1945,7 +1946,7 @@
  nala  0.16.0-3  Commandline frontend for the apt package manager  https://gitlab.com/volian/nala 
  nali  0.8.1-1  An offline tool for querying IP geographic information and CDN provider  https://github.com/zu1k/nali 
  nano  9.2-1  Small, free and friendly text editor  https://www.nano-editor.org/ 
- nasm  2.16.03-1  A cross-platform x86 assembler with an Intel-like syntax  https://nasm.us 
+ nasm  3.02  A cross-platform x86 assembler with an Intel-like syntax  https://nasm.us 
  natpmpc  20230423-2  Portable and fully compliant implementation of NAT-PMP  https://miniupnp.tuxfamily.org/libnatpmp.html 
  natpmpc-static  20230423-2  Static libraries for natpmpc  https://miniupnp.tuxfamily.org/libnatpmp.html 
  navi  2.24.0-1  An interactive cheatsheet tool for the command-line  https://github.com/denisidoro/navi 
@@ -1974,7 +1975,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.5-1  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1823+g898e6f884e-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1824+g27ee55c09d-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2505,7 +2506,7 @@
  silicon  0.5.3-1  Silicon is an alternative to Carbon implemented in Rust  https://github.com/Aloxaf/silicon 
  silversearcher-ag  2.2.0-6  Fast grep-like program, alternative to ack-grep  https://geoff.greer.fm/ag/ 
  simde  0.8.2  Implementations of SIMD instructions for all systems  https://simd-everywhere.github.io/ 
- simdjson  5.0.2  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
+ simdjson  5.0.3  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
  simh  1:3.12.5-1  A collection of simulators for computer hardware and software from the past  http://simh.trailing-edge.com/ 
  simulavr  1:1.1.0-3  Simulator for Microchip AVR (formerly Atmel) microcontrollers  https://www.nongnu.org/simulavr 
  sing-box  1.14.2  The universal proxy platform  https://sing-box.sagernet.org 
@@ -2712,7 +2713,7 @@
  tome2  2025.12.13-2  An open world roguelike adventure set in middle earth  https://github.com/tome2/tome2 
  toml11  4.4.0  toml11 is a C++11 (or later) header-only toml parser/encoder depending only on C++ standard library  https://github.com/ToruNiina/toml11 
  topgrade  17.12.3  Upgrade all the things  https://github.com/topgrade-rs/topgrade/ 
- tor  0.4.9.13  The Onion Router anonymizing overlay network  https://www.torproject.org 
+ tor  0.4.9.14  The Onion Router anonymizing overlay network  https://www.torproject.org 
  torsocks  2.5.0-1  Wrapper to safely torify applications  https://gitlab.torproject.org/tpo/core/torsocks 
  torsocks-static  2.5.0-1  Static libraries for torsocks  https://gitlab.torproject.org/tpo/core/torsocks 
  totem-pl-parser  3.26.7  Simple GObject-based library to parse and save a host of playlist formats  https://gitlab.gnome.org/GNOME/totem-pl-parser 
@@ -2855,7 +2856,7 @@
  vlc  3.0.24  A popular libre and open source media player and multimedia engine  https://www.videolan.org/ 
  vobsub2srt  2017.12.18-4  A simple command line program to convert .idx / .sub subtitles into .srt text subtitles by using OCR  https://github.com/ruediger/VobSub2SRT 
  vorbis-tools  1.4.3-1  Ogg Vorbis tools  https://github.com/xiph/vorbis-tools 
- vtm  2026.10.02  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
+ vtm  2026.10.03  Terminal multiplexer with TUI window manager and multi-party session sharing  https://github.com/directvt/vtm 
  vttest  20251205  Program for testing the VT100 compatibility of terminal emulators  https://invisible-island.net/vttest/ 
  vulkan-extension-layer  1.4.363  Vulkan Extension Layer  https://github.com/KhronosGroup/Vulkan-ExtensionLayer 
  vulkan-headers  1.4.365  Vulkan Header files and API registry  https://github.com/KhronosGroup/Vulkan-Headers 
@@ -2874,7 +2875,7 @@
  walk  1.13.0  A terminal file manager  https://github.com/antonmedv/walk 
  wallust  3.5.2  Generate colors from an image  https://explosion-mental.codeberg.page/wallust 
  wasi-libc  34+really34  Libc for WebAssembly programs built on top of WASI system calls  https://wasi.dev/ 
- wasm-component-ld  0.5.30  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
+ wasm-component-ld  0.5.31  Command line linker for creating WebAssembly components  https://github.com/bytecodealliance/wasm-component-ld 
  wasmedge  0.18.0  A lightweight, high-performance, and extensible WebAssembly runtime  https://wasmedge.org/ 
  wasmer  7.5.0  A fast and secure WebAssembly runtime  https://wasmer.io/ 
  wasmtime  49.0.2  A standalone runtime for WebAssembly  https://wasmtime.dev/ 
