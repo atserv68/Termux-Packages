@@ -387,7 +387,7 @@
 | **dnote** | 1:0.16.0 | A simple command line notebook for programmers | https://www.getdnote.com/ |
 | **dnote-server** | 3.0.0 | This package contains the Dnote server. It comprises of the web interface, the web API, and the background jobs. | https://www.getdnote.com/ |
 | **dns2tcp** | 0.5.2-2 | dns2tcp is a tool for relaying TCP connections over DNS | https://github.com/alex-sector/dns2tcp |
-| **dnscontrol** | 5.3.1 | Infrastructure as code for DNS! | https://dnscontrol.org/ |
+| **dnscontrol** | 5.4.0 | Infrastructure as code for DNS! | https://dnscontrol.org/ |
 | **dnslookup** | 1.12.0 | Simple command line utility to make DNS lookups. Supports all known DNS protocols: plain DNS, DoH, DoT, DoQ, DNSCrypt. | https://github.com/ameshkov/dnslookup |
 | **dnsmap** | 0.36-3 | Subdomain Bruteforcing Tool | https://github.com/resurrecting-open-source-projects/dnsmap |
 | **dnstop** | 2022.10.19-1 | A libpcap application that displays various tables of DNS traffic on your network | https://github.com/measurement-factory/dnstop |
@@ -740,7 +740,7 @@
 | **grex** | 1.4.6-1 | Simplifies the task of creating regular expressions | https://github.com/pemistahl/grex |
 | **groff** | 1.24.2 | typesetting system that reads plain text mixed with formatting commands and produces formatted output | https://www.gnu.org/software/groff/ |
 | **gron** | 0.7.1-4 | Transforms JSON into discrete assignments | https://github.com/tomnomnom/gron |
-| **groonga** | 16.1.3 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
+| **groonga** | 16.1.3-1 | An embeddable fulltext search engine | https://github.com/groonga/groonga/ |
 | **groovy** | 6.0.0 | A powerful multi-faceted programming language for the JVM platform | https://groovy-lang.org/ |
 | **grpcurl** | 1.9.4 | Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers | https://github.com/fullstorydev/grpcurl |
 | **gsasl** | 2.2.4 | GNU SASL library command line interface | https://www.gnu.org/software/gsasl |
@@ -991,7 +991,7 @@
 | **libapt-pkg-perl** | 0.1.43 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.9 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.9 | Static libraries for libarchive | https://www.libarchive.org/ |
-| **libarrow-cpp** | 25.0.1 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
+| **libarrow-cpp** | 26.0.0 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
 | **libasio** | 1.38.2 | Cross-platform C++ library for network and low-level I/O programming | https://think-async.com/Asio |
 | **libasm** | 0.196 | Library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
 | **libasm-static** | 0.196 | Static library to assemble and disassemble instructions | https://sourceware.org/elfutils/ |
@@ -1947,7 +1947,7 @@
 | **mupdf** | 1.28.2-1 | Lightweight PDF and XPS viewer (library) | https://mupdf.com/ |
 | **mupdf-tools** | 1.28.2-1 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
 | **music-file-organizer** | 1.0.4-10 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
-| **mutt** | 2.4.2 | Mail client with patches from neomutt | http://www.mutt.org/ |
+| **mutt** | 2.4.3 | Mail client with patches from neomutt | http://www.mutt.org/ |
 | **mycli** | 2.28.2 | CLI for MySQL/MariaDB with auto-completion and syntax highlighting | https://mycli.net |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
 | **mympd** | 26.0.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
@@ -1986,7 +1986,7 @@
 | **neocmakelsp** | 0.11.2 | a cmake lsp based on tower-lsp and treesitter | https://neocmakelsp.github.io/ |
 | **neofetch** | 7.1.0-1 | Simple system information script | https://github.com/dylanaraps/neofetch |
 | **neomutt** | 20260616 | A version of mutt with added features | https://neomutt.org/ |
-| **neovim** | 0.12.5-1 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
+| **neovim** | 0.12.6 | Ambitious Vim-fork focused on extensibility and agility (nvim) | https://neovim.io/ |
 | **neovim-nightly** | 0.13.0~dev-1825+g402a494f47-0 | Ambitious Vim-fork focused on extensibility and agility (nvim-nightly) | https://neovim.io/ |
 | **nerdfix** | 0.4.2-1 | nerdfix helps you to find/fix obsolete Nerd Font icons in your project. | https://github.com/loichyan/nerdfix |
 | **net-snmp** | 5.9.5.2 | Various tools relating to the Simple Network Management Protocol | http://www.net-snmp.org/ |
@@ -2210,7 +2210,7 @@
 | **plzip** | 1.13 | A massively parallel lossless data compressor based on the lzlib compression library | https://www.nongnu.org/lzip/plzip.html |
 | **pngcrush** | 1.8.13-2 | Recompresses png files | https://pmt.sourceforge.io/pngcrush/ |
 | **pngquant** | 3.0.3-2 | PNG image optimising utility | https://pngquant.org |
-| **pnpm** | 12.11.0 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
+| **pnpm** | 12.11.2 | Fast, disk space efficient package manager for JavaScript | https://pnpm.io |
 | **pocketbase** | 0.40.5 | An open source Go backend | https://github.com/pocketbase/pocketbase |
 | **podofo** | 1.1.2 | A C++ library to work with the PDF file format | https://github.com/podofo/podofo |
 | **poke** | 5.0 | Interactive, extensible editor for binary data. | http://www.jemarch.net/poke.html |
@@ -2263,7 +2263,7 @@
 | **pwgen** | 2.08-2 | Password generator which by default, unless given the '-s' option, generates memorable but insecure passwords | http://pwgen.sourceforge.net/ |
 | **pybind11** | 3.1.0 | A lightweight header-only library that exposes C++ types in Python and vice versa | https://pybind11.readthedocs.io/ |
 | **pycairo** | 1.29.2 | Python bindings for the cairo graphics library | https://www.cairographics.org/pycairo/ |
-| **pygobject** | 3.58.0 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
+| **pygobject** | 3.58.1 | Python package which provides bindings for GObject based libraries | https://pygobject.gnome.org/ |
 | **pypy** | 8.0.0-1 | A fast, compliant alternative implementation of Python | https://pypy.org |
 | **pypy-tests** | 8.0.0-1 | Test files for PyPy | https://pypy.org |
 | **pypy-tkinter** | 8.0.0-1 | Tkinter support for PyPy | https://pypy.org |
@@ -2300,7 +2300,7 @@
 | **python-pip** | 26.2.1 | The PyPA recommended tool for installing Python packages | https://pip.pypa.io/ |
 | **python-pipcl** | 12 | Python packaging operations for use by python-mupdf and python-pymupdf | https://github.com/ArtifexSoftware/pipcl |
 | **python-psutil** | 7.2.2-2 | Cross-platform process and system utilities module for Python | https://github.com/giampaolo/psutil |
-| **python-pyarrow** | 25.0.1 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
+| **python-pyarrow** | 26.0.0 | Python bindings for Apache Arrow | https://github.com/apache/arrow |
 | **python-pycryptodomex** | 3.24.0 | A self-contained Python package of low-level cryptographic primitives | https://www.pycryptodome.org/ |
 | **python-pymupdf** | 1.28.2 | Python bindings for MuPDF's rendering library | https://github.com/pymupdf/PyMuPDF |
 | **python-pynacl** | 1.6.2 | Python binding to the Networking and Cryptography (NaCl) library | https://github.com/pyca/pynacl |
@@ -2308,7 +2308,7 @@
 | **python-pyppmd** | 1.3.1-1 | PPM compression/decompression library | https://github.com/miurahr/pyppmd |
 | **python-rpds-py** | 2026.9.1 | Python bindings to Rust's persistent data structures (rpds) | https://github.com/crate-py/rpds |
 | **python-ruff** | 0.16.10 | An extremely fast Python linter, written in Rust (Python bindings) | https://github.com/charliermarsh/ruff |
-| **python-sabyenc3** | 9.7.1 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
+| **python-sabyenc3** | 9.7.2 | C implementations of functions for use within SABnzbd | https://github.com/sabnzbd/sabctools |
 | **python-scipy** | 1.18.1 | Fundamental algorithms for scientific computing in Python | https://scipy.org/ |
 | **python-skia-pathops** | 0.9.2-2 | Python bindings for the Skia library's Path Ops | https://github.com/fonttools/skia-pathops |
 | **python-soxr** | 1.1.0-1 | Fast and high quality sample-rate conversion library for Python | https://github.com/dofuuz/python-soxr |
@@ -2356,8 +2356,8 @@
 | **qhull-static** | 8.1-alpha3-2 | Static libraries for qhull | http://www.qhull.org |
 | **qpdf** | 12.4.2 | Content-Preserving PDF Transformation System | http://qpdf.sourceforge.net |
 | **qrsspig** | 0.8.1 | Headless QRSS grabber for Raspberry Pi's | https://gitlab.com/hb9fxx/qrsspig |
-| **qrupdate-ng** | 2:1.3.0 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
-| **qrupdate-ng-static** | 2:1.3.0 | Static libraries for qrupdate-ng | https://github.com/mpimd-csc/qrupdate-ng |
+| **qrupdate-ng** | 2:1.3.1 | A Library for Fast Updating of QR and Cholesky Decompositions. | https://github.com/mpimd-csc/qrupdate-ng |
+| **qrupdate-ng-static** | 2:1.3.1 | Static libraries for qrupdate-ng | https://github.com/mpimd-csc/qrupdate-ng |
 | **quick-lint-js** | 3.2.0-1 | Finds bugs in JavaScript programs | https://quick-lint-js.com/ |
 | **quickjs-ng** | 0.17.0 | Embeddable JavaScript engine in C (NG fork) | https://quickjs-ng.github.io/quickjs/ |
 | **quilt** | 0.69 | Allows you to easily manage large numbers of patches | https://savannah.nongnu.org/projects/quilt |
@@ -2369,7 +2369,7 @@
 | **rage** | 0.12.1 | A simple, secure and modern encryption tool | https://age-encryption.org/v1 |
 | **ragel** | 7.0.4-1 | Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code | https://www.colm.net/open-source/ragel/ |
 | **ragel-static** | 7.0.4-1 | Static libraries for ragel | https://www.colm.net/open-source/ragel/ |
-| **railway-cli** | 5.64.1 | This is the command line interface for Railway | https://railway.app |
+| **railway-cli** | 5.64.2 | This is the command line interface for Railway | https://railway.app |
 | **range-v3** | 0.12.0-1 | Range library for C++14/17/20, basis for C++20's std::ranges | https://github.com/ericniebler/range-v3 |
 | **ranger** | 1.9.4-2 | File manager with VI key bindings | https://ranger.github.io/ |
 | **rapidjson** | 1.1.0-7 | Fast JSON parser/generator for C++ with SAX/DOM style API | https://github.com/Tencent/rapidjson/ |
@@ -2379,7 +2379,7 @@
 | **ravencoin-static** | 4.8.0 | Static libraries for ravencoin | https://ravencoin.org/ |
 | **rbw** | 1.15.0 | An unofficial command line client for Bitwarden | https://github.com/doy/rbw |
 | **rc** | 1.7.4-2 | An alternative implementation of the plan 9 rc shell | https://github.com/rakitzis/rc |
-| **rclone** | 1.75.1 | rsync for cloud storage | https://rclone.org/ |
+| **rclone** | 1.75.2 | rsync for cloud storage | https://rclone.org/ |
 | **rcm** | 1.3.6 | Dotfiles management | https://github.com/thoughtbot/rcm |
 | **rcs** | 5.10.1-1 | The GNU Revision Control System | https://www.gnu.org/s/rcs |
 | **rdfind** | 1.8.0 | A tool for finding duplicate files | https://github.com/pauldreik/rdfind |
