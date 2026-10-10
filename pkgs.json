@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.11",
+    "Version": "2.37.12",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -1753,7 +1753,7 @@
   },
   {
     "Package": "cookcli",
-    "Version": "0.38.0",
+    "Version": "0.38.1",
     "Description": "A suite of tools to create shopping lists and maintain food recipes",
     "Homepage": "https://cooklang.org"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.180.0",
+    "Version": "1.181.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -10657,7 +10657,7 @@
   },
   {
     "Package": "luau",
-    "Version": "0.741",
+    "Version": "0.742",
     "Description": "A small, fast, and embeddable programming language based on Lua with a gradual type system.",
     "Homepage": "https://github.com/luau-lang/luau"
   },
@@ -13783,7 +13783,7 @@
   },
   {
     "Package": "python-ruff",
-    "Version": "0.16.10",
+    "Version": "0.17.0",
     "Description": "An extremely fast Python linter, written in Rust (Python bindings)",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -14599,7 +14599,7 @@
   },
   {
     "Package": "ruff",
-    "Version": "0.16.10",
+    "Version": "0.17.0",
     "Description": "An extremely fast Python linter, written in Rust",
     "Homepage": "https://github.com/charliermarsh/ruff"
   },
@@ -16687,7 +16687,7 @@
   },
   {
     "Package": "ty",
-    "Version": "0.0.85",
+    "Version": "0.0.86",
     "Description": "An extremely fast Python type checker and language server, written in Rust",
     "Homepage": "https://github.com/astral-sh/ty"
   },
@@ -16933,7 +16933,7 @@
   },
   {
     "Package": "uv",
-    "Version": "0.12.24",
+    "Version": "0.13.0",
     "Description": "An extremely fast Python package installer and resolver, written in Rust.",
     "Homepage": "https://docs.astral.sh/uv/"
   },
