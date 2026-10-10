@@ -283,7 +283,7 @@
   },
   {
     "Package": "aom-tools",
-    "Version": "3.15.1",
+    "Version": "3.15.2",
     "Description": "Command-line tools using AOMedia library",
     "Homepage": "https://aomedia.org/"
   },
@@ -5857,13 +5857,13 @@
   },
   {
     "Package": "libaom",
-    "Version": "3.15.1",
+    "Version": "3.15.2",
     "Description": "AV1 Video Codec Library",
     "Homepage": "https://aomedia.org/"
   },
   {
     "Package": "libaom-static",
-    "Version": "3.15.1",
+    "Version": "3.15.2",
     "Description": "Static libraries for libaom",
     "Homepage": "https://aomedia.org/"
   },
@@ -9133,19 +9133,19 @@
   },
   {
     "Package": "libsqlite",
-    "Version": "3.53.4",
+    "Version": "3.54.0",
     "Description": "Library implementing a self-contained and transactional SQL database engine",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-static",
-    "Version": "3.53.4",
+    "Version": "3.54.0",
     "Description": "Static libraries for libsqlite",
     "Homepage": "https://www.sqlite.org"
   },
   {
     "Package": "libsqlite-tcl",
-    "Version": "3.53.4",
+    "Version": "3.54.0",
     "Description": "tcl bindings for SQLite",
     "Homepage": "https://www.sqlite.org"
   },
@@ -10099,13 +10099,13 @@
   },
   {
     "Package": "libxmp",
-    "Version": "4.7.3",
+    "Version": "4.7.4",
     "Description": "Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)",
     "Homepage": "https://github.com/libxmp/libxmp"
   },
   {
     "Package": "libxmp-static",
-    "Version": "4.7.3",
+    "Version": "4.7.4",
     "Description": "Static libraries for libxmp",
     "Homepage": "https://github.com/libxmp/libxmp"
   },
@@ -11863,7 +11863,7 @@
   },
   {
     "Package": "neovim-nightly",
-    "Version": "0.13.0~dev-1825+g402a494f47-0",
+    "Version": "0.13.0~dev-1828+g7e1ae5115f-0",
     "Description": "Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)",
     "Homepage": "https://neovim.io/"
   },
@@ -15349,7 +15349,7 @@
   },
   {
     "Package": "sqlite",
-    "Version": "3.53.4",
+    "Version": "3.54.0",
     "Description": "Command line shell for SQLite",
     "Homepage": "https://www.sqlite.org"
   },

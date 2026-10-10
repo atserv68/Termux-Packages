@@ -187,7 +187,7 @@
   Description: A free MS Word reader
   Homepage: https://en.m.wikipedia.org/wiki/Antiword
 - Package: aom-tools
-  Version: 3.15.1
+  Version: 3.15.2
   Description: Command-line tools using AOMedia library
   Homepage: https://aomedia.org/
 - Package: aosp-libs
@@ -3903,11 +3903,11 @@
   Description: Static libraries for libao
   Homepage: https://www.xiph.org/ao/
 - Package: libaom
-  Version: 3.15.1
+  Version: 3.15.2
   Description: AV1 Video Codec Library
   Homepage: https://aomedia.org/
 - Package: libaom-static
-  Version: 3.15.1
+  Version: 3.15.2
   Description: Static libraries for libaom
   Homepage: https://aomedia.org/
 - Package: libapt-pkg-perl
@@ -6087,15 +6087,15 @@
   Description: Static libraries for libspice-server
   Homepage: https://www.spice-space.org/
 - Package: libsqlite
-  Version: 3.53.4
+  Version: 3.54.0
   Description: Library implementing a self-contained and transactional SQL database engine
   Homepage: https://www.sqlite.org
 - Package: libsqlite-static
-  Version: 3.53.4
+  Version: 3.54.0
   Description: Static libraries for libsqlite
   Homepage: https://www.sqlite.org
 - Package: libsqlite-tcl
-  Version: 3.53.4
+  Version: 3.54.0
   Description: tcl bindings for SQLite
   Homepage: https://www.sqlite.org
 - Package: libsrt
@@ -6731,11 +6731,11 @@
   Description: Static libraries for libxmlrpc
   Homepage: https://xmlrpc-c.sourceforge.io/
 - Package: libxmp
-  Version: 4.7.3
+  Version: 4.7.4
   Description: Extended Module Player C Library that renders tracker and module music (MOD, S3M, IT, XM etc.)
   Homepage: https://github.com/libxmp/libxmp
 - Package: libxmp-static
-  Version: 4.7.3
+  Version: 4.7.4
   Description: Static libraries for libxmp
   Homepage: https://github.com/libxmp/libxmp
 - Package: libxrandr
@@ -7907,7 +7907,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1825+g402a494f47-0
+  Version: 0.13.0~dev-1828+g7e1ae5115f-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -10231,7 +10231,7 @@
   Description: SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files
   Homepage: https://github.com/sqlcipher/sqlcipher
 - Package: sqlite
-  Version: 3.53.4
+  Version: 3.54.0
   Description: Command line shell for SQLite
   Homepage: https://www.sqlite.org
 - Package: squashfs-tools-ng
