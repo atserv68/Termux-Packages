@@ -1261,7 +1261,7 @@
   },
   {
     "Package": "cargo-binstall",
-    "Version": "1.25.2",
+    "Version": "1.25.3",
     "Description": "Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem",
     "Homepage": "https://github.com/cargo-bins/cargo-binstall"
   },
@@ -4237,7 +4237,7 @@
   },
   {
     "Package": "gotty",
-    "Version": "1.9.0",
+    "Version": "1.10.0",
     "Description": "Share your terminal as a web application",
     "Homepage": "https://github.com/sorenisanerd/gotty"
   },
@@ -4945,13 +4945,13 @@
   },
   {
     "Package": "imagemagick",
-    "Version": "7.1.2.32",
+    "Version": "7.1.2.33",
     "Description": "Suite to create, edit, compose, or convert images in a variety of formats",
     "Homepage": "https://www.imagemagick.org/"
   },
   {
     "Package": "imagemagick-static",
-    "Version": "7.1.2.32",
+    "Version": "7.1.2.33",
     "Description": "Static libraries for imagemagick",
     "Homepage": "https://www.imagemagick.org/"
   },
@@ -11401,7 +11401,7 @@
   },
   {
     "Package": "moor",
-    "Version": "2.19.3",
+    "Version": "2.19.4",
     "Description": "A pager designed to just do the right thing without any configuration",
     "Homepage": "https://github.com/walles/moor"
   },
@@ -11629,7 +11629,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.28.2",
+    "Version": "2.29.1",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -12265,7 +12265,7 @@
   },
   {
     "Package": "oma",
-    "Version": "1.27.9",
+    "Version": "1.28.0",
     "Description": "oma is an attempt at reworking APTs interface",
     "Homepage": "https://aosc.io/oma"
   },
@@ -15589,7 +15589,7 @@
   },
   {
     "Package": "stylua",
-    "Version": "2.5.2",
+    "Version": "2.6.0",
     "Description": "An opinionated Lua code formatter",
     "Homepage": "https://github.com/JohnnyMorganz/StyLua"
   },

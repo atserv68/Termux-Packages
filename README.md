@@ -220,7 +220,7 @@
 | **capstone-static** | 5.0.9 | Static libraries for capstone | https://www.capstone-engine.org/ |
 | **carapace** | 1.8.0 | Multi-shell multi-command argument completer | https://carapace.sh/ |
 | **cargo-audit** | 0.22.2 | Audit Cargo.lock for crates with security vulnerabilities reported to the RustSec Advisory Database | https://rustsec.org |
-| **cargo-binstall** | 1.25.2 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
+| **cargo-binstall** | 1.25.3 | Tool to fetch and install precompiled musl-based static binaries from the Rust ecosystem | https://github.com/cargo-bins/cargo-binstall |
 | **cargo-c** | 0.10.25 | Cargo C-ABI helpers | https://github.com/lu-zero/cargo-c |
 | **cargo-cache** | 0.8.3 | Tool to manage cargo cache | https://github.com/matthiaskrgr/cargo-cache |
 | **cargo-flamegraph** | 0.6.14 | Simple cargo subcommand for generating flamegraphs, using inferno under the hood | https://github.com/flamegraph-rs/flamegraph |
@@ -716,7 +716,7 @@
 | **gotify** | 3.1.1 | A simple server for sending and receiving messages in real-time per WebSocket. | https://github.com/gotify/server |
 | **gotop** | 4.2.0-4 | A terminal based graphical activity monitor inspired by gtop and vtop | https://github.com/xxxserxxx/gotop |
 | **gotorrent** | 0.1.2-1 | TUI for searching torrents | https://github.com/ismaelpadilla/gotorrent |
-| **gotty** | 1.9.0 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
+| **gotty** | 1.10.0 | Share your terminal as a web application | https://github.com/sorenisanerd/gotty |
 | **govulncheck** | 1.8.0 | Reports known vulnerabilities affecting Go code | https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck |
 | **gpac** | 26.07.0 | An open-source multimedia framework focused on modularity and standards compliance | https://gpac.wp.imt.fr/ |
 | **gpac-static** | 26.07.0 | Static libraries for gpac | https://gpac.wp.imt.fr/ |
@@ -834,8 +834,8 @@
 | **id3lib** | 3.8.3-4 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | https://id3lib.sourceforge.net/ |
 | **id3lib-static** | 3.8.3-4 | Static libraries for id3lib | https://id3lib.sourceforge.net/ |
 | **id3v2** | 0.1.12-2 | A command line id3v2 tag editor | https://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.2.32 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.2.32 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.2.33 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.2.33 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.2.3 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imlib2** | 1.12.7 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
 | **imlib2-static** | 1.12.7 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
@@ -1910,7 +1910,7 @@
 | **mono-static** | 6.14.1-2 | Static libraries for mono | https://gitlab.winehq.org/mono/mono |
 | **monolith** | 2.11.3 | CLI tool for saving complete web pages as a single HTML file | https://github.com/Y2Z/monolith |
 | **moon-buggy** | 1.1.0 | Simple game where you drive a car across the moon's surface | https://www.seehuhn.de/programs/moon-buggy |
-| **moor** | 2.19.3 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
+| **moor** | 2.19.4 | A pager designed to just do the right thing without any configuration | https://github.com/walles/moor |
 | **mop** | 2025.12.28 | Stock market tracker | https://github.com/mop-tracker/mop |
 | **moreutils** | 0.70-1 | A growing collection of the unix tools that nobody thought to write thirty years ago | https://joeyh.name/code/moreutils/ |
 | **moria** | 5.7.15-7 | Rogue-like game with an infinite dungeon | https://umoria.org |
@@ -1948,7 +1948,7 @@
 | **mupdf-tools** | 1.28.2-1 | Lightweight PDF and XPS viewer (utilities) | https://mupdf.com/ |
 | **music-file-organizer** | 1.0.4-10 | Organizer of audio files into directories based on metadata tags | https://git.zx2c4.com/music-file-organizer/about/ |
 | **mutt** | 2.4.3 | Mail client with patches from neomutt | http://www.mutt.org/ |
-| **mycli** | 2.28.2 | CLI for MySQL/MariaDB with auto-completion and syntax highlighting | https://mycli.net |
+| **mycli** | 2.29.1 | CLI for MySQL/MariaDB with auto-completion and syntax highlighting | https://mycli.net |
 | **myman** | 0.7.1-6 | Video game for color and monochrome text terminals in the genre of Namco's Pac-Man | https://sourceforge.net/projects/myman/ |
 | **mympd** | 26.0.0 | A standalone and lightweight web-based MPD client | https://jcorporation.github.io/myMPD/ |
 | **mypaint-brushes** | 2.0.2 | MyPaint brushes | https://github.com/mypaint/mypaint-brushes |
@@ -2054,7 +2054,7 @@
 | **oleo** | 1.99.16-10 | The GNU Spreadsheet | https://www.gnu.org/software/oleo/ |
 | **ollama** | 0.35.1 | Get up and running with large language models | https://ollama.com/ |
 | **ollama-backend-vulkan** | 0.35.1 | Vulkan Backend for Ollama | https://ollama.com/ |
-| **oma** | 1.27.9 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
+| **oma** | 1.28.0 | oma is an attempt at reworking APT's interface | https://aosc.io/oma |
 | **onefetch** | 3.0.0 | A command-line Git information tool written in Rust | https://onefetch.dev/ |
 | **onigmo** | 6.2.0-1 | A regular expressions library forked from Oniguruma | https://github.com/k-takata/Onigmo |
 | **onigmo-static** | 6.2.0-1 | Static libraries for onigmo | https://github.com/k-takata/Onigmo |
@@ -2608,7 +2608,7 @@
 | **stunnel** | 5.82 | Socket wrapper which can provide TLS support to ordinary applications | https://www.stunnel.org/ |
 | **stunnel-static** | 5.82 | Static libraries for stunnel | https://www.stunnel.org/ |
 | **stuntman** | 1.2.16-8 | An open source STUN server | https://www.stunprotocol.org/ |
-| **stylua** | 2.5.2 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
+| **stylua** | 2.6.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4-1 | DVD subtitle ripper for Linux | https://subtitleripper.sourceforge.net/ |
 | **subversion** | 1.15.0 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
 | **subversion-perl** | 1.15.0 | Perl interface to Subversion | https://subversion.apache.org |
