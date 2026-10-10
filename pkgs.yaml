@@ -1111,7 +1111,7 @@
   Description: The post-quantum cryptography tool
   Homepage: http://e-x-a.org/codecrypt/
 - Package: codex
-  Version: 0.161.0
+  Version: 0.162.1
   Description: Lightweight coding agent that runs in your terminal
   Homepage: https://github.com/openai/codex
 - Package: codon
@@ -1447,7 +1447,7 @@
   Description: Web Directory Fuzzer
   Homepage: https://dirb.sourceforge.net/
 - Package: direnv
-  Version: 2.38.1
+  Version: 2.38.2
   Description: Environment switcher for shell
   Homepage: https://github.com/direnv/direnv
 - Package: direvent
@@ -7591,7 +7591,7 @@
   Description: Static libraries for mono
   Homepage: https://gitlab.winehq.org/mono/mono
 - Package: monolith
-  Version: 2.11.2
+  Version: 2.11.3
   Description: CLI tool for saving complete web pages as a single HTML file
   Homepage: https://github.com/Y2Z/monolith
 - Package: moon-buggy
@@ -8139,7 +8139,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 31.6.0
+  Version: 31.7.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oha
@@ -10799,11 +10799,11 @@
   Description: Flexible, screen-oriented MUD client, for use with any type of MUD
   Homepage: https://tinyfugue.sourceforge.net/
 - Package: tinygo
-  Version: 0.42.0-1
+  Version: 0.43.0
   Description: Go compiler for microcontrollers, WASM, CLI tools
   Homepage: https://tinygo.org
 - Package: tinygo-common
-  Version: 0.42.0-1
+  Version: 0.43.0
   Description: TinyGo common files
   Homepage: https://tinygo.org
 - Package: tinymist
