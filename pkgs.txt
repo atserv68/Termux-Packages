@@ -188,7 +188,7 @@
  busybox  1.38.0-1  Tiny versions of many common UNIX utilities into a single small executable  https://busybox.net/ 
  bvi  1.5.0-1  Binary file editor based on vi  https://bvi.sourceforge.net/ 
  byacc  20260126  byacc is generally conceded to be the best yacc variant available  https://invisible-island.net/byacc/ 
- byobu  7.20  Byobu is a GPLv3 open source text-based window manager and terminal multiplexer  https://www.byobu.org/ 
+ byobu  7.21  Byobu is a GPLv3 open source text-based window manager and terminal multiplexer  https://www.byobu.org/ 
  bzip2  1.0.8-8  Tools for working with bzip2 compression  http://www.bzip.org/ 
  c-ares  1.34.8  Library for asynchronous DNS requests (including name resolves)  https://c-ares.org/ 
  c-toxcore  0.2.23  Backend library for the Tox protocol  https://tox.chat 
@@ -243,7 +243,7 @@
  chafa-static  1.18.3  Static libraries for chafa  https://hpjansson.org/chafa/ 
  check  0.15.2-3  A unit testing framework for C  https://libcheck.github.io/check 
  check-static  0.15.2-3  Static libraries for check  https://libcheck.github.io/check 
- chezmoi  2.73.0  Manage your dotfiles across multiple machines  https://chezmoi.io 
+ chezmoi  2.73.1  Manage your dotfiles across multiple machines  https://chezmoi.io 
  chicken  6.0.0  A feature rich Scheme compiler and interpreter  https://www.call-cc.org 
  chicken-static  6.0.0  Static libraries for chicken  https://www.call-cc.org 
  chntpw  140201  Offline Windows NT Password & Registry Editor  https://pogostick.net/~pnh/ntpasswd/ 
@@ -387,7 +387,7 @@
  docopt  0.6.3-4  Command line arguments parser for C++11 and later  http://docopt.org 
  docopt-static  0.6.3-4  Static libraries for docopt  http://docopt.org 
  doctest  2.5.3  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
- doctl  1.181.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
+ doctl  1.182.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
  doge  0.2.9  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
  doggo  1.4.0  Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt  https://github.com/mr-karan/doggo 
  dopewars  1.6.2-1  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
@@ -691,7 +691,7 @@
  gomuks  26.09  A terminal Matrix client written in Go  https://go.mau.fi/gomuks 
  google-glog  0.7.1-2  Logging library for C++  https://github.com/google/glog 
  googletest  1.18.0  Google C++ testing framework  https://github.com/google/googletest 
- goose  3.28.0  A database migration tool. Supports SQL migrations and Go functions.  https://pressly.github.io/goose 
+ goose  3.29.0  A database migration tool. Supports SQL migrations and Go functions.  https://pressly.github.io/goose 
  gopass  1.17.4  The slightly more awesome standard unix password manager for teams  https://github.com/gopasspw/gopass 
  gopher  3.0.19  University of Minnesota gopher  gopher://gopher.quux.org/1/devel/gopher 
  gopls  0.23.0  The official Go language server  https://github.com/golang/tools 
@@ -778,6 +778,7 @@
  hidapi  0.15.0  Simple cross-platform library for communicating with HID devices  https://libusb.info/hidapi 
  highway  1.4.0-1  Performance-portable, length-agnostic SIMD with runtime dispatch  https://github.com/google/highway 
  hilbish  1:2.3.4-1  The Moon-powered shell! A comfy and extensible shell for Lua fans!  https://rosettea.github.io/Hilbish/ 
+ hk  2.5.0  A tool for managing git hooks  https://hk.jdx.dev/ 
  hledger  1.52.4  Robust, friendly, fast plain text accounting software. (CLI only)  https://hledger.org/ 
  hledger-ui  1.52.4  hledger-ui - terminal interface (TUI) for hledger, a robust, friendly plain text accounting app.  https://hledger.org/ 
  hnterm  1.0.5-2  A simple tool to browse Hacker News in the terminal  https://github.com/ggerganov/imtui 
@@ -918,7 +919,7 @@
  lager  0.1.3  C++ library for value-oriented design  https://sinusoid.es/lager/ 
  lame  4.0-1  High quality MPEG Audio Layer III (MP3) encoder - frontend  https://lame.sourceforge.io/ 
  lastpass-cli  1.6.1-4  LastPass command line interface tool  https://lastpass.com/ 
- lazygit  0.66.0  Simple terminal UI for git commands  https://github.com/jesseduffield/lazygit 
+ lazygit  0.66.1  Simple terminal UI for git commands  https://github.com/jesseduffield/lazygit 
  lcal  2.1.0-1  A multi-platform program which generates PostScript lunar calendars in a yearly format  https://pcal.sourceforge.net/ 
  ldc  1.30.0-3  D programming language compiler, built with LLVM  https://github.com/ldc-developers/ldc 
  ldd  0.3-2  Fake ldd command  https://github.com/termux/termux-packages 
@@ -1122,8 +1123,8 @@
  libfann  2.2.0-2  Fast artificial neural network library  http://leenissen.dk/fann/wp 
  libfcl  0.7.0-4  Flexible collision library  https://github.com/flexible-collision-library/fcl 
  libfdisk  2.42.4  Library for manipulating disk partition tables  https://en.wikipedia.org/wiki/Util-linux 
- libfdk-aac  2.0.3-1  Fraunhofer FDK AAC Codec Library  https://github.com/mstorsjo/fdk-aac 
- libfdk-aac-static  2.0.3-1  Static libraries for libfdk-aac  https://github.com/mstorsjo/fdk-aac 
+ libfdk-aac  3.0.0  Fraunhofer FDK AAC Codec Library  https://github.com/mstorsjo/fdk-aac 
+ libfdk-aac-static  3.0.0  Static libraries for libfdk-aac  https://github.com/mstorsjo/fdk-aac 
  libffi  3.8.0  Library providing a portable, high level programming interface to various calling conventions  https://sourceware.org/libffi/ 
  libffi-static  3.8.0  Static libraries for libffi  https://sourceware.org/libffi/ 
  libfixposix  0.5.1-1  Thin wrapper over POSIX syscalls  https://github.com/sionescu/libfixposix/ 
@@ -1207,10 +1208,10 @@
  libigloo-static  0.9.5  Static libraries for libigloo  https://icecast.org 
  libimagequant  4.4.1  Small, portable C library for high-quality conversion of RGBA images to 8-bit indexed-color (palette) images  https://pngquant.org/lib/ 
  libimagequant-static  4.4.1  Static libraries for libimagequant  https://pngquant.org/lib/ 
- libimobiledevice  1.4.0  A library to communicate with services on iOS devices using native protocols  https://libimobiledevice.org/ 
- libimobiledevice-glue  1.3.3  Library with common code used by the libraries and tools around the libimobiledevice project  https://libimobiledevice.org/ 
- libimobiledevice-glue-static  1.3.3  Static libraries for libimobiledevice-glue  https://libimobiledevice.org/ 
- libimobiledevice-static  1.4.0  Static libraries for libimobiledevice  https://libimobiledevice.org/ 
+ libimobiledevice  1.4.0-1  A library to communicate with services on iOS devices using native protocols  https://libimobiledevice.org/ 
+ libimobiledevice-glue  1.3.3-1  Library with common code used by the libraries and tools around the libimobiledevice project  https://libimobiledevice.org/ 
+ libimobiledevice-glue-static  1.3.3-1  Static libraries for libimobiledevice-glue  https://libimobiledevice.org/ 
+ libimobiledevice-static  1.4.0-1  Static libraries for libimobiledevice  https://libimobiledevice.org/ 
  libimtui  1.0.5-2  An immediate mode text-based user interface library  https://github.com/ggerganov/imtui 
  libinih  62  A simple .INI file parser written in C  https://github.com/benhoyt/inih 
  libiniparser  4.3.2  Offers parsing of ini files from the C level  https://github.com/ndevilla/iniparser 
@@ -1418,8 +1419,8 @@
  libpipeline-static  1.5.8-1  Static libraries for libpipeline  http://libpipeline.nongnu.org/ 
  libpixman  0.46.4-1  Low-level library for pixel manipulation  https://www.pixman.org/ 
  libplacebo  7.360.1  Reusable library for GPU-accelerated video/image rendering  http://libplacebo.org/ 
- libplist  2.7.0-1  A small portable C library to handle Apple Property List files in binary or XML format  https://libimobiledevice.org 
- libplist-static  2.7.0-1  Static libraries for libplist  https://libimobiledevice.org 
+ libplist  2.8.0  A small portable C library to handle Apple Property List files in binary or XML format  https://libimobiledevice.org 
+ libplist-static  2.8.0  Static libraries for libplist  https://libimobiledevice.org 
  libpluto  0.13.1  Shared library for the Pluto interpreter  https://plutolang.github.io/ 
  libpluto-static  0.13.1  Static libraries for libpluto  https://plutolang.github.io/ 
  libpng  1.6.59  Official PNG reference library  http://www.libpng.org/pub/png/libpng.html 
@@ -1544,8 +1545,8 @@
  libtalloc-static  2.5.0  Static libraries for libtalloc  https://talloc.samba.org/talloc/doc/html/index.html 
  libtasn1  4.21.0  This is GNU Libtasn1, a small ASN.1 library  https://www.gnu.org/software/libtasn1/ 
  libtasn1-static  4.21.0  Static libraries for libtasn1  https://www.gnu.org/software/libtasn1/ 
- libtatsu  1.0.5-1  Library handling the communication with Apple's Tatsu Signing Server (TSS)  https://libimobiledevice.org/ 
- libtatsu-static  1.0.5-1  Static libraries for libtatsu  https://libimobiledevice.org/ 
+ libtatsu  1.0.5-2  Library handling the communication with Apple's Tatsu Signing Server (TSS)  https://libimobiledevice.org/ 
+ libtatsu-static  1.0.5-2  Static libraries for libtatsu  https://libimobiledevice.org/ 
  libtbb  2023.1.0  oneAPI Threading Building Blocks  https://uxlfoundation.github.io/oneTBB/ 
  libtd  1.8.50-1  Library for building Telegram clients  https://core.telegram.org/tdlib/ 
  libtd-static  1.8.50-1  Static libraries for libtd  https://core.telegram.org/tdlib/ 
@@ -1600,8 +1601,8 @@
  liburcu-static  0.15.7  Static libraries for liburcu  https://liburcu.org/ 
  libusb  1.0.30  A C library that provides generic access to USB devices  https://libusb.info/ 
  libusb-static  1.0.30  Static libraries for libusb  https://libusb.info/ 
- libusbmuxd  2.1.1-2  A client library for applications to handle usbmux protocol connections with iOS devices  https://libimobiledevice.org 
- libusbmuxd-static  2.1.1-2  Static libraries for libusbmuxd  https://libimobiledevice.org 
+ libusbmuxd  2.1.1-3  A client library for applications to handle usbmux protocol connections with iOS devices  https://libimobiledevice.org 
+ libusbmuxd-static  2.1.1-3  Static libraries for libusbmuxd  https://libimobiledevice.org 
  libusbredir  0.15.0  network protocol for sending USB device traffic over a network connection  https://www.spice-space.org/ 
  libuuid  2.42.4  Library for handling universally unique identifiers  https://en.wikipedia.org/wiki/Util-linux 
  libuv  1.53.0  Support library with a focus on asynchronous I/O  https://libuv.org 
@@ -1880,7 +1881,7 @@
  miniz  3.1.2  Single C source file zlib-replacement library  https://github.com/richgel999/miniz 
  minizinc  2.10.1  A medium-level constraint modelling language  https://github.com/MiniZinc/libminizinc 
  minizinc-static  2.10.1  Static libraries for minizinc  https://github.com/MiniZinc/libminizinc 
- mise  2026.10.4  dev tools, env vars, task runner  https://mise.jdx.dev/ 
+ mise  2026.10.8  dev tools, env vars, task runner  https://mise.jdx.dev/ 
  mkbootimg  2022.11.09-1  Maintained fork with android's mkbootimg and unpackbootimg  https://github.com/osm0sis/mkbootimg 
  mkcert  1.4.4  A simple zero-config tool to make locally trusted development certificates  https://github.com/FiloSottile/mkcert 
  mkp224o  1.7.0-1  Generate vanity ed25519 (hidden service version 3) onion addresses  https://github.com/cathugger/mkp224o 
@@ -1936,9 +1937,9 @@
  mupdf-tools  1.28.2-1  Lightweight PDF and XPS viewer (utilities)  https://mupdf.com/ 
  music-file-organizer  1.0.4-10  Organizer of audio files into directories based on metadata tags  https://git.zx2c4.com/music-file-organizer/about/ 
  mutt  2.4.3  Mail client with patches from neomutt  http://www.mutt.org/ 
- mycli  2.29.1  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
+ mycli  2.29.4  CLI for MySQL/MariaDB with auto-completion and syntax highlighting  https://mycli.net 
  myman  0.7.1-6  Video game for color and monochrome text terminals in the genre of Namco's Pac-Man  https://sourceforge.net/projects/myman/ 
- mympd  26.0.0  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
+ mympd  26.1.0  A standalone and lightweight web-based MPD client  https://jcorporation.github.io/myMPD/ 
  mypaint-brushes  2.0.2  MyPaint brushes  https://github.com/mypaint/mypaint-brushes 
  myrepos  1.20180726-4  Tool to manage all your version control repos  https://myrepos.branchable.com/ 
  n-t-roff-sc  7.16-1.2.0-0  A vi-like spreadsheet calculator  https://github.com/n-t-roff/sc 
@@ -2035,7 +2036,7 @@
  odt2txt  0.5-5  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
  oh-my-posh  31.7.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  oha  1.16.0  HTTP load generator with realtime tui, inspired by rakyll/hey  https://github.com/hatoo/oha 
- oidn  2.4.1  Intel® Open Image Denoise library  https://www.openimagedenoise.org 
+ oidn  2.5.1  Intel® Open Image Denoise library  https://www.openimagedenoise.org 
  oils-for-unix  0.38.0-1  Bash-compatible Unix shell with more consistent syntax and semantics  https://oils.pub/ 
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
@@ -2198,7 +2199,7 @@
  plzip  1.13  A massively parallel lossless data compressor based on the lzlib compression library  https://www.nongnu.org/lzip/plzip.html 
  pngcrush  1.8.13-2  Recompresses png files  https://pmt.sourceforge.io/pngcrush/ 
  pngquant  3.0.3-2  PNG image optimising utility  https://pngquant.org 
- pnpm  12.12.0  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
+ pnpm  12.12.1  Fast, disk space efficient package manager for JavaScript  https://pnpm.io 
  pocketbase  0.40.5  An open source Go backend  https://github.com/pocketbase/pocketbase 
  podofo  1.1.2  A C++ library to work with the PDF file format  https://github.com/podofo/podofo 
  poke  5.0  Interactive, extensible editor for binary data.  http://www.jemarch.net/poke.html 
@@ -2230,7 +2231,7 @@
  progress  0.17-1  Linux tool to show progress for cp, mv, dd and more  https://github.com/Xfennec/progress 
  proj  9.9.0  Generic coordinate transformation software  https://proj.org 
  proot  5.1.107.96  Emulate chroot, bind mount and binfmt_misc for non-root users  https://proot-me.github.io/ 
- proot-distro  5.9.0  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
+ proot-distro  5.10.0  Termux official utility for managing proot'ed Linux distributions  https://github.com/termux/proot-distro 
  protobuf  2:35.1  Compiler for protocol buffer definition files  https://github.com/protocolbuffers/protobuf 
  proton-bridge  3.27.1  ProtonMail Bridge application  https://github.com/ProtonMail/proton-bridge 
  proton-drive-cli  0.9.0  Official command-line client for Proton Drive  https://github.com/ProtonDriveApps/sdk 
@@ -2320,26 +2321,26 @@
  q-dns-client  0.19.12  A tiny command line DNS client with support for UDP, TCP, DoT, DoH, DoQ and ODoH  https://github.com/natesales/q 
  qalc  5.13.1  Powerful and easy to use command line calculator  https://qalculate.github.io/ 
  qalc-static  5.13.1  Static libraries for qalc  https://qalculate.github.io/ 
- qemu-common  1:11.0.3  A set common files used by the QEMU emulators  https://www.qemu.org 
- qemu-system-aarch64-headless  1:11.0.3  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
- qemu-system-arm-headless  1:11.0.3  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
- qemu-system-i386-headless  1:11.0.3  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
- qemu-system-m68k-headless  1:11.0.3  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
- qemu-system-ppc-headless  1:11.0.3  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
- qemu-system-ppc64-headless  1:11.0.3  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
- qemu-system-riscv32-headless  1:11.0.3  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
- qemu-system-riscv64-headless  1:11.0.3  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
- qemu-system-x86-64-headless  1:11.0.3  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
- qemu-user-aarch64  1:11.0.3  QEMU Linux user mode emulator  https://www.qemu.org 
- qemu-user-arm  1:11.0.3  QEMU Linux user mode emulator  https://www.qemu.org 
- qemu-user-i386  1:11.0.3  QEMU Linux user mode emulator  https://www.qemu.org 
- qemu-user-m68k  1:11.0.3  QEMU Linux user mode emulator  https://www.qemu.org 
- qemu-user-ppc  1:11.0.3  QEMU Linux user mode emulator  https://www.qemu.org 
- qemu-user-ppc64  1:11.0.3  QEMU Linux user mode emulator  https://www.qemu.org 
- qemu-user-riscv32  1:11.0.3  QEMU Linux user mode emulator  https://www.qemu.org 
- qemu-user-riscv64  1:11.0.3  QEMU Linux user mode emulator  https://www.qemu.org 
- qemu-user-x86-64  1:11.0.3  QEMU Linux user mode emulator  https://www.qemu.org 
- qemu-utils  1:11.0.3  A set of utilities for working with the QEMU emulators  https://www.qemu.org 
+ qemu-common  1:11.1.2  A set common files used by the QEMU emulators  https://www.qemu.org 
+ qemu-system-aarch64-headless  1:11.1.2  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
+ qemu-system-arm-headless  1:11.1.2  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
+ qemu-system-i386-headless  1:11.1.2  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
+ qemu-system-m68k-headless  1:11.1.2  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
+ qemu-system-ppc-headless  1:11.1.2  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
+ qemu-system-ppc64-headless  1:11.1.2  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
+ qemu-system-riscv32-headless  1:11.1.2  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
+ qemu-system-riscv64-headless  1:11.1.2  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
+ qemu-system-x86-64-headless  1:11.1.2  A generic and open source machine emulator and virtualizer (headless)  https://www.qemu.org 
+ qemu-user-aarch64  1:11.1.2  QEMU Linux user mode emulator  https://www.qemu.org 
+ qemu-user-arm  1:11.1.2  QEMU Linux user mode emulator  https://www.qemu.org 
+ qemu-user-i386  1:11.1.2  QEMU Linux user mode emulator  https://www.qemu.org 
+ qemu-user-m68k  1:11.1.2  QEMU Linux user mode emulator  https://www.qemu.org 
+ qemu-user-ppc  1:11.1.2  QEMU Linux user mode emulator  https://www.qemu.org 
+ qemu-user-ppc64  1:11.1.2  QEMU Linux user mode emulator  https://www.qemu.org 
+ qemu-user-riscv32  1:11.1.2  QEMU Linux user mode emulator  https://www.qemu.org 
+ qemu-user-riscv64  1:11.1.2  QEMU Linux user mode emulator  https://www.qemu.org 
+ qemu-user-x86-64  1:11.1.2  QEMU Linux user mode emulator  https://www.qemu.org 
+ qemu-utils  1:11.1.2  A set of utilities for working with the QEMU emulators  https://www.qemu.org 
  qhull  8.1-alpha3-2  Calculate convex hulls and related structures  http://www.qhull.org 
  qhull-static  8.1-alpha3-2  Static libraries for qhull  http://www.qhull.org 
  qpdf  12.4.2  Content-Preserving PDF Transformation System  http://qpdf.sourceforge.net 
@@ -2501,7 +2502,7 @@
  shiori  1.8.0  Simple bookmark manager built with Go  https://github.com/go-shiori/shiori 
  shntool  3.0.10-1  A multi-purpose WAVE data processing and reporting utility  http://shnutils.freeshell.org/shntool/ 
  shtool  2.0.8-9  compilation of small but very stable and portable shell scripts into a single shell tool  http://www.gnu.org/software/shtool/ 
- sideloader  1.0~pre4.2026.9.18  Open-source cross-platform iOS app sideloader. Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…  https://github.com/Dadoum/Sideloader 
+ sideloader  1.0~pre4.2026.9.18-1  Open-source cross-platform iOS app sideloader. Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…  https://github.com/Dadoum/Sideloader 
  signify  33  Lightweight cryptographic signing and verifying tool  https://github.com/aperezdc/signify 
  silicon  0.5.3-1  Silicon is an alternative to Carbon implemented in Rust  https://github.com/Aloxaf/silicon 
  silversearcher-ag  2.2.0-6  Fast grep-like program, alternative to ack-grep  https://geoff.greer.fm/ag/ 
@@ -2549,7 +2550,7 @@
  speexdsp  1.2.1-1  Speex audio processing library  https://speex.org/ 
  speexdsp-static  1.2.1-1  Static libraries for speexdsp  https://speex.org/ 
  spglib  2.7.0  C library for finding and handling crystal symmetries  https://spglib.github.io/spglib/index.html 
- spidermonkey  128.10.0-2  Mozilla's JavaScript engine  https://spidermonkey.dev 
+ spidermonkey  140.17.0  Mozilla's JavaScript engine  https://spidermonkey.dev 
  spiped  1.6.4-1  a utility for creating symmetrically encrypted and authenticated pipes between socket addresses  https://www.tarsnap.com/spiped.html 
  spirv-headers  1.4.363.0  SPIR-V Headers  https://github.com/KhronosGroup/SPIRV-Headers 
  spirv-llvm-translator  21.1.12  SPIR-V LLVM Translator  https://github.com/KhronosGroup/SPIRV-LLVM-Translator 
@@ -2809,7 +2810,7 @@
  upx  5.2.1  the Ultimate Packer for eXecutables  https://upx.github.io/ 
  urdfdom  6.0.1  Unified Robot Description Format (URDF) parser library and tools  https://github.com/ros/urdfdom 
  urdfdom-headers  3.0.1  Headers for URDF parsers  https://github.com/ros/urdfdom_headers 
- usbmuxd  1.1.1-p20250201-2  A socket daemon to multiplex connections from and to iOS devices  https://libimobiledevice.org 
+ usbmuxd  1.1.1-p20250201-3  A socket daemon to multiplex connections from and to iOS devices  https://libimobiledevice.org 
  usql  0.21.6  A universal command-line interface for SQL databases  https://github.com/xo/usql 
  utf8cpp  1:4.2.1  UTF8-CPP: UTF-8 with C++ in a Portable Way  https://github.com/nemtrif/utfcpp 
  utf8proc  2.12.0  Library for processing UTF-8 Unicode data  https://github.com/JuliaLang/utf8proc 
@@ -2845,7 +2846,7 @@
  viddy  1.3.1  A modern watch command  https://github.com/sachaos/viddy 
  vifm  0.14.4-1  File manager with vi like keybindings  https://vifm.info/ 
  vile  9.8z-1  VI Like Emacs - vi work-alike  https://invisible-island.net/vile/ 
- vim  9.2.1150  Vi IMproved - enhanced vi editor  https://www.vim.org 
+ vim  9.2.1150-2  Vi IMproved - enhanced vi editor  https://www.vim.org 
  virglrenderer  1.3.0  A virtual 3D GPU for use inside qemu virtual machines  https://virgil3d.github.io/ 
  virglrenderer-android  1.3.0-1  A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android  https://virgil3d.github.io/ 
  virustotal-cli  1.3.1  Command line interface for VirusTotal  https://github.com/VirusTotal/vt-cli 
@@ -2942,7 +2943,7 @@
  xtrans  1.6.0  X transport library  https://xorg.freedesktop.org/ 
  xvidcore  1.3.7-1  High performance and high quality MPEG-4 library  https://www.xvid.com/ 
  xvidcore-static  1.3.7-1  Static libraries for xvidcore  https://www.xvid.com/ 
- xxd  9.2.1150  Hexdump utility from vim  https://www.vim.org 
+ xxd  9.2.1150-2  Hexdump utility from vim  https://www.vim.org 
  xxhash  0.8.4  Extremely fast non-cryptographic hash algorithm  https://cyan4973.github.io/xxHash/ 
  xxhash-static  0.8.4  Static libraries for xxhash  https://cyan4973.github.io/xxHash/ 
  xz-utils  5.8.4  XZ-format compression tools  https://tukaani.org/xz/ 
@@ -2962,12 +2963,12 @@
  yt-dlp-ejs  0.8.0-1  External JavaScript for yt-dlp supporting many runtimes  https://github.com/yt-dlp/ejs 
  ytfzf  2.6.2  A POSIX script that helps you find Youtube videos (without API)  https://github.com/pystardust/ytfzf 
  ytui-music  2.0.0-beta-5  Youtube client in terminal for music  https://github.com/sudipghimire533/ytui-music 
- yuma123  2.13-5  Provides an opensource YANG API in C  https://yuma123.org/ 
- yuma123-static  2.13-5  Static libraries for yuma123  https://yuma123.org/ 
+ yuma123  2.14  Provides an opensource YANG API in C  https://yuma123.org/ 
+ yuma123-static  2.14  Static libraries for yuma123  https://yuma123.org/ 
  z-push  2.7.6-1  An open-source application to synchronize ActiveSync compatible devices and Outlook  https://z-push.org/ 
  z3  5.1.0  Z3 is a theorem prover from Microsoft Research  https://github.com/Z3Prover/z3 
- zbar  0.23.93-2  Software suite for reading bar codes from various sources  https://github.com/mchehab/zbar 
- zbar-static  0.23.93-2  Static libraries for zbar  https://github.com/mchehab/zbar 
+ zbar  0.23.94  Software suite for reading bar codes from various sources  https://github.com/mchehab/zbar 
+ zbar-static  0.23.94  Static libraries for zbar  https://github.com/mchehab/zbar 
  zellij  0.45.1  A terminal workspace with batteries included  https://zellij.dev/ 
  zeronet  0.7.1-9  Decentralized websites using Bitcoin crypto and BitTorrent network  https://zeronet.io/ 
  zig  0.16.0  General-purpose programming language and toolchain  https://ziglang.org 

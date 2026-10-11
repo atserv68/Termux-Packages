@@ -1141,7 +1141,7 @@
   },
   {
     "Package": "byobu",
-    "Version": "7.20",
+    "Version": "7.21",
     "Description": "Byobu is a GPLv3 open source text-based window manager and terminal multiplexer",
     "Homepage": "https://www.byobu.org/"
   },
@@ -1471,7 +1471,7 @@
   },
   {
     "Package": "chezmoi",
-    "Version": "2.73.0",
+    "Version": "2.73.1",
     "Description": "Manage your dotfiles across multiple machines",
     "Homepage": "https://chezmoi.io"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.181.0",
+    "Version": "1.182.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -4159,7 +4159,7 @@
   },
   {
     "Package": "goose",
-    "Version": "3.28.0",
+    "Version": "3.29.0",
     "Description": "A database migration tool. Supports SQL migrations and Go functions.",
     "Homepage": "https://pressly.github.io/goose"
   },
@@ -4678,6 +4678,12 @@
     "Version": "1:2.3.4-1",
     "Description": "The Moon-powered shell! A comfy and extensible shell for Lua fans!",
     "Homepage": "https://rosettea.github.io/Hilbish/"
+  },
+  {
+    "Package": "hk",
+    "Version": "2.5.0",
+    "Description": "A tool for managing git hooks",
+    "Homepage": "https://hk.jdx.dev/"
   },
   {
     "Package": "hledger",
@@ -5521,7 +5527,7 @@
   },
   {
     "Package": "lazygit",
-    "Version": "0.66.0",
+    "Version": "0.66.1",
     "Description": "Simple terminal UI for git commands",
     "Homepage": "https://github.com/jesseduffield/lazygit"
   },
@@ -6745,13 +6751,13 @@
   },
   {
     "Package": "libfdk-aac",
-    "Version": "2.0.3-1",
+    "Version": "3.0.0",
     "Description": "Fraunhofer FDK AAC Codec Library",
     "Homepage": "https://github.com/mstorsjo/fdk-aac"
   },
   {
     "Package": "libfdk-aac-static",
-    "Version": "2.0.3-1",
+    "Version": "3.0.0",
     "Description": "Static libraries for libfdk-aac",
     "Homepage": "https://github.com/mstorsjo/fdk-aac"
   },
@@ -7255,25 +7261,25 @@
   },
   {
     "Package": "libimobiledevice",
-    "Version": "1.4.0",
+    "Version": "1.4.0-1",
     "Description": "A library to communicate with services on iOS devices using native protocols",
     "Homepage": "https://libimobiledevice.org/"
   },
   {
     "Package": "libimobiledevice-glue",
-    "Version": "1.3.3",
+    "Version": "1.3.3-1",
     "Description": "Library with common code used by the libraries and tools around the libimobiledevice project",
     "Homepage": "https://libimobiledevice.org/"
   },
   {
     "Package": "libimobiledevice-glue-static",
-    "Version": "1.3.3",
+    "Version": "1.3.3-1",
     "Description": "Static libraries for libimobiledevice-glue",
     "Homepage": "https://libimobiledevice.org/"
   },
   {
     "Package": "libimobiledevice-static",
-    "Version": "1.4.0",
+    "Version": "1.4.0-1",
     "Description": "Static libraries for libimobiledevice",
     "Homepage": "https://libimobiledevice.org/"
   },
@@ -8521,13 +8527,13 @@
   },
   {
     "Package": "libplist",
-    "Version": "2.7.0-1",
+    "Version": "2.8.0",
     "Description": "A small portable C library to handle Apple Property List files in binary or XML format",
     "Homepage": "https://libimobiledevice.org"
   },
   {
     "Package": "libplist-static",
-    "Version": "2.7.0-1",
+    "Version": "2.8.0",
     "Description": "Static libraries for libplist",
     "Homepage": "https://libimobiledevice.org"
   },
@@ -9277,13 +9283,13 @@
   },
   {
     "Package": "libtatsu",
-    "Version": "1.0.5-1",
+    "Version": "1.0.5-2",
     "Description": "Library handling the communication with Apples Tatsu Signing Server (TSS)",
     "Homepage": "https://libimobiledevice.org/"
   },
   {
     "Package": "libtatsu-static",
-    "Version": "1.0.5-1",
+    "Version": "1.0.5-2",
     "Description": "Static libraries for libtatsu",
     "Homepage": "https://libimobiledevice.org/"
   },
@@ -9613,13 +9619,13 @@
   },
   {
     "Package": "libusbmuxd",
-    "Version": "2.1.1-2",
+    "Version": "2.1.1-3",
     "Description": "A client library for applications to handle usbmux protocol connections with iOS devices",
     "Homepage": "https://libimobiledevice.org"
   },
   {
     "Package": "libusbmuxd-static",
-    "Version": "2.1.1-2",
+    "Version": "2.1.1-3",
     "Description": "Static libraries for libusbmuxd",
     "Homepage": "https://libimobiledevice.org"
   },
@@ -11293,7 +11299,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.10.4",
+    "Version": "2026.10.8",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -11629,7 +11635,7 @@
   },
   {
     "Package": "mycli",
-    "Version": "2.29.1",
+    "Version": "2.29.4",
     "Description": "CLI for MySQL/MariaDB with auto-completion and syntax highlighting",
     "Homepage": "https://mycli.net"
   },
@@ -11641,7 +11647,7 @@
   },
   {
     "Package": "mympd",
-    "Version": "26.0.0",
+    "Version": "26.1.0",
     "Description": "A standalone and lightweight web-based MPD client",
     "Homepage": "https://jcorporation.github.io/myMPD/"
   },
@@ -12223,7 +12229,7 @@
   },
   {
     "Package": "oidn",
-    "Version": "2.4.1",
+    "Version": "2.5.1",
     "Description": "Intel® Open Image Denoise library",
     "Homepage": "https://www.openimagedenoise.org"
   },
@@ -13201,7 +13207,7 @@
   },
   {
     "Package": "pnpm",
-    "Version": "12.12.0",
+    "Version": "12.12.1",
     "Description": "Fast, disk space efficient package manager for JavaScript",
     "Homepage": "https://pnpm.io"
   },
@@ -13393,7 +13399,7 @@
   },
   {
     "Package": "proot-distro",
-    "Version": "5.9.0",
+    "Version": "5.10.0",
     "Description": "Termux official utility for managing prooted Linux distributions",
     "Homepage": "https://github.com/termux/proot-distro"
   },
@@ -13933,121 +13939,121 @@
   },
   {
     "Package": "qemu-common",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A set common files used by the QEMU emulators",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-aarch64-headless",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-arm-headless",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-i386-headless",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-m68k-headless",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-ppc-headless",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-ppc64-headless",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-riscv32-headless",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-riscv64-headless",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-system-x86-64-headless",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A generic and open source machine emulator and virtualizer (headless)",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-aarch64",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-arm",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-i386",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-m68k",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-ppc",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-ppc64",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-riscv32",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-riscv64",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-user-x86-64",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "QEMU Linux user mode emulator",
     "Homepage": "https://www.qemu.org"
   },
   {
     "Package": "qemu-utils",
-    "Version": "1:11.0.3",
+    "Version": "1:11.1.2",
     "Description": "A set of utilities for working with the QEMU emulators",
     "Homepage": "https://www.qemu.org"
   },
@@ -15019,7 +15025,7 @@
   },
   {
     "Package": "sideloader",
-    "Version": "1.0~pre4.2026.9.18",
+    "Version": "1.0~pre4.2026.9.18-1",
     "Description": "Open-source cross-platform iOS app sideloader. Alternative to Sideloadly, AltServer, SideServer, Cydia Impactor, iOS App Signer…",
     "Homepage": "https://github.com/Dadoum/Sideloader"
   },
@@ -15307,7 +15313,7 @@
   },
   {
     "Package": "spidermonkey",
-    "Version": "128.10.0-2",
+    "Version": "140.17.0",
     "Description": "Mozillas JavaScript engine",
     "Homepage": "https://spidermonkey.dev"
   },
@@ -16867,7 +16873,7 @@
   },
   {
     "Package": "usbmuxd",
-    "Version": "1.1.1-p20250201-2",
+    "Version": "1.1.1-p20250201-3",
     "Description": "A socket daemon to multiplex connections from and to iOS devices",
     "Homepage": "https://libimobiledevice.org"
   },
@@ -17083,7 +17089,7 @@
   },
   {
     "Package": "vim",
-    "Version": "9.2.1150",
+    "Version": "9.2.1150-2",
     "Description": "Vi IMproved - enhanced vi editor",
     "Homepage": "https://www.vim.org"
   },
@@ -17665,7 +17671,7 @@
   },
   {
     "Package": "xxd",
-    "Version": "9.2.1150",
+    "Version": "9.2.1150-2",
     "Description": "Hexdump utility from vim",
     "Homepage": "https://www.vim.org"
   },
@@ -17785,13 +17791,13 @@
   },
   {
     "Package": "yuma123",
-    "Version": "2.13-5",
+    "Version": "2.14",
     "Description": "Provides an opensource YANG API in C",
     "Homepage": "https://yuma123.org/"
   },
   {
     "Package": "yuma123-static",
-    "Version": "2.13-5",
+    "Version": "2.14",
     "Description": "Static libraries for yuma123",
     "Homepage": "https://yuma123.org/"
   },
@@ -17809,13 +17815,13 @@
   },
   {
     "Package": "zbar",
-    "Version": "0.23.93-2",
+    "Version": "0.23.94",
     "Description": "Software suite for reading bar codes from various sources",
     "Homepage": "https://github.com/mchehab/zbar"
   },
   {
     "Package": "zbar-static",
-    "Version": "0.23.93-2",
+    "Version": "0.23.94",
     "Description": "Static libraries for zbar",
     "Homepage": "https://github.com/mchehab/zbar"
   },
