@@ -395,7 +395,7 @@
   Description: AT and batch delayed command scheduling utility and daemon
   Homepage: https://salsa.debian.org/debian/at
 - Package: at-spi2-core
-  Version: 2.62.0.1
+  Version: 2.62.1
   Description: Assistive Technology Service Provider Interface (AT-SPI)
   Homepage: https://wiki.gnome.org/Accessibility
 - Package: atomicparsley
@@ -1151,7 +1151,7 @@
   Description: Tool to colorize diff output
   Homepage: https://www.colordiff.org/
 - Package: command-not-found
-  Version: 3.5.0-14
+  Version: 3.5.0-15
   Description: Suggest installation of packages in interactive shell sessions
   Homepage: https://github.com/termux/command-not-found
 - Package: composer
@@ -2731,7 +2731,7 @@
   Description: A painless self-hosted Git service
   Homepage: https://gogs.io
 - Package: goimports
-  Version: 0.51.0
+  Version: 0.52.0
   Description: Updates Go import lines, adding missing ones and removing unreferenced ones
   Homepage: https://pkg.go.dev/golang.org/x/tools/cmd/goimports
 - Package: gojq
@@ -8799,7 +8799,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.11.2
+  Version: 12.12.0
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -11491,7 +11491,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.26.15
+  Version: 2.27.1
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
