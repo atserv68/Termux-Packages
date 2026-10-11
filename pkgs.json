@@ -1117,7 +1117,7 @@
   },
   {
     "Package": "bun",
-    "Version": "1.4.2-4",
+    "Version": "1.4.3",
     "Description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager",
     "Homepage": "https://bun.com"
   },
@@ -3451,7 +3451,7 @@
   },
   {
     "Package": "fzf",
-    "Version": "0.74.4",
+    "Version": "0.74.5",
     "Description": "Command-line fuzzy finder",
     "Homepage": "https://junegunn.github.io/fzf/"
   },
@@ -4165,7 +4165,7 @@
   },
   {
     "Package": "gopass",
-    "Version": "1.17.3",
+    "Version": "1.17.4",
     "Description": "The slightly more awesome standard unix password manager for teams",
     "Homepage": "https://github.com/gopasspw/gopass"
   },
@@ -4243,7 +4243,7 @@
   },
   {
     "Package": "govulncheck",
-    "Version": "1.8.0",
+    "Version": "1.9.0",
     "Description": "Reports known vulnerabilities affecting Go code",
     "Homepage": "https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck"
   },
@@ -4861,7 +4861,7 @@
   },
   {
     "Package": "hyperfine",
-    "Version": "1.21.0",
+    "Version": "2.0.0",
     "Description": "A command-line benchmarking tool",
     "Homepage": "https://github.com/sharkdp/hyperfine"
   },
@@ -10771,7 +10771,7 @@
   },
   {
     "Package": "mailpit",
-    "Version": "1.31.4",
+    "Version": "1.31.5",
     "Description": "An email and SMTP testing tool with API for developers",
     "Homepage": "https://mailpit.axllent.org"
   },
@@ -10819,7 +10819,7 @@
   },
   {
     "Package": "manim",
-    "Version": "0.21.0-1",
+    "Version": "0.22.0",
     "Description": "A community-maintained Python framework for creating mathematical animations",
     "Homepage": "https://manim.community"
   },
@@ -11293,7 +11293,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.10.3",
+    "Version": "2026.10.4",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },

@@ -743,7 +743,7 @@
   Description: A metapackage that installs essential development tools
   Homepage: https://github.com/termux/termux-packages
 - Package: bun
-  Version: 1.4.2-4
+  Version: 1.4.3
   Description: Incredibly fast JavaScript runtime, bundler, test runner, and package manager
   Homepage: https://bun.com
 - Package: busybox
@@ -2299,7 +2299,7 @@
   Description: Interactive JSON viewer on your terminal
   Homepage: https://github.com/antonmedv/fx
 - Package: fzf
-  Version: 0.74.4
+  Version: 0.74.5
   Description: Command-line fuzzy finder
   Homepage: https://junegunn.github.io/fzf/
 - Package: fzy
@@ -2775,7 +2775,7 @@
   Description: A database migration tool. Supports SQL migrations and Go functions.
   Homepage: https://pressly.github.io/goose
 - Package: gopass
-  Version: 1.17.3
+  Version: 1.17.4
   Description: The slightly more awesome standard unix password manager for teams
   Homepage: https://github.com/gopasspw/gopass
 - Package: gopher
@@ -2827,7 +2827,7 @@
   Description: Share your terminal as a web application
   Homepage: https://github.com/sorenisanerd/gotty
 - Package: govulncheck
-  Version: 1.8.0
+  Version: 1.9.0
   Description: Reports known vulnerabilities affecting Go code
   Homepage: https://pkg.go.dev/golang.org/x/vuln/cmd/govulncheck
 - Package: gpac
@@ -3239,7 +3239,7 @@
   Description: A third-party, open-source ProtonMail CardDAV, IMAP and SMTP bridge
   Homepage: https://github.com/emersion/hydroxide
 - Package: hyperfine
-  Version: 1.21.0
+  Version: 2.0.0
   Description: A command-line benchmarking tool
   Homepage: https://github.com/sharkdp/hyperfine
 - Package: hz
@@ -7179,7 +7179,7 @@
   Description: Rust implementation of Magic Wormhole, with new features and enhancements
   Homepage: https://github.com/magic-wormhole/magic-wormhole.rs
 - Package: mailpit
-  Version: 1.31.4
+  Version: 1.31.5
   Description: An email and SMTP testing tool with API for developers
   Homepage: https://mailpit.axllent.org
 - Package: mailsync
@@ -7211,7 +7211,7 @@
   Description: Cli manga downloader
   Homepage: https://github.com/metafates/mangal
 - Package: manim
-  Version: 0.21.0-1
+  Version: 0.22.0
   Description: A community-maintained Python framework for creating mathematical animations
   Homepage: https://manim.community
 - Package: manpages
@@ -7527,7 +7527,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.10.3
+  Version: 2026.10.4
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
