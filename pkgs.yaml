@@ -1171,7 +1171,7 @@
   Description: A suite of tools to create shopping lists and maintain food recipes
   Homepage: https://cooklang.org
 - Package: coreutils
-  Version: 9.11-1
+  Version: "9.12"
   Description: Basic file, shell and text manipulation utilities from the GNU project
   Homepage: https://www.gnu.org/software/coreutils/
 - Package: corgi
@@ -4255,7 +4255,7 @@
   Description: Static libraries for libdaemon
   Homepage: https://0pointer.de/lennart/projects/libdaemon/
 - Package: libdart
-  Version: 6.19.5
+  Version: 6.20.0
   Description: Dynamic Animation and Robotics Toolkit
   Homepage: https://dartsim.github.io/
 - Package: libdav1d
@@ -8707,7 +8707,7 @@
   Description: Sodium module for PHP
   Homepage: https://php.net
 - Package: php-zephir-parser
-  Version: 2.9.0
+  Version: 2.9.1
   Description: The Zephir Parser delivered as a C extension for the PHP language
   Homepage: https://github.com/phalcon/php-zephir-parser
 - Package: phpmyadmin
@@ -8727,7 +8727,7 @@
   Description: A minimal dumb-terminal emulation program
   Homepage: https://github.com/npat-efault/picocom
 - Package: picolisp
-  Version: 26.6-1
+  Version: "26.9"
   Description: Lisp interpreter and application server framework
   Homepage: https://picolisp.com/wiki/?home
 - Package: pigz
@@ -10547,7 +10547,7 @@
   Description: GNU tar for manipulating tar archives
   Homepage: https://www.gnu.org/software/tar/
 - Package: task-spooler
-  Version: 1:1.0.3-1
+  Version: 1:1.0.4
   Description: Task spooler is a Unix batch system where the tasks spooled run one after the other
   Homepage: https://vicerveza.homeunix.net/~viric/soft/ts/
 - Package: tasksh
@@ -10903,7 +10903,7 @@
   Description: Recursive directory lister producing a depth indented listing of files
   Homepage: http://mama.indstate.edu/users/ice/tree/
 - Package: tree-sitter
-  Version: 0.27.0
+  Version: 0.27.1
   Description: An incremental parsing system for programming tools
   Homepage: https://tree-sitter.github.io/
 - Package: tree-sitter-bash
@@ -11166,6 +11166,10 @@
   Version: 1.26.1
   Description: Unbound command-line tools
   Homepage: https://unbound.net/
+- Package: unfs3
+  Version: 0.11.0
+  Description: User-space implementation of the NFSv3 server specification
+  Homepage: https://unfs3.github.io/
 - Package: unicode-cldr
   Version: "48.2"
   Description: Unicode Common Locale Data Repository
@@ -11567,7 +11571,7 @@
   Description: Turn any program that uses STDIN/STDOUT into a WebSocket server
   Homepage: http://websocketd.com/
 - Package: webtunnel
-  Version: 0.0.5
+  Version: 0.0.7
   Description: Pluggable Transport based on HTTP Upgrade(HTTPT)
   Homepage: https://torproject.org/
 - Package: weechat

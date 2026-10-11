@@ -1759,7 +1759,7 @@
   },
   {
     "Package": "coreutils",
-    "Version": "9.11-1",
+    "Version": "9.12",
     "Description": "Basic file, shell and text manipulation utilities from the GNU project",
     "Homepage": "https://www.gnu.org/software/coreutils/"
   },
@@ -6385,7 +6385,7 @@
   },
   {
     "Package": "libdart",
-    "Version": "6.19.5",
+    "Version": "6.20.0",
     "Description": "Dynamic Animation and Robotics Toolkit",
     "Homepage": "https://dartsim.github.io/"
   },
@@ -13063,7 +13063,7 @@
   },
   {
     "Package": "php-zephir-parser",
-    "Version": "2.9.0",
+    "Version": "2.9.1",
     "Description": "The Zephir Parser delivered as a C extension for the PHP language",
     "Homepage": "https://github.com/phalcon/php-zephir-parser"
   },
@@ -13093,7 +13093,7 @@
   },
   {
     "Package": "picolisp",
-    "Version": "26.6-1",
+    "Version": "26.9",
     "Description": "Lisp interpreter and application server framework",
     "Homepage": "https://picolisp.com/wiki/?home"
   },
@@ -15823,7 +15823,7 @@
   },
   {
     "Package": "task-spooler",
-    "Version": "1:1.0.3-1",
+    "Version": "1:1.0.4",
     "Description": "Task spooler is a Unix batch system where the tasks spooled run one after the other",
     "Homepage": "https://vicerveza.homeunix.net/~viric/soft/ts/"
   },
@@ -16357,7 +16357,7 @@
   },
   {
     "Package": "tree-sitter",
-    "Version": "0.27.0",
+    "Version": "0.27.1",
     "Description": "An incremental parsing system for programming tools",
     "Homepage": "https://tree-sitter.github.io/"
   },
@@ -16750,6 +16750,12 @@
     "Version": "1.26.1",
     "Description": "Unbound command-line tools",
     "Homepage": "https://unbound.net/"
+  },
+  {
+    "Package": "unfs3",
+    "Version": "0.11.0",
+    "Description": "User-space implementation of the NFSv3 server specification",
+    "Homepage": "https://unfs3.github.io/"
   },
   {
     "Package": "unicode-cldr",
@@ -17353,7 +17359,7 @@
   },
   {
     "Package": "webtunnel",
-    "Version": "0.0.5",
+    "Version": "0.0.7",
     "Description": "Pluggable Transport based on HTTP Upgrade(HTTPT)",
     "Homepage": "https://torproject.org/"
   },

@@ -303,7 +303,7 @@
 | **console-bridge** | 1.0.2-1 | A ROS-independent package for logging that seamlessly pipes into rosconsole/rosout for ROS-dependent packages | https://github.com/ros/console_bridge |
 | **convertlit** | 1.8-2 | An extractor/converter for .LIT eBooks | http://www.convertlit.com/ |
 | **cookcli** | 0.38.1 | A suite of tools to create shopping lists and maintain food recipes | https://cooklang.org |
-| **coreutils** | 9.11-1 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
+| **coreutils** | 9.12 | Basic file, shell and text manipulation utilities from the GNU project | https://www.gnu.org/software/coreutils/ |
 | **corgi** | 0.2.4-6 | CLI workflow manager | https://github.com/DrakeW/corgi |
 | **corkscrew** | 2.0-4 | A tool for tunneling SSH through HTTP proxies | https://wiki.linuxquestions.org/wiki/Corkscrew |
 | **corrosion** | 0.6.1 | Tool for integrating Rust into an existing CMake project | https://github.com/corrosion-rs/corrosion |
@@ -1074,7 +1074,7 @@
 | **libczmq-static** | 4.2.1-4 | Static libraries for libczmq | https://zeromq.org/ |
 | **libdaemon** | 0.14-1 | A lightweight C library that eases the writing of UNIX daemons | https://0pointer.de/lennart/projects/libdaemon/ |
 | **libdaemon-static** | 0.14-1 | Static libraries for libdaemon | https://0pointer.de/lennart/projects/libdaemon/ |
-| **libdart** | 6.19.5 | Dynamic Animation and Robotics Toolkit | https://dartsim.github.io/ |
+| **libdart** | 6.20.0 | Dynamic Animation and Robotics Toolkit | https://dartsim.github.io/ |
 | **libdav1d** | 1.5.4 | AV1 cross-platform decoder focused on speed and correctness | https://code.videolan.org/videolan/dav1d/ |
 | **libdb** | 18.1.40-6 | The Berkeley DB embedded database system (library) | https://www.oracle.com/database/berkeley-db |
 | **libdb-static** | 18.1.40-6 | Static libraries for libdb | https://www.oracle.com/database/berkeley-db |
@@ -2187,12 +2187,12 @@
 | **php-psr** | 1.2.0-4 | PHP extension providing the accepted PSR interfaces | https://github.com/jbboehr/php-psr |
 | **php-redis** | 6.3.0RC1+really6.3.0 | PHP extension for interfacing with Redis | https://github.com/phpredis/phpredis |
 | **php-sodium** | 8.5.1 | Sodium module for PHP | https://php.net |
-| **php-zephir-parser** | 2.9.0 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
+| **php-zephir-parser** | 2.9.1 | The Zephir Parser delivered as a C extension for the PHP language | https://github.com/phalcon/php-zephir-parser |
 | **phpmyadmin** | 5.2.3-1 | A PHP tool for administering MySQL and MariaDB databases | https://www.phpmyadmin.net |
 | **pianobar** | 2024.12.21-2 | pianobar is a free/open-source, console-based client for the personalized online radio Pandora. | https://6xq.net/pianobar/ |
 | **pick** | 4.0.0-4 | Utility to choose one option from a set of choices with fuzzy search functionality | https://github.com/calleerlandsson/pick |
 | **picocom** | 2018.04.12-1 | A minimal dumb-terminal emulation program | https://github.com/npat-efault/picocom |
-| **picolisp** | 26.6-1 | Lisp interpreter and application server framework | https://picolisp.com/wiki/?home |
+| **picolisp** | 26.9 | Lisp interpreter and application server framework | https://picolisp.com/wiki/?home |
 | **pigz** | 2.8-1 | Parallel implementation of the gzip file compressor | https://www.zlib.net/pigz |
 | **pikiwidb** | 3.5.6-3 | Redis-Compatible database developed by Qihoo's infrastructure team | https://github.com/OpenAtomFoundation/pikiwidb |
 | **pikiwidb-static** | 3.5.6-3 | Static libraries for pikiwidb | https://github.com/OpenAtomFoundation/pikiwidb |
@@ -2647,7 +2647,7 @@
 | **taglib** | 2.3.2 | A Library for reading and editing the meta-data of several popular audio formats. | http://taglib.github.io/ |
 | **taplo** | 0.10.0-1 | A TOML LSP and toolkit | https://taplo.tamasfe.dev/ |
 | **tar** | 1.35-3 | GNU tar for manipulating tar archives | https://www.gnu.org/software/tar/ |
-| **task-spooler** | 1:1.0.3-1 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
+| **task-spooler** | 1:1.0.4 | Task spooler is a Unix batch system where the tasks spooled run one after the other | https://vicerveza.homeunix.net/~viric/soft/ts/ |
 | **tasksh** | 1.2.0-11 | Shell command wrapping Taskwarrior commands | https://taskwarrior.org |
 | **taskwarrior** | 3.5.0 | Utility for managing your TODO list | https://taskwarrior.org |
 | **tcc** | 1:0.9.27-p20230415-2 | Tiny C Compiler | https://bellard.org/tcc/ |
@@ -2736,7 +2736,7 @@
 | **translate-shell** | 0.9.7.1-1 | Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc. | https://www.soimort.org/translate-shell |
 | **transmission** | 4.1.3 | Easy, lean and powerful BitTorrent client | https://transmissionbt.com/ |
 | **tree** | 2.3.2 | Recursive directory lister producing a depth indented listing of files | http://mama.indstate.edu/users/ice/tree/ |
-| **tree-sitter** | 0.27.0 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
+| **tree-sitter** | 0.27.1 | An incremental parsing system for programming tools | https://tree-sitter.github.io/ |
 | **tree-sitter-bash** | 0.25.1-2 | Bash grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-bash |
 | **tree-sitter-c** | 0.24.2-1 | C grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-c |
 | **tree-sitter-css** | 0.25.0-2 | CSS grammar for tree-sitter | https://github.com/tree-sitter/tree-sitter-css |
@@ -2802,6 +2802,7 @@
 | **ugrep** | 7.8.5 | A faster, user-friendly and compatible grep replacement | https://github.com/Genivia/ugrep |
 | **unar** | 1.10.8-3 | Command line tools for archive and file unarchiving and extraction | https://theunarchiver.com/command-line |
 | **unbound** | 1.26.1 | Unbound command-line tools | https://unbound.net/ |
+| **unfs3** | 0.11.0 | User-space implementation of the NFSv3 server specification | https://unfs3.github.io/ |
 | **unicode-cldr** | 48.2 | Unicode Common Locale Data Repository | http://cldr.unicode.org/ |
 | **unicode-data** | 18.0.0 | The Unicode Character Database (UCD) | https://unicode.org/ucd/ |
 | **unicode-emoji** | 17.0.0 | Unicode Emoji Data Files | https://unicode.org/emoji/ |
@@ -2902,7 +2903,7 @@
 | **webp-pixbuf-loader** | 0.2.7-1 | WebM GDK Pixbuf Loader library | https://github.com/aruiz/webp-pixbuf-loader |
 | **websocat** | 1.14.1 | Command-line client for WebSockets, like netcat (or curl) for ws:// with advanced socat-like functions | https://github.com/vi/websocat |
 | **websocketd** | 0.4.1-4 | Turn any program that uses STDIN/STDOUT into a WebSocket server | http://websocketd.com/ |
-| **webtunnel** | 0.0.5 | Pluggable Transport based on HTTP Upgrade(HTTPT) | https://torproject.org/ |
+| **webtunnel** | 0.0.7 | Pluggable Transport based on HTTP Upgrade(HTTPT) | https://torproject.org/ |
 | **weechat** | 4.10.1 | Fast, light and extensible IRC chat client | https://weechat.org/ |
 | **weechat-lua-plugin** | 4.10.1 | WeeChat Lua Plugin | https://weechat.org/ |
 | **weechat-matrix-rs** | 2022.10.04-2 | Rust rewrite of the python weechat-matrix script | https://github.com/poljar/weechat-matrix-rs |
