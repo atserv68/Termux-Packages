@@ -389,7 +389,7 @@
  doctest  2.5.3  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
  doctl  1.182.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
  doge  0.2.9  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
- doggo  1.4.0  Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt  https://github.com/mr-karan/doggo 
+ doggo  1.4.1  Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt  https://github.com/mr-karan/doggo 
  dopewars  1.6.2-1  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
  dos2unix  7.5.7  Converts between DOS and Unix text files  https://waterlander.net/dos2unix/ 
  dosfstools  4.2-1  DOS file system utilities  https://github.com/dosfstools/dosfstools 
@@ -643,7 +643,7 @@
  gitui  0.28.1  Blazing fast terminal-ui for git written in rust  https://github.com/gitui-org/gitui 
  gkermit  2.01-1  Simple, Portable, Free File Transfer Software for UNIX  http://www.columbia.edu/kermit/gkermit.html 
  glab-cli  1.122.0  A GitLab CLI tool bringing GitLab to your command line  https://gitlab.com/gitlab-org/cli 
- gleam  1.19.1  A friendly language for building type-safe, scalable systems!  https://gleam.run 
+ gleam  1.19.2  A friendly language for building type-safe, scalable systems!  https://gleam.run 
  glib  2.90.1  Library providing core building blocks for libraries and applications written in C  https://developer.gnome.org/glib/ 
  glib-cross  2.90.1  glib for host (NOT for Termux)  https://developer.gnome.org/glib/ 
  glib-networking  2.90.0  Network-related giomodules for glib  https://gitlab.gnome.org/GNOME/glib-networking 
@@ -749,7 +749,7 @@
  gum  2.0.2  A tool for creating minimal interactive TUIs for shell scripts  https://github.com/charmbracelet/gum 
  gumbo-parser  0.10.1-1  An HTML5 parsing library  https://github.com/google/gumbo-parser 
  gumbo-parser-static  0.10.1-1  Static libraries for gumbo-parser  https://github.com/google/gumbo-parser 
- gurk  0.10.1  Signal messenger client for terminal  https://github.com/boxdot/gurk-rs 
+ gurk  0.10.2  Signal messenger client for terminal  https://github.com/boxdot/gurk-rs 
  gweather-locations  2026.2  The GWeather locations database  https://gitlab.gnome.org/GNOME/gweather-locations 
  gzip  1.15  Standard GNU file compression utilities  https://www.gnu.org/software/gzip/ 
  half  2.2.1  C++ header-only library for IEEE 754 half-precision floating-point format  https://half.sourceforge.net/ 
@@ -857,7 +857,7 @@
  jack  0.0.1  A metapackage that provides JACK Audio Connection Kit  https://github.com/termux/termux-packages 
  jack-example-tools  4-1  Official JACK example clients and tools  https://jackaudio.org/ 
  jack2  1.9.22-2  The JACK low-latency audio server  https://jackaudio.org/ 
- jackett  0.24.2793  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
+ jackett  0.24.2826  API Support for your favorite torrent trackers  https://github.com/jackett/jackett 
  jadx  1.5.6  Dex to Java decompiler  https://github.com/skylot/jadx 
  jadx-x  1.5.6  Dex to Java decompiler GUI  https://github.com/skylot/jadx 
  janet  1.42.1  Janet is a dialect of Lisp intended for embedding into programs and such  https://janet-lang.org 
@@ -1250,8 +1250,8 @@
  liblangtag-static  0.6.8  Static libraries for liblangtag  https://gitlab.com/tagoh/liblangtag 
  liblightning  2.2.3-1  A library to aid in making portable programs that compile assembly code at run time  https://www.gnu.org/software/lightning/ 
  liblightning-static  2.2.3-1  Static libraries for liblightning  https://www.gnu.org/software/lightning/ 
- libliquid-dsp  1.8.2  Software-defined radio digital signal processing library  https://liquidsdr.org/ 
- libliquid-dsp-static  1.8.2  Static libraries for libliquid-dsp  https://liquidsdr.org/ 
+ libliquid-dsp  1.8.3  Software-defined radio digital signal processing library  https://liquidsdr.org/ 
+ libliquid-dsp-static  1.8.3  Static libraries for libliquid-dsp  https://liquidsdr.org/ 
  libllvm  21.1.8-3  Modular compiler and toolchain technologies library  https://clang.llvm.org/ 
  libllvm-static  21.1.8-3  Static libraries for libllvm  https://clang.llvm.org/ 
  liblmdb  1.0.2  LMDB implements a simplified variant of the BerkeleyDB (BDB) API  https://symas.com/lmdb/ 
@@ -1672,9 +1672,9 @@
  libxi  1.8.3  X11 Input extension library  https://xorg.freedesktop.org/ 
  libxi-static  1.8.3  Static libraries for libxi  https://xorg.freedesktop.org/ 
  libxisf  0.2.13  Library to load and save XISF images  https://nouspiro.space 
- libxls  1.6.3-2  A C library for reading Excel files in the nasty old binary OLE format  https://github.com/libxls/libxls 
- libxls-static  1.6.3-2  Static libraries for libxls  https://github.com/libxls/libxls 
- libxls2csv  1.6.3-2  A command-line tool for converting XLS to CSV  https://github.com/libxls/libxls 
+ libxls  1.6.4  A C library for reading Excel files in the nasty old binary OLE format  https://github.com/libxls/libxls 
+ libxls-static  1.6.4  Static libraries for libxls  https://github.com/libxls/libxls 
+ libxls2csv  1.6.4  A command-line tool for converting XLS to CSV  https://github.com/libxls/libxls 
  libxlsxwriter  1.2.4  A C library for creating Excel XLSX files  https://libxlsxwriter.github.io/ 
  libxml2  2.15.4-1  Library for parsing XML documents  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
  libxml2-python  2.15.4-1  Python bindings for libxml2  https://gitlab.gnome.org/GNOME/libxml2/-/wikis/home 
@@ -1944,7 +1944,7 @@
  myrepos  1.20180726-4  Tool to manage all your version control repos  https://myrepos.branchable.com/ 
  n-t-roff-sc  7.16-1.2.0-0  A vi-like spreadsheet calculator  https://github.com/n-t-roff/sc 
  n2n  3.1.1-1  A light VPN software  https://github.com/ntop/n2n 
- nala  0.16.0-3  Commandline frontend for the apt package manager  https://gitlab.com/volian/nala 
+ nala  0.18.1  Commandline frontend for the apt package manager  https://gitlab.com/volian/nala 
  nali  0.8.1-1  An offline tool for querying IP geographic information and CDN provider  https://github.com/zu1k/nali 
  nano  9.2-1  Small, free and friendly text editor  https://www.nano-editor.org/ 
  nasm  3.02  A cross-platform x86 assembler with an Intel-like syntax  https://nasm.us 
@@ -1976,7 +1976,7 @@
  neofetch  7.1.0-1  Simple system information script  https://github.com/dylanaraps/neofetch 
  neomutt  20260616  A version of mutt with added features  https://neomutt.org/ 
  neovim  0.12.6  Ambitious Vim-fork focused on extensibility and agility (nvim)  https://neovim.io/ 
- neovim-nightly  0.13.0~dev-1828+g7e1ae5115f-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
+ neovim-nightly  0.13.0~dev-1830+g89370c06d7-0  Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)  https://neovim.io/ 
  nerdfix  0.4.2-1  nerdfix helps you to find/fix obsolete Nerd Font icons in your project.  https://github.com/loichyan/nerdfix 
  net-snmp  5.9.5.2  Various tools relating to the Simple Network Management Protocol  http://www.net-snmp.org/ 
  net-snmp-static  5.9.5.2  Static libraries for net-snmp  http://www.net-snmp.org/ 
@@ -2034,15 +2034,15 @@
  octomap  1.10.1  An efficient probabilistic 3D mapping framework based on octrees  https://github.com/OctoMap/octomap 
  octomap-static  1.10.1  Static libraries for octomap  https://github.com/OctoMap/octomap 
  odt2txt  0.5-5  Simple converter from OpenDocument Text to plain text  https://github.com/dstosberg/odt2txt 
- oh-my-posh  31.7.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
+ oh-my-posh  31.8.0  A prompt theme engine for any shell.  https://ohmyposh.dev 
  oha  1.16.0  HTTP load generator with realtime tui, inspired by rakyll/hey  https://github.com/hatoo/oha 
  oidn  2.5.1  Intel® Open Image Denoise library  https://www.openimagedenoise.org 
  oils-for-unix  0.38.0-1  Bash-compatible Unix shell with more consistent syntax and semantics  https://oils.pub/ 
  okc-agents  0.1.2-2  OpenKeychain agents for GnuPG and OpenSSH  https://github.com/DDoSolitary/okc-agents 
  ol  2.7  Purely functional dialect of Lisp  https://yuriy-chumak.github.io/ol/ 
  oleo  1.99.16-10  The GNU Spreadsheet  https://www.gnu.org/software/oleo/ 
- ollama  0.35.1  Get up and running with large language models  https://ollama.com/ 
- ollama-backend-vulkan  0.35.1  Vulkan Backend for Ollama  https://ollama.com/ 
+ ollama  0.40.3  Get up and running with large language models  https://ollama.com/ 
+ ollama-backend-vulkan  0.40.3  Vulkan Backend for Ollama  https://ollama.com/ 
  oma  1.28.0  oma is an attempt at reworking APT's interface  https://aosc.io/oma 
  onefetch  3.0.0  A command-line Git information tool written in Rust  https://onefetch.dev/ 
  onigmo  6.2.0-1  A regular expressions library forked from Oniguruma  https://github.com/k-takata/Onigmo 
@@ -2437,7 +2437,7 @@
  runit-static  2.3.1  Static libraries for runit  http://smarden.org/runit 
  rush  0.11.0  A cross-platform command-line tool for executing jobs in parallel  https://github.com/shenwei356/rush 
  rust  1.99.0  Systems programming language focused on safety, speed and concurrency  https://www.rust-lang.org/ 
- rust-analyzer  20261005  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
+ rust-analyzer  20261012  A Rust compiler front-end for IDEs  https://rust-analyzer.github.io/ 
  rust-bindgen  0.73.2  Automatically generates Rust FFI bindings to C (and some C++) libraries  https://github.com/rust-lang/rust-bindgen 
  rust-docs  1.99.0  Rust documentation  https://www.rust-lang.org/ 
  rust-src  1.99.0  Rust source code files  https://www.rust-lang.org/ 
@@ -2461,7 +2461,7 @@
  sassc  3.6.2-1  libsass command line driver  https://github.com/sass/sassc 
  sbcl  2.6.9  A high performance Common Lisp compiler  http://www.sbcl.org/ 
  sc-im  0.8.5-4  An improved version of sc, a spreadsheet calculator  https://github.com/andmarti1424/sc-im 
- scala  3.9.0  Scala 3 compiler and standard library.  https://www.scala-lang.org 
+ scala  3.10.0  Scala 3 compiler and standard library.  https://www.scala-lang.org 
  scc  4.1.0  Counts physical the lines of code, blank lines, comment lines, and physical lines of source code  https://github.com/boyter/scc 
  sccache  0.18.0  sccache is ccache with cloud storage  https://github.com/mozilla/sccache 
  scdaemon  2.5.24  Daemon invoked by gpg to manage smartcards  https://www.gnupg.org/ 
@@ -2968,8 +2968,8 @@
  yuma123-static  2.14  Static libraries for yuma123  https://yuma123.org/ 
  z-push  2.7.6-1  An open-source application to synchronize ActiveSync compatible devices and Outlook  https://z-push.org/ 
  z3  5.1.0  Z3 is a theorem prover from Microsoft Research  https://github.com/Z3Prover/z3 
- zbar  0.23.94  Software suite for reading bar codes from various sources  https://github.com/mchehab/zbar 
- zbar-static  0.23.94  Static libraries for zbar  https://github.com/mchehab/zbar 
+ zbar  0.23.95  Software suite for reading bar codes from various sources  https://github.com/mchehab/zbar 
+ zbar-static  0.23.95  Static libraries for zbar  https://github.com/mchehab/zbar 
  zellij  0.45.1  A terminal workspace with batteries included  https://zellij.dev/ 
  zeronet  0.7.1-9  Decentralized websites using Bitcoin crypto and BitTorrent network  https://zeronet.io/ 
  zig  0.16.0  General-purpose programming language and toolchain  https://ziglang.org 

@@ -1563,7 +1563,7 @@
   Description: A command-line DNS client
   Homepage: https://github.com/Dj-Codeman/dog_community
 - Package: doggo
-  Version: 1.4.0
+  Version: 1.4.1
   Description: Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt
   Homepage: https://github.com/mr-karan/doggo
 - Package: dopewars
@@ -2579,7 +2579,7 @@
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
-  Version: 1.19.1
+  Version: 1.19.2
   Description: A friendly language for building type-safe, scalable systems!
   Homepage: https://gleam.run
 - Package: glib
@@ -3003,7 +3003,7 @@
   Description: Static libraries for gumbo-parser
   Homepage: https://github.com/google/gumbo-parser
 - Package: gurk
-  Version: 0.10.1
+  Version: 0.10.2
   Description: Signal messenger client for terminal
   Homepage: https://github.com/boxdot/gurk-rs
 - Package: gweather-locations
@@ -3435,7 +3435,7 @@
   Description: The JACK low-latency audio server
   Homepage: https://jackaudio.org/
 - Package: jackett
-  Version: 0.24.2793
+  Version: 0.24.2826
   Description: API Support for your favorite torrent trackers
   Homepage: https://github.com/jackett/jackett
 - Package: jadx
@@ -5007,11 +5007,11 @@
   Description: Static libraries for liblightning
   Homepage: https://www.gnu.org/software/lightning/
 - Package: libliquid-dsp
-  Version: 1.8.2
+  Version: 1.8.3
   Description: Software-defined radio digital signal processing library
   Homepage: https://liquidsdr.org/
 - Package: libliquid-dsp-static
-  Version: 1.8.2
+  Version: 1.8.3
   Description: Static libraries for libliquid-dsp
   Homepage: https://liquidsdr.org/
 - Package: libllvm
@@ -6695,15 +6695,15 @@
   Description: Library to load and save XISF images
   Homepage: https://nouspiro.space
 - Package: libxls
-  Version: 1.6.3-2
+  Version: 1.6.4
   Description: A C library for reading Excel files in the nasty old binary OLE format
   Homepage: https://github.com/libxls/libxls
 - Package: libxls-static
-  Version: 1.6.3-2
+  Version: 1.6.4
   Description: Static libraries for libxls
   Homepage: https://github.com/libxls/libxls
 - Package: libxls2csv
-  Version: 1.6.3-2
+  Version: 1.6.4
   Description: A command-line tool for converting XLS to CSV
   Homepage: https://github.com/libxls/libxls
 - Package: libxlsxwriter
@@ -7783,7 +7783,7 @@
   Description: A light VPN software
   Homepage: https://github.com/ntop/n2n
 - Package: nala
-  Version: 0.16.0-3
+  Version: 0.18.1
   Description: Commandline frontend for the apt package manager
   Homepage: https://gitlab.com/volian/nala
 - Package: nali
@@ -7911,7 +7911,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1828+g7e1ae5115f-0
+  Version: 0.13.0~dev-1830+g89370c06d7-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8143,7 +8143,7 @@
   Description: Simple converter from OpenDocument Text to plain text
   Homepage: https://github.com/dstosberg/odt2txt
 - Package: oh-my-posh
-  Version: 31.7.0
+  Version: 31.8.0
   Description: A prompt theme engine for any shell.
   Homepage: https://ohmyposh.dev
 - Package: oha
@@ -8171,11 +8171,11 @@
   Description: The GNU Spreadsheet
   Homepage: https://www.gnu.org/software/oleo/
 - Package: ollama
-  Version: 0.35.1
+  Version: 0.40.3
   Description: Get up and running with large language models
   Homepage: https://ollama.com/
 - Package: ollama-backend-vulkan
-  Version: 0.35.1
+  Version: 0.40.3
   Description: Vulkan Backend for Ollama
   Homepage: https://ollama.com/
 - Package: oma
@@ -9755,7 +9755,7 @@
   Description: Systems programming language focused on safety, speed and concurrency
   Homepage: https://www.rust-lang.org/
 - Package: rust-analyzer
-  Version: "20261005"
+  Version: "20261012"
   Description: A Rust compiler front-end for IDEs
   Homepage: https://rust-analyzer.github.io/
 - Package: rust-bindgen
@@ -9851,7 +9851,7 @@
   Description: An improved version of sc, a spreadsheet calculator
   Homepage: https://github.com/andmarti1424/sc-im
 - Package: scala
-  Version: 3.9.0
+  Version: 3.10.0
   Description: Scala 3 compiler and standard library.
   Homepage: https://www.scala-lang.org
 - Package: scc
@@ -11879,11 +11879,11 @@
   Description: Z3 is a theorem prover from Microsoft Research
   Homepage: https://github.com/Z3Prover/z3
 - Package: zbar
-  Version: 0.23.94
+  Version: 0.23.95
   Description: Software suite for reading bar codes from various sources
   Homepage: https://github.com/mchehab/zbar
 - Package: zbar-static
-  Version: 0.23.94
+  Version: 0.23.95
   Description: Static libraries for zbar
   Homepage: https://github.com/mchehab/zbar
 - Package: zellij
