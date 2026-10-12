@@ -1555,7 +1555,7 @@
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doctl
-  Version: 1.182.0
+  Version: 1.183.0
   Description: The official command line interface for the DigitalOcean API
   Homepage: https://github.com/digitalocean/doctl
 - Package: doge
@@ -2211,7 +2211,7 @@
   Description: ForestDB dump tool
   Homepage: https://github.com/couchbase/forestdb
 - Package: forgejo
-  Version: 16.0.5
+  Version: 16.0.6
   Description: Forgejo is a self-hosted lightweight software forge.
   Homepage: https://forgejo.org/
 - Package: fortune
@@ -2503,7 +2503,7 @@
   Description: git commit --fixup, but automatic
   Homepage: https://github.com/tummychow/git-absorb
 - Package: git-annex
-  Version: 10.20260901-1
+  Version: "10.20261006"
   Description: Manage large files with git, without storing the file contents in git
   Homepage: https://git-annex.branchable.com
 - Package: git-cliff
@@ -3475,11 +3475,11 @@
   Description: Static libraries for jcal
   Homepage: http://nongnu.org/jcal
 - Package: jellyfin-ffmpeg
-  Version: 12.1-1
+  Version: "12.2"
   Description: FFmpeg for Jellyfin with custom extensions and enhancements
   Homepage: https://jellyfin.org
 - Package: jellyfin-server
-  Version: 12.1-1
+  Version: "12.2"
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
@@ -3611,7 +3611,7 @@
   Description: KBDs showkey utility for examining keycodes
   Homepage: https://kbd-project.org/
 - Package: kew
-  Version: 4.3.8
+  Version: 4.4.0
   Description: Music for the Shell
   Homepage: https://kewplayer.com
 - Package: keybase
@@ -7595,7 +7595,7 @@
   Description: Static libraries for mono
   Homepage: https://gitlab.winehq.org/mono/mono
 - Package: monolith
-  Version: 2.11.3
+  Version: 2.11.5
   Description: CLI tool for saving complete web pages as a single HTML file
   Homepage: https://github.com/Y2Z/monolith
 - Package: moon-buggy
@@ -8347,11 +8347,11 @@
   Description: The programmers solid 3D CAD modeller (headless build)
   Homepage: https://openscad.org/
 - Package: openssh
-  Version: 10.6p1-1
+  Version: 10.6p1-2
   Description: Secure shell for logging into a remote machine
   Homepage: https://www.openssh.com/
 - Package: openssh-sftp-server
-  Version: 10.6p1-1
+  Version: 10.6p1-2
   Description: OpenSSH SFTP server subsystem
   Homepage: https://www.openssh.com/
 - Package: openssl
@@ -8471,7 +8471,7 @@
   Description: Static libraries for panda3d
   Homepage: https://www.panda3d.org/
 - Package: pandoc
-  Version: "3.12"
+  Version: 3.12.1
   Description: Universal markup converter
   Homepage: https://pandoc.org/
 - Package: pango
@@ -9439,7 +9439,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.64.2
+  Version: 5.66.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10035,7 +10035,7 @@
   Description: Implementations of SIMD instructions for all systems
   Homepage: https://simd-everywhere.github.io/
 - Package: simdjson
-  Version: 5.0.3
+  Version: 5.0.4
   Description: A C++ library to see how fast we can parse JSON with complete validation
   Homepage: https://simdjson.org/
 - Package: simh
@@ -10471,7 +10471,7 @@
   Description: Swiss Army Knife for SMTP
   Homepage: http://jetmore.org/john/code/swaks/
 - Package: swi-prolog
-  Version: 10.1.17
+  Version: 10.1.18
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift
@@ -11095,7 +11095,7 @@
   Description: High-performance build system for JS/TS
   Homepage: https://turborepo.dev/
 - Package: turbopack
-  Version: 16.3.8
+  Version: 16.4.0
   Description: Rust-based incremental compilation engine and bundler for Next.js
   Homepage: https://nextjs.org/
 - Package: tut

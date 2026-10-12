@@ -387,7 +387,7 @@
  docopt  0.6.3-4  Command line arguments parser for C++11 and later  http://docopt.org 
  docopt-static  0.6.3-4  Static libraries for docopt  http://docopt.org 
  doctest  2.5.3  The fastest feature-rich C++11/14/17/20 single-header testing framework  https://github.com/doctest/doctest 
- doctl  1.182.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
+ doctl  1.183.0  The official command line interface for the DigitalOcean API  https://github.com/digitalocean/doctl 
  doge  0.2.9  A command-line DNS client  https://github.com/Dj-Codeman/dog_community 
  doggo  1.4.1  Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt  https://github.com/mr-karan/doggo 
  dopewars  1.6.2-1  Drug-dealing game set in streets of New York City  https://dopewars.sourceforge.io 
@@ -551,7 +551,7 @@
  fontconfig-static  2.18.3  Static libraries for fontconfig  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  fontconfig-utils  2.18.3  Fontconfig binaries  https://www.freedesktop.org/wiki/Software/fontconfig/ 
  forestdb-dump  1.2-2  ForestDB dump tool  https://github.com/couchbase/forestdb 
- forgejo  16.0.5  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
+ forgejo  16.0.6  Forgejo is a self-hosted lightweight software forge.  https://forgejo.org/ 
  fortune  1.2-2  Revealer of fortunes  https://www.fefe.de/fortune/ 
  fossil  2.28  DSCM with built-in wiki, http interface and server, tickets database  https://www.fossil-scm.org 
  foundry  1.8.5  A blazing fast, portable and modular toolkit for Ethereum application development  https://github.com/foundry-rs/foundry 
@@ -624,7 +624,7 @@
  girara  2026.07.18  Simple user interface library used by Zathura  https://pwmt.org/projects/girara 
  git  2.56.0  Fast, scalable, distributed revision control system  https://git-scm.com/ 
  git-absorb  0.9.0  git commit --fixup, but automatic  https://github.com/tummychow/git-absorb 
- git-annex  10.20260901-1  Manage large files with git, without storing the file contents in git  https://git-annex.branchable.com 
+ git-annex  10.20261006  Manage large files with git, without storing the file contents in git  https://git-annex.branchable.com 
  git-cliff  2.14.2  A highly customizable changelog generator that follows Conventional Commit specifications  https://git-cliff.org 
  git-credential-manager  3.0.1  Cross-platform Git credential storage for multiple hosting providers  https://aka.ms/gcm 
  git-crypt  0.8.0  Enables transparent encryption and decryption of files for a git repository  https://www.agwa.name/projects/git-crypt/ 
@@ -867,8 +867,8 @@
  jbig2enc-static  1:0.32  Static libraries for jbig2enc  https://github.com/agl/jbig2enc 
  jcal  0.5.1-1  UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar  http://nongnu.org/jcal 
  jcal-static  0.5.1-1  Static libraries for jcal  http://nongnu.org/jcal 
- jellyfin-ffmpeg  12.1-1  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
- jellyfin-server  12.1-1  A free media system for organizing and streaming media (server)  https://jellyfin.org 
+ jellyfin-ffmpeg  12.2  FFmpeg for Jellyfin with custom extensions and enhancements  https://jellyfin.org 
+ jellyfin-server  12.2  A free media system for organizing and streaming media (server)  https://jellyfin.org 
  jfrog-cli  2.126.0  A CLI for JFrog products  https://jfrog.com/getcli 
  jftui  0.7.6  jftui is a minimalistic, lightweight C99 command line client for the open source Jellyfin media server.  https://github.com/Aanok/jftui 
  jhead  3.08-1  Exif Jpeg header manipulation tool  http://www.sentex.net/~mwandel/jhead/ 
@@ -901,7 +901,7 @@
  kakoune  2026.05.21-1  Code editor heavily inspired by Vim  https://kakoune.org/ 
  kakoune-lsp  22.0.0  Language Server Protocol Client for the Kakoune editor  https://github.com/kakoune-lsp/kakoune-lsp 
  kbd  2.10.0  KBD's showkey utility for examining keycodes  https://kbd-project.org/ 
- kew  4.3.8  Music for the Shell  https://kewplayer.com 
+ kew  4.4.0  Music for the Shell  https://kewplayer.com 
  keybase  6.6.3  Key directory that maps social media identities to encryption keys  https://keybase.io 
  keychain  3.0.7  Keychain manager for ssh-agent and gpg-agent  https://kernel-seeds.org/projects/keychain/ 
  kibi  0.3.3-1  A tiny terminal text editor, written in Rust  https://github.com/ilai-deutel/kibi 
@@ -1897,7 +1897,7 @@
  mono  6.14.1-2  Framework Mono  https://gitlab.winehq.org/mono/mono 
  mono-libs  6.14.1-2  Platform-independent libraries for mono  https://gitlab.winehq.org/mono/mono 
  mono-static  6.14.1-2  Static libraries for mono  https://gitlab.winehq.org/mono/mono 
- monolith  2.11.3  CLI tool for saving complete web pages as a single HTML file  https://github.com/Y2Z/monolith 
+ monolith  2.11.5  CLI tool for saving complete web pages as a single HTML file  https://github.com/Y2Z/monolith 
  moon-buggy  1.1.0  Simple game where you drive a car across the moon's surface  https://www.seehuhn.de/programs/moon-buggy 
  moor  2.19.4  A pager designed to just do the right thing without any configuration  https://github.com/walles/moor 
  mop  2025.12.28  Stock market tracker  https://github.com/mop-tracker/mop 
@@ -2085,8 +2085,8 @@
  opensc  0.27.1  Open source smart card tools and middleware  https://github.com/OpenSC/OpenSC 
  opensc-static  0.27.1  Static libraries for opensc  https://github.com/OpenSC/OpenSC 
  openscad  2021.01-7  The programmers solid 3D CAD modeller (headless build)  https://openscad.org/ 
- openssh  10.6p1-1  Secure shell for logging into a remote machine  https://www.openssh.com/ 
- openssh-sftp-server  10.6p1-1  OpenSSH SFTP server subsystem  https://www.openssh.com/ 
+ openssh  10.6p1-2  Secure shell for logging into a remote machine  https://www.openssh.com/ 
+ openssh-sftp-server  10.6p1-2  OpenSSH SFTP server subsystem  https://www.openssh.com/ 
  openssl  1:3.6.5  Library implementing the SSL and TLS protocols as well as general purpose cryptography functions  https://www.openssl.org/ 
  openssl-static  1:3.6.5  Static libraries for openssl  https://www.openssl.org/ 
  openssl-tool  1:3.6.5  The openssl command line cryptographic tool  https://www.openssl.org/ 
@@ -2116,7 +2116,7 @@
  panda3d  1.10.16-1  A framework for 3D rendering and game development for Python and C++ programs  https://www.panda3d.org/ 
  panda3d-samples  1.10.16-1  Python sample programs that use Panda3D  https://www.panda3d.org/ 
  panda3d-static  1.10.16-1  Static libraries for panda3d  https://www.panda3d.org/ 
- pandoc  3.12  Universal markup converter  https://pandoc.org/ 
+ pandoc  3.12.1  Universal markup converter  https://pandoc.org/ 
  pango  1.58.2  Library for laying out and rendering text  https://www.gtk.org/docs/architecture/pango 
  paperkey  1.6-1  Archive OpenPGP keys on paper  http://www.jabberwocky.com/software/paperkey/ 
  par2  1.4.0  par2cmdline is a PAR 2.0 compatible file verification and repair tool  https://github.com/Parchive/par2cmdline 
@@ -2358,7 +2358,7 @@
  rage  0.12.1  A simple, secure and modern encryption tool  https://age-encryption.org/v1 
  ragel  7.0.4-1  Compiles finite state machines from regular languages into executable C, C++, Objective-C, or D code  https://www.colm.net/open-source/ragel/ 
  ragel-static  7.0.4-1  Static libraries for ragel  https://www.colm.net/open-source/ragel/ 
- railway-cli  5.64.2  This is the command line interface for Railway  https://railway.app 
+ railway-cli  5.66.0  This is the command line interface for Railway  https://railway.app 
  range-v3  0.12.0-1  Range library for C++14/17/20, basis for C++20's std::ranges  https://github.com/ericniebler/range-v3 
  ranger  1.9.4-2  File manager with VI key bindings  https://ranger.github.io/ 
  rapidjson  1.1.0-7  Fast JSON parser/generator for C++ with SAX/DOM style API  https://github.com/Tencent/rapidjson/ 
@@ -2507,7 +2507,7 @@
  silicon  0.5.3-1  Silicon is an alternative to Carbon implemented in Rust  https://github.com/Aloxaf/silicon 
  silversearcher-ag  2.2.0-6  Fast grep-like program, alternative to ack-grep  https://geoff.greer.fm/ag/ 
  simde  0.8.2  Implementations of SIMD instructions for all systems  https://simd-everywhere.github.io/ 
- simdjson  5.0.3  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
+ simdjson  5.0.4  A C++ library to see how fast we can parse JSON with complete validation  https://simdjson.org/ 
  simh  1:3.12.5-1  A collection of simulators for computer hardware and software from the past  http://simh.trailing-edge.com/ 
  simulavr  1:1.1.0-3  Simulator for Microchip AVR (formerly Atmel) microcontrollers  https://www.nongnu.org/simulavr 
  sing-box  1.14.3  The universal proxy platform  https://sing-box.sagernet.org 
@@ -2616,7 +2616,7 @@
  surfraw  2.3.0-10  Shell Users' Revolutionary Front Rage Against the Web  https://gitlab.com/surfraw/Surfraw 
  svt-av1  4.2.0  Scalable Video Technology for AV1 (SVT-AV1 Encoder and Decoder)  https://gitlab.com/AOMediaCodec/SVT-AV1 
  swaks  20240103.0  Swiss Army Knife for SMTP  http://jetmore.org/john/code/swaks/ 
- swi-prolog  10.1.17  Most popular and complete prolog implementation  https://swi-prolog.org/ 
+ swi-prolog  10.1.18  Most popular and complete prolog implementation  https://swi-prolog.org/ 
  swift  6.4.0  Swift is a high-performance system programming language  https://swift.org/ 
  swift-runtime-aarch64  6.4.0  Swift runtime libraries for Android AArch64  https://swift.org/ 
  swift-runtime-arm  6.4.0  Swift runtime libraries for Android armv7  https://swift.org/ 
@@ -2772,7 +2772,7 @@
  tuicr  0.27.0  A code review TUI with vim keybindings, exports to GitHub, GitLab, Gitea, Bitbucket, or clipboard  https://github.com/agavra/tuicr 
  tur-repo  1.0.1  A single and trusted place for all unofficial/less popular termux packages  https://github.com/termux-user-repository/tur 
  turbo  2.10.0  High-performance build system for JS/TS  https://turborepo.dev/ 
- turbopack  16.3.8  Rust-based incremental compilation engine and bundler for Next.js  https://nextjs.org/ 
+ turbopack  16.4.0  Rust-based incremental compilation engine and bundler for Next.js  https://nextjs.org/ 
  tut  2.0.1-3  A TUI for Mastodon with vim inspired keys  https://github.com/RasmusLindroth/tut 
  tvheadend  4.2.8-13  TV streaming server for Linux and Android supporting DVB-S, DVB-S2 and other formats.  https://tvheadend.org/ 
  tvheadend-data  4.2.8-13  Platform-independent data for tvheadend  https://tvheadend.org/ 
