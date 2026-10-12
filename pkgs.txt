@@ -2148,7 +2148,7 @@
  pcregrep  8.45-2  A grep with Perl-compatible regular expressions  https://www.pcre.org 
  pcscd  2.5.2  Middleware to access a smart card using SCard API (PC/SC). (daemon side)  https://pcsclite.apdu.fr/ 
  pdf2svg  0.2.4-2  A PDF to SVG converter  http://www.cityinthesky.co.uk/opensource/pdf2svg/ 
- pdfcpu  0.16.1  A PDF processor written in Go  https://pdfcpu.io 
+ pdfcpu  0.16.2  A PDF processor written in Go  https://pdfcpu.io 
  pdfgrep  2.2.0-5  Command line utility to search text in PDF files  https://pdfgrep.org/ 
  pdftk  3.3.3-3  A simple tool for doing everyday things with PDF documents  https://gitlab.com/pdftk-java/pdftk 
  peaclock  0.4.3-9  A responsive and customizable clock, timer, and stopwatch for the terminal.  https://github.com/octobanana/peaclock 
@@ -2290,7 +2290,7 @@
  python-pipcl  12  Python packaging operations for use by python-mupdf and python-pymupdf  https://github.com/ArtifexSoftware/pipcl 
  python-psutil  7.2.2-2  Cross-platform process and system utilities module for Python  https://github.com/giampaolo/psutil 
  python-pyarrow  26.0.0  Python bindings for Apache Arrow  https://github.com/apache/arrow 
- python-pycryptodomex  3.24.0  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
+ python-pycryptodomex  3.24.1  A self-contained Python package of low-level cryptographic primitives  https://www.pycryptodome.org/ 
  python-pymupdf  1.28.2  Python bindings for MuPDF's rendering library  https://github.com/pymupdf/PyMuPDF 
  python-pynacl  1.6.2  Python binding to the Networking and Cryptography (NaCl) library  https://github.com/pyca/pynacl 
  python-pynvim  0.6.0-3  Python client for Neovim  https://github.com/neovim/pynvim 
@@ -2494,7 +2494,7 @@
  sharutils  4.15.2-4  Utilities for packaging and unpackaging shell archives  https://www.gnu.org/software/sharutils/ 
  shc  4.0.3-4  Shell script compiler  https://neurobin.org/projects/softwares/unix/shc/ 
  sheldon  0.8.5-1  Fast, configurable, shell plugin manager  https://sheldon.cli.rs/ 
- shell2http  1.17.0-1  Executing shell commands via HTTP server  https://github.com/msoap/shell2http 
+ shell2http  1.18.0  Executing shell commands via HTTP server  https://github.com/msoap/shell2http 
  shellcheck  0.11.0-3  Shell script analysis tool  https://www.shellcheck.net/ 
  shellharden  4.3.2  The corrective bash syntax highlighter  https://github.com/anordal/shellharden 
  shellinabox  2.21-1  Implementation of a web server that can export arbitrary command line tools to a web based terminal emulator  https://github.com/shellinabox/shellinabox 

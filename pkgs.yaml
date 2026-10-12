@@ -8599,7 +8599,7 @@
   Description: A PDF to SVG converter
   Homepage: http://www.cityinthesky.co.uk/opensource/pdf2svg/
 - Package: pdfcpu
-  Version: 0.16.1
+  Version: 0.16.2
   Description: A PDF processor written in Go
   Homepage: https://pdfcpu.io
 - Package: pdfgrep
@@ -9167,7 +9167,7 @@
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
-  Version: 3.24.0
+  Version: 3.24.1
   Description: A self-contained Python package of low-level cryptographic primitives
   Homepage: https://www.pycryptodome.org/
 - Package: python-pymupdf
@@ -9983,7 +9983,7 @@
   Description: Fast, configurable, shell plugin manager
   Homepage: https://sheldon.cli.rs/
 - Package: shell2http
-  Version: 1.17.0-1
+  Version: 1.18.0
   Description: Executing shell commands via HTTP server
   Homepage: https://github.com/msoap/shell2http
 - Package: shellcheck
