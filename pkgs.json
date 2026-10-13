@@ -1909,7 +1909,7 @@
   },
   {
     "Package": "ctranslate2",
-    "Version": "4.8.2-1",
+    "Version": "4.8.3",
     "Description": "A fast inference engine for Transformer models",
     "Homepage": "https://github.com/OpenNMT/CTranslate2"
   },
@@ -2335,7 +2335,7 @@
   },
   {
     "Package": "doctl",
-    "Version": "1.184.0",
+    "Version": "1.185.0",
     "Description": "The official command line interface for the DigitalOcean API",
     "Homepage": "https://github.com/digitalocean/doctl"
   },
@@ -3865,7 +3865,7 @@
   },
   {
     "Package": "glab-cli",
-    "Version": "1.122.0",
+    "Version": "1.123.0",
     "Description": "A GitLab CLI tool bringing GitLab to your command line",
     "Homepage": "https://gitlab.com/gitlab-org/cli"
   },
@@ -4681,7 +4681,7 @@
   },
   {
     "Package": "hk",
-    "Version": "2.5.0",
+    "Version": "2.6.0",
     "Description": "A tool for managing git hooks",
     "Homepage": "https://hk.jdx.dev/"
   },
@@ -4789,7 +4789,7 @@
   },
   {
     "Package": "hugo",
-    "Version": "0.167.0",
+    "Version": "0.168.0",
     "Description": "A fast and flexible static site generator",
     "Homepage": "https://gohugo.io/"
   },
@@ -5227,7 +5227,7 @@
   },
   {
     "Package": "jfrog-cli",
-    "Version": "2.126.0",
+    "Version": "2.127.0",
     "Description": "A CLI for JFrog products",
     "Homepage": "https://jfrog.com/getcli"
   },
@@ -10489,9 +10489,9 @@
   },
   {
     "Package": "lpsolve",
-    "Version": "5.5.2.11-1",
+    "Version": "5.5.2.14",
     "Description": "a Mixed Integer Linear Programming (MILP) solver",
-    "Homepage": "http://lpsolve.sourceforge.net/"
+    "Homepage": "https://github.com/lp-solve/lp_solve"
   },
   {
     "Package": "lr",
@@ -10645,7 +10645,7 @@
   },
   {
     "Package": "luajit",
-    "Version": "1:2.1.1788856981+gc6ffc14",
+    "Version": "1:2.1.1791890110+g634daf2",
     "Description": "Just-In-Time Compiler for Lua",
     "Homepage": "https://luajit.org/"
   },
@@ -10657,7 +10657,7 @@
   },
   {
     "Package": "luajit-static",
-    "Version": "1:2.1.1788856981+gc6ffc14",
+    "Version": "1:2.1.1791890110+g634daf2",
     "Description": "Static libraries for luajit",
     "Homepage": "https://luajit.org/"
   },
@@ -11305,7 +11305,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.10.8",
+    "Version": "2026.10.9",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -13285,7 +13285,7 @@
   },
   {
     "Package": "portmidi",
-    "Version": "2.0.7",
+    "Version": "2.0.8",
     "Description": "A cross-platform MIDI input/output library",
     "Homepage": "https://github.com/PortMidi/portmidi"
   },
@@ -13639,7 +13639,7 @@
   },
   {
     "Package": "python-ctranslate2",
-    "Version": "4.8.2-1",
+    "Version": "4.8.3",
     "Description": "Python bindings for CTranslate2",
     "Homepage": "https://github.com/OpenNMT/CTranslate2"
   },
@@ -14173,7 +14173,7 @@
   },
   {
     "Package": "railway-cli",
-    "Version": "5.67.0",
+    "Version": "5.67.1",
     "Description": "This is the command line interface for Railway",
     "Homepage": "https://railway.app"
   },
@@ -17173,7 +17173,7 @@
   },
   {
     "Package": "vtm",
-    "Version": "2026.10.06",
+    "Version": "2026.10.07",
     "Description": "Terminal multiplexer with TUI window manager and multi-party session sharing",
     "Homepage": "https://github.com/directvt/vtm"
   },
@@ -17263,7 +17263,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.27.4",
+    "Version": "2.27.5",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
@@ -17773,7 +17773,7 @@
   },
   {
     "Package": "yosys",
-    "Version": "0.69",
+    "Version": "0.70",
     "Description": "A framework for RTL synthesis tools",
     "Homepage": "https://yosyshq.net/yosys/"
   },

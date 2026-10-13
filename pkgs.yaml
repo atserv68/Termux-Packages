@@ -1271,7 +1271,7 @@
   Description: 'Universal ctags: Source code index builder'
   Homepage: https://ctags.io/
 - Package: ctranslate2
-  Version: 4.8.2-1
+  Version: 4.8.3
   Description: A fast inference engine for Transformer models
   Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: ctre
@@ -1555,7 +1555,7 @@
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doctl
-  Version: 1.184.0
+  Version: 1.185.0
   Description: The official command line interface for the DigitalOcean API
   Homepage: https://github.com/digitalocean/doctl
 - Package: doge
@@ -2575,7 +2575,7 @@
   Description: Simple, Portable, Free File Transfer Software for UNIX
   Homepage: http://www.columbia.edu/kermit/gkermit.html
 - Package: glab-cli
-  Version: 1.122.0
+  Version: 1.123.0
   Description: A GitLab CLI tool bringing GitLab to your command line
   Homepage: https://gitlab.com/gitlab-org/cli
 - Package: gleam
@@ -3119,7 +3119,7 @@
   Description: The Moon-powered shell! A comfy and extensible shell for Lua fans!
   Homepage: https://rosettea.github.io/Hilbish/
 - Package: hk
-  Version: 2.5.0
+  Version: 2.6.0
   Description: A tool for managing git hooks
   Homepage: https://hk.jdx.dev/
 - Package: hledger
@@ -3191,7 +3191,7 @@
   Description: Command-line wrapper for git that makes you better at GitHub
   Homepage: https://hub.github.com/
 - Package: hugo
-  Version: 0.167.0
+  Version: 0.168.0
   Description: A fast and flexible static site generator
   Homepage: https://gohugo.io/
 - Package: hummin
@@ -3483,7 +3483,7 @@
   Description: A free media system for organizing and streaming media (server)
   Homepage: https://jellyfin.org
 - Package: jfrog-cli
-  Version: 2.126.0
+  Version: 2.127.0
   Description: A CLI for JFrog products
   Homepage: https://jfrog.com/getcli
 - Package: jftui
@@ -6991,9 +6991,9 @@
   Description: Static libraries for lowdown
   Homepage: https://kristaps.bsd.lv/lowdown
 - Package: lpsolve
-  Version: 5.5.2.11-1
+  Version: 5.5.2.14
   Description: a Mixed Integer Linear Programming (MILP) solver
-  Homepage: http://lpsolve.sourceforge.net/
+  Homepage: https://github.com/lp-solve/lp_solve
 - Package: lr
   Version: 2.0.1-1
   Description: list files, recursively, includes the best features of ls, find, stat and du
@@ -7095,7 +7095,7 @@
   Description: Static libraries for lua55
   Homepage: https://www.lua.org/
 - Package: luajit
-  Version: 1:2.1.1788856981+gc6ffc14
+  Version: 1:2.1.1791890110+g634daf2
   Description: Just-In-Time Compiler for Lua
   Homepage: https://luajit.org/
 - Package: luajit-lgi
@@ -7103,7 +7103,7 @@
   Description: Dynamic Lua binding to GObject libraries using GObject-Introspection
   Homepage: https://github.com/lgi-devs/lgi
 - Package: luajit-static
-  Version: 1:2.1.1788856981+gc6ffc14
+  Version: 1:2.1.1791890110+g634daf2
   Description: Static libraries for luajit
   Homepage: https://luajit.org/
 - Package: luarocks
@@ -7535,7 +7535,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.10.8
+  Version: 2026.10.9
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -8855,7 +8855,7 @@
   Description: Static libraries for portaudio
   Homepage: https://www.portaudio.com/
 - Package: portmidi
-  Version: 2.0.7
+  Version: 2.0.8
   Description: A cross-platform MIDI input/output library
   Homepage: https://github.com/PortMidi/portmidi
 - Package: posixvala
@@ -9091,7 +9091,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ctranslate2
-  Version: 4.8.2-1
+  Version: 4.8.3
   Description: Python bindings for CTranslate2
   Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: python-ensurepip-wheels
@@ -9447,7 +9447,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.67.0
+  Version: 5.67.1
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -11447,7 +11447,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.10.06
+  Version: 2026.10.07
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -11507,7 +11507,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.27.4
+  Version: 2.27.5
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
@@ -11847,7 +11847,7 @@
   Description: Embeddable layout engine targeting web standards
   Homepage: https://www.yogalayout.dev/
 - Package: yosys
-  Version: "0.69"
+  Version: "0.70"
   Description: A framework for RTL synthesis tools
   Homepage: https://yosyshq.net/yosys/
 - Package: youtubedr
