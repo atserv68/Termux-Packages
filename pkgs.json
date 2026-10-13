@@ -709,7 +709,7 @@
   },
   {
     "Package": "awscli",
-    "Version": "2.37.12",
+    "Version": "2.37.13",
     "Description": "Universal Command Line Interface for Amazon Web Services",
     "Homepage": "https://aws.amazon.com/cli"
   },
@@ -3277,7 +3277,7 @@
   },
   {
     "Package": "flyctl",
-    "Version": "0.4.115",
+    "Version": "0.4.116",
     "Description": "Command line tools for fly.io services",
     "Homepage": "https://fly.io"
   },
@@ -3385,7 +3385,7 @@
   },
   {
     "Package": "fresh-editor",
-    "Version": "0.5.2",
+    "Version": "0.5.3",
     "Description": "Text editor for your terminal: easy, powerful and fast",
     "Homepage": "https://getfresh.dev/"
   },
@@ -3697,7 +3697,7 @@
   },
   {
     "Package": "ghostscript",
-    "Version": "10.07.1-2",
+    "Version": "10.08.0",
     "Description": "Interpreter for the PostScript language and for PDF",
     "Homepage": "https://www.ghostscript.com/"
   },
@@ -3727,7 +3727,7 @@
   },
   {
     "Package": "gifsicle",
-    "Version": "1.96-1",
+    "Version": "1.97",
     "Description": "Tool for creating, editing, and getting information about GIF images and animations",
     "Homepage": "https://www.lcdf.org/gifsicle/"
   },
@@ -4309,7 +4309,7 @@
   },
   {
     "Package": "grafana",
-    "Version": "1:12.3.3-1",
+    "Version": "1:13.2.3",
     "Description": "The open-source platform for monitoring and observability",
     "Homepage": "https://grafana.com/"
   },
@@ -7897,13 +7897,13 @@
   },
   {
     "Package": "libmpfr",
-    "Version": "4.2.1-1",
+    "Version": "4.2.2",
     "Description": "C library for multiple-precision floating-point computations with correct rounding",
     "Homepage": "https://www.mpfr.org/"
   },
   {
     "Package": "libmpfr-static",
-    "Version": "4.2.1-1",
+    "Version": "4.2.2",
     "Description": "Static libraries for libmpfr",
     "Homepage": "https://www.mpfr.org/"
   },
@@ -11347,7 +11347,7 @@
   },
   {
     "Package": "mold",
-    "Version": "2.42.1",
+    "Version": "3.0.0",
     "Description": "mold: A Modern Linker",
     "Homepage": "https://github.com/rui314/mold"
   },
@@ -13585,7 +13585,7 @@
   },
   {
     "Package": "python-apsw",
-    "Version": "3.53.4.0",
+    "Version": "3.54.0.0",
     "Description": "Another Python SQLite Wrapper",
     "Homepage": "https://rogerbinns.github.io/apsw/"
   },
@@ -13735,7 +13735,7 @@
   },
   {
     "Package": "python-pipcl",
-    "Version": "12",
+    "Version": "13",
     "Description": "Python packaging operations for use by python-mupdf and python-pymupdf",
     "Homepage": "https://github.com/ArtifexSoftware/pipcl"
   },
@@ -17251,7 +17251,7 @@
   },
   {
     "Package": "wakatime-cli",
-    "Version": "2.27.1",
+    "Version": "2.27.3",
     "Description": "Command line interface used by all WakaTime text editor plugins",
     "Homepage": "https://wakatime.com/plugins/"
   },
