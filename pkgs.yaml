@@ -35,11 +35,11 @@
   Description: Static libraries for aalib
   Homepage: https://sourceforge.net/projects/aa-project/
 - Package: aapt
-  Version: 16.0.0.4-2
+  Version: 16.0.0.4-3
   Description: Android Asset Packaging Tool
   Homepage: https://github.com/termux/android-build-tools
 - Package: aapt2
-  Version: 16.0.0.4-2
+  Version: 16.0.0.4-3
   Description: AAPT2 (Android Asset Packaging Tool)
   Homepage: https://github.com/termux/android-build-tools
 - Package: abduco
@@ -99,7 +99,7 @@
   Description: A powerful chatgpt cli
   Homepage: https://github.com/sigoden/aichat
 - Package: aidl
-  Version: 16.0.0.4-2
+  Version: 16.0.0.4-3
   Description: Android Interface Definition Language (AIDL)
   Homepage: https://github.com/termux/android-build-tools
 - Package: air
@@ -115,7 +115,7 @@
   Description: A framework for sharing scene data that includes a C++ lib, a file format and client plugin
   Homepage: https://alembic.io
 - Package: algernon
-  Version: 1.17.11
+  Version: 1.17.12
   Description: Small self-contained web server with Lua, Markdown, QUIC, Redis and PostgreSQL support
   Homepage: https://algernon.roboticoverlords.org/
 - Package: alpine
@@ -147,7 +147,7 @@
   Description: Aims to be the best looking Gemini client
   Homepage: https://github.com/makew0rld/amfora
 - Package: android-tools
-  Version: 37.0.0p1
+  Version: 37.0.0p1-1
   Description: Android platform tools
   Homepage: https://developer.android.com/
 - Package: anewer
@@ -199,7 +199,7 @@
   Description: AOSP-based mksh, toybox, grep and iputils for termux-docker
   Homepage: https://source.android.com/
 - Package: apache-orc
-  Version: 2.3.1
+  Version: 2.3.1-1
   Description: Columnar storage for Hadoop workloads
   Homepage: https://orc.apache.org/
 - Package: apache2
@@ -1271,7 +1271,7 @@
   Description: 'Universal ctags: Source code index builder'
   Homepage: https://ctags.io/
 - Package: ctranslate2
-  Version: 4.8.2
+  Version: 4.8.2-1
   Description: A fast inference engine for Transformer models
   Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: ctre
@@ -1555,7 +1555,7 @@
   Description: The fastest feature-rich C++11/14/17/20 single-header testing framework
   Homepage: https://github.com/doctest/doctest
 - Package: doctl
-  Version: 1.183.0
+  Version: 1.184.0
   Description: The official command line interface for the DigitalOcean API
   Homepage: https://github.com/digitalocean/doctl
 - Package: doge
@@ -1951,7 +1951,7 @@
   Description: Static libraries for espeak
   Homepage: https://github.com/espeak-ng/espeak-ng
 - Package: et
-  Version: 7.0.0
+  Version: 7.0.0-1
   Description: A remote shell that automatically reconnects without interrupting the session
   Homepage: https://eternalterminal.dev
 - Package: etsh
@@ -2243,11 +2243,11 @@
   Description: Static libraries for freeimage
   Homepage: https://freeimage.sourceforge.io
 - Package: freetype
-  Version: 2.14.3
+  Version: 2.15.0
   Description: Software font engine capable of producing high-quality output
   Homepage: https://www.freetype.org
 - Package: freetype-static
-  Version: 2.14.3
+  Version: 2.15.0
   Description: Static libraries for freetype
   Homepage: https://www.freetype.org
 - Package: frei0r-plugins
@@ -2439,7 +2439,7 @@
   Description: Static libraries for gettext
   Homepage: https://www.gnu.org/software/gettext/
 - Package: gexiv2
-  Version: 0.14.7
+  Version: 0.16.2
   Description: A GObject-based Exiv2 wrapper
   Homepage: https://wiki.gnome.org/Projects/gexiv2
 - Package: gflags
@@ -3927,7 +3927,7 @@
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
-  Version: 26.0.0
+  Version: 26.0.0-1
   Description: C++ libraries for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: libasio
@@ -4299,7 +4299,7 @@
   Description: EDID and DisplayID library
   Homepage: https://emersion.pages.freedesktop.org/libdisplay-info/
 - Package: libdjinterop
-  Version: 0.27.0
+  Version: 0.27.1
   Description: C++ library for access to DJ record libraries
   Homepage: https://github.com/xsco/libdjinterop
 - Package: libdmtx
@@ -4691,7 +4691,7 @@
   Description: Font system for multiple languages
   Homepage: https://github.com/silnrsi/graphite
 - Package: libgrpc
-  Version: 1.84.0
+  Version: 1.84.0-1
   Description: High performance, open source, general RPC framework that puts mobile and HTTP/2 first
   Homepage: https://grpc.io/
 - Package: libgsasl
@@ -5095,8 +5095,12 @@
   Description: Provides many low-level data structures which are helpful for writing compilers
   Homepage: https://sourceforge.net/projects/dict/
 - Package: libmad
-  Version: 0.16.4-2
+  Version: 0.16.5-1
   Description: MAD is a high-quality MPEG audio decoder
+  Homepage: http://www.underbit.com/products/mad/
+- Package: libmad-static
+  Version: 0.16.5-1
+  Description: Static libraries for libmad
   Homepage: http://www.underbit.com/products/mad/
 - Package: libmagic
   Version: 5.48-3
@@ -5575,11 +5579,11 @@
   Description: Library for reading from and writing to OSM files in XML and PBF formats
   Homepage: https://osmcode.org/libosmium/
 - Package: libosmpbf
-  Version: 1.8.0
+  Version: 1.8.0-1
   Description: osmpbf is a Java/C library to read and write OpenStreetMap PBF files
   Homepage: https://github.com/openstreetmap/OSM-binary/
 - Package: libosmpbf-static
-  Version: 1.8.0
+  Version: 1.8.0-1
   Description: Static libraries for libosmpbf
   Homepage: https://github.com/openstreetmap/OSM-binary/
 - Package: libotr
@@ -5739,15 +5743,15 @@
   Description: Static library for libpq
   Homepage: https://www.postgresql.org
 - Package: libprotobuf
-  Version: "2:35.1"
+  Version: "2:36.2"
   Description: Protocol buffers C++ library
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: libprotobuf-c
-  Version: 1.5.2-4
+  Version: 1.5.2-5
   Description: Protocol buffers C library
   Homepage: https://github.com/protobuf-c/protobuf-c
 - Package: libprotobuf-c-static
-  Version: 1.5.2-4
+  Version: 1.5.2-5
   Description: Static libraries for libprotobuf-c
   Homepage: https://github.com/protobuf-c/protobuf-c
 - Package: libprotozero
@@ -7023,7 +7027,7 @@
   Description: Tracks runtime library calls in dynamically linked programs
   Homepage: http://www.ltrace.org/
 - Package: lua-language-server
-  Version: 3.19.1
+  Version: 3.19.2
   Description: Sumneko Lua Language Server coded in Lua
   Homepage: https://github.com/sumneko/lua-language-server
 - Package: lua-lgi
@@ -7251,7 +7255,7 @@
   Description: Simple CAS and symbolic calculator
   Homepage: https://en.wikipedia.org/wiki/Mathomatic
 - Package: matplotlib
-  Version: 3.11.2
+  Version: 3.11.2-1
   Description: A comprehensive library for creating static, animated, and interactive visualizations in Python
   Homepage: https://matplotlib.org/
 - Package: matterbridge
@@ -7567,7 +7571,7 @@
   Description: 'mold: A Modern Linker'
   Homepage: https://github.com/rui314/mold
 - Package: monero
-  Version: 0.18.5.3
+  Version: 0.18.5.3-1
   Description: A private, secure, untraceable, decentralised digital currency
   Homepage: https://getmonero.org/
 - Package: monetdb
@@ -7623,11 +7627,11 @@
   Description: A tool to decode the morse codes from a PCM WAV file as well as from text and RAW PCM files
   Homepage: https://packages.debian.org/sid/morse2ascii
 - Package: mosh
-  Version: 1.4.0-17
+  Version: 1.4.0-18
   Description: Mobile shell that supports roaming and intelligent local echo
   Homepage: https://mosh.org
 - Package: mosh-perl
-  Version: 1.4.0-17
+  Version: 1.4.0-18
   Description: The mosh Perl script
   Homepage: https://mosh.org
 - Package: mosquitto
@@ -7739,11 +7743,11 @@
   Description: Tool to monitor logfiles and command output in multiple windows in a terminal, colorize, filter and merge
   Homepage: http://www.vanheusden.com/multitail/
 - Package: mupdf
-  Version: 1.28.2-1
+  Version: 1.28.2-2
   Description: Lightweight PDF and XPS viewer (library)
   Homepage: https://mupdf.com/
 - Package: mupdf-tools
-  Version: 1.28.2-1
+  Version: 1.28.2-2
   Description: Lightweight PDF and XPS viewer (utilities)
   Homepage: https://mupdf.com/
 - Package: music-file-organizer
@@ -7911,7 +7915,7 @@
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim)
   Homepage: https://neovim.io/
 - Package: neovim-nightly
-  Version: 0.13.0~dev-1830+g89370c06d7-0
+  Version: 0.13.0~dev-1840+ga054b698c0-0
   Description: Ambitious Vim-fork focused on extensibility and agility (nvim-nightly)
   Homepage: https://neovim.io/
 - Package: nerdfix
@@ -8107,7 +8111,7 @@
   Description: Static libraries for oathtool
   Homepage: http://www.nongnu.org/oath-toolkit/
 - Package: oci-cli
-  Version: 3.94.2
+  Version: 3.95.0
   Description: Command line interface for Oracle Cloud Infrastructure
   Homepage: https://github.com/oracle/oci-cli
 - Package: ocl-icd
@@ -8203,7 +8207,7 @@
   Description: Static libraries for oniguruma
   Homepage: https://github.com/kkos/oniguruma
 - Package: onnxruntime
-  Version: 1.29.0
+  Version: 1.31.0-1
   Description: Cross-platform, high performance ML inferencing and training accelerator
   Homepage: https://onnxruntime.ai/
 - Package: oorexx
@@ -8435,7 +8439,7 @@
   Description: Open Virtual Machine Firmware
   Homepage: https://www.tianocore.org/
 - Package: oxfmt
-  Version: 1.87.0
+  Version: 1.88.0
   Description: Oxc JavaScript formatter
   Homepage: https://oxc.rs/
 - Package: oxipng
@@ -8443,7 +8447,7 @@
   Description: Multithreaded PNG optimizer written in Rust
   Homepage: https://github.com/oxipng/oxipng
 - Package: oxlint
-  Version: 1.87.0
+  Version: 1.88.0
   Description: Oxc JavaScript linter
   Homepage: https://oxc.rs/
 - Package: p11-kit
@@ -8735,11 +8739,11 @@
   Description: Parallel implementation of the gzip file compressor
   Homepage: https://www.zlib.net/pigz
 - Package: pikiwidb
-  Version: 3.5.6-3
+  Version: 3.5.6-4
   Description: Redis-Compatible database developed by Qihoos infrastructure team
   Homepage: https://github.com/OpenAtomFoundation/pikiwidb
 - Package: pikiwidb-static
-  Version: 3.5.6-3
+  Version: 3.5.6-4
   Description: Static libraries for pikiwidb
   Homepage: https://github.com/OpenAtomFoundation/pikiwidb
 - Package: pinentry
@@ -8803,7 +8807,7 @@
   Description: PNG image optimising utility
   Homepage: https://pngquant.org
 - Package: pnpm
-  Version: 12.12.1
+  Version: 12.13.0
   Description: Fast, disk space efficient package manager for JavaScript
   Homepage: https://pnpm.io
 - Package: pocketbase
@@ -8935,7 +8939,7 @@
   Description: Termux official utility for managing prooted Linux distributions
   Homepage: https://github.com/termux/proot-distro
 - Package: protobuf
-  Version: "2:35.1"
+  Version: "2:36.2"
   Description: Compiler for protocol buffer definition files
   Homepage: https://github.com/protocolbuffers/protobuf
 - Package: proton-bridge
@@ -8947,7 +8951,7 @@
   Description: Official command-line client for Proton Drive
   Homepage: https://github.com/ProtonDriveApps/sdk
 - Package: proton-pass-cli
-  Version: 2.4.2
+  Version: 2.4.2-1
   Description: Proton Pass Command Line Interface (CLI)
   Homepage: https://protonpass.github.io/pass-cli/
 - Package: prover9
@@ -9087,7 +9091,7 @@
   Description: Provides cryptographic recipes and primitives to Python developers
   Homepage: https://github.com/pyca/cryptography
 - Package: python-ctranslate2
-  Version: 4.8.2
+  Version: 4.8.2-1
   Description: Python bindings for CTranslate2
   Homepage: https://github.com/OpenNMT/CTranslate2
 - Package: python-ensurepip-wheels
@@ -9106,6 +9110,10 @@
   Version: 1.2.1
   Description: Library for approximate and phonetic matching of strings
   Homepage: https://codeberg.org/jpt/jellyfish
+- Package: python-kiwisolver
+  Version: 1.5.1
+  Description: An efficient C++ implementation of the Cassowary constraint solving algorithm
+  Homepage: https://github.com/nucleic/kiwi
 - Package: python-lameenc
   Version: 1.8.4-1
   Description: Python bindings around the LAME encoder
@@ -9131,7 +9139,7 @@
   Description: MessagePack serializer implementation for Python
   Homepage: https://github.com/msgpack/msgpack-python
 - Package: python-mupdf
-  Version: 1.28.2-1
+  Version: 1.28.2-2
   Description: Lightweight PDF and XPS viewer (Python bindings)
   Homepage: https://mupdf.com/
 - Package: python-numpy
@@ -9143,7 +9151,7 @@
   Description: Static libraries for python-numpy
   Homepage: https://numpy.org/
 - Package: python-onnxruntime
-  Version: 1.29.0
+  Version: 1.31.0-1
   Description: Cross-platform, high performance ML inferencing and training accelerator (Python bindings)
   Homepage: https://onnxruntime.ai/
 - Package: python-pillow
@@ -9163,7 +9171,7 @@
   Description: Cross-platform process and system utilities module for Python
   Homepage: https://github.com/giampaolo/psutil
 - Package: python-pyarrow
-  Version: 26.0.0
+  Version: 26.0.0-1
   Description: Python bindings for Apache Arrow
   Homepage: https://github.com/apache/arrow
 - Package: python-pycryptodomex
@@ -9171,7 +9179,7 @@
   Description: A self-contained Python package of low-level cryptographic primitives
   Homepage: https://www.pycryptodome.org/
 - Package: python-pymupdf
-  Version: 1.28.2
+  Version: 1.28.2-1
   Description: Python bindings for MuPDFs rendering library
   Homepage: https://github.com/pymupdf/PyMuPDF
 - Package: python-pynacl
@@ -9227,11 +9235,11 @@
   Description: Tools for publishing from TLDP sources
   Homepage: https://github.com/tLDP/python-tldp
 - Package: python-torch
-  Version: 2.14.1
+  Version: 2.14.1-1
   Description: Tensors and Dynamic neural networks in Python
   Homepage: https://pytorch.org/
 - Package: python-torch-static
-  Version: 2.14.1
+  Version: 2.14.1-1
   Description: Static libraries for python-torch
   Homepage: https://pytorch.org/
 - Package: python-torchaudio
@@ -9439,7 +9447,7 @@
   Description: Static libraries for ragel
   Homepage: https://www.colm.net/open-source/ragel/
 - Package: railway-cli
-  Version: 5.66.0
+  Version: 5.67.0
   Description: This is the command line interface for Railway
   Homepage: https://railway.app
 - Package: range-v3
@@ -10159,7 +10167,7 @@
   Description: Freedesktop sound theme
   Homepage: https://freedesktop.org/wiki/Specifications/sound-theme-spec
 - Package: sourcekit-lsp
-  Version: 6.4.0
+  Version: 6.4.1
   Description: Language Server Protocol implementation for Swift and C-based languages
   Homepage: https://swift.org/
 - Package: sox
@@ -10475,31 +10483,31 @@
   Description: Most popular and complete prolog implementation
   Homepage: https://swi-prolog.org/
 - Package: swift
-  Version: 6.4.0
+  Version: 6.4.1
   Description: Swift is a high-performance system programming language
   Homepage: https://swift.org/
 - Package: swift-runtime-aarch64
-  Version: 6.4.0
+  Version: 6.4.1
   Description: Swift runtime libraries for Android AArch64
   Homepage: https://swift.org/
 - Package: swift-runtime-arm
-  Version: 6.4.0
+  Version: 6.4.1
   Description: Swift runtime libraries for Android armv7
   Homepage: https://swift.org/
 - Package: swift-runtime-x86-64
-  Version: 6.4.0
+  Version: 6.4.1
   Description: Swift runtime libraries for Android x86_64
   Homepage: https://swift.org/
 - Package: swift-sdk-aarch64
-  Version: 6.4.0
+  Version: 6.4.1
   Description: Swift SDK for Android AArch64
   Homepage: https://swift.org/
 - Package: swift-sdk-arm
-  Version: 6.4.0
+  Version: 6.4.1
   Description: Swift SDK for Android armv7
   Homepage: https://swift.org/
 - Package: swift-sdk-x86-64
-  Version: 6.4.0
+  Version: 6.4.1
   Description: Swift SDK for Android x86_64
   Homepage: https://swift.org/
 - Package: swiftshader
@@ -10523,7 +10531,7 @@
   Description: Decentralized file synchronization
   Homepage: https://syncthing.net/
 - Package: sysprop
-  Version: 16.0.0.4-2
+  Version: 16.0.0.4-3
   Description: Android sysprop generators
   Homepage: https://github.com/termux/android-build-tools
 - Package: ta-lib
@@ -10683,7 +10691,7 @@
   Description: A bash library for Termux:GUI
   Homepage: https://github.com/tareksander/termux-gui-bash
 - Package: termux-gui-c
-  Version: 0.1.3-7
+  Version: 0.1.3-8
   Description: A C library for the Termux:GUI plugin
   Homepage: https://github.com/tareksander/termux-gui-c-bindings
 - Package: termux-gui-package
@@ -11179,7 +11187,7 @@
   Description: The Unicode Character Database (UCD)
   Homepage: https://unicode.org/ucd/
 - Package: unicode-emoji
-  Version: 17.0.0
+  Version: 18.0.0
   Description: Unicode Emoji Data Files
   Homepage: https://unicode.org/emoji/
 - Package: unicorn
@@ -11439,7 +11447,7 @@
   Description: Ogg Vorbis tools
   Homepage: https://github.com/xiph/vorbis-tools
 - Package: vtm
-  Version: 2026.10.05
+  Version: 2026.10.06
   Description: Terminal multiplexer with TUI window manager and multi-party session sharing
   Homepage: https://github.com/directvt/vtm
 - Package: vttest
@@ -11499,7 +11507,7 @@
   Description: The WebAssembly Binary Toolkit
   Homepage: https://github.com/WebAssembly/wabt
 - Package: wakatime-cli
-  Version: 2.27.3
+  Version: 2.27.4
   Description: Command line interface used by all WakaTime text editor plugins
   Homepage: https://wakatime.com/plugins/
 - Package: walk
