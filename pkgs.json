@@ -1087,7 +1087,7 @@
   },
   {
     "Package": "bsdtar",
-    "Version": "3.8.9",
+    "Version": "3.8.10",
     "Description": "The tar(1) and cpio(1) programs from FreeBSD, using libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -5881,13 +5881,13 @@
   },
   {
     "Package": "libarchive",
-    "Version": "3.8.9",
+    "Version": "3.8.10",
     "Description": "Multi-format archive and compression library",
     "Homepage": "https://www.libarchive.org/"
   },
   {
     "Package": "libarchive-static",
-    "Version": "3.8.9",
+    "Version": "3.8.10",
     "Description": "Static libraries for libarchive",
     "Homepage": "https://www.libarchive.org/"
   },
@@ -11311,7 +11311,7 @@
   },
   {
     "Package": "mise",
-    "Version": "2026.10.9",
+    "Version": "2026.10.10",
     "Description": "dev tools, env vars, task runner",
     "Homepage": "https://mise.jdx.dev/"
   },
@@ -13543,19 +13543,19 @@
   },
   {
     "Package": "pypy",
-    "Version": "8.0.0-1",
+    "Version": "8.0.1",
     "Description": "A fast, compliant alternative implementation of Python",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tests",
-    "Version": "8.0.0-1",
+    "Version": "8.0.1",
     "Description": "Test files for PyPy",
     "Homepage": "https://pypy.org"
   },
   {
     "Package": "pypy-tkinter",
-    "Version": "8.0.0-1",
+    "Version": "8.0.1",
     "Description": "Tkinter support for PyPy",
     "Homepage": "https://pypy.org"
   },

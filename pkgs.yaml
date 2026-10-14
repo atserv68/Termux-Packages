@@ -723,7 +723,7 @@
   Description: Classic text mode games from UNIX folklore
   Homepage: https://www.polyomino.org.uk/computer/software/bsd-games/
 - Package: bsdtar
-  Version: 3.8.9
+  Version: 3.8.10
   Description: The tar(1) and cpio(1) programs from FreeBSD, using libarchive
   Homepage: https://www.libarchive.org/
 - Package: btfs2
@@ -3919,11 +3919,11 @@
   Description: Perl interface to APTs libapt-pkg
   Homepage: https://packages.debian.org/libapt-pkg-perl
 - Package: libarchive
-  Version: 3.8.9
+  Version: 3.8.10
   Description: Multi-format archive and compression library
   Homepage: https://www.libarchive.org/
 - Package: libarchive-static
-  Version: 3.8.9
+  Version: 3.8.10
   Description: Static libraries for libarchive
   Homepage: https://www.libarchive.org/
 - Package: libarrow-cpp
@@ -7539,7 +7539,7 @@
   Description: Static libraries for minizinc
   Homepage: https://github.com/MiniZinc/libminizinc
 - Package: mise
-  Version: 2026.10.9
+  Version: 2026.10.10
   Description: dev tools, env vars, task runner
   Homepage: https://mise.jdx.dev/
 - Package: mkbootimg
@@ -9027,15 +9027,15 @@
   Description: Python package which provides bindings for GObject based libraries
   Homepage: https://pygobject.gnome.org/
 - Package: pypy
-  Version: 8.0.0-1
+  Version: 8.0.1
   Description: A fast, compliant alternative implementation of Python
   Homepage: https://pypy.org
 - Package: pypy-tests
-  Version: 8.0.0-1
+  Version: 8.0.1
   Description: Test files for PyPy
   Homepage: https://pypy.org
 - Package: pypy-tkinter
-  Version: 8.0.0-1
+  Version: 8.0.1
   Description: Tkinter support for PyPy
   Homepage: https://pypy.org
 - Package: pypy3
