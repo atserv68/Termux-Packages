@@ -149,7 +149,7 @@
 | **bchunk** | 1.2.2 | Tool to convert .bin + .cue files to .iso files | http://he.fi/bchunk/ |
 | **bdsup2sub** | 4.0.1-1 | A subtitle conversion tool for image based stream formats | https://github.com/mjuhasz/BDSup2Sub |
 | **beanshell** | 3.0.0b1 | Small, free, embeddable, source level Java interpreter with object based scripting language features written in Java | https://github.com/beanshell/beanshell |
-| **bear** | 4.2.2 | Bear is a tool that generates a compilation database for clang tooling. | https://github.com/rizsotto/Bear |
+| **bear** | 4.2.3 | Bear is a tool that generates a compilation database for clang tooling. | https://github.com/rizsotto/Bear |
 | **bed** | 0.2.8 | Binary editor written in GO | https://github.com/itchyny/bed |
 | **bftpd** | 6.7 | Small, easy-to-configure FTP server | https://bftpd.sourceforge.net/ |
 | **bgrep** | 1.0-5 | Binary string grep tool | https://debugmo.de/2009/04/bgrep-a-binary-grep/ |
@@ -399,7 +399,7 @@
 | **docopt** | 0.6.3-4 | Command line arguments parser for C++11 and later | http://docopt.org |
 | **docopt-static** | 0.6.3-4 | Static libraries for docopt | http://docopt.org |
 | **doctest** | 2.5.3 | The fastest feature-rich C++11/14/17/20 single-header testing framework | https://github.com/doctest/doctest |
-| **doctl** | 1.185.0 | The official command line interface for the DigitalOcean API | https://github.com/digitalocean/doctl |
+| **doctl** | 1.186.0 | The official command line interface for the DigitalOcean API | https://github.com/digitalocean/doctl |
 | **doge** | 0.2.9 | A command-line DNS client | https://github.com/Dj-Codeman/dog_community |
 | **doggo** | 1.4.1 | Command-line DNS client for humans, supporting DoH, DoT, DoQ, and DNSCrypt | https://github.com/mr-karan/doggo |
 | **dopewars** | 1.6.2-1 | Drug-dealing game set in streets of New York City | https://dopewars.sourceforge.io |
@@ -505,7 +505,7 @@
 | **exercism** | 3.5.8 | A Go based command line tool for exercism.io | https://github.com/exercism/cli/ |
 | **exfatprogs** | 1.4.3 | exFAT filesystem userspace utilities | https://github.com/exfatprogs/exfatprogs |
 | **exhale** | 1.2.2RC+really1.2.2 | Open source xHE-AAC encoder | https://gitlab.com/ecodis/exhale |
-| **exiftool** | 13.59-1 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
+| **exiftool** | 13.59-2 | Utility for reading, writing and editing meta information in a wide variety of files. | https://exiftool.org/ |
 | **exiv2** | 2:0.28.9 | Exif, Iptc and XMP metadata manipulation library and tools | https://exiv2.org/ |
 | **expect** | 5.45.4-4 | Tool for automating interactive terminal applications | https://core.tcl.tk/expect/index |
 | **eza** | 0.23.5 | A modern replacement for ls | https://github.com/eza-community/eza |
@@ -514,7 +514,7 @@
 | **fakeroot** | 2.1.4 | Tool for simulating superuser privileges (with tcp ipc) | https://packages.qa.debian.org/f/fakeroot.html |
 | **fakeroot-static** | 2.1.4 | Static libraries for fakeroot | https://packages.qa.debian.org/f/fakeroot.html |
 | **fasd** | 2.0.0 | To fastly access files and folders | https://github.com/whjvenyl/fasd |
-| **fastfetch** | 2.69.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
+| **fastfetch** | 2.70.0 | A maintained, feature-rich and performance oriented, neofetch like system information tool | https://github.com/fastfetch-cli/fastfetch |
 | **fastmod** | 0.4.4-1 | Regex-based code refactoring utility | https://github.com/facebookincubator/fastmod |
 | **fatsort** | 1.7.679 | A C utility that sorts FAT12, FAT16, FAT32 and exFAT partitions | https://fatsort.sourceforge.io/ |
 | **faust** | 2.88.0 | A functional programming language for signal processing and sound synthesis | https://github.com/grame-cncm/faust |
@@ -579,7 +579,7 @@
 | **fribidi-static** | 1.0.17 | Static libraries for fribidi | https://github.com/fribidi/fribidi/ |
 | **frobtads** | 2.0-5 | TADS is a free authoring system for writing your own Interactive Fiction | http://www.tads.org/frobtads.htm |
 | **frotz** | 2.55-2 | Interpreter for Infocom and other Z-machine interactive fiction (IF) games | https://gitlab.com/DavidGriffith/frotz |
-| **frp** | 0.71.0 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
+| **frp** | 0.71.1 | A fast reverse proxy to expose a local server behind a NAT or firewall to the internet | https://github.com/fatedier/frp |
 | **fselect** | 0.10.3 | Find files with SQL-like queries | https://fselect.rocks/ |
 | **fsmon** | 1.8.8-1 | Filesystem monitor with fanotify and inotify backends | https://github.com/nowsecure/fsmon |
 | **fwknop** | 2.6.11-2 | fwknop: Single Packet Authorization > Port Knocking | https://www.cipherdyne.org/fwknop/ |
@@ -610,7 +610,7 @@
 | **gdu** | 5.38.0 | Fast disk usage analyzer with console interface written in Go | https://github.com/dundee/gdu |
 | **geckodriver** | 0.37.1 | Proxy for using W3C WebDriver-compatible clients to interact with Gecko-based browsers | https://github.com/mozilla/geckodriver |
 | **gecode** | 6.4.0 | Generic Constraint Development Environment | https://www.gecode.dev/ |
-| **gegl** | 0.4.72 | Data flow based image processing framework | https://gegl.org/ |
+| **gegl** | 0.4.72-1 | Data flow based image processing framework | https://gegl.org/ |
 | **gengetopt** | 2.23.1 | gengetopt is a tool to write command line option parsing code for C programs | https://www.gnu.org/software/gengetopt/ |
 | **geographiclib** | 2.7 | Utilities and C++ library to solve some geodesic problems | https://geographiclib.sourceforge.io |
 | **geoip2-database** | 20191221-2 | GeoLite2 IP geolocation databases compiled by MaxMind | https://dev.maxmind.com/geoip/geoip2/geolite2/ |
@@ -667,8 +667,8 @@
 | **glpk-static** | 5.0-2 | Static libraries for glpk | https://www.gnu.org/software/glpk/ |
 | **glslang** | 16.6.0 | OpenGL and OpenGL ES shader front end and validator | https://github.com/KhronosGroup/glslang |
 | **glulxe** | 0.6.1-1 | Interpreter for the Glulx portable VM for interactive fiction (IF) games | https://www.eblong.com/zarf/glulx/ |
-| **gmic** | 4.0.5 | Full-featured framework for image processing | https://gmic.eu |
-| **gmic-gm** | 4.0.5 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
+| **gmic** | 4.0.5-1 | Full-featured framework for image processing | https://gmic.eu |
+| **gmic-gm** | 4.0.5-1 | Full-featured framework for image processing (GraphicsMagick variant) | https://gmic.eu |
 | **gn** | 20260521 | Meta-build system that generates build files for Ninja | https://gn.googlesource.com/gn |
 | **gnucap** | 20210107-4 | The Gnu Circuit Analysis Package | https://www.gnu.org/software/gnucap/gnucap.html |
 | **gnuchess** | 6.3.0 | Chess-playing program | https://www.gnu.org/software/chess/ |
@@ -695,8 +695,8 @@
 | **gogs** | 0.14.3 | A painless self-hosted Git service | https://gogs.io |
 | **goimports** | 0.52.0 | Updates Go import lines, adding missing ones and removing unreferenced ones | https://pkg.go.dev/golang.org/x/tools/cmd/goimports |
 | **gojq** | 0.12.19 | Pure Go implementation of jq | https://github.com/itchyny/gojq |
-| **golang** | 3:1.27.1 | Go programming language compiler | https://go.dev/ |
-| **golang-doc** | 3:1.27.1 | Go programming language - documentation | https://go.dev/ |
+| **golang** | 3:1.27.2 | Go programming language compiler | https://go.dev/ |
+| **golang-doc** | 3:1.27.2 | Go programming language - documentation | https://go.dev/ |
 | **golang-migrate** | 4.20.1 | Database migrations. CLI and Golang library | https://github.com/golang-migrate/migrate |
 | **golangci-lint** | 2.14.0 | Fast linters runner for Go, aggregating many Go linters into one tool | https://golangci-lint.run/ |
 | **gomp** | 2024.07.01 | MPD client inspired by ncmpcpp with builtin cover-art view and LastFM integration | https://aditya-k2.github.io/gomp/ |
@@ -835,8 +835,8 @@
 | **id3lib** | 3.8.3-4 | A software library for manipulating ID3v1/v1.1 and ID3v2 tags | https://id3lib.sourceforge.net/ |
 | **id3lib-static** | 3.8.3-4 | Static libraries for id3lib | https://id3lib.sourceforge.net/ |
 | **id3v2** | 0.1.12-2 | A command line id3v2 tag editor | https://id3v2.sourceforge.net/ |
-| **imagemagick** | 7.1.2.33 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
-| **imagemagick-static** | 7.1.2.33 | Static libraries for imagemagick | https://www.imagemagick.org/ |
+| **imagemagick** | 7.1.2.33-1 | Suite to create, edit, compose, or convert images in a variety of formats | https://www.imagemagick.org/ |
+| **imagemagick-static** | 7.1.2.33-1 | Static libraries for imagemagick | https://www.imagemagick.org/ |
 | **imath** | 3.2.3 | Library for vector/matrix and math operations, plus the half type | https://imath.readthedocs.io/ |
 | **imlib2** | 1.12.7 | Library that does image file loading and saving as well as rendering, manipulation, arbitrary polygon support | https://sourceforge.net/projects/enlightenment/ |
 | **imlib2-static** | 1.12.7 | Static libraries for imlib2 | https://sourceforge.net/projects/enlightenment/ |
@@ -861,7 +861,7 @@
 | **ircd-irc2** | 2.11.2p3-3 | An Internet Relay Chat (IRC) daemon | http://www.irc.org/ |
 | **ired** | 0.6-3 | Minimalist hexadecimal editor | https://github.com/radare/ired |
 | **iredis** | 1.16.1-2 | Interactive CLI for Redis with auto-completion and syntax highlighting | https://iredis.xbin.io |
-| **irssi** | 1.4.5-5 | Terminal based IRC client | https://irssi.org/ |
+| **irssi** | 1.4.5-6 | Terminal based IRC client | https://irssi.org/ |
 | **isync** | 1.5.1-1 | IMAP and MailDir mailbox synchronizer | http://isync.sourceforge.net |
 | **iverilog** | 13.0 | Icarus Verilog compiler and simulation tool | http://iverilog.icarus.com/ |
 | **iverilog-static** | 13.0 | Static libraries for iverilog | http://iverilog.icarus.com/ |
@@ -989,7 +989,7 @@
 | **libao-static** | 1.2.2-8 | Static libraries for libao | https://www.xiph.org/ao/ |
 | **libaom** | 3.15.2 | AV1 Video Codec Library | https://aomedia.org/ |
 | **libaom-static** | 3.15.2 | Static libraries for libaom | https://aomedia.org/ |
-| **libapt-pkg-perl** | 0.1.43 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
+| **libapt-pkg-perl** | 0.1.43-1 | Perl interface to APT's libapt-pkg | https://packages.debian.org/libapt-pkg-perl |
 | **libarchive** | 3.8.9 | Multi-format archive and compression library | https://www.libarchive.org/ |
 | **libarchive-static** | 3.8.9 | Static libraries for libarchive | https://www.libarchive.org/ |
 | **libarrow-cpp** | 26.0.0-2 | C++ libraries for Apache Arrow | https://github.com/apache/arrow |
@@ -1248,8 +1248,8 @@
 | **libjpeg-turbo** | 3.2.0 | Library for reading and writing JPEG image files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-progs** | 3.2.0 | Programs for manipulating JPEG files | https://libjpeg-turbo.virtualgl.org |
 | **libjpeg-turbo-static** | 3.2.0 | Static libraries for libjpeg-turbo | https://libjpeg-turbo.virtualgl.org |
-| **libjxl** | 0.12.0-1 | JPEG XL image format reference implementation | https://jpegxl.info/ |
-| **libjxl-progs** | 0.12.0-1 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
+| **libjxl** | 0.12.0-2 | JPEG XL image format reference implementation | https://jpegxl.info/ |
+| **libjxl-progs** | 0.12.0-2 | Programs for manipulating JPEG XL files | https://jpegxl.info/ |
 | **libkeyfinder** | 2.2.8 | Musical key detection for digital audio | https://mixxxdj.github.io/libkeyfinder |
 | **libkiwix** | 14.2.1-1 | A library that contains a lot of things used by other kiwix programs | https://github.com/kiwix/libkiwix |
 | **libknot** | 3.6.1 | Knot DNS libraries | https://www.knot-dns.cz/ |
@@ -1467,7 +1467,7 @@
 | **libraw** | 0.22.2-1 | Library for reading RAW files from digital cameras | https://www.libraw.org/ |
 | **libraw-static** | 0.22.2-1 | Static libraries for libraw | https://www.libraw.org/ |
 | **libre2** | 2025-11-05-2 | A regular expression library | https://github.com/google/re2 |
-| **libregexp-assemble-perl** | 0.38-9 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
+| **libregexp-assemble-perl** | 0.38-10 | Perl module to merge several regular expressions | https://metacpan.org/pod/Regexp::Assemble |
 | **libresolv-wrapper** | 1.1.8 | A wrapper for DNS name resolving or DNS faking | https://cwrap.org/resolv_wrapper.html |
 | **libretls** | 3.8.1-1 | libtls for OpenSSL | https://git.causal.agency/libretls/about/ |
 | **libretls-static** | 3.8.1-1 | Static libraries for libretls | https://git.causal.agency/libretls/about/ |
@@ -1507,6 +1507,7 @@
 | **libsignal-protocol-c** | 2.3.3-3 | Signal Protocol C Library | https://github.com/signalapp/libsignal-protocol-c |
 | **libsigsegv** | 2.15 | GNU libsigsegv is a library for handling page faults in user mode | https://www.gnu.org/software/libsigsegv/ |
 | **libsigsegv-static** | 2.15 | Static libraries for libsigsegv | https://www.gnu.org/software/libsigsegv/ |
+| **libsimdutf** | 9.3.0-1 | Unicode validation and transcoding at billions of characters per second | https://simdutf.github.io/simdutf/ |
 | **libsixel** | 1.10.5-1 | Encoder/decoder implementation for DEC SIXEL graphics | https://saitoha.github.io/libsixel/ |
 | **libskiasharp** | 3.119.4 | SkiaSharp is a cross-platform 2D graphics API for .NET platforms | https://github.com/mono/SkiaSharp |
 | **libslirp** | 4.9.5 | A general purpose TCP-IP emulator | https://gitlab.freedesktop.org/slirp/libslirp |
@@ -1624,8 +1625,8 @@
 | **libvbisam** | 2.0-3 | A replacement for IBM's C-ISAM | https://sourceforge.net/projects/vbisam/ |
 | **libvbisam-static** | 2.0-3 | Static libraries for libvbisam | https://sourceforge.net/projects/vbisam/ |
 | **libvidstab** | 1.1.2 | video stabilization library | https://github.com/georgmartius/vid.stab |
-| **libvigra** | 1.12.4-1 | Computer vision library | https://ukoethe.github.io/vigra/ |
-| **libvips** | 8.18.7 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
+| **libvigra** | 1.12.4-2 | Computer vision library | https://ukoethe.github.io/vigra/ |
+| **libvips** | 8.18.7-1 | A fast image processing library with low memory needs | https://libvips.github.io/libvips/ |
 | **libvisio** | 0.1.11 | Library providing ability to interpret and import visio diagrams | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvisio-static** | 0.1.11 | Static libraries for libvisio | https://wiki.documentfoundation.org/DLP/Libraries/libvisio |
 | **libvmaf** | 3.2.1 | A perceptual video quality assessment algorithm developed by Netflix | https://github.com/Netflix/vmaf |
@@ -1718,7 +1719,7 @@
 | **libzim** | 9.8.2-1 | The ZIM library is the reference implementation for the ZIM file format. | https://openzim.org |
 | **libzimg** | 3.0.6 | Scaling, colorspace conversion, and dithering library | https://github.com/sekrit-twc/zimg |
 | **libzimg-static** | 3.0.6 | Static libraries for libzimg | https://github.com/sekrit-twc/zimg |
-| **libzip** | 1.12 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
+| **libzip** | 1.12.1 | Library for reading, creating, and modifying zip archives | https://libzip.org/ |
 | **libzita-convolver** | 4.0.3-2 | A real-time C++ convolution library | https://kokkinizita.linuxaudio.org/linuxaudio/ |
 | **libzix** | 0.6.2-1 | lightweight C99 portability and data structure library | https://drobilla.net/category/zix |
 | **libzmf** | 0.0.2-5 | a library for import of Zoner drawing and bitmap files | https://wiki.documentfoundation.org/DLP/Libraries/libzmf |
@@ -2036,8 +2037,8 @@
 | **nushell** | 0.116.1 | A new type of shell operating on structured data | https://www.nushell.sh |
 | **nyancat** | 1.5.2-1 | Nyancat in your terminal, rendered through ANSI escape sequences. | http://nyancat.dakko.us |
 | **nzbget** | 26.3 | The most efficient usenet downloader | https://nzbget.com/ |
-| **oathtool** | 2.6.14 | One-time password components | http://www.nongnu.org/oath-toolkit/ |
-| **oathtool-static** | 2.6.14 | Static libraries for oathtool | http://www.nongnu.org/oath-toolkit/ |
+| **oathtool** | 2.6.15 | One-time password components | https://oath-toolkit.codeberg.page/ |
+| **oathtool-static** | 2.6.15 | Static libraries for oathtool | https://oath-toolkit.codeberg.page/ |
 | **oci-cli** | 3.95.0 | Command line interface for Oracle Cloud Infrastructure | https://github.com/oracle/oci-cli |
 | **ocl-icd** | 2.3.5 | OpenCL ICD Loader | https://github.com/OCL-dev/ocl-icd |
 | **ocrad** | 0.29-1 | Optical Character Recognition program based on a feature extraction method | https://www.gnu.org/software/ocrad/ocrad.html |
@@ -2073,7 +2074,7 @@
 | **opencl-headers** | 2026.05.29 | Khronos OpenCL-Headers | https://github.com/KhronosGroup/OpenCL-Headers |
 | **opencl-vendor-driver** | 0.3-1 | OpenCL driver from system vendor | https://termux.dev |
 | **opencolorio** | 2.6.0 | A color management framework for visual effects and animation | https://opencolorio.org |
-| **openexr** | 3.4.4 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
+| **openexr** | 3.5.2 | Provides the specification and reference implementation of the EXR file format | https://www.openexr.com/ |
 | **openfoam** | 2606-1 | OpenFOAM is a CFD software written in C++ | https://www.openfoam.com |
 | **opengl** | 4.5 | A metapackage for OpenGL implementation | https://github.com/termux/termux-packages |
 | **openh264** | 2.6.0-1 | Codec library supporting H.264 encoding and decoding | https://www.openh264.org/ |
@@ -2166,7 +2167,7 @@
 | **pdftk** | 3.3.3-3 | A simple tool for doing everyday things with PDF documents | https://gitlab.com/pdftk-java/pdftk |
 | **peaclock** | 0.4.3-9 | A responsive and customizable clock, timer, and stopwatch for the terminal. | https://github.com/octobanana/peaclock |
 | **peco** | 0.6.0 | Simplistic interactive filtering tool | https://github.com/peco/peco |
-| **perl** | 5.42.2 | Capable, feature-rich programming language | https://www.perl.org/ |
+| **perl** | 5.44.0 | Capable, feature-rich programming language | https://www.perl.org/ |
 | **perl-rename** | 1.14 | renames multiple files using perl expressions. | https://search.cpan.org/~pederst/rename/ |
 | **pet** | 1.0.1-1 | Simple command-line snippet manager | https://github.com/knqyf263/pet |
 | **pforth** | 1:2.0.1-1 | Portable Forth in C | https://www.softsynth.com/pforth/ |
@@ -2232,8 +2233,8 @@
 | **potrace** | 1.16-2 | Tool for transforming a bitmap into a smooth, scalable image | https://potrace.sourceforge.net |
 | **potrace-static** | 1.16-2 | Static libraries for potrace | https://potrace.sourceforge.net |
 | **pounce** | 3.2 | A multi-client, TLS-only IRC bouncer | https://git.causal.agency/pounce |
-| **povray** | 3.8.0-beta.2-20 | The Persistence of Vision Raytracer | https://www.povray.org/ |
-| **povray-data** | 3.8.0-beta.2-20 | Platform-independent data for povray | https://www.povray.org/ |
+| **povray** | 3.8.0-beta.2-21 | The Persistence of Vision Raytracer | https://www.povray.org/ |
+| **povray-data** | 3.8.0-beta.2-21 | Platform-independent data for povray | https://www.povray.org/ |
 | **predict** | 2.3.1-3 | A Satellite Tracking/Orbital Prediction Program | https://www.qsl.net/kd2bd/predict.html |
 | **privoxy** | 4.2.0 | Non-caching web proxy with advanced filtering capabilities | https://www.privoxy.org |
 | **procps** | 4.0.7-2 | Utilities that give information about processes using the /proc filesystem | https://gitlab.com/procps-ng/procps |
@@ -2489,7 +2490,7 @@
 | **sea-orm-cli** | 2.0.4 | Command line utility for SeaORM, an async & dynamic ORM for Rust | https://github.com/SeaQL/sea-orm |
 | **seafile-client** | 9.0.22 | Seafile is a file syncing and sharing software with file encryption and group sharing | https://seafile.com |
 | **seafile-client-static** | 9.0.22 | Static libraries for seafile-client | https://seafile.com |
-| **seanime** | 3.10.3 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
+| **seanime** | 3.10.4 | Self-hosted anime and manga server for sea rovers. | https://github.com/5rahim/seanime |
 | **seccure** | 0.5-8 | SECCURE Elliptic Curve Crypto Utility for Reliable Encryption | http://point-at-infinity.org/seccure/ |
 | **secure-delete** | 3.1-6 | Secure file, disk, swap, memory erasure utilities | https://www.thc.org/ |
 | **sed** | 4.10 | GNU stream editor for filtering/transforming text | https://www.gnu.org/software/sed/ |
@@ -2563,7 +2564,7 @@
 | **speex-utils** | 1.2.1-1 | Speex command line tools | https://www.speex.org/ |
 | **speexdsp** | 1.2.1-1 | Speex audio processing library | https://speex.org/ |
 | **speexdsp-static** | 1.2.1-1 | Static libraries for speexdsp | https://speex.org/ |
-| **spglib** | 2.7.0 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
+| **spglib** | 2.8.0 | C library for finding and handling crystal symmetries | https://spglib.github.io/spglib/index.html |
 | **spidermonkey** | 140.17.0 | Mozilla's JavaScript engine | https://spidermonkey.dev |
 | **spiped** | 1.6.4-1 | a utility for creating symmetrically encrypted and authenticated pipes between socket addresses | https://www.tarsnap.com/spiped.html |
 | **spirv-headers** | 1.4.363.0 | SPIR-V Headers | https://github.com/KhronosGroup/SPIRV-Headers |
@@ -2613,10 +2614,10 @@
 | **stuntman** | 1.2.16-8 | An open source STUN server | https://www.stunprotocol.org/ |
 | **stylua** | 2.6.0 | An opinionated Lua code formatter | https://github.com/JohnnyMorganz/StyLua |
 | **subtitleripper** | 0.3.4-1 | DVD subtitle ripper for Linux | https://subtitleripper.sourceforge.net/ |
-| **subversion** | 1.15.0 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
-| **subversion-perl** | 1.15.0 | Perl interface to Subversion | https://subversion.apache.org |
-| **subversion-perl-static** | 1.15.0 | Static libraries for subversion-perl | https://subversion.apache.org |
-| **subversion-static** | 1.15.0 | Static libraries for subversion | https://subversion.apache.org |
+| **subversion** | 1.15.0-1 | Centralized version control system characterized by its simplicity | https://subversion.apache.org |
+| **subversion-perl** | 1.15.0-1 | Perl interface to Subversion | https://subversion.apache.org |
+| **subversion-perl-static** | 1.15.0-1 | Static libraries for subversion-perl | https://subversion.apache.org |
+| **subversion-static** | 1.15.0-1 | Static libraries for subversion | https://subversion.apache.org |
 | **sudo** | 1.2.0 | A wrapper script to drop to the supported shells or execute shell script files or their text passed as an argument as the root (superuser) user in the Termux app | https://github.com/agnostic-apollo/sudo |
 | **suil** | 0.10.26 | A library for loading and wrapping LV2 plugin UIs | https://drobilla.net/software/suil.html |
 | **suite3270** | 4.1ga11-2 | A family of IBM 3270 terminal emulators and related tools | https://x3270.bgp.nu/ |
@@ -2861,7 +2862,7 @@
 | **viddy** | 1.3.1 | A modern watch command | https://github.com/sachaos/viddy |
 | **vifm** | 0.14.4-1 | File manager with vi like keybindings | https://vifm.info/ |
 | **vile** | 9.8z-1 | VI Like Emacs - vi work-alike | https://invisible-island.net/vile/ |
-| **vim** | 9.2.1150-2 | Vi IMproved - enhanced vi editor | https://www.vim.org |
+| **vim** | 9.2.1150-3 | Vi IMproved - enhanced vi editor | https://www.vim.org |
 | **virglrenderer** | 1.3.0 | A virtual 3D GPU for use inside qemu virtual machines | https://virgil3d.github.io/ |
 | **virglrenderer-android** | 1.3.0-1 | A virtual 3D GPU for use inside qemu virtual machines over OpenGLES libraries on Android | https://virgil3d.github.io/ |
 | **virustotal-cli** | 1.3.1 | Command line interface for VirusTotal | https://github.com/VirusTotal/vt-cli |
@@ -2958,7 +2959,7 @@
 | **xtrans** | 1.6.0 | X transport library | https://xorg.freedesktop.org/ |
 | **xvidcore** | 1.3.7-1 | High performance and high quality MPEG-4 library | https://www.xvid.com/ |
 | **xvidcore-static** | 1.3.7-1 | Static libraries for xvidcore | https://www.xvid.com/ |
-| **xxd** | 9.2.1150-2 | Hexdump utility from vim | https://www.vim.org |
+| **xxd** | 9.2.1150-3 | Hexdump utility from vim | https://www.vim.org |
 | **xxhash** | 0.8.4 | Extremely fast non-cryptographic hash algorithm | https://cyan4973.github.io/xxHash/ |
 | **xxhash-static** | 0.8.4 | Static libraries for xxhash | https://cyan4973.github.io/xxHash/ |
 | **xz-utils** | 5.8.4 | XZ-format compression tools | https://tukaani.org/xz/ |
